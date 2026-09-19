@@ -1,443 +1,336 @@
 # Capítulo 2 — ¿Qué credenciales debe reunir un profeta auténtico?
 
-Antes de estudiar a Ellen G. White necesitamos decidir qué tendría que ser cierto para considerar auténtico a cualquier profeta. Si fijáramos los criterios después de conocer sus aciertos, dificultades o explicaciones, correríamos el riesgo de adaptar la prueba al resultado.
+Antes de estudiar a Ellen G. White necesitamos fijar un criterio que usaríamos con cualquier persona que afirmara recibir mensajes de Dios. Si definiéramos la prueba después de conocer sus aciertos, dificultades y explicaciones, podríamos adaptarla al resultado que preferimos.
 
-La Biblia no presenta una lista única y mecánica. Presenta distintos problemas: señales que pueden engañar, predicciones que deben comprobarse, mensajes que pueden contradecir una revelación previa, personas sinceras que pueden equivocarse, falsos profetas con buenos argumentos y hasta palabras verdaderas pronunciadas por personas moralmente problemáticas.
+La Biblia no entrega una lista única ni un procedimiento infalible. Reúne leyes, relatos, advertencias y normas comunitarias nacidas en contextos diferentes. Algunos textos ayudan a rechazar una palabra; otros indican cómo examinarla; otros sólo impiden sacar conclusiones demasiado rápidas. Por eso no construiremos una suma de puntos, sino una matriz que distinga evidencias de diferente clase y peso.
 
-Por eso la pregunta no será: “¿Cumple una lista de requisitos?”. Será más exigente:
+## ¿Podemos reducir la autenticidad profética a una sola prueba?
 
-> **¿Qué tipo de evidencia puede autenticar una pretensión profética, qué tipo de evidencia puede desacreditarla y qué cosas, aunque llamativas, no prueban ninguna de las dos?**
+No. Una predicción puede cumplirse y, aun así, el mensajero puede apartar al pueblo de Dios. Una amenaza puede no ejecutarse porque produjo arrepentimiento. Una persona moralmente cuestionable puede pronunciar una palabra verdadera. Alguien sincero puede atribuir a Dios una convicción propia. Y una comunidad que reconoce la profecía todavía debe examinar lo que escucha.
 
-## ¿Es bíblicamente posible que exista un profeta después de los apóstoles?
+Esto obliga a separar dos preguntas que suelen confundirse:
 
-El Nuevo Testamento muestra que profecía y apostolado no eran la misma función.
+1. ¿Esta afirmación concreta procede de Dios?
+2. ¿La trayectoria completa justifica reconocer un don profético confiable?
 
-Agabo es llamado profeta en Hechos. Las cuatro hijas de Felipe profetizaban. En Antioquía había “profetas y maestros”. Y 1 Corintios regula la profecía dentro de una congregación donde muchos creyentes podían participar.
+Una respuesta favorable a la primera no resuelve automáticamente la segunda. Una dificultad menor en una afirmación tampoco invalida por sí sola todo un ministerio. Pero una falsa atribución clara de palabras a Dios no puede tratarse como un detalle sin importancia. El peso dependerá de qué se afirmó, con qué claridad, qué evidencia existe y qué explicación resiste mejor el examen.
 
-Eso demuestra que el don profético no estaba restringido a los Doce ni a quienes escribieron libros bíblicos.
+## ¿Es bíblicamente posible que exista un profeta después del período apostólico?
 
-La cuestión más difícil es otra: ¿debía continuar después de la generación apostólica?
+El Nuevo Testamento distingue el apostolado de la profecía. Agabo es llamado profeta; las hijas de Felipe profetizan; en Antioquía hay “profetas y maestros”; y 1 Corintios regula la profecía dentro de una congregación. Por tanto, el don no estuvo limitado a los Doce ni a quienes escribieron libros bíblicos.
 
-No existe un versículo que diga explícitamente que la profecía terminaría cuando murieran los apóstoles o cuando se completara el canon. 1 Corintios 13:8-12 afirma que las profecías cesarán, pero sitúa ese momento en relación con la llegada de “lo perfecto”, el fin del conocimiento parcial y el “cara a cara”. Esa descripción puede leerse naturalmente como una referencia a la consumación futura, aunque el pasaje no resuelve por sí solo todo el debate.
+Lo discutido es si debía continuar después de aquella generación. Ningún texto vincula expresamente el fin de la profecía con la muerte del último apóstol o con el cierre del canon. En 1 Corintios 13:8-12, las profecías cesan cuando llega “lo perfecto”; la visión “cara a cara” y el conocimiento pleno favorecen una lectura orientada a la consumación futura, pero la expresión no identifica por sí sola una fecha indiscutible.
 
-Efesios 2:20 plantea la objeción más importante. Allí la iglesia aparece edificada sobre el fundamento de apóstoles y profetas. Si toda profecía neotestamentaria perteneciera necesariamente a esa función fundacional, podría sostenerse que el don desapareció con esa etapa. Pero el texto no dice explícitamente que toda manifestación profética posterior sea imposible, y Efesios 4:11-13 vuelve a mencionar profetas entre los dones dados para la edificación de la iglesia.
+El argumento cesacionista más fuerte no depende de una frase sobre el canon, sino de una inferencia teológica. Efesios 2:20 presenta a apóstoles y profetas como fundamento de la iglesia, y Efesios 3:5 los relaciona con la revelación del misterio. Si toda profecía cristiana perteneciera necesariamente a esa función fundacional, una continuación posterior sería difícil. La respuesta continuacionista señala que 1 Corintios describe muchas profecías congregacionales y que Efesios 4:11-13 vuelve a incluir profetas entre los dones para edificar a la iglesia. Ninguno de esos datos decide sin discusión si toda profecía cumplía la misma función.[^1]
 
-Por tanto, la conclusión más prudente es limitada:
+El resultado es limitado: el Nuevo Testamento demuestra que hubo profetas no apostólicos durante el período apostólico, pero no declara de forma explícita qué ocurriría en todos los siglos posteriores. Por eso la fecha de una pretensión profética no la autentica ni la descalifica por sí sola. Rechazarla sólo por ser posterior exige adoptar previamente una interpretación cesacionista discutida; aceptarla sólo porque el texto no anuncia su cese sería igualmente excesivo.
 
-> **La Biblia no permite descartar de antemano a una persona del siglo XIX sólo por afirmar poseer el don de profecía.**
+## ¿Una señal cumplida demuestra que alguien fue enviado por Dios?
 
-Eso no demuestra que Ellen White lo tuviera. Sólo significa que su fecha histórica, por sí sola, no resuelve el caso.
+No. Deuteronomio 13:1-5 contempla que un profeta o soñador anuncie una “señal o prodigio” —en hebreo, *ʾot* y *mofet*—, que lo anunciado ocurra y que después invite a seguir a otros dioses. El texto ordena rechazarlo.[^2]
 
-## ¿Una señal cumplida demuestra que alguien habla de parte de Dios?
+El pasaje no explica si el hecho extraordinario fue sobrenatural, si fue producido por el mensajero o si sólo coincidió con su anuncio. No necesita resolverlo. Su punto es que el cumplimiento no posee autoridad independiente del contenido y de la lealtad que promueve.
 
-No.
+Mateo 24:24 refuerza el límite dentro del Nuevo Testamento al advertir que falsos mesías y falsos profetas pueden presentar “grandes señales y prodigios”. El texto no dice que todas las señales sean falsas o ilusorias; dice que su poder de impresionar no basta para identificar la fuente.
 
-Deuteronomio 13:1-5 presenta deliberadamente un caso en el que un profeta o soñador anuncia una señal, la señal ocurre y, sin embargo, esa persona debe ser rechazada porque utiliza ese éxito para conducir al pueblo hacia otros dioses.
+Este criterio es fuerte, pero específico. Deuteronomio 13 no dice que cualquier desacuerdo doctrinal convierta a alguien en falso profeta. Habla de abandonar a YHWH para servir a otros dioses, es decir, de una ruptura fundamental de la lealtad del pacto. Fallar esta prueba descalifica seriamente; aprobarla no prueba inspiración. Muchas personas fieles a Dios no son profetas.
 
-El orden del relato es importante. La señal no falla. Precisamente por eso el texto sirve como advertencia: el pueblo no puede razonar simplemente “ocurrió, entonces Dios lo envió”.
+## ¿Qué demuestra una predicción que no se cumple?
 
-La primera conclusión es clara:
+Deuteronomio 18:20-22 responde a una pregunta que el propio pueblo podría hacer: ¿cómo reconocer una palabra que YHWH no habló? Si lo anunciado en su nombre no sucede ni se realiza, esa palabra no procede de él; el mensajero habló con presunción.
 
-> **Una señal extraordinaria o una predicción acertada no autentica por sí sola a un profeta.**
+El texto evalúa una afirmación concreta atribuida a Dios. No ofrece un porcentaje aceptable de errores ni permite que muchos aciertos vuelvan verdadera una palabra fallida. Dentro de su marco, atribuir a YHWH una palabra que él no mandó es grave. El criterio se aplica con especial claridad a una predicción concreta, comprobable y no condicionada.[^3]
 
-Pero tampoco conviene ampliar el pasaje más de lo que dice. Deuteronomio 13 no enseña que cualquier error doctrinal convierta automáticamente a una persona en falso profeta. El escenario concreto es mucho más fuerte: abandonar a YHWH y seguir otros dioses.
+Sin embargo, el pasaje no convierte toda demora, metáfora, esperanza, advertencia o expectativa religiosa en una predicción fallida. Antes de aplicarlo hay que fijar qué se dijo, cuándo se dijo, qué resultado permitiría considerarlo cumplido y si el mensaje contenía o presuponía condiciones. De lo contrario, podríamos declarar fracaso donde el texto nunca hizo una predicción verificable, o declarar éxito interpretando después una frase suficientemente vaga.
 
-Por tanto, este criterio funciona mejor para descartar que para autenticar. Que alguien no conduzca hacia otros dioses no demuestra que sea profeta. Pero hacerlo sería una dificultad decisiva.
+## ¿Puede no ocurrir una profecía auténtica?
 
-## ¿Qué ocurre si alguien habla en nombre de Dios y su predicción no se cumple?
+Sí, cuando el anuncio es condicional. Jeremías 18:7-10 lo formula de manera explícita: un anuncio de destrucción puede no ejecutarse si la nación abandona el mal, y una promesa de bien puede retirarse si hace lo malo. La finalidad de algunas advertencias no es describir un futuro inevitable, sino provocar una respuesta.
 
-Deuteronomio 18:20-22 presenta el problema inverso.
+Jonás 3 lo muestra en un relato. Jonás anuncia que Nínive será destruida en cuarenta días; la frase conservada no expresa un “si”. La ciudad se arrepiente y el narrador afirma que Dios no ejecutó el mal anunciado. Jonás no queda presentado como falso profeta. Jeremías 26:17-19 ofrece otro caso: Miqueas había anunciado la ruina de Sion, pero la respuesta de Ezequías hizo que el desastre no se ejecutara entonces.[^4]
 
-Si una persona habla en nombre de YHWH y aquello que anunció no sucede, el texto concluye que esa palabra no fue pronunciada por Dios y que el profeta habló con presunción.
+Por tanto, “no ocurrió” no equivale siempre a “Dios no lo dijo”. Pero la condicionalidad debe surgir del género, del contexto, de una condición declarada o de un principio reconocible antes del desenlace. No puede inventarse sólo después de que el anuncio falle, porque así Deuteronomio 18 perdería toda capacidad de prueba.
 
-El pasaje no presenta un sistema estadístico donde varios aciertos compensan un error. Está evaluando una afirmación concreta presentada como palabra de Dios.
+## ¿Cómo distinguiremos una profecía condicional de una explicación de emergencia?
 
-En principio, entonces:
+La pregunta debe resolverse antes de juzgar el resultado. Buscaremos, en este orden:
 
-> **Una predicción concreta, verificable e incondicional atribuida a Dios que no ocurre constituye evidencia seria contra esa afirmación profética.**
+- una condición expresada en el propio anuncio;
+- una condición comunicada a los destinatarios en el mismo contexto;
+- un anuncio de juicio o bendición dirigido a la conducta humana, del tipo descrito en Jeremías 18;
+- evidencia anterior al desenlace de que el mensajero entendía el resultado como modificable;
+- una respuesta humana que el propio relato relaciona con el cambio del resultado.
 
-La dificultad está en la palabra “incondicional”.
+Cuanto menos apoyo exista antes del desenlace, más débil será la defensa condicional. Tampoco todo lenguaje condicional inmuniza una predicción: si se formula de modo que cualquier resultado pueda presentarse como cumplimiento, su valor probatorio será escaso.
 
-## ¿Puede una profecía no cumplirse sin que el profeta sea falso?
+## ¿Qué enseña Hananías sobre una predicción atribuida a Dios?
 
-Sí.
+Jeremías 28 presenta un conflicto entre dos personas que hablan en nombre de YHWH. Hananías anuncia que el poder de Babilonia será quebrado, que los utensilios del templo volverán y que los exiliados regresarán dentro de dos años. Jeremías primero expresa el deseo de que así sea, pero recuerda que los profetas anteriores anunciaron guerra y desastre. Luego formula una prueba específica para el profeta que promete paz: será reconocido como enviado cuando su palabra se cumpla.
 
-Jeremías 18:7-10 establece explícitamente que un anuncio de juicio puede cambiar si una nación se arrepiente y que una promesa de bien puede quedar sin efecto si el pueblo se vuelve al mal.
+Después, Jeremías declara que YHWH no envió a Hananías y anuncia que morirá ese año. El relato dice que murió dos meses más tarde. La restauración prometida por Hananías tampoco ocurrió dentro de su plazo.[^5]
 
-Jonás 3 ofrece el ejemplo clásico. Jonás anuncia que Nínive será destruida en cuarenta días. La frase registrada no contiene un “si”. Sin embargo, la ciudad se arrepiente y Dios no ejecuta la destrucción.
+Es un ejemplo directo y especialmente fuerte dentro del propio relato bíblico: una afirmación en nombre de Dios, un contenido verificable, un plazo concreto, un desenlace contrario y una identificación explícita del mensajero como no enviado. No demuestra que toda profecía deba contener fecha ni que sólo el desenlace permita evaluarla. Demuestra que una predicción de paz concreta e incondicional no puede declararse auténtica antes de que la realidad la confirme.
 
-Por tanto:
+## ¿Puede una revelación posterior contradecir una palabra divina anterior?
 
-> **“No ocurrió” y “fue una profecía falsa” no son necesariamente equivalentes.**
+1 Reyes 13 presenta un caso narrativo, no una fórmula universal. Un hombre de Dios recibe la orden de no comer ni beber en Betel. Un anciano, al que el relato sigue llamando profeta, le asegura que un ángel le comunicó una orden posterior que permite lo contrario. El narrador aclara que mentía. El hombre de Dios acepta la nueva versión, desobedece y muere.
 
-Pero esta excepción no puede convertirse en una salida automática.
+La conclusión mínima es segura: el rango religioso del mensajero y la apelación a un ángel no autentican una instrucción que contradice la palabra ya recibida. Pero el relato no enseña que Dios jamás pueda ampliar o modificar una orden en otro contexto. Sabemos que aquí la segunda afirmación es falsa porque el narrador lo dice, no porque toda revelación posterior deba repetir literalmente la anterior.[^6]
 
-## ¿Puede declararse condicional cualquier predicción que no se cumpla?
+El caso añade otra cautela. El anciano mentiroso recibe después una palabra que el narrador sí atribuye a YHWH. Por eso 1 Reyes 13 limita una regla demasiado simple: una falsedad concreta es grave, pero la Biblia misma puede distinguir entre la valoración de una palabra y la clasificación total del hablante. El análisis deberá respetar ambas escalas.
 
-No.
+## ¿Qué significa examinar un mensaje “a la instrucción y al testimonio”?
 
-Si toda predicción fallida pudiera salvarse inventando después una condición, Deuteronomio 18 dejaría de servir como criterio.
+Isaías 8:19-20 contrapone la consulta a médiums y espíritus de muertos con la orientación que procede de Dios. La traducción tradicional dice: “¡A la ley y al testimonio!”. El hebreo usa *torah*, que puede significar ley, instrucción o enseñanza, y *teʿudah*, testimonio o atestación. La misma pareja aparece en 8:16, donde el testimonio y la enseñanza se preservan entre los discípulos de Isaías.
 
-Para considerar una profecía condicional debe existir alguna base real: una condición explícita, el tipo de mensaje de juicio o bendición descrito en Jeremías 18, el contexto del anuncio o evidencia anterior al desenlace de que la respuesta humana podía modificarlo.
+La sintaxis de 8:19-20 es difícil y las traducciones no conectan todas las frases del mismo modo. Además, Isaías no podía referirse históricamente a un canon cristiano de sesenta y seis libros. Por eso el pasaje no debe convertirse, por sí solo, en el eslogan “todo profeta posterior debe coincidir con nuestra interpretación de toda la Biblia”.[^7]
 
-La condicionalidad debe demostrarse; no puede aparecer como explicación de emergencia después del fracaso.
+Lo que el contexto sí permite afirmar es más modesto: una pretensión de orientación sobrenatural no desplaza la instrucción y el testimonio divinos ya recibidos. Este principio coincide con Deuteronomio 13 y con 1 Reyes 13, pero su aplicación exige demostrar primero qué enseñanza bíblica está realmente establecida. Una contradicción clara tiene mucho peso; una disputa entre interpretaciones denominacionales no puede presentarse como contradicción sin argumentarla.
 
-## ¿Existe un falso profeta bíblico cuya predicción falle de manera clara?
+## ¿Importa el medio por el que se obtiene el supuesto conocimiento?
 
-Sí. Hananías, en Jeremías 28, es uno de los ejemplos más útiles.
+Sí. Deuteronomio 18:9-14 prohíbe prácticas como la adivinación, la hechicería, los encantamientos, la consulta a médiums y la búsqueda de información entre los muertos. Inmediatamente después presenta al profeta que Dios levantará y cuyas palabras pondrá en su boca. En la forma final del pasaje, ambas secciones responden al mismo problema: ¿cómo buscará Israel orientación que pretende venir del mundo divino?[^8]
 
-Hananías habla en nombre de YHWH y anuncia que, dentro de dos años, el poder de Babilonia será quebrado y los utensilios del templo y los exiliados regresarán.
+No todos los términos hebreos de la lista pueden distinguirse con precisión, ni la frontera social entre profecía y adivinación fue siempre tan sencilla en el antiguo Cercano Oriente como sugiere una clasificación moderna. Pero la valoración del texto es inequívoca: Israel no debía validar cualquier método sólo porque produjera información correcta o llamativa.
 
-Jeremías responde que un profeta que anuncia paz será reconocido como verdaderamente enviado cuando su palabra se cumpla. Después declara que Dios no envió a Hananías y anuncia que éste morirá ese mismo año. El relato dice que murió en el séptimo mes.
+Hechos 16:16-18 ofrece un paralelo parcial en el Nuevo Testamento. Una esclava vinculada con un “espíritu de adivinación” identifica correctamente a Pablo y sus compañeros como siervos del Dios Altísimo que anuncian salvación. Pablo no toma la exactitud de la frase como credencial del espíritu, sino que lo expulsa. La verdad de una afirmación aislada no vuelve aceptable cualquier fuente.
 
-La restauración anunciada por Hananías no ocurrió dentro del plazo que él mismo había fijado.
+Este criterio no autoriza a etiquetar como “oculto” todo fenómeno que no comprendemos. Exige identificar una práctica concreta y compararla con las prohibiciones reales del texto. Aun así, agrega algo distinto a la prueba del contenido: el origen y el medio reclamados importan, no sólo la exactitud del resultado.
 
-1 Reyes 22 ofrece otro caso. Un grupo numeroso de profetas anuncia victoria a Acab. Micaías anuncia lo contrario. Acab va a la batalla y muere.
+## ¿Qué prueba agrega 1 Juan 4?
 
-Estos relatos confirman que el cumplimiento puede funcionar como evidencia real, aunque cada caso debe estudiarse en su propio contexto.
+1 Juan 4:1 ordena no creer a todo espíritu, porque muchos falsos profetas han salido al mundo. El criterio inmediato es cristológico: confesar a Jesucristo venido en carne. El mínimo textual seguro es que una supuesta revelación cristiana no puede negar la realidad de Jesucristo encarnado. La reconstrucción exacta de los adversarios —docetismo, separación entre Jesús y el Cristo u otra posición— sigue discutida.[^9]
 
-## ¿Puede una revelación nueva contradecir una palabra divina ya establecida?
+El pasaje tampoco presenta una contraseña verbal. En 4:6, el contraste entre verdad y error incluye escuchar el testimonio del “nosotros” apostólico; 2 Juan 7-9 relaciona la misma confesión con permanecer en la enseñanza de Cristo. Por eso la prueba afecta al contenido real, no a repetir una fórmula correcta.
 
-1 Reyes 13 muestra por qué esta pregunta importa.
+Es un criterio necesario y excluyente dentro del cristianismo, no una prueba positiva suficiente. Una persona puede confesar una cristología correcta sin recibir ninguna revelación. Pero una pretensión profética cristiana que contradiga de forma clara el testimonio apostólico acerca de Jesús queda seriamente comprometida.
 
-Un hombre de Dios recibe directamente la orden de no comer ni beber en Betel. Más tarde, un anciano profeta le asegura que un ángel le comunicó una nueva palabra de YHWH autorizándolo a volver a su casa y comer.
+## ¿Qué actitud exige el Nuevo Testamento ante una profecía?
 
-El narrador aclara que el anciano estaba mintiendo.
+1 Tesalonicenses 5:19-22 mantiene juntas dos obligaciones: no apagar el Espíritu ni despreciar las profecías, y examinarlo todo para retener lo bueno y apartarse de lo malo. El verbo *dokimazō* significa probar o examinar con vistas a reconocer lo aprobado. Por su posición en la frase, “todo” incluye de manera natural las profecías recién mencionadas, aunque el principio puede tener un alcance más amplio.[^10]
 
-El hombre de Dios acepta la supuesta revelación posterior, contradice la orden que ya había recibido y muere en el camino. El relato interpreta su muerte como consecuencia de haber desobedecido la palabra de Dios.
+La actitud requerida es apertura crítica. Rechazar toda pretensión de antemano puede apagar lo que sea genuino; aceptarla porque invoca al Espíritu abandona el examen que el texto ordena. Ninguna identidad institucional, emoción intensa o reputación personal sustituye esta prueba.
 
-La lección mínima es fuerte:
+El pasaje dice qué hacer, pero no enumera todos los criterios. Para eso debemos combinarlo con las pruebas de contenido, origen, cumplimiento y fruto que ofrecen otros textos.
 
-> **Una afirmación posterior de “Dios me dijo” no adquiere autoridad automática para contradecir una palabra divina previamente establecida.**
+## ¿Quién debe evaluar lo que dice un profeta?
 
-El estatus religioso del mensajero no basta.
+1 Corintios 14:29 dispone que hablen dos o tres profetas y que “los otros” evalúen. El verbo *diakrinō* puede expresar distinguir, discernir o pesar. No hay consenso sobre quiénes son “los otros”: probablemente los demás profetas, quizá quienes poseen discernimiento espiritual o, en una lectura más amplia, la comunidad competente. Lo indiscutible es la acción: lo dicho no queda fuera de examen.[^11]
 
-## ¿Puede una persona llamada profeta decir algo falso?
+El foco inmediato está en el mensaje. El texto no explica si la evaluación separaba revelación auténtica de falsa, contenido de aplicación o mensaje divino de interpretación humana. Tampoco demuestra por sí solo una teoría completa sobre profecía falible. Sí demuestra que pronunciar una profecía dentro de una comunidad que reconoce el don no la vuelve automáticamente incuestionable.
 
-1 Reyes 13 vuelve el problema más complejo.
+Esto impide dos errores: usar el reconocimiento general de una persona para autenticar cada frase, y usar una dificultad en una frase para evitar estudiar qué ocurre con el resto de su ministerio. La comunidad debe poder examinar tanto la afirmación concreta como el patrón completo.
 
-El anciano que mintió sigue siendo llamado “profeta” y, mientras están comiendo, recibe una palabra que el narrador sí presenta como proveniente de YHWH.
+## ¿La experiencia profética elimina el autocontrol?
 
-El relato obliga a distinguir:
+No según 1 Corintios 14:30-33. Si otro recibe una revelación, quien está hablando puede callar; “los espíritus de los profetas están sujetos a los profetas”; y Dios no es Dios de desorden, sino de paz. El sentido exacto de “espíritus” es discutido, pero el argumento de Pablo exige orden y responsabilidad en la reunión.[^12]
 
-1. la autenticidad global del ministerio de una persona;
-2. la autenticidad de una afirmación concreta.
+Este texto no entrega una prueba médica ni describe todos los fenómenos físicos compatibles o incompatibles con una experiencia profética. No permite concluir que cualquier trance, debilidad, pérdida aparente de respiración o conducta inusual demuestre falsedad. Mucho menos permite usar esos fenómenos como prueba positiva de origen divino.
 
-No conviene identificar automáticamente ambas cosas.
-
-Eso será importante durante todo este libro: evaluar a Ellen White globalmente no eliminará la necesidad de evaluar afirmaciones concretas, y una dificultad concreta tampoco resolverá por sí sola toda su trayectoria.
-
-## ¿Qué significa “a la ley y al testimonio” en Isaías 8:20?
-
-Isaías 8:19-20 contrapone dos fuentes de orientación.
-
-Por un lado aparecen médiums, espiritistas y la búsqueda de información entre los muertos. Por otro, la “enseñanza” y el “testimonio” asociados con Dios.
-
-La palabra hebrea *torah* puede significar ley, instrucción o enseñanza. Además, Isaías 8:16 utiliza la misma pareja de ideas: testimonio y enseñanza preservados entre los discípulos.
-
-Por eso sería anacrónico afirmar que Isaías 8:20 significa literalmente: “compare a todo profeta con los 66 libros de la Biblia”. Ese canon todavía no existía.
-
-Pero el principio más amplio sí es válido:
-
-> **Una nueva pretensión de revelación debe ser examinada frente a la revelación divina ya establecida.**
-
-Ese principio coincide con Deuteronomio 13, 1 Reyes 13 y, en el Nuevo Testamento, 1 Juan 4.
-
-## ¿Qué criterio agrega 1 Juan 4?
-
-1 Juan 4:1 ordena no creer automáticamente todo espíritu, precisamente porque muchos falsos profetas han salido al mundo.
-
-La pretensión espiritual no autentica al mensajero.
-
-El criterio inmediato es cristológico: el espíritu que confiesa a Jesucristo venido en carne es de Dios; el que no lo confiesa no es de Dios.
-
-La formulación exacta surge de un conflicto concreto del cristianismo joánico, cuya reconstrucción histórica completa es discutida. Pero el principio es claro:
-
-> **Una supuesta revelación cristiana debe ser coherente con Jesucristo y con el testimonio apostólico acerca de él.**
-
-Aprobar esta prueba tampoco demuestra que alguien sea profeta. Muchas personas pueden sostener una cristología correcta sin poseer ningún don profético. Pero una revelación que contradijera de forma clara ese núcleo apostólico quedaría seriamente comprometida.
-
-## ¿Debe una profecía ser examinada aunque provenga de alguien reconocido como profeta?
-
-Sí.
-
-1 Tesalonicenses 5:19-22 mantiene juntas dos obligaciones:
-
-- no apagar el Espíritu ni despreciar las profecías;
-- examinarlo todo, retener lo bueno y rechazar lo malo.
-
-La actitud bíblica no es credulidad ni rechazo automático. Es apertura crítica.
-
-1 Corintios 14:29 lo hace todavía más explícito: pueden hablar dos o tres profetas y “los otros” deben evaluar lo dicho.
-
-El texto no define de manera indiscutible quiénes son “los otros”: pueden ser los demás profetas, personas con discernimiento espiritual o un grupo más amplio dentro de la comunidad. Pero lo seguro es suficiente:
-
-> **El mensaje profético debía ser evaluado por otros.**
-
-El estatus del mensajero no colocaba automáticamente cada afirmación fuera de examen.
-
-## ¿Qué significa que “los espíritus de los profetas están sujetos a los profetas”?
-
-1 Corintios 14:32 aparece dentro de una discusión sobre orden en la reunión cristiana.
-
-Como mínimo, muestra que la experiencia profética no anulaba el autocontrol. El profeta podía esperar, callar y someter su participación al orden de la comunidad.
-
-Por eso una manifestación que exigiera quedar fuera de todo examen, control o responsabilidad sería difícil de reconciliar con este pasaje.
+La conclusión segura es práctica: una afirmación profética no puede reclamar inmunidad frente al orden, el discernimiento y la responsabilidad comunitaria apelando a un impulso irresistible. Los fenómenos físicos deberán evaluarse por documentación, contexto y explicaciones rivales, no por una regla inventada a partir de este versículo.
 
 ## ¿Qué significa reconocer a los falsos profetas “por sus frutos”?
 
-Mateo 7:15-20 advierte que los falsos profetas pueden parecer ovejas exteriormente y ser lobos por dentro.
+Mateo 7:15-23 advierte sobre falsos profetas que parecen ovejas y afirma que serán conocidos por sus frutos. La unidad culmina con personas que dicen haber profetizado, expulsado demonios y hecho obras poderosas en nombre de Jesús, pero que son rechazadas por practicar la maldad. El contraste inmediato es entre la apariencia y lo que la vida produce, entre decir “Señor” y hacer la voluntad del Padre.[^13]
 
-Jesús propone otra prueba: “por sus frutos los conoceréis”.
+Por eso “fruto” incluye con bastante seguridad la conducta y obediencia características del mensajero. El efecto de su enseñanza sobre otros también es una inferencia razonable cuando Mateo se lee junto con Jeremías 23, Ezequiel 13 y Miqueas 3, pero Mateo 7 no define por sí solo una lista completa de resultados sociales o institucionales.
 
-El contexto inmediato continúa con personas que dicen “Señor, Señor”, profetizan, expulsan demonios y realizan obras poderosas, pero aun así son rechazadas.
+Popularidad, crecimiento, longevidad y capacidad de inspirar no equivalen necesariamente a buen fruto. También una obra útil puede ser realizada por alguien que no sea profeta. El buen fruto favorece la credibilidad moral; no identifica por sí mismo el origen sobrenatural de un mensaje.
 
-Eso impide identificar “buen fruto” con dones extraordinarios, señales o éxito religioso.
+## ¿Un profeta auténtico tendría que ser moralmente perfecto?
 
-El fruto parece abarcar al menos dos dimensiones:
+No. Los relatos bíblicos no presentan a todos los profetas reconocidos como personas impecables. Convertir “por sus frutos” en “nunca cometió un pecado ni un error” haría que el criterio dejara de funcionar incluso con figuras bíblicas.
 
-1. el patrón de vida del mensajero;
-2. aquello que su enseñanza produce en otros.
+Debe buscarse un patrón, no una fotografía aislada. Importan la naturaleza de la conducta, su persistencia, su relación con la pretensión profética, el daño producido, el reconocimiento del mal y la respuesta posterior. Un pecado privado reconocido y abandonado no tiene el mismo significado que un engaño repetido usado para sostener mensajes atribuidos a Dios.
 
-## ¿Un profeta verdadero tendría que ser moralmente perfecto?
+La dificultad pendiente es que el carácter tampoco decide por sí solo el origen del mensaje. Una persona piadosa puede equivocarse, y una persona corrupta puede decir alguna verdad. Por eso los frutos deben integrarse con los demás criterios.
 
-No.
+## ¿Por qué importa el origen real del mensaje?
 
-La Biblia presenta como profetas auténticos a personas que cometieron errores y pecados reales.
+Jeremías 23:16-32 denuncia a quienes ofrecen visiones nacidas de su propio “corazón” —en este contexto, su mente o interioridad—, afirman sueños que Dios no les dio y usan la fórmula “YHWH dice” sin haber sido enviados. El contraste central no es entre imaginación y estilo literario, sino entre una palabra procedente de Dios y una idea humana falsamente investida de autoridad divina.[^14]
 
-Por eso Mateo 7 no puede convertirse razonablemente en una exigencia de impecabilidad absoluta.
+El versículo 30 acusa además a profetas que “roban” palabras unos de otros. No sabemos con seguridad si copiaban a profetas auténticos, se imitaban entre ellos o se apropiaban de fórmulas ajenas para fabricar consenso. Por eso el pasaje no puede utilizarse como una prohibición general de dependencia literaria.
 
-La imagen del árbol apunta mejor a un patrón: qué produce habitualmente esa vida y ese ministerio.
+El capítulo anterior ya mostró que investigación, tradición y fuentes humanas pueden formar parte de un escrito considerado inspirado. La pregunta profética más precisa es otra: ¿coincide el origen real de un material con el origen que el mensajero afirmó para él? Usar una fuente no equivale a decir falsamente “Dios me lo reveló”. Pero demostrar esa falsa atribución sería una dificultad grave.
 
-Una falla aislada puede ser importante, pero debe estudiarse su naturaleza, persistencia, reconocimiento, arrepentimiento y relación con la pretensión profética.
+## ¿La sinceridad demuestra que una revelación procede de Dios?
 
-## ¿Hay falsos profetas bíblicos cuyo “mal fruto” sea visible?
+No. Ezequiel 13 acusa a profetas que siguen su propio espíritu, no han visto nada y dicen “YHWH ha dicho” aunque no fueron enviados. En el versículo 6, el hebreo permite entender que esperan que su palabra sea confirmada. Eso es compatible con personas que desean o incluso creen que se cumplirá, pero no demuestra si eran sinceras, autoengañadas o fraudulentas.[^15]
 
-Sí.
+La distinción importante no depende de resolver su psicología. Aun si estuvieran plenamente convencidas, su convicción no establecería el origen divino. Sinceridad puede contar a favor del carácter y en contra de una hipótesis de fraude consciente; no puede convertir una impresión interna en revelación.
 
-Jeremías 23 describe profetas que viven en mentira, cometen adulterio y fortalecen a los malhechores en vez de llevarlos al arrepentimiento.
+Tampoco la existencia de una explicación psicológica posible refuta automáticamente una acción divina. Para decidir entre convicción sincera, engaño, error, enfermedad, coincidencia y revelación hacen falta datos independientes. La intensidad subjetiva sólo describe parte de la experiencia.
 
-Ezequiel 13 acusa a falsos profetas de ofrecer seguridad cuando no hay paz y de fortalecer al malvado.
+## ¿Qué agrega Ezequiel 13 además del origen equivocado?
 
-Miqueas 3 denuncia profetas cuyo mensaje cambia según el beneficio que reciben.
+Agrega correspondencia con la realidad y efecto moral. Los profetas anuncian “paz” cuando no hay paz y cubren una pared débil con un revestimiento que oculta su fragilidad. Los acontecimientos exponen después la falsa seguridad. En la segunda parte del capítulo, las profetisas son acusadas de entristecer al justo y fortalecer al malvado para que no se arrepienta.
 
-Estos textos muestran que el fruto no se reduce al carácter privado. También importa el efecto moral del mensaje.
+Esto ofrece un paralelo directo con el problema de mensajes tranquilizadores en una situación de juicio. No establece que toda esperanza frustrada sea profecía falsa. Sí muestra que un mensaje puede ser evaluado por lo que oculta, por su relación con la realidad y por la dirección moral que produce.
 
-## ¿La sinceridad personal demuestra que alguien recibió una revelación?
+La crítica debe aplicarse con cautela. La reconstrucción de los ritos y objetos de Ezequiel 13:17-23 es incierta; no necesitamos resolverla para conservar el principio central. Cuanto menos seguro sea un detalle histórico o léxico, menos peso debe soportar en la conclusión.
 
-No.
+## ¿El dinero o el beneficio personal desacreditan a un profeta?
 
-Ezequiel 13 denuncia profetas que siguen “su propio espíritu” y no han visto nada. El texto incluso dice que esperan que su palabra se cumpla.
+No por sí solos. Miqueas 3:5-12 denuncia a profetas que anuncian paz cuando tienen algo que comer y declaran guerra contra quien no los alimenta; el versículo 11 dice que “adivinan” —*qasam*— por dinero. El problema es que el beneficio condiciona el mensaje mientras ellos siguen afirmando que YHWH está con ellos.[^16]
 
-Eso deja abierta la posibilidad de que algunos estuvieran convencidos de sus propias afirmaciones.
+Otros relatos impiden una regla simplista. En 1 Samuel 9, Saúl y su siervo consideran llevar un presente al hombre de Dios sin que el narrador condene el gesto. En 2 Reyes 5, Eliseo rechaza el regalo de Naamán. Ni aceptar sustento prueba falsedad ni rechazarlo prueba autenticidad.
 
-Por tanto:
+La pregunta adecuada es causal: ¿el dinero, el poder, la reputación, la presión institucional o la conveniencia cambiaron el contenido presentado como palabra de Dios? Demostrar esa relación sería evidencia negativa seria. Señalar que una persona recibió ingresos, vendió libros o dirigió una institución, sin demostrar influencia sobre sus mensajes, no alcanza.
 
-> **Sinceridad y autenticidad profética no son equivalentes.**
+## ¿Una palabra verdadera autentica a quien la pronuncia?
 
-Una persona puede creer honestamente que Dios le habló y estar equivocada.
+No. Balaam es un caso complejo que impide esa conclusión. Números 22-24 afirma que YHWH puso palabras en su boca y que terminó bendiciendo a Israel a pesar de haber sido contratado para maldecirlo. Sin embargo, Josué 13:22 lo llama adivino, Números 31:16 lo relaciona con la caída de Israel y escritos posteriores lo juzgan por su codicia y su influencia corruptora.[^17]
 
-La sinceridad puede decir mucho sobre su carácter, pero no demuestra el origen divino de una experiencia.
+No es un ejemplo simple de alguien que vende el contenido de cada oráculo, porque en Números el pago de Balac no logra cambiar las bendiciones. Es un caso complejo: algunos mensajes son atribuidos a Dios, pero eso no autentica globalmente el carácter, los motivos ni toda la actividad del mensajero.
 
-## ¿Qué enseña Jeremías 23 sobre el origen de un mensaje?
+Caifás lleva el límite todavía más lejos. En Juan 11:49-52 propone la muerte de Jesús por conveniencia política; el narrador interpreta sus palabras como una profecía cuyo significado supera lo que Caifás parece comprender. El Evangelio autentica el sentido de esa declaración, no a Caifás como profeta fiel.[^18]
 
-Jeremías 23 acusa a falsos profetas de hablar visiones de su propia mente y presentarlas como palabra de YHWH.
+Balaam y Caifás muestran que verdad, acierto e incluso uso providencial no equivalen automáticamente a don profético estable. Una palabra debe evaluarse como palabra; una trayectoria, como trayectoria.
 
-También denuncia a quienes dicen haber tenido sueños y a quienes “roban” palabras unos de otros.
+## ¿Qué puede descalificar seriamente una pretensión profética?
 
-El detalle exacto de esa última expresión es discutido, pero el principio central es claro:
+La evidencia bíblica permite identificar varios problemas de gran peso:
 
-> **No basta con que un mensaje sea verdadero, conmovedor o parecido a otro mensaje profético; importa de dónde procede realmente y qué origen se le atribuye.**
+- conducir deliberadamente a abandonar a Dios, aunque exista una señal cumplida;
+- atribuir a Dios una predicción concreta e incondicional que falla;
+- contradecir de forma clara una revelación previamente establecida;
+- atribuir falsamente a revelación directa un contenido cuyo origen puede demostrarse distinto;
+- usar prácticas que el propio marco bíblico rechaza como medios de orientación espiritual;
+- sostener mediante engaño repetido la pretensión de hablar por Dios;
+- mostrar un patrón persistente de fruto moral corruptor o de falsa seguridad;
+- adaptar mensajes divinos al dinero, al poder o a la conveniencia personal.
 
-Esto no significa que utilizar material humano sea incompatible con inspiración. Esa cuestión pertenece al capítulo anterior.
+“Descalificar seriamente” no significa que una acusación, una ambigüedad o una explicación posible basten. Cada caso exige establecer el texto original, el contexto, el sentido de la afirmación y la calidad de la documentación. Tampoco significa que toda frase pronunciada por una persona desacreditada sea falsa. Significa que esas evidencias atacan directamente la fiabilidad de su pretensión de recibir y comunicar mensajes de Dios.
 
-El problema específico aquí es diferente: atribuir falsamente a revelación directa un mensaje cuyo origen real no corresponde con esa afirmación.
+## ¿Qué puede favorecer una pretensión profética sin demostrarla?
 
-## ¿El interés económico puede desacreditar un mensaje profético?
+Puede contar a favor:
 
-Puede hacerlo, pero no simplemente porque exista dinero.
+- una predicción específica, improbable y documentada antes del hecho;
+- conocimiento verificable difícil de obtener por vías normales;
+- coherencia sostenida con la revelación bíblica;
+- disposición a permitir el examen de los mensajes;
+- un patrón de vida congruente con lo enseñado;
+- efectos morales característicos que conducen a la verdad, la justicia y el arrepentimiento;
+- experiencias extraordinarias con documentación temprana e independiente.
 
-Miqueas 3 denuncia a profetas que anuncian paz cuando reciben alimento y guerra cuando no lo reciben. Más adelante los acusa de “adivinar por dinero”.
+Ninguno de esos elementos es autosuficiente. Una predicción puede acertarse por información disponible, inferencia, azar, ambigüedad o cumplimiento inducido. El conocimiento privado puede circular por vías olvidadas. Los buenos frutos no convierten a una persona en profeta. Una experiencia extraordinaria puede ser real sin que conozcamos su causa.
 
-El problema no es que un mensajero reciba sustento o regalos. 1 Samuel 9 muestra un presente llevado a un hombre de Dios sin que el relato lo condene.
+La evidencia favorece una hipótesis cuando las explicaciones ordinarias han sido examinadas y resultan insuficientes, no cuando simplemente se las omite. Aun entonces, “difícil de explicar” no equivale lógicamente a “revelado por Dios”.
 
-La cuestión es más precisa:
+## ¿Qué fenómenos son insuficientes por sí solos?
 
-> **¿El beneficio personal condiciona el contenido del mensaje?**
+No prueban autenticidad por sí solos:
 
-Si el mensaje cambia según dinero, poder, prestigio o conveniencia, la pretensión profética queda seriamente comprometida.
-
-## ¿Una palabra verdadera autentica automáticamente al mensajero?
-
-No.
-
-Balaam es un caso especialmente importante.
-
-Números 22-24 muestra que YHWH pone palabras en su boca y que Balaam termina bendiciendo a Israel a pesar de haber sido contratado para maldecirlo.
-
-Sin embargo, otros textos bíblicos lo presentan de manera muy negativa: lo llaman adivino, lo relacionan con ganancia injusta y lo vinculan con la caída de Israel en Peor.
-
-Eso obliga a distinguir:
-
-> **Una palabra auténtica no autentica automáticamente todo el carácter ni todo el ministerio del mensajero.**
-
-## ¿Puede una persona hostil a Dios pronunciar una profecía verdadera?
-
-Juan 11:49-52 presenta un caso todavía más fuerte.
-
-Caifás afirma que conviene que un solo hombre muera por el pueblo antes que toda la nación perezca.
-
-Su intención inmediata es política. Pero Juan dice que no habló simplemente por su propia cuenta y que, siendo sumo sacerdote aquel año, profetizó que Jesús moriría por la nación.
-
-Caifás no aparece por eso como un profeta fiel ni como poseedor de un ministerio profético estable.
-
-La conclusión es importante:
-
-> **Un acto profético verdadero no autentica automáticamente a toda la persona.**
-
-Balaam y Caifás impiden convertir un acierto aislado en prueba definitiva.
-
-## ¿Qué cosas no bastan por sí solas para demostrar que alguien es profeta?
-
-Después de revisar estos textos podemos descartar varios razonamientos demasiado rápidos.
-
-No bastan por sí solos:
-
-- una visión intensa;
-- un sueño;
-- una experiencia física extraordinaria;
-- una señal;
-- una curación;
-- una predicción acertada;
+- visiones, sueños o voces;
+- trances o fenómenos físicos;
+- una señal o curación;
+- una predicción cumplida;
 - una frase verdadera;
-- sinceridad personal;
-- gran influencia religiosa;
-- éxito institucional;
-- muchos seguidores;
+- sinceridad o seguridad subjetiva;
 - una vida generalmente piadosa;
-- una enseñanza bíblicamente correcta;
-- recibir dinero;
-- rechazar dinero.
+- enseñanza bíblicamente correcta;
+- influencia, popularidad o crecimiento institucional;
+- testimonios admirados pero tardíos o dependientes entre sí;
+- recibir dinero o rechazarlo.
 
-Cada una puede ser relevante. Ninguna autentica por sí sola un ministerio profético.
+Algunos pueden ser evidencia relevante. La distinción es que ninguno identifica por sí mismo la causa de la experiencia ni autentica un ministerio completo. El error inverso también debe evitarse: un fenómeno inusual no demuestra falsedad sólo por ser inusual, y una explicación natural posible no demuestra que esa explicación ocurrió.
 
-## ¿Qué evidencias sí podrían contar a favor?
+## ¿Cómo evaluaremos una predicción?
 
-Algunas evidencias pueden favorecer la hipótesis profética sin demostrarla.
+Primero fijaremos la afirmación y sólo después compararemos el resultado. Para cada caso preguntaremos:
 
-Una predicción sería especialmente significativa si:
+1. ¿Cuál es la formulación más antigua verificable?
+2. ¿Cuándo se pronunció, escribió y publicó?
+3. ¿El registro es anterior al supuesto cumplimiento?
+4. ¿Qué evento concreto anticipaba y qué plazo establecía?
+5. ¿Qué resultados la habrían refutado?
+6. ¿Era explícita o contextualmente condicional?
+7. ¿Cuánta información pública permitía anticipar el resultado?
+8. ¿Otros contemporáneos esperaban algo parecido?
+9. ¿El cumplimiento dependió de quienes conocían la predicción?
+10. ¿La interpretación se fijó antes del evento o se ajustó después?
+11. ¿Se examinaron también anuncios olvidados o problemáticos?
 
-- quedó registrada antes del acontecimiento;
-- era específica;
-- no era fácilmente previsible;
-- no podía cumplirse de muchas maneras distintas;
-- no dependía de información ya disponible;
-- y no fue reinterpretada después.
+Las primeras obligaciones —distinguir palabra presuntuosa, señal cumplida y anuncio condicional— proceden de los textos bíblicos estudiados. Las preguntas sobre fecha de publicación, información disponible, especificidad y selección de casos son controles históricos modernos. No debemos presentarlas como mandatos literales de un versículo, pero son necesarias para aplicar los principios bíblicos sin autoengaño.
 
-También podría contar a favor un caso bien documentado de conocimiento difícil de obtener por medios normales, siempre que podamos excluir razonablemente vías ordinarias de información.
+## ¿Cómo evaluaremos el contenido y el origen de una revelación?
 
-Los buenos frutos también favorecen la credibilidad.
+Preguntaremos qué afirmó exactamente el mensajero sobre el origen de cada material. Después distinguiremos entre visión, sueño, impresión, interpretación bíblica, investigación, memoria, fuente literaria, edición y consejo prudencial.
 
-Pero en todos esos casos la palabra correcta es **evidencia**, no **prueba automática**.
+La comparación con la Biblia también debe ser controlada. Antes de declarar contradicción habrá que fijar el sentido más probable de ambos textos, su género, destinatario y contexto. Una contradicción lógica clara no se resuelve apelando a una armonización imaginable sin evidencia. Pero una diferencia de énfasis, un desarrollo de comprensión o una disputa entre interpretaciones no debe llamarse contradicción sólo porque produzca incomodidad.
 
-## ¿Qué evidencias podrían pesar seriamente en contra?
+En el origen del material la regla será simétrica: no asumiremos revelación porque ignoremos una fuente humana, ni asumiremos engaño porque aparezca una fuente. El problema decisivo será si la explicación ofrecida por el mensajero coincide con la evidencia documental.
 
-Especialmente:
+## ¿Cómo evaluaremos los frutos?
 
-- una predicción concreta, incondicional y claramente fallida;
-- una revelación que contradiga de forma clara una enseñanza bíblica suficientemente establecida;
-- una falsa atribución documentable del origen de un mensaje;
-- un patrón de engaño relacionado con la pretensión profética;
-- un ministerio cuyos frutos característicos fortalezcan persistentemente el mal;
-- evidencia sólida de que intereses personales condicionaron mensajes presentados como revelación.
+Separaremos al menos tres cuestiones:
 
-No todas estas dificultades tienen el mismo peso.
+1. ¿Qué patrón moral muestra la vida de la persona?
+2. ¿Qué conducta promueven característicamente sus enseñanzas?
+3. ¿Qué efectos pueden vincularse de manera razonable con esas enseñanzas?
 
-## ¿Debe evaluarse cada afirmación o solamente el ministerio completo?
+No atribuiremos al mensajero todo lo que cualquier seguidor haga décadas después. Buscaremos mecanismos, textos, decisiones y patrones documentados. Tampoco reduciremos “buen fruto” a éxito, utilidad o crecimiento. Los frutos tienen valor cuando guardan relación con verdad, obediencia, justicia, arrepentimiento y cuidado de otros, no simplemente cuando una organización prospera.
 
-Ambas cosas.
+Una falla aislada y un patrón persistente no pesan igual. La ocultación, la repetición, el daño, el uso de autoridad profética y la ausencia o presencia de corrección modifican la evaluación.
 
-Una afirmación concreta puede ser verdadera aunque el mensajero tenga problemas graves.
+## ¿Cómo evaluaremos visiones y experiencias extraordinarias?
 
-Una afirmación concreta puede ser falsa sin que eso resuelva automáticamente todas las demás cuestiones sobre la persona.
+Separaremos lo que la persona relató de lo que observó cada testigo. Daremos más peso a documentos contemporáneos que a recuerdos escritos décadas después y comprobaremos si varios relatos son independientes o repiten una misma fuente.
 
-Por eso, durante la investigación debemos preguntar siempre:
+Después compararemos hipótesis: experiencia religiosa, proceso psicológico o neurológico, fraude, error de memoria, elaboración posterior y revelación. No realizaremos diagnósticos retrospectivos cuando falten datos clínicos. Una hipótesis natural debe explicar los detalles, no sólo ser concebible. Una hipótesis sobrenatural tampoco gana por descarte mientras queden huecos: debe mostrar poder explicativo positivo y coherencia con los demás criterios.
 
-1. ¿qué demuestra este caso sobre esta afirmación?
-2. ¿qué demuestra, si algo, sobre todo el ministerio?
+Los fenómenos físicos podrán aumentar el interés documental de un caso. No demostrarán por sí solos quién causó la experiencia ni si el contenido fue verdadero.
 
-No debemos saltar de una respuesta a la otra sin evidencia.
+## ¿Cómo ponderaremos evidencias fuertes y débiles?
 
-## ¿Cómo debemos tratar una experiencia aparentemente sobrenatural?
+No sumaremos puntos. Diez anécdotas dependientes de un mismo relato no equivalen a diez testigos. Muchos aciertos vagos no compensan automáticamente una predicción inequívoca falsamente atribuida a Dios. Una dificultad menor de transmisión o edición tampoco pesa como un patrón documentado de engaño.
 
-Como evidencia que necesita explicación, no como conclusión.
+Cada caso se clasificará provisionalmente como evidencia favorable, débilmente favorable, inconclusa, problemática o fuertemente problemática. Además indicaremos si el hecho está establecido, es probable, posible o indeterminado.
 
-El razonamiento no puede ser:
+La ponderación dependerá de cinco factores:
 
-> “No encuentro explicación natural; por tanto, fue Dios.”
+- claridad de la afirmación original;
+- calidad, fecha e independencia de la documentación;
+- cantidad de resultados compatibles con el anuncio;
+- capacidad de las explicaciones rivales para abarcar los datos;
+- relación entre el caso concreto y la pretensión profética global.
 
-Pero tampoco:
+Una conclusión cambiará cuando aparezca mejor evidencia, no cuando resulte cómoda para una defensa o una crítica.
 
-> “Existe una explicación natural posible; por tanto, Dios queda descartado.”
+## ¿Qué matriz provisional usaremos?
 
-La pregunta correcta es:
+| Clase de evidencia | ¿Qué incluye? | ¿Qué permite concluir? |
+|---|---|---|
+| **Posibles descalificadores serios** | Apostasía promovida en nombre de Dios; predicción concreta e incondicional fallida; contradicción bíblica clara; falsa atribución documentable de origen; método espiritual explícitamente prohibido; engaño profético persistente; fruto moral corruptor; interés personal que condiciona el mensaje | Atacan directamente la autenticidad o la fiabilidad de la pretensión. Requieren evidencia clara y contexto; no deben inferirse de rumores ni ambigüedades. |
+| **Evidencias favorables sin poder demostrativo automático** | Predicción específica y publicada de antemano; conocimiento difícil de obtener normalmente; coherencia bíblica sostenida; apertura al examen; buen fruto; experiencia extraordinaria bien documentada | Pueden aumentar la plausibilidad de la hipótesis profética, pero deben compararse con explicaciones ordinarias y no autentican por sí solas todo el ministerio. |
+| **Elementos insuficientes por sí solos** | Visión, sueño, trance, señal, curación, acierto aislado, frase verdadera, sinceridad, piedad, popularidad, crecimiento, testimonios dependientes, aceptar o rechazar dinero | Describen una experiencia, un rasgo o un resultado; no identifican sin más su origen divino. |
+| **Reglas de evaluación** | Fijar texto y fechas; distinguir condición de explicación retrospectiva; examinar contenido, origen, frutos y medios; separar testigos independientes; comparar hipótesis; evaluar cada afirmación y luego la trayectoria | Impiden convertir el cumplimiento, el fracaso, la utilidad o la rareza en conclusiones automáticas. |
+| **Regla de ponderación** | Valorar claridad, documentación, independencia, especificidad, alternativas y alcance | Una evidencia fuerte puede pesar más que muchas débiles. No habrá puntuación ni compensación mecánica. |
 
-> **¿Qué explicación encaja mejor con todos los datos y cuánto respaldo independiente tiene cada alternativa?**
+Esta matriz es provisional sólo en el sentido correcto: podrá corregirse si una mejor exégesis demuestra que interpretamos mal un texto. No se modificará simplemente para proteger o atacar a la persona que estudiaremos.
 
-## ¿Puede una sola evidencia pesar más que muchas otras?
+## ¿Qué pregunta debemos hacer ahora?
 
-Sí.
+Ya sabemos qué clase de afirmación queremos evaluar, qué evidencias podrían desafiarla, cuáles podrían favorecerla y cuáles no bastan. Antes de aplicar la matriz a predicciones, visiones, frutos o controversias, necesitamos establecer con precisión qué pretensión hizo la propia autora.
 
-No utilizaremos una suma de puntos.
+**¿Qué afirmó realmente Ellen G. White sobre la naturaleza de su propio don y sobre el origen y la autoridad de sus mensajes?**
 
-Una predicción inequívocamente fallida y atribuida explícitamente a Dios podría pesar mucho más que muchos aciertos vagos.
-
-Del mismo modo, un caso extraordinariamente bien documentado de conocimiento imposible de obtener por medios normales podría pesar más que muchas anécdotas débiles.
-
-La evidencia debe ponderarse por su fuerza, no contarse.
-
-## ¿Qué matriz provisional usaremos para evaluar el don profético de Ellen White?
-
-La investigación aplicará estas preguntas:
-
-1. **¿Es bíblicamente posible un profeta posterior al período apostólico?**
-2. **¿Sus mensajes contradicen claramente una revelación bíblica establecida?**
-3. **¿Sus predicciones concretas e incondicionales se cumplen?**
-4. **¿El origen real de la información coincide con el origen que ella le atribuye?**
-5. **¿Su enseñanza sobre Jesús concuerda con el testimonio apostólico?**
-6. **¿Qué patrón moral muestra su vida?**
-7. **¿Qué producen característicamente sus enseñanzas?**
-8. **¿Hay evidencia de que dinero, poder, prestigio u otros intereses condicionaran mensajes?**
-9. **¿Qué explicación encaja mejor con sus visiones y fenómenos asociados?**
-10. **¿Existen casos bien documentados de conocimiento difícil de obtener normalmente?**
-11. **¿Cada afirmación importante resiste la evaluación documental por sí misma?**
-
-Esta matriz es provisional en un sentido importante: puede corregirse si una investigación bíblica mejor demuestra que interpretamos mal algún criterio.
-
-Lo que no haremos es modificarla simplemente porque el resultado aplicado a Ellen White resulte incómodo.
-
-## ¿Qué conclusión podemos sacar antes de estudiar a Ellen White?
-
-La Biblia no ofrece una credencial única.
-
-Tampoco permite autenticar a una persona simplemente porque tenga visiones, acierte predicciones, haga afirmaciones verdaderas o produzca buenos frutos.
-
-Pero sí ofrece suficientes criterios para construir una investigación falsable.
-
-Podemos estudiar:
-
-- qué afirmó;
-- qué ocurrió;
-- qué enseñó;
-- de dónde obtuvo información;
-- qué autoridad atribuyó a sus mensajes;
-- qué frutos produjo su ministerio;
-- y qué explicaciones compiten por explicar sus experiencias.
-
-Con esos criterios fijados antes de estudiar su caso, ya podemos avanzar sin diseñar la prueba a medida de la conclusión.
-
-## ¿Qué debemos preguntar ahora sobre Ellen White?
-
-La siguiente pregunta ya no es teórica:
-
-> **¿Qué afirmó realmente Ellen G. White sobre la naturaleza de su propio don y sobre el origen y la autoridad de sus mensajes?**
+[^1]: Para los textos, véanse Hechos 11:27-28; 13:1; 21:9-11; 1 Corintios 12-14; 13:8-12; Efesios 2:20; 3:5; 4:11-13. Dos argumentos enfrentados y suficientemente claros son Thomas R. Schreiner, “It All Depends upon Prophecy: A Brief Case for Nuanced Cessationism”, *Themelios* 44.1 (2019): 29-35, y Jon Ruthven, “The ‘Foundational Gifts’ of Ephesians 2.20”, *Journal of Pentecostal Theology* 10.2 (2002): 28-43, https://doi.org/10.1177/096673690201000204. Ninguno funciona aquí como autoridad final; sirven para identificar qué inferencias exige cada posición.
+[^2]: Deuteronomio 13:1-5 en la numeración castellana habitual; 13:2-6 en la numeración hebrea; compárese Mateo 24:24. Véanse Jeffrey H. Tigay, *Deuteronomy*, JPS Torah Commentary (Jewish Publication Society, 1996), comentario a Deuteronomio 13; y Ludwig Koehler, Walter Baumgartner y Johann Jakob Stamm, *The Hebrew and Aramaic Lexicon of the Old Testament* (Brill, 1994-2000), voces אוֹת y מוֹפֵת.
+[^3]: Deuteronomio 18:20-22. Véanse Tigay, *Deuteronomy*, comentario a 18:9-22; J. D. Atkins, “Reassessing the Origins of Deuteronomic Prophecy”, *Bulletin for Biblical Research* 23.3 (2013): 323-341; y HALOT, voz זוד. El hebreo de 18:22 describe la palabra que no “sucede” ni “se realiza” y califica el hablar del profeta como presuntuoso.
+[^4]: Jeremías 18:7-10; 26:17-19; Jonás 3:4-10. Véanse Jack R. Lundbom, *Jeremiah 1–20*, Anchor Yale Bible 21A (Yale University Press, 1999), comentario a Jeremías 18; y Willem J. Wessels, “At the Potter’s Workshop: Jeremiah 18:1-12”, *HTS Teologiese Studies* 76.4 (2020), a6108, https://doi.org/10.4102/hts.v76i4.6108.
+[^5]: Jeremías 28:1-17, especialmente 28:8-9, 15-17. Véanse Jack R. Lundbom, *Jeremiah 21–36*, Anchor Yale Bible 21B (Yale University Press, 2004), comentario a Jeremías 28; y William McKane, *A Critical and Exegetical Commentary on Jeremiah*, vol. 2, ICC (T&T Clark, 1996), comentario a Jeremías 28.
+[^6]: 1 Reyes 13:1-32. Véase Mordechai Cogan, *1 Kings*, Anchor Yale Bible 10 (Yale University Press, 2001), comentario a 1 Reyes 13.
+[^7]: Isaías 8:16-20. Véanse Joseph Blenkinsopp, *Isaiah 1–39*, Anchor Yale Bible 19 (Yale University Press, 2000), comentario a Isaías 8; H. G. M. Williamson, *Isaiah 6–12*, ICC (T&T Clark, 2018), comentario a 8:16-23; y HALOT, voces תּוֹרָה y תְּעוּדָה. La dificultad sintáctica y las diferencias de traducción desaconsejan apoyar una prueba completa en una sola versión castellana.
+[^8]: Deuteronomio 18:9-22; Isaías 8:19; Hechos 16:16-18. Véanse Hendrik L. Bosman, “Redefined Prophecy as Deuteronomic Alternative to Divination in Deuteronomy 18:9-22”, *Acta Theologica* 16.1 (1996): 1-23; Tigay, *Deuteronomy*, comentario a 18:9-22; y HALOT para los términos hebreos de 18:10-11. La comparación histórica con la adivinación antigua ayuda a entender la función común de buscar conocimiento, pero no anula la valoración negativa explícita del texto deuteronómico.
+[^9]: 1 Juan 4:1-6; 2 Juan 7-9. Véanse Judith M. Lieu, *I, II, & III John*, New Testament Library (Westminster John Knox, 2008), comentarios a esos pasajes; y John Painter, “The ‘Opponents’ in I John”, *New Testament Studies* 32.1 (1986): 48-71, https://doi.org/10.1017/S0028688500013503.
+[^10]: 1 Tesalonicenses 5:19-22. Véanse Abraham J. Malherbe, *The Letters to the Thessalonians*, Anchor Yale Bible 32B (Yale University Press, 2000), comentario a 5:19-22; y Walter Bauer et al., *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*, 3.ª ed. (University of Chicago Press, 2000), voz δοκιμάζω.
+[^11]: 1 Corintios 14:29; 12:10. Véanse Anthony C. Thiselton, *The First Epistle to the Corinthians*, NIGTC (Eerdmans, 2000), comentario a 14:29; Gordon D. Fee, *The First Epistle to the Corinthians*, ed. rev., NICNT (Eerdmans, 2014), comentario a 14:29; y BDAG, voz διακρίνω.
+[^12]: 1 Corintios 14:30-33. Véanse Thiselton y Fee, comentarios a esos versículos. Ambos discuten el sentido de “los espíritus de los profetas” dentro del argumento de Pablo sobre orden, turno y control.
+[^13]: Mateo 7:15-23; compárese 12:33-37. Véanse W. D. Davies y Dale C. Allison Jr., *A Critical and Exegetical Commentary on the Gospel according to Saint Matthew*, vol. 1, ICC (T&T Clark, 1988), comentario a 7:15-23; y Ulrich Luz, *Matthew 1–7*, Hermeneia (Fortress, 2007), comentario al pasaje.
+[^14]: Jeremías 23:16-32. Véanse Lundbom, *Jeremiah 21–36*, y McKane, *Jeremiah*, vol. 2, comentarios a Jeremías 23. El verbo “robar” de 23:30 es גנב; el objeto son “mis palabras”, pero el mecanismo preciso de apropiación no se explica.
+[^15]: Ezequiel 13:1-23. Véanse Daniel I. Block, *The Book of Ezekiel, Chapters 1–24*, NICOT (Eerdmans, 1997), comentario a Ezequiel 13; y Rosanne Liebermann, “For-Profit Prophets? Ezekiel 13:17-23 and the Threat of Female Intermediaries”, *Hebrew Studies* 61 (2020): 213-234. Los detalles rituales de 13:17-23 y el sentido de varios términos siguen discutidos.
+[^16]: Miqueas 3:5-12; 1 Samuel 9:7-9; 2 Reyes 5:15-16. Véanse Francis I. Andersen y David Noel Freedman, *Micah*, Anchor Yale Bible 24E (Yale University Press, 2000), comentario a Miqueas 3; y HALOT, voz קסם.
+[^17]: Números 22-24; 31:16; Deuteronomio 23:4-5; Josué 13:22; 2 Pedro 2:15; Judas 11; Apocalipsis 2:14. Véanse Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Numbers 22–24”, *Religions* 14.9 (2023): 1104, https://doi.org/10.3390/rel14091104; y Hans Ausloos, “A Star Was Born: About the Bifocal Reception History of Balaam”, *Scriptura* 116.2 (2017): 1-14, https://doi.org/10.7833/116-2-1311.
+[^18]: Juan 11:47-53. Véase Craig S. Keener, *The Gospel of John: A Commentary*, vol. 1 (Hendrickson, 2003), comentario a 11:49-52.
