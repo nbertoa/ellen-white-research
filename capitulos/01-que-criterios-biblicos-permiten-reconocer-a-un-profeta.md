@@ -482,6 +482,95 @@ Para nuestra investigación de Ellen White esto agrega una regla metodológica i
 
 > **No debemos preguntar solamente “¿era ella profeta?”, sino también “¿qué evidencia sostiene esta afirmación concreta que ella atribuyó a revelación?”**
 
-## ¿Qué pregunta queda abierta después de 1 Corintios 14:29?
+## ¿Qué agrega Jeremías 23 sobre el origen de un mensaje profético?
 
-Ya tenemos un conjunto bastante sólido de criterios de evaluación. La siguiente pregunta es más general: **¿hay algún otro criterio bíblico importante que debamos establecer antes de empezar a aplicarlos a Ellen White?**
+Jeremías 23 introduce una cuestión que todavía no habíamos tratado de forma directa: **¿de dónde viene realmente el mensaje?**
+
+Los falsos profetas descritos allí hablan de visiones, sueños y mensajes en nombre de YHWH, pero Dios afirma que no los envió y que no les habló. El problema no es sólo que su mensaje sea incorrecto. También es que presentan como revelación divina algo que procede de su propia mente.
+
+## ¿Qué diferencia establece Jeremías entre una visión auténtica y una inventada?
+
+Jeremías 23:16 dice que esos profetas hablan “visiones de su propio corazón” o de su propia mente, no de la boca de YHWH.
+
+Luego, en los versículos 21-22, aparece otra imagen: los verdaderos mensajeros han “estado en el consejo de YHWH”, han oído su palabra y la transmiten. Los falsos, en cambio, corren con un mensaje aunque Dios no los haya enviado.
+
+La distinción central es entonces entre:
+
+1. **un mensaje realmente recibido de Dios**;
+2. **una idea humana presentada como si hubiese sido revelación divina**.
+
+## ¿Cómo podría comprobarse desde afuera algo tan interno?
+
+Ésta es precisamente la dificultad.
+
+Nadie puede observar directamente si una persona “estuvo en el consejo de YHWH”. Por eso Jeremías no deja el criterio en una experiencia privada imposible de comprobar. También mira el contenido y el efecto del mensaje.
+
+El versículo 22 dice que si esos profetas hubieran recibido realmente la palabra divina, habrían llevado al pueblo a apartarse de sus malos caminos y malas obras.
+
+Así que la afirmación privada de “Dios me habló” necesita señales externas verificables.
+
+## ¿Qué clase de mensaje daban los falsos profetas?
+
+Prometían seguridad a personas que persistían en rebelarse contra Dios.
+
+Jeremías 23:17 los describe diciendo “tendrán paz” y “no les vendrá mal” a quienes seguían la obstinación de su propio corazón.
+
+Esto conecta nuevamente el contenido profético con su fruto: una profecía falsa puede ser atractiva precisamente porque confirma al oyente en lo que ya quiere hacer.
+
+## ¿Qué ocurre con los sueños proféticos en Jeremías 23?
+
+Los versículos 25-28 muestran que decir “tuve un sueño” tampoco constituye evidencia suficiente.
+
+Jeremías no rechaza la posibilidad de sueños auténticos. La distinción que hace es otra: un profeta que verdaderamente tiene un sueño puede contarlo, pero quien tiene la palabra de Dios debe hablarla fielmente.
+
+El contraste es entre paja y trigo: **la existencia de una experiencia onírica no prueba que esa experiencia venga de Dios**.
+
+## ¿Qué significa que algunos profetas “robaban” palabras unos de otros?
+
+Jeremías 23:30 acusa a ciertos profetas de “robar” las palabras unos de otros.
+
+El sentido exacto admite matices. Intérpretes antiguos y modernos han propuesto que esos profetas tomaban palabras o fórmulas de otros profetas y las presentaban como revelación propia, o que se copiaban mutuamente para dar apariencia de autoridad divina.
+
+Lo importante para nuestro estudio es no convertir automáticamente este versículo en una condena de todo uso literario.
+
+El problema del pasaje no es simplemente usar palabras ajenas. El problema es **apropiarse de material ajeno y presentarlo falsamente como palabra recibida directamente de Dios**.
+
+## ¿Esto puede convertirse en un criterio relevante para estudiar la dependencia literaria de Ellen White?
+
+Sí, pero sólo si mantenemos separadas dos preguntas.
+
+Primero:
+
+> **¿Usó material de otros autores?**
+
+Eso es una cuestión histórica y textual.
+
+Después:
+
+> **¿Presentó material procedente de otros autores como si lo hubiera recibido directamente por revelación divina?**
+
+Eso es una cuestión distinta y potencialmente mucho más importante.
+
+Jeremías 23 no permite concluir que todo préstamo literario desacredite a un profeta. Sí convierte en un problema serio atribuir a revelación directa algo que en realidad fue tomado de otra fuente.
+
+## ¿Hay falsos profetas concretos que ilustren este problema?
+
+El propio capítulo habla de un grupo de profetas de Jerusalén, pero no da sus nombres en esta sección.
+
+Hananías, en Jeremías 28, ofrece un ejemplo concreto del problema general: utiliza lenguaje profético, afirma hablar en nombre de YHWH y anuncia un mensaje que Dios, según Jeremías, no le había dado.
+
+Pero respecto del caso específico de “robar palabras unos de otros”, Jeremías 23 no identifica individualmente a los culpables.
+
+## ¿Qué criterio podemos conservar de Jeremías 23?
+
+Podemos formularlo así:
+
+> **No basta con que alguien diga haber tenido una visión, sueño o revelación. Hay que distinguir entre una experiencia o idea propia y una palabra realmente atribuible a Dios.**
+
+Y, para nuestro estudio posterior sobre fuentes:
+
+> **El uso de material previo no es por sí mismo una prueba contra inspiración; el problema aparece si una fuente humana se presenta falsamente como revelación divina directa.**
+
+## ¿Qué pregunta queda abierta después de Jeremías 23?
+
+Todavía conviene estudiar un texto muy cercano: **¿qué agrega Ezequiel 13 cuando acusa a falsos profetas de “ver visiones falsas” y de anunciar paz cuando no hay paz?**
