@@ -75,6 +75,7 @@ Pasajes estudiados hasta ahora:
 - Ezequiel 13: la sinceridad subjetiva no basta; los falsos profetas pueden seguir su propio espíritu, ofrecer falsa seguridad y producir efectos morales dañinos.
 - Miqueas 3:5-12: el dinero no desacredita por sí mismo a un profeta; el problema aparece cuando el interés personal condiciona el mensaje o corrompe la función religiosa.
 - Balaam (Números 22-24 y textos posteriores): una palabra auténtica no autentica automáticamente todo el mensajero, y una figura moralmente condenada puede haber pronunciado mensajes concretos que el propio texto atribuye a Dios.
+- Caifás (Juan 11:49-52): una declaración puede ser interpretada por el propio texto como profética aunque el hablante no comprenda plenamente su significado ni quede autenticado globalmente como profeta.
 
 El capítulo 1 está en desarrollo.
 
