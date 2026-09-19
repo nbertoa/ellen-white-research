@@ -41,12 +41,20 @@ La condicionalidad debe demostrarse, no inventarse después.
 
 ### ¿Falsa atribución de origen?
 
-Presentar como revelación divina algo proveniente de la propia mente o de una fuente humana puede constituir una falla profética grave si el origen fue descrito falsamente.
+Presentar como revelación divina algo proveniente de la propia mente o de una fuente humana puede constituir una falla profética grave **si el origen fue descrito falsamente**.
+
+Lucas 1:1-4 impide tratar el mero uso de fuentes humanas como evidencia contra inspiración: un escrito considerado inspirado dentro del canon puede surgir de investigación, tradiciones, testigos y materiales anteriores.
+
+Por tanto, deben separarse dos preguntas:
+
+1. ¿utilizó fuentes humanas?
+2. ¿describió falsamente como revelación directa un contenido que provenía de esas fuentes?
 
 Fuentes principales:
 
 - Jeremías 23;
-- Ezequiel 13.
+- Ezequiel 13;
+- Lucas 1:1-4.
 
 ### ¿Frutos persistentemente contrarios al mensaje de Dios?
 
@@ -114,7 +122,7 @@ y, para predicciones o casos proféticos:
 1. ¿Es bíblicamente posible un profeta posterior al período apostólico?
 2. ¿Sus mensajes contradicen claramente una revelación bíblica establecida?
 3. ¿Sus predicciones concretas e incondicionales se cumplen?
-4. ¿El origen real de la información coincide con el origen que ella le atribuye?
+4. ¿El origen real de la información coincide con el origen que ella le atribuye, teniendo en cuenta que el uso de fuentes humanas no es por sí mismo incompatible con inspiración?
 5. ¿Su cristología concuerda con el testimonio apostólico?
 6. ¿Qué patrón moral muestra su vida?
 7. ¿Qué producen característicamente sus enseñanzas?
