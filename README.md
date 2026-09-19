@@ -58,7 +58,15 @@ La progresión normal es:
 
 ## ¿Cuál es el estado actual?
 
-La investigación comenzó por los criterios bíblicos para reconocer o rechazar a un profeta. El primer pasaje estudiado es Deuteronomio 13:1-5.
+La investigación comenzó por los criterios bíblicos para reconocer o rechazar a un profeta.
+
+Pasajes estudiados hasta ahora:
+
+- Deuteronomio 13:1-5: una señal cumplida no basta si el mensaje aparta de YHWH.
+- Deuteronomio 18:20-22: una predicción concreta e incondicional que falla constituye evidencia contra la palabra atribuida a Dios.
+- Jeremías 18:7-10 y Jonás 3: introducen la necesidad de distinguir las profecías condicionales de las incondicionales.
+
+El capítulo 1 está en desarrollo.
 
 ## ¿Cuál es la regla maestra?
 
