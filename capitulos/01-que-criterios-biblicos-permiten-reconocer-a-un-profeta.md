@@ -403,6 +403,85 @@ Y esto tiene una consecuencia importante para Ellen White:
 
 > **Que una comunidad la haya reconocido como profeta no elimina la obligación de examinar sus afirmaciones; pero la existencia de dificultades tampoco justifica descartarlas antes de investigarlas.**
 
-## ¿Qué pregunta queda abierta después de 1 Tesalonicenses 5?
+## ¿Qué significa que “los otros” deben evaluar lo dicho en 1 Corintios 14:29?
 
-El siguiente texto vuelve esta exigencia todavía más concreta: **¿qué significa que, mientras unos profetas hablan, “los otros” deben juzgar o evaluar lo dicho en 1 Corintios 14:29?**
+1 Corintios 14:29 da una instrucción directa para una reunión cristiana: pueden hablar dos o tres profetas y “los otros” deben evaluar lo dicho.
+
+La palabra griega traducida como “evaluar”, “juzgar” o “discernir” es *diakrinō*. En este contexto significa distinguir o valorar críticamente si lo que se ha dicho debe recibirse como auténtico.
+
+Esto confirma algo importante: **la profecía no quedaba automáticamente autenticada por el hecho de ser pronunciada por un profeta**.
+
+## ¿Quiénes son “los otros”?
+
+El texto no lo define de manera totalmente inequívoca.
+
+Muchos intérpretes entienden que son los demás profetas presentes, porque el versículo habla primero de “dos o tres profetas” y luego de “los otros”, y el contexto continúa hablando de revelaciones recibidas por otros profetas.
+
+Otros consideran posible que el término incluya a la congregación o a quienes poseían el don de discernimiento de espíritus mencionado en 1 Corintios 12:10.
+
+Por eso conviene conservar lo seguro y no forzar lo discutido:
+
+> **quienquiera que realizara la evaluación, el mensaje profético debía ser sometido a discernimiento dentro de la comunidad.**
+
+## ¿Qué se evaluaba: al profeta o a la profecía?
+
+El versículo pone el foco inmediato en **lo dicho**.
+
+Eso es importante porque obliga a distinguir entre:
+
+1. la identidad o reputación del mensajero;
+2. el contenido concreto de una afirmación profética.
+
+Una persona reconocida como profeta podía hablar y, aun así, lo que acababa de decir debía ser pesado por otros.
+
+## ¿Esto significa que los profetas del Nuevo Testamento podían equivocarse?
+
+El texto demuestra como mínimo que sus mensajes debían ser evaluados.
+
+Pero no define explícitamente qué tipo de error estaba contemplando ni desarrolla una teoría completa sobre la falibilidad profética.
+
+Podría tratarse de distinguir una revelación auténtica de una impresión personal, una interpretación incorrecta o una afirmación que no procedía del Espíritu.
+
+Por eso sería demasiado fuerte usar 1 Corintios 14:29, por sí solo, para afirmar una doctrina completa de “profetas verdaderos que profetizan falsamente”.
+
+Lo seguro es más limitado: **una afirmación profética requería evaluación**.
+
+## ¿Qué relación tiene esto con el “discernimiento de espíritus”?
+
+1 Corintios 12:10 menciona entre los dones espirituales el “discernimiento de espíritus”.
+
+Es posible que 14:29 tenga relación con ese don, aunque el texto no dice que sólo quienes lo poseían podían evaluar.
+
+La relación con 1 Juan 4:1 y 1 Tesalonicenses 5:19-22 es clara a nivel de principio: las afirmaciones espirituales no deben aceptarse sin examen.
+
+## ¿Qué añade 1 Corintios 14:32?
+
+El versículo 32 afirma que “los espíritus de los profetas están sujetos a los profetas”.
+
+En el contexto, esto significa al menos que la inspiración no anulaba el autocontrol ni convertía al profeta en alguien incapaz de callar, esperar o someterse al orden comunitario.
+
+El capítulo insiste en que Dios no es Dios de confusión sino de paz.
+
+Por eso, una manifestación profética que exige quedar fuera de toda evaluación o control comunitario sería difícil de reconciliar con este pasaje.
+
+## ¿Hay un falso profeta concreto que falle esta prueba?
+
+No se conserva un caso narrativo en el que Pablo nombre a una persona, registre su profecía, describa cómo los demás la evaluaron y luego la identifique como falsa.
+
+Por eso no debemos inventar un ejemplo.
+
+El pasaje nos ofrece principalmente **un procedimiento de discernimiento**, no una lista de falsos profetas.
+
+## ¿Qué criterio podemos conservar de 1 Corintios 14:29?
+
+Podemos formularlo así:
+
+> **Una afirmación profética debe ser evaluada por otros; el estatus del mensajero no coloca automáticamente su mensaje fuera de examen.**
+
+Para nuestra investigación de Ellen White esto agrega una regla metodológica importante:
+
+> **No debemos preguntar solamente “¿era ella profeta?”, sino también “¿qué evidencia sostiene esta afirmación concreta que ella atribuyó a revelación?”**
+
+## ¿Qué pregunta queda abierta después de 1 Corintios 14:29?
+
+Ya tenemos un conjunto bastante sólido de criterios de evaluación. La siguiente pregunta es más general: **¿hay algún otro criterio bíblico importante que debamos establecer antes de empezar a aplicarlos a Ellen White?**
