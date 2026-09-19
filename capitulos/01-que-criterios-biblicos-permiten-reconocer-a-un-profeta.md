@@ -857,6 +857,85 @@ Para nuestro estudio de Ellen White esto será muy importante. No podremos razon
 
 Cada tipo de evidencia deberá conservar exactamente el peso que realmente tiene.
 
-## ¿Qué pregunta queda abierta después de Balaam?
+## ¿Qué enseña el caso de Caifás sobre una profecía verdadera pronunciada por una persona hostil a Jesús?
 
-El caso de Balaam muestra que incluso un mensaje auténtico no autentica automáticamente al mensajero. La siguiente pregunta es: **¿existen otros casos bíblicos donde Dios comunique algo verdadero mediante personas que no son modelos de profetas fieles, y qué nos enseña eso sobre el valor probatorio de una experiencia sobrenatural?**
+Juan 11:49-52 ofrece un caso todavía más claro que Balaam.
+
+Caifás, sumo sacerdote, sostiene que conviene que un solo hombre muera por el pueblo antes que toda la nación perezca. En el nivel político, está proponiendo eliminar a Jesús para evitar una crisis con Roma.
+
+Pero el evangelista agrega que Caifás “no dijo esto por su propia cuenta” y que, por ser sumo sacerdote aquel año, **profetizó que Jesús moriría por la nación**, y no sólo por la nación, sino para reunir en uno a los hijos de Dios dispersos.
+
+## ¿Caifás entendía el significado completo de lo que estaba diciendo?
+
+No parece que lo entendiera.
+
+Su intención inmediata era política: sacrificar a Jesús para proteger la estabilidad nacional.
+
+Juan, en cambio, interpreta esas mismas palabras en un sentido teológico mucho más profundo: la muerte de Jesús tendría valor salvador y reuniría al pueblo de Dios.
+
+Esto muestra que una afirmación puede contener un significado profético más amplio que el que el propio hablante comprende.
+
+## ¿Significa esto que Caifás era un profeta verdadero?
+
+No necesariamente.
+
+Juan atribuye carácter profético a **esa declaración concreta**, pero no presenta a Caifás como un modelo de mensajero fiel.
+
+De hecho, el contexto lo sitúa entre quienes buscan la muerte de Jesús.
+
+Por tanto, sería un error razonar:
+
+> “Caifás profetizó correctamente, por lo tanto Caifás debe ser reconocido como profeta auténtico.”
+
+El texto no obliga a esa conclusión.
+
+## ¿Por qué Juan relaciona la profecía con que Caifás fuera sumo sacerdote?
+
+Juan dice expresamente que profetizó “por ser sumo sacerdote aquel año”.
+
+Eso puede reflejar la idea de que Dios utilizó su posición oficial como vehículo para expresar una verdad que Caifás mismo no comprendía plenamente.
+
+Pero no debemos generalizar más allá del texto. Juan no enseña que todos los sumos sacerdotes fueran automáticamente infalibles ni que toda declaración de Caifás tuviera origen divino.
+
+El punto seguro es que **Dios puede utilizar incluso a una persona moralmente comprometida y con intenciones equivocadas para pronunciar una verdad que trasciende su intención**.
+
+## ¿En qué se parece Caifás a Balaam?
+
+Mucho.
+
+En ambos casos:
+
+- el mensajero no es presentado globalmente como modelo de fidelidad;
+- una afirmación concreta es utilizada por Dios;
+- el significado o resultado del mensaje supera las intenciones del mensajero;
+- la autenticidad de una palabra concreta no autentica automáticamente toda la persona.
+
+Los comentaristas cristianos han señalado esta semejanza durante siglos y han comparado explícitamente a Caifás con Balaam.
+
+## ¿Qué diferencia hay entre Caifás y Balaam?
+
+Balaam aparece en Números como alguien que recibe conscientemente mensajes de YHWH y sabe que no puede alterar lo que Dios le da.
+
+Caifás, en cambio, parece pronunciar una frase con una intención política y **sin comprender que está profetizando**.
+
+Eso hace que el caso de Caifás sea incluso más fuerte para un principio concreto:
+
+> **una profecía verdadera no siempre demuestra que el hablante posea un ministerio profético estable, ni siquiera que comprenda plenamente el significado de sus propias palabras.**
+
+## ¿Qué criterio podemos conservar del caso de Caifás?
+
+Podemos formularlo así:
+
+> **El cumplimiento o la verdad de una afirmación profética concreta no basta para autenticar globalmente al mensajero.**
+
+Y también:
+
+> **Dios puede utilizar de manera providencial palabras pronunciadas por alguien cuyas intenciones, carácter o comprensión no corresponden plenamente con el significado divino de esas palabras.**
+
+Para nuestro estudio de Ellen White, esto refuerza una regla que ya apareció con Balaam:
+
+> **un acierto concreto debe evaluarse como un acierto concreto; no puede convertirse automáticamente en prueba de que toda la persona o todo su ministerio sean proféticos.**
+
+## ¿Qué pregunta queda abierta después de Caifás?
+
+Con Balaam y Caifás queda claro que una palabra verdadera no autentica automáticamente al mensajero. Antes de cerrar esta parte conviene preguntar: **¿qué otros casos bíblicos muestran que Dios puede comunicar verdad mediante agentes inesperados, y hasta qué punto esos casos son realmente comparables con un ministerio profético estable?**
