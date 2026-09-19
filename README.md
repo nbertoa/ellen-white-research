@@ -67,6 +67,7 @@ Pasajes estudiados hasta ahora:
 - Jeremías 18:7-10 y Jonás 3: introducen la necesidad de distinguir las profecías condicionales de las incondicionales.
 - 1 Reyes 13: una nueva afirmación de revelación no queda autenticada sólo por el estatus del mensajero.
 - Mateo 7:15-23: los falsos profetas deben evaluarse por sus frutos, no sólo por dones o manifestaciones extraordinarias.
+- 1 Juan 4:1-6: las afirmaciones espirituales deben probarse y su contenido acerca de Jesús debe concordar con el testimonio apostólico.
 
 El capítulo 1 está en desarrollo.
 
