@@ -242,6 +242,89 @@ Y una segunda regla metodológica:
 
 Cuando estudiemos a Ellen White, esto nos obligará a preguntar no sólo si habló favorablemente de Jesús, sino si su enseñanza cristológica permanece coherente con el testimonio del Nuevo Testamento.
 
-## ¿Qué pregunta queda abierta después de 1 Juan 4?
 
-Todavía queda un texto muy utilizado como prueba profética, especialmente dentro del adventismo: **¿Isaías 8:20 enseña realmente que todo profeta debe ser evaluado por “la ley y el testimonio”, y qué significaban esas palabras en su contexto original?**
+## ¿Isaías 8:20 enseña que un profeta debe estar de acuerdo con la revelación previa?
+
+Sí, pero conviene formularlo con cuidado.
+
+El contexto comienza en Isaías 8:19. El pueblo está siendo invitado a consultar médiums y espiritistas que pretenden obtener información de los muertos. Isaías responde que un pueblo debería consultar a su Dios, no a los muertos por los vivos. Luego aparece la frase tradicionalmente traducida: **“¡A la ley y al testimonio!”**
+
+La oposición principal del pasaje es, por tanto, entre dos fuentes de orientación:
+
+1. buscar revelación en médiums, espiritistas y muertos;
+2. volver a la instrucción y al testimonio que proceden de Dios.
+
+## ¿“La ley” significa aquí necesariamente toda la Ley de Moisés?
+
+No podemos afirmarlo con tanta precisión.
+
+La palabra hebrea *torah* puede significar “ley”, pero también “instrucción” o “enseñanza”. Varias traducciones modernas prefieren aquí “enseñanza” o “instrucción”.
+
+Además, Isaías 8:16 utiliza exactamente la misma pareja de ideas: “ata el testimonio” y “sella la enseñanza entre mis discípulos”. Eso hace muy probable que en 8:20 haya una referencia inmediata a la revelación o enseñanza divina preservada dentro del propio contexto de Isaías, aunque esa enseñanza no esté desconectada de la revelación mosaica anterior.
+
+Por eso sería demasiado fuerte afirmar que Isaías 8:20, en su sentido original, significa simplemente: **“compará a todo profeta con los 66 libros de la Biblia”**. El canon bíblico posterior todavía no existía.
+
+## ¿Entonces es incorrecto usar Isaías 8:20 para decir que una revelación posterior no puede contradecir la Escritura?
+
+No necesariamente.
+
+Como principio teológico más amplio, la idea encaja bien con otros textos que ya estudiamos: Deuteronomio 13 exige fidelidad a la revelación previa, 1 Reyes 13 muestra el peligro de aceptar una nueva revelación que contradice una palabra ya recibida, y 1 Juan 4 exige probar las afirmaciones espirituales por su coherencia con el testimonio apostólico.
+
+Pero debemos distinguir dos cosas:
+
+- **lo que Isaías 8:20 significa directamente en su contexto**;
+- **el principio más amplio que puede construirse al combinarlo con otros textos bíblicos**.
+
+Ese principio más amplio es sólido: una supuesta revelación de Dios no obtiene autoridad para contradecir lo que previamente ha quedado establecido como revelación divina.
+
+## ¿Qué significa “el testimonio”?
+
+La palabra hebrea traducida “testimonio” aparece también en Isaías 8:16. Allí está asociada con algo que debe ser preservado entre los discípulos de Isaías.
+
+Por eso, en este contexto, probablemente se refiere al testimonio profético o revelación que debía conservarse, no simplemente a cualquier opinión religiosa.
+
+La combinación “enseñanza y testimonio” funciona como contraste con las voces de médiums y espiritistas.
+
+## ¿Está claro el final de Isaías 8:20?
+
+No completamente.
+
+La traducción tradicional dice algo como: “si no hablan conforme a esta palabra, no hay luz en ellos”. Pero el hebreo permite dificultades sintácticas, y algunas traducciones modernas conectan los versículos 19 y 20 de otra manera.
+
+La NET Bible señala que en hebreo 8:19-20a puede leerse como una sola oración y reconoce discusión sobre a qué se refiere “esta palabra”. Por eso no conviene construir un criterio demasiado detallado sobre una sola traducción castellana.
+
+Lo que sí permanece claro en todas las lecturas principales es la oposición entre buscar orientación en prácticas necrománticas y recurrir a la instrucción/testimonio de Dios.
+
+## ¿Hay un falso profeta que falle exactamente esta prueba?
+
+No en el contexto inmediato.
+
+Isaías 8:19 no habla de un profeta con nombre propio, sino de médiums y espiritistas. Por eso no deberíamos presentar un falso profeta bíblico como si fuera el ejemplo directo que Isaías tenía delante.
+
+El relato de Saúl y la médium de Endor en 1 Samuel 28 es un paralelo narrativo útil: Saúl busca orientación mediante una médium cuando YHWH no le responde. Pero la mujer de Endor no es presentada como profetisa, así que el paralelo es parcial.
+
+## ¿Hay falsos profetas que violen el principio más amplio?
+
+Sí.
+
+Hananías, en Jeremías 28, atribuye a YHWH un mensaje que contradice la palabra que Jeremías venía proclamando y que posteriormente resulta falso.
+
+El anciano profeta de 1 Reyes 13 afirma falsamente haber recibido una nueva revelación que contradice una instrucción divina previa.
+
+Estos casos no son ejemplos directos de Isaías 8:20, pero ilustran el principio más general de que una nueva pretensión de revelación no debe aceptarse sólo por presentarse como divina.
+
+## ¿Qué criterio podemos conservar de Isaías 8:20?
+
+Podemos formularlo de manera prudente:
+
+> **Cuando alguien pretende ofrecer orientación sobrenatural, esa pretensión debe evaluarse frente a la revelación divina ya establecida y no puede recibir autoridad simplemente por presentarse como espiritual.**
+
+Y debemos agregar una cautela:
+
+> **Isaías 8:20 no debería citarse como si, por sí solo y fuera de contexto, definiera una prueba completa de todos los profetas posteriores contra un canon bíblico que todavía no existía.**
+
+Para nuestra investigación de Ellen White, la pregunta correcta no será simplemente “¿coincide con nuestra interpretación de la Biblia?”, sino algo más exigente: **¿alguna afirmación que ella atribuye a revelación contradice de manera clara una enseñanza bíblica suficientemente establecida?**
+
+## ¿Qué pregunta queda abierta después de Isaías 8:20?
+
+Ya tenemos criterios sobre señales, predicciones, frutos, cristología y coherencia con revelación previa. La siguiente dificultad es: **¿la Biblia ordena evaluar las profecías dentro de la comunidad cristiana, incluso cuando el don profético es aceptado como real?**
