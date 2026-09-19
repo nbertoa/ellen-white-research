@@ -1030,6 +1030,256 @@ Podemos trabajar con esta posición metodológica provisional:
 
 Al mismo tiempo, debemos conservar la objeción cesacionista basada en Efesios 2:20 y en la naturaleza autoritativa de la profecía. Si durante la investigación concluimos que el Nuevo Testamento enseña de manera convincente que toda profecía terminó con la etapa fundacional, eso afectaría directamente la posibilidad del caso de Ellen White.
 
-## ¿Qué pregunta queda abierta antes de aplicar los criterios?
+## ¿Qué criterios bíblicos hemos establecido realmente?
 
-Ya podemos formular una matriz bíblica provisional. La siguiente pregunta es: **¿qué criterios hemos establecido realmente y cuáles de ellos pueden autenticar, descartar o solamente aportar evidencia parcial sobre un supuesto profeta?**
+Después de revisar los pasajes principales, no aparece una única prueba capaz de decidir por sí sola si alguien es profeta.
+
+Los textos estudiados forman más bien una red de criterios que cumplen funciones diferentes.
+
+Algunos pueden **descalificar** una pretensión profética.
+
+Otros pueden aportar **evidencia favorable** sin demostrarla.
+
+Y otros sirven principalmente para **examinar afirmaciones concretas**.
+
+Eso significa que no debemos construir una lista mecánica donde “aprobar siete de ocho pruebas” convierta automáticamente a alguien en profeta.
+
+## ¿Qué criterios podrían descalificar seriamente una pretensión profética?
+
+Al menos cuatro.
+
+### ¿Contradice de manera clara una revelación divina previamente establecida?
+
+Deuteronomio 13, 1 Reyes 13, Isaías 8 y 1 Juan 4 convergen en un principio: una supuesta revelación no adquiere autoridad para contradecir aquello que ya ha quedado establecido como palabra de Dios.
+
+Aprobar esta prueba no demuestra inspiración.
+
+Fallarla sí sería un problema muy serio.
+
+### ¿Atribuye a Dios una predicción concreta e incondicional que no ocurre?
+
+Deuteronomio 18 establece el incumplimiento como evidencia de que esa palabra no procedía de Dios.
+
+Pero Jeremías 18 y Jonás obligan a comprobar antes si la profecía era realmente incondicional.
+
+Por eso el criterio no puede aplicarse sin reconstruir exactamente el texto, las condiciones y el plazo.
+
+### ¿Presenta como revelación divina algo cuyo origen real es otro?
+
+Jeremías 23 y Ezequiel 13 condenan a quienes atribuyen a Dios mensajes provenientes de su propia mente o de otras fuentes.
+
+Eso será especialmente relevante para cualquier caso donde podamos reconstruir cómo se obtuvo realmente cierta información.
+
+El mero uso de fuentes humanas no es el problema. El problema sería **describir falsamente el origen de ese material como revelación directa**.
+
+### ¿Su ministerio produce de manera característica frutos moralmente contrarios al mensaje de Dios?
+
+Mateo 7, Jeremías 23 y Ezequiel 13 hacen del fruto una parte real del discernimiento.
+
+No exige impecabilidad.
+
+Sí exige preguntar qué patrón moral muestra la persona y qué efecto característico tiene su enseñanza.
+
+## ¿Qué evidencias podrían favorecer una pretensión profética sin demostrarla?
+
+Varias.
+
+### ¿Una predicción específica cumplida cuenta a favor?
+
+Sí, especialmente si:
+
+- fue registrada antes del acontecimiento;
+- era suficientemente específica;
+- no era fácilmente previsible;
+- no podía cumplirse de muchas maneras distintas;
+- no dependía de información normal disponible;
+- y no fue reinterpretada después.
+
+Pero Deuteronomio 13, Balaam y Caifás impiden convertir un acierto aislado en prueba definitiva.
+
+### ¿Un conocimiento difícil de obtener por medios normales cuenta a favor?
+
+Sí, si podemos establecer documentalmente que:
+
+- la información fue expresada antes de conocerse públicamente;
+- no existía una vía normal plausible por la que pudiera haber llegado;
+- el registro es independiente y contemporáneo;
+- y el contenido era suficientemente específico.
+
+Eso sería evidencia favorable.
+
+No sería automáticamente prueba sobrenatural, porque todavía habría que comparar explicaciones alternativas.
+
+### ¿Los buenos frutos cuentan a favor?
+
+Sí.
+
+Un patrón sostenido de honestidad, coherencia moral y efectos espiritualmente constructivos favorece la credibilidad del mensajero.
+
+Pero muchas personas no proféticas producen buenos frutos.
+
+Por tanto, este criterio puede apoyar, pero no demostrar, inspiración.
+
+### ¿La coherencia con la Biblia cuenta a favor?
+
+Es necesaria para una pretensión profética cristiana, pero insuficiente.
+
+Millones de cristianos pueden enseñar de manera bíblicamente fiel sin ser profetas.
+
+Por eso la coherencia con la revelación previa funciona mejor como requisito necesario que como prueba positiva independiente.
+
+## ¿Qué cosas no debemos contar como prueba suficiente por sí solas?
+
+No bastan por sí solas:
+
+- una visión intensa;
+- un sueño;
+- una experiencia física extraordinaria;
+- sinceridad personal;
+- una predicción acertada;
+- una curación o señal;
+- gran influencia religiosa;
+- éxito institucional;
+- muchos seguidores;
+- una vida generalmente piadosa;
+- conocimiento bíblico;
+- una frase verdadera;
+- una profecía concreta auténtica;
+- recibir dinero;
+- rechazar dinero.
+
+Los casos de Balaam y Caifás son especialmente importantes: una palabra verdadera no autentica automáticamente a todo el mensajero.
+
+Ezequiel 13 agrega que una persona puede incluso estar convencida de un mensaje que no procede de Dios.
+
+## ¿Cómo debemos tratar las experiencias sobrenaturales?
+
+Como evidencia que necesita explicación, no como conclusión.
+
+Si un fenómeno físico, una visión o un conocimiento extraordinario parece difícil de explicar naturalmente, debemos investigarlo.
+
+Pero el razonamiento no puede ser:
+
+> “No encuentro explicación natural, por tanto Dios lo hizo.”
+
+Tampoco puede ser:
+
+> “Existe una explicación natural posible, por tanto Dios no intervino.”
+
+Hay que comparar qué explicación encaja mejor con los datos y cuánto respaldo tiene cada una.
+
+## ¿Cómo debemos tratar la sinceridad de Ellen White?
+
+Como una cuestión distinta de la inspiración.
+
+Podríamos llegar a cualquiera de estas combinaciones:
+
+- sincera y auténticamente profética;
+- sincera pero equivocada acerca del origen de sus experiencias;
+- parcialmente consciente de procesos humanos que luego fueron descritos de otra manera;
+- deliberadamente engañosa en algún caso;
+- o una mezcla más compleja.
+
+Ezequiel 13 impide usar la sinceridad como prueba suficiente.
+
+Pero demostrar engaño deliberado en una afirmación importante sí tendría un peso diferente y más grave.
+
+## ¿Cómo debemos tratar cada predicción de Ellen White?
+
+Cada predicción deberá pasar por una auditoría propia:
+
+1. ¿qué dijo exactamente?
+2. ¿cuándo lo dijo?
+3. ¿cuándo quedó por escrito?
+4. ¿cuándo se publicó?
+5. ¿qué condiciones contenía?
+6. ¿qué información ya estaba disponible?
+7. ¿qué grado de especificidad tenía?
+8. ¿qué habría contado como fracaso?
+9. ¿qué ocurrió realmente?
+10. ¿hubo reinterpretaciones posteriores?
+
+Sólo después podremos clasificarla como:
+
+- evidencia favorable;
+- evidencia débilmente favorable;
+- inconclusa;
+- problemática;
+- fuertemente problemática.
+
+## ¿Cómo debemos tratar cada afirmación de revelación?
+
+Preguntando dos cosas por separado:
+
+1. **¿es verdadero o correcto el contenido?**
+2. **¿es verdadero lo que se afirma sobre su origen?**
+
+Una idea puede ser correcta y haber sido obtenida por lectura, conversación, observación o razonamiento normal.
+
+Eso no la vuelve falsa.
+
+Pero tampoco permite usarla como evidencia de revelación sobrenatural si su origen humano puede documentarse.
+
+## ¿Cómo debemos tratar los errores o contradicciones?
+
+No toda dificultad tiene el mismo peso.
+
+Debemos distinguir:
+
+- error trivial;
+- imprecisión;
+- desarrollo de comprensión;
+- diferencia editorial;
+- afirmación contextual;
+- contradicción real;
+- predicción fallida;
+- falsa atribución de una palabra a Dios.
+
+La pregunta decisiva será siempre qué afirmó exactamente y qué nivel de autoridad atribuyó a esa afirmación.
+
+## ¿Puede un solo caso decidir toda la investigación?
+
+Sí, en principio, si fuera suficientemente fuerte.
+
+No vamos a usar una suma de puntos donde veinte evidencias débiles compensen automáticamente una contradicción decisiva.
+
+Por ejemplo, una predicción claramente incondicional, atribuida inequívocamente a Dios, fechada con seguridad y falsada de manera inequívoca tendría un peso mucho mayor que varios aciertos vagos.
+
+Del mismo modo, una evidencia extraordinariamente bien documentada de conocimiento imposible de obtener normalmente podría tener un peso mayor que muchos casos ambiguos.
+
+La evidencia debe ponderarse por su fuerza, no contarse.
+
+## ¿Cuál será entonces nuestra matriz para evaluar a Ellen White?
+
+La matriz provisional queda así:
+
+1. **Posibilidad bíblica:** ¿el don profético posterior al período apostólico es bíblicamente posible?
+2. **Fidelidad:** ¿sus mensajes contradicen de manera clara una revelación bíblica establecida?
+3. **Predicción:** ¿sus predicciones concretas e incondicionales se cumplen?
+4. **Origen:** ¿el origen real de la información coincide con el origen que ella le atribuye?
+5. **Cristología:** ¿su enseñanza sobre Jesús es coherente con el testimonio apostólico?
+6. **Fruto:** ¿qué patrón moral muestra su vida y qué producen característicamente sus enseñanzas?
+7. **Motivaciones:** ¿hay evidencia de que dinero, poder, prestigio u otros intereses condicionaran mensajes presentados como revelación?
+8. **Experiencias:** ¿qué explicación encaja mejor con sus visiones y fenómenos asociados?
+9. **Conocimiento extraordinario:** ¿existen casos bien documentados donde conociera información que razonablemente no podía obtener por vías normales?
+10. **Evaluación concreta:** ¿cada afirmación importante sobrevive al examen documental independientemente de su reputación general?
+
+Ningún punto, por sí solo, garantiza el resultado.
+
+## ¿Qué conclusión deja entonces este primer capítulo?
+
+La Biblia no ofrece una credencial única que podamos buscar en Ellen White.
+
+Tampoco permite autenticar a alguien simplemente porque tenga visiones, acierte predicciones, produzca buenos frutos o diga cosas verdaderas.
+
+Pero sí ofrece criterios suficientes para construir una investigación falsable.
+
+Podemos preguntar qué anunció, qué ocurrió, qué enseñó, de dónde obtuvo información, qué produjo su ministerio y cómo describió el origen de sus mensajes.
+
+Con esos criterios fijados antes de examinarla, ya podemos evitar adaptar la prueba al resultado.
+
+## ¿Cuál es la siguiente pregunta?
+
+Ahora sí podemos pasar de los criterios a la persona:
+
+**¿Qué afirmó realmente Ellen G. White sobre su propio don y sobre el origen de sus mensajes?**
