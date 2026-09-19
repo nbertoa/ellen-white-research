@@ -72,6 +72,7 @@ Pasajes estudiados hasta ahora:
 - 1 Tesalonicenses 5:19-22: las profecías no deben despreciarse ni aceptarse automáticamente; deben examinarse y conservar sólo lo que supera la prueba.
 - 1 Corintios 14:29-33: incluso dentro de una comunidad que reconoce el don profético, lo dicho por los profetas debe ser evaluado por otros.
 - Jeremías 23:16-32: una visión, sueño o mensaje debe distinguirse de ideas propias falsamente atribuidas a Dios; tomar material ajeno sólo se vuelve directamente problemático cuando se presenta falsamente como revelación divina.
+- Ezequiel 13: la sinceridad subjetiva no basta; los falsos profetas pueden seguir su propio espíritu, ofrecer falsa seguridad y producir efectos morales dañinos.
 
 El capítulo 1 está en desarrollo.
 
