@@ -1030,6 +1030,96 @@ Podemos trabajar con esta posición metodológica provisional:
 
 Al mismo tiempo, debemos conservar la objeción cesacionista basada en Efesios 2:20 y en la naturaleza autoritativa de la profecía. Si durante la investigación concluimos que el Nuevo Testamento enseña de manera convincente que toda profecía terminó con la etapa fundacional, eso afectaría directamente la posibilidad del caso de Ellen White.
 
+## ¿Puede un escrito inspirado surgir de investigación y del uso de fuentes humanas?
+
+Sí. El prólogo de Lucas es especialmente importante para este proyecto porque muestra que inspiración y utilización de medios humanos no tienen por qué ser categorías opuestas.
+
+Lucas 1:1-4 dice que “muchos” ya habían intentado escribir relatos sobre los acontecimientos relacionados con Jesús, que esos hechos habían sido transmitidos por testigos oculares y servidores de la palabra, y que el autor decidió escribir también después de investigar cuidadosamente todo desde el principio para presentarlo de manera ordenada a Teófilo.
+
+El proceso que describe incluye:
+
+1. tradiciones recibidas;
+2. testigos anteriores;
+3. relatos ya existentes;
+4. investigación;
+5. selección y organización del material;
+6. redacción dirigida a un destinatario concreto.
+
+Eso no se parece a un modelo de inspiración entendido como dictado palabra por palabra sin participación humana.
+
+## ¿Lucas dice explícitamente que copió libros anteriores?
+
+No exactamente.
+
+El prólogo dice que conocía la existencia de muchos relatos anteriores y que la tradición había llegado mediante testigos oculares. También afirma haber investigado cuidadosamente.
+
+Eso basta para demostrar que su obra nace dentro de un proceso de transmisión e investigación.
+
+Además, la mayoría de los especialistas en los evangelios sinópticos considera que Mateo y Lucas utilizaron Marcos como fuente literaria, aunque las reconstrucciones exactas de las demás fuentes siguen siendo discutidas.
+
+Por eso es razonable afirmar que Lucas trabajó con fuentes; pero debemos distinguir entre lo que Lucas 1:1-4 dice explícitamente y las conclusiones posteriores de la crítica sinóptica.
+
+## ¿Lucas era un profeta?
+
+El Nuevo Testamento no llama “profeta” al autor de Lucas-Hechos.
+
+La tradición cristiana identifica al autor con Lucas, compañero de Pablo, y el evangelio forma parte del canon cristiano. Por eso, dentro de la teología cristiana que acepta el canon, se considera un escrito inspirado.
+
+Pero **autor inspirado** y **profeta** no son necesariamente categorías idénticas.
+
+No necesitamos convertir a Lucas en profeta para que su caso sea relevante.
+
+Lo que demuestra es algo distinto:
+
+> **un texto considerado inspirado puede incorporar investigación histórica, testimonios, tradiciones previas y fuentes humanas.**
+
+## ¿Qué implica esto para estudiar la dependencia literaria de Ellen White?
+
+Implica que la pregunta:
+
+> “¿Usó Ellen White otros libros?”
+
+no puede funcionar por sí sola como prueba contra inspiración.
+
+El caso de Lucas impide adoptar un modelo según el cual cualquier uso de fuentes humanas sea incompatible con que Dios guíe a un autor.
+
+La cuestión más importante será:
+
+> **¿qué afirmó Ellen White acerca del origen de un pasaje concreto y coincide esa afirmación con el origen que podemos reconstruir históricamente?**
+
+Si utilizó una fuente humana y nunca afirmó haber recibido ese contenido palabra por palabra mediante una visión, la dependencia literaria no refuta por sí misma su inspiración.
+
+Si, en cambio, afirmó explícitamente haber recibido de manera directa y sobrenatural información que podemos demostrar que obtuvo de otra fuente, entonces el problema sería mucho más serio.
+
+## ¿Esto resuelve de antemano el problema del uso literario de Ellen White?
+
+No.
+
+Lucas demuestra que **usar fuentes es compatible con un modelo bíblico de inspiración**.
+
+No demuestra que cualquier forma de utilización de fuentes sea aceptable.
+
+Todavía habrá que investigar:
+
+- cuánto material utilizó Ellen White;
+- de qué manera lo transformó;
+- si conocía las fuentes;
+- si las atribuía;
+- qué prácticas editoriales eran normales en su época;
+- qué papel tuvieron sus asistentes;
+- qué afirmó ella misma sobre el origen de sus escritos;
+- y si esas afirmaciones son compatibles con la evidencia documental.
+
+## ¿Qué criterio metodológico podemos conservar del caso de Lucas?
+
+Éste:
+
+> **La existencia de una fuente humana no descarta inspiración; lo decisivo es si la descripción del proceso de inspiración y del origen del material coincide con la evidencia.**
+
+Esto modifica una de nuestras preguntas anteriores. No debemos investigar sólo “¿de dónde salió este material?”, sino también:
+
+> **“¿Era compatible ese modo de obtenerlo con lo que la propia autora afirmaba que significaba estar inspirada?”**
+
 ## ¿Qué criterios bíblicos hemos establecido realmente?
 
 Después de revisar los pasajes principales, no aparece una única prueba capaz de decidir por sí sola si alguien es profeta.
