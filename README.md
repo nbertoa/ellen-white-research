@@ -80,7 +80,7 @@ Pasajes estudiados hasta ahora:
 - Lucas 1:1-4: un escrito considerado inspirado puede surgir mediante investigación, testigos, tradición y fuentes humanas; la dependencia literaria no refuta por sí sola inspiración, y debe distinguirse del problema de atribuir falsamente a revelación directa el origen de un material.
 - Matriz bíblica provisional: los criterios se separan entre descalificadores fuertes, evidencias favorables no concluyentes, controles de origen y procedimientos de discernimiento; no se usará puntuación numérica.
 
-El capítulo 1 tiene ya una matriz bíblica provisional cerrada y el siguiente paso es estudiar qué afirmó Ellen G. White sobre su propio don.
+El capítulo 1 tiene una matriz bíblica provisional cerrada. Antes de estudiar las afirmaciones de Ellen G. White se abrió el capítulo 2 para distinguir inspiración, revelación, acto profético y ministerio profético.
 
 ## ¿Cuál es la regla maestra?
 
