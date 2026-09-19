@@ -756,6 +756,107 @@ Para estudiar a Ellen White esto nos obligará a investigar, cuando corresponda:
 
 No bastará con demostrar que manejó dinero. Habrá que demostrar una relación entre **interés** y **mensaje**.
 
-## ¿Qué pregunta queda abierta después de Miqueas 3?
+## ¿Qué podemos aprender realmente de Balaam sin simplificar su historia?
 
-Antes de cerrar los criterios bíblicos conviene estudiar un caso que combina revelación, dinero y motivaciones ambiguas: **¿qué podemos aprender realmente de Balaam sin simplificar su historia?**
+Balaam es uno de los casos más útiles precisamente porque no encaja bien en categorías simples.
+
+Números 22-24 lo presenta como un extranjero contratado por Balac para maldecir a Israel. Sin embargo, Balaam insiste en que ni una casa llena de plata y oro le permitiría ir más allá de lo que YHWH le ordene. Más adelante, el propio relato dice que YHWH pone palabras en su boca y Balaam termina bendiciendo a Israel en lugar de maldecirlo.
+
+Eso significa que, en esos episodios concretos, **Balaam pronuncia palabras que el narrador atribuye realmente a Dios**.
+
+## ¿Entonces Balaam era un profeta verdadero?
+
+La Biblia no ofrece una respuesta simple.
+
+Números 22-24 lo presenta recibiendo mensajes divinos auténticos. Pero Josué 13:22 lo llama *qosem*, “adivino” o “practicante de adivinación”, y otros textos bíblicos posteriores lo evalúan de manera muy negativa.
+
+Por eso conviene distinguir:
+
+1. **¿pronunció Balaam algunas palabras realmente dadas por Dios?**
+2. **¿fue Balaam, como persona y como ministerio, un modelo de profeta fiel?**
+
+La primera pregunta recibe una respuesta positiva dentro de Números 22-24. La segunda es mucho más difícil de sostener.
+
+## ¿El dinero logró que Balaam cambiara el mensaje de Dios?
+
+No en los oráculos de Números 22-24.
+
+Balac lo contrata para maldecir a Israel, pero Balaam no consigue hacer lo que el rey quiere. Números 23:5 dice explícitamente que YHWH pone una palabra en su boca. Números 24:13 vuelve a decir que ni plata ni oro le permitirían decir por voluntad propia algo diferente de lo que YHWH dijera.
+
+Deuteronomio 23:4-5 resume la historia diciendo que Balaam fue contratado para maldecir a Israel, pero que YHWH convirtió la maldición en bendición.
+
+Por tanto, Balaam **no sirve como ejemplo simple de un profeta que altera el oráculo porque le pagan**.
+
+## ¿Por qué entonces otros textos lo relacionan con avaricia?
+
+Porque la tradición bíblica posterior lo evalúa negativamente.
+
+2 Pedro 2:15 dice que Balaam “amó el salario de la injusticia”. Judas 11 habla de quienes se precipitan por ganancia en el error de Balaam.
+
+Eso muestra que, para esos autores, el deseo de recompensa forma parte de su fracaso moral.
+
+Pero debemos evitar leer esa evaluación posterior de forma que borre un dato igualmente claro de Números 22-24: mientras pronuncia los oráculos, Balaam termina diciendo lo contrario de lo que su cliente desea.
+
+## ¿Qué hizo Balaam después que vuelve tan negativa su figura?
+
+Números 31:16 atribuye a Balaam el consejo que llevó a los israelitas a ser infieles a YHWH en el episodio de Peor.
+
+Apocalipsis 2:14 conserva la misma tradición y afirma que Balaam enseñó a Balac a poner tropiezo delante de Israel, relacionado con idolatría e inmoralidad sexual.
+
+Eso produce una paradoja importante:
+
+- Balaam no logra maldecir a Israel mediante un oráculo;
+- pero después aparece asociado con una estrategia para hacerlo caer mediante desobediencia.
+
+## ¿Puede alguien transmitir una palabra verdadera de Dios y seguir siendo moralmente corrupto?
+
+El caso de Balaam muestra que, dentro de la propia Biblia, sí puede ocurrir algo muy cercano a eso.
+
+El narrador puede atribuir palabras concretas de Balaam a Dios y, al mismo tiempo, otros textos bíblicos presentar a Balaam como adivino, codicioso y responsable de llevar a Israel al pecado.
+
+Esto impide dos razonamientos demasiado simples:
+
+> “Si una persona transmitió una palabra auténtica de Dios, entonces todo su ministerio queda autenticado.”
+
+y:
+
+> “Si una persona terminó moralmente desacreditada, entonces ninguna palabra verdadera pudo haber salido de su boca.”
+
+Balaam obliga a evaluar cada nivel por separado.
+
+## ¿Eso contradice el criterio de Mateo 7 sobre los frutos?
+
+No necesariamente.
+
+Mateo 7 dice que el fruto sirve para reconocer al falso profeta, pero no afirma que una persona moralmente mala sea incapaz de pronunciar una afirmación verdadera o incluso transmitir, en una ocasión concreta, un mensaje que Dios utilice.
+
+Balaam ayuda a precisar el criterio: **el fruto sirve para evaluar a la persona y su ministerio, pero la verdad o falsedad de una afirmación concreta también debe evaluarse por su propio contenido y origen.**
+
+## ¿Qué significa que Josué lo llame “adivino”?
+
+Josué 13:22 llama a Balaam *qosem*, término relacionado con adivinación y normalmente evaluado negativamente en la legislación bíblica.
+
+Eso refuerza que la Biblia no necesita reconocer a Balaam como profeta fiel para afirmar que Dios pudo hablarle y poner palabras en su boca.
+
+La investigación moderna también reconoce esta ambivalencia: Balaam aparece en distintas tradiciones bíblicas como una figura difícil de reducir a una sola categoría, a veces cercano a un vidente poderoso en contacto con la divinidad y otras veces presentado de manera fuertemente negativa.
+
+## ¿Qué criterio podemos conservar del caso de Balaam?
+
+Podemos formularlo así:
+
+> **Una palabra verdadera o incluso una intervención divina auténtica no autentica automáticamente toda la persona, todas sus motivaciones ni todo su ministerio.**
+
+Y también lo inverso:
+
+> **La corrupción moral de un mensajero no convierte retrospectivamente en falsas todas las afirmaciones concretas que puedan demostrarse verdaderas o que el propio texto atribuya a Dios.**
+
+Para nuestro estudio de Ellen White esto será muy importante. No podremos razonar:
+
+- “acertó esto, por lo tanto era profeta”;
+- ni “encontramos una falla moral o histórica, por lo tanto todo lo demás es falso”.
+
+Cada tipo de evidencia deberá conservar exactamente el peso que realmente tiene.
+
+## ¿Qué pregunta queda abierta después de Balaam?
+
+El caso de Balaam muestra que incluso un mensaje auténtico no autentica automáticamente al mensajero. La siguiente pregunta es: **¿existen otros casos bíblicos donde Dios comunique algo verdadero mediante personas que no son modelos de profetas fieles, y qué nos enseña eso sobre el valor probatorio de una experiencia sobrenatural?**
