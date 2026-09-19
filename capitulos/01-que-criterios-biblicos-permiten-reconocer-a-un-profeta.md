@@ -936,6 +936,100 @@ Para nuestro estudio de Ellen White, esto refuerza una regla que ya apareció co
 
 > **un acierto concreto debe evaluarse como un acierto concreto; no puede convertirse automáticamente en prueba de que toda la persona o todo su ministerio sean proféticos.**
 
-## ¿Qué pregunta queda abierta después de Caifás?
+## ¿La Biblia permite esperar profetas cristianos más allá de los apóstoles?
 
-Con Balaam y Caifás queda claro que una palabra verdadera no autentica automáticamente al mensajero. Antes de cerrar esta parte conviene preguntar: **¿qué otros casos bíblicos muestran que Dios puede comunicar verdad mediante agentes inesperados, y hasta qué punto esos casos son realmente comparables con un ministerio profético estable?**
+El Nuevo Testamento deja claro que el don profético no estuvo limitado a los Doce ni a Pablo.
+
+En Hechos aparecen profetas en Antioquía, Agabo es llamado profeta, las cuatro hijas de Felipe profetizan y 1 Corintios regula profecías dentro de una congregación normal. Hechos 2, además, interpreta el derramamiento del Espíritu de Joel en términos amplios: hijos e hijas profetizarán.
+
+Por tanto, **profecía y apostolado no son categorías idénticas**.
+
+## ¿Eso demuestra que habría profetas en el siglo XIX?
+
+No.
+
+Los ejemplos del Nuevo Testamento muestran profecía durante la época apostólica. Por sí solos no demuestran cuánto tiempo continuaría después.
+
+La pregunta específica es si el Nuevo Testamento enseña que el don debía terminar con los apóstoles o con la formación del canon.
+
+## ¿Hay algún texto que diga explícitamente que la profecía terminaría cuando murieran los apóstoles o se completara la Biblia?
+
+No hay un texto que lo diga de esa manera.
+
+1 Corintios 13:8 afirma que las profecías cesarán, pero sitúa su desaparición cuando llegue “lo perfecto” y contrasta el conocimiento parcial actual con un conocimiento posterior “cara a cara”.
+
+El pasaje no menciona explícitamente la muerte de los apóstoles ni la formación del canon.
+
+## ¿Entonces 1 Corintios 13 demuestra que la profecía continuará hasta la segunda venida?
+
+Es un argumento importante, pero no conviene presentarlo como indiscutible.
+
+La expresión “cara a cara” y la comparación entre conocimiento parcial y conocimiento pleno favorecen una lectura escatológica: la condición final asociada con la presencia de Cristo.
+
+Incluso Thomas Schreiner, defendiendo una forma de cesacionismo, reconoce que 1 Corintios 13:8-13 constituye un buen argumento a favor de que los dones duren hasta la segunda venida, aunque sostiene que el texto no obliga a concluir que todos deban permanecer activos hasta entonces.
+
+Por tanto, el pasaje favorece la continuidad, pero no resuelve por sí solo todo el debate.
+
+## ¿Qué argumento bíblico fuerte existe a favor de que los profetas hayan cesado?
+
+Efesios 2:20 es probablemente uno de los argumentos más fuertes.
+
+Pablo dice que la iglesia está edificada sobre el fundamento de los apóstoles y profetas, con Cristo como piedra angular.
+
+El argumento cesacionista sostiene que un fundamento se coloca una vez. Si apóstoles y profetas desempeñaban conjuntamente esa función fundacional y transmitían revelación autoritativa, su función habría terminado una vez establecido el fundamento apostólico.
+
+Éste no es un argumento trivial y debemos conservarlo cuando evaluemos la posibilidad de una profetisa posterior.
+
+## ¿Efesios 2:20 dice explícitamente que todos los profetas posteriores son imposibles?
+
+No.
+
+El versículo afirma una función fundacional de “apóstoles y profetas”, pero no dice expresamente que toda manifestación profética posible pertenezca exclusivamente a esa función ni que el don termine después.
+
+La objeción adquiere más fuerza si primero se demuestra que **todo profeta del Nuevo Testamento poseía exactamente la misma autoridad fundacional e infalible**.
+
+Ése es precisamente uno de los puntos discutidos entre cesacionistas y continuacionistas.
+
+## ¿Qué dificultad plantea Efesios 4:11-13 para una cesación inmediata?
+
+La misma carta vuelve a mencionar apóstoles, profetas, evangelistas, pastores y maestros como dones dados para edificar el cuerpo de Cristo “hasta” alcanzar unidad, conocimiento y madurez en la plenitud de Cristo.
+
+Ese lenguaje puede leerse naturalmente como una función que acompaña la edificación continua de la iglesia.
+
+Sin embargo, un cesacionista puede responder que no todos los ministerios de la lista tienen necesariamente la misma duración y que los apóstoles y profetas pudieron desempeñar una función inicial mientras los demás continuaron.
+
+Por tanto, Efesios 4 tampoco resuelve solo la cuestión.
+
+## ¿Qué muestra Hechos sobre profetas que no eran apóstoles?
+
+Hechos 11 llama profeta a Agabo y dice que mediante el Espíritu anunció una gran hambre.
+
+Hechos 21 vuelve a llamarlo profeta y registra otra predicción. En el mismo capítulo menciona a las cuatro hijas de Felipe, que profetizaban.
+
+Estos casos demuestran que en el cristianismo primitivo **el don profético no estaba restringido al oficio apostólico ni a los autores de libros bíblicos**.
+
+## ¿Qué podemos concluir sin resolver todavía todo el debate entre cesacionismo y continuacionismo?
+
+Podemos afirmar algo limitado pero importante:
+
+> **La Biblia no permite descartar a Ellen White de antemano simplemente por haber vivido después de los apóstoles.**
+
+El Nuevo Testamento reconoce profetas que no eran apóstoles y no contiene una afirmación explícita de que la profecía terminaría al cerrarse el canon.
+
+Pero tampoco podemos invertir el argumento:
+
+> **Que la continuación del don sea bíblicamente posible no demuestra que Ellen White haya poseído ese don.**
+
+Su caso todavía debe superar todos los criterios que hemos establecido.
+
+## ¿Qué debemos fijar antes de empezar a evaluar a Ellen White?
+
+Podemos trabajar con esta posición metodológica provisional:
+
+> **La existencia de un profeta cristiano posterior al período apostólico no queda excluida de manera concluyente por los textos bíblicos estudiados; por tanto, la pretensión debe evaluarse por la evidencia, no rechazarse por fecha.**
+
+Al mismo tiempo, debemos conservar la objeción cesacionista basada en Efesios 2:20 y en la naturaleza autoritativa de la profecía. Si durante la investigación concluimos que el Nuevo Testamento enseña de manera convincente que toda profecía terminó con la etapa fundacional, eso afectaría directamente la posibilidad del caso de Ellen White.
+
+## ¿Qué pregunta queda abierta antes de aplicar los criterios?
+
+Ya podemos formular una matriz bíblica provisional. La siguiente pregunta es: **¿qué criterios hemos establecido realmente y cuáles de ellos pueden autenticar, descartar o solamente aportar evidencia parcial sobre un supuesto profeta?**
