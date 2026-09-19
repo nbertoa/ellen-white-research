@@ -1,8 +1,10 @@
-# Ellen White Research
+# ¿Tuvo Ellen G. White el don de profecía?
+
+Repositorio: Ellen White Research
 
 Repositorio de investigación para el libro cuya pregunta central es:
 
-> **¿Reúne Ellen G. White las credenciales necesarias para ser considerada una profeta auténtica?**
+> **¿Tuvo Ellen G. White el don de profecía?**
 
 El proyecto no parte de que Ellen White fue profeta ni de que fue falsa profetisa. La conclusión debe surgir de la evidencia y puede ser favorable, desfavorable, mixta o indeterminada.
 
@@ -80,7 +82,7 @@ Pasajes estudiados hasta ahora:
 - Lucas 1:1-4: un escrito considerado inspirado puede surgir mediante investigación, testigos, tradición y fuentes humanas; la dependencia literaria no refuta por sí sola inspiración, y debe distinguirse del problema de atribuir falsamente a revelación directa el origen de un material.
 - Matriz bíblica provisional: los criterios se separan entre descalificadores fuertes, evidencias favorables no concluyentes, controles de origen y procedimientos de discernimiento; no se usará puntuación numérica.
 
-El capítulo 1 tiene una matriz bíblica provisional cerrada. Antes de estudiar las afirmaciones de Ellen G. White se abrió el capítulo 2 para distinguir inspiración, revelación, acto profético y ministerio profético.
+El orden de trabajo quedó fijado así: capítulo 1 distingue impresión, iluminación, inspiración, revelación, profecía y don de profecía; capítulo 2 reúne las credenciales bíblicas de un profeta; desde el capítulo 3 se aplicarán esos criterios a Ellen G. White.
 
 ## ¿Cuál es la regla maestra?
 
