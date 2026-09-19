@@ -77,8 +77,9 @@ Pasajes estudiados hasta ahora:
 - Balaam (Números 22-24 y textos posteriores): una palabra auténtica no autentica automáticamente todo el mensajero, y una figura moralmente condenada puede haber pronunciado mensajes concretos que el propio texto atribuye a Dios.
 - Caifás (Juan 11:49-52): una declaración puede ser interpretada por el propio texto como profética aunque el hablante no comprenda plenamente su significado ni quede autenticado globalmente como profeta.
 - Continuidad del don profético: el NT reconoce profetas no apostólicos y no vincula explícitamente el fin de la profecía con el cierre del canon; Efesios 2:20 constituye la principal objeción fundacional y queda como cuestión abierta relevante.
+- Matriz bíblica provisional: los criterios se separan entre descalificadores fuertes, evidencias favorables no concluyentes, controles de origen y procedimientos de discernimiento; no se usará puntuación numérica.
 
-El capítulo 1 está en desarrollo.
+El capítulo 1 tiene ya una matriz bíblica provisional cerrada y el siguiente paso es estudiar qué afirmó Ellen G. White sobre su propio don.
 
 ## ¿Cuál es la regla maestra?
 
