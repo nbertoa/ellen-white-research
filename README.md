@@ -74,6 +74,7 @@ Pasajes estudiados hasta ahora:
 - Jeremías 23:16-32: una visión, sueño o mensaje debe distinguirse de ideas propias falsamente atribuidas a Dios; tomar material ajeno sólo se vuelve directamente problemático cuando se presenta falsamente como revelación divina.
 - Ezequiel 13: la sinceridad subjetiva no basta; los falsos profetas pueden seguir su propio espíritu, ofrecer falsa seguridad y producir efectos morales dañinos.
 - Miqueas 3:5-12: el dinero no desacredita por sí mismo a un profeta; el problema aparece cuando el interés personal condiciona el mensaje o corrompe la función religiosa.
+- Balaam (Números 22-24 y textos posteriores): una palabra auténtica no autentica automáticamente todo el mensajero, y una figura moralmente condenada puede haber pronunciado mensajes concretos que el propio texto atribuye a Dios.
 
 El capítulo 1 está en desarrollo.
 
