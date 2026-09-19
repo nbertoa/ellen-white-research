@@ -68,6 +68,7 @@ Pasajes estudiados hasta ahora:
 - 1 Reyes 13: una nueva afirmación de revelación no queda autenticada sólo por el estatus del mensajero.
 - Mateo 7:15-23: los falsos profetas deben evaluarse por sus frutos, no sólo por dones o manifestaciones extraordinarias.
 - 1 Juan 4:1-6: las afirmaciones espirituales deben probarse y su contenido acerca de Jesús debe concordar con el testimonio apostólico.
+- Isaías 8:19-20: la orientación sobrenatural debe contrastarse con la instrucción/testimonio divinos; el texto no debe leerse anacrónicamente como referencia directa a un canon posterior.
 
 El capítulo 1 está en desarrollo.
 
