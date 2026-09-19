@@ -571,6 +571,90 @@ Y, para nuestro estudio posterior sobre fuentes:
 
 > **El uso de material previo no es por sí mismo una prueba contra inspiración; el problema aparece si una fuente humana se presenta falsamente como revelación divina directa.**
 
-## ¿Qué pregunta queda abierta después de Jeremías 23?
+## ¿Qué agrega Ezequiel 13 sobre los falsos profetas?
 
-Todavía conviene estudiar un texto muy cercano: **¿qué agrega Ezequiel 13 cuando acusa a falsos profetas de “ver visiones falsas” y de anunciar paz cuando no hay paz?**
+Ezequiel 13 retoma varios problemas de Jeremías 23, pero agrega un matiz importante: los falsos profetas no sólo atribuyen a Dios mensajes que él no dio; también parecen seguir **su propio espíritu** y “no haber visto nada”.
+
+El texto los acusa de decir “declara YHWH” cuando YHWH no los había enviado ni había hablado.
+
+Eso significa que una afirmación profética puede ser falsa aunque se presente con plena seguridad religiosa.
+
+## ¿El falso profeta tiene que estar engañando deliberadamente?
+
+Ezequiel 13 no permite afirmarlo en todos los casos.
+
+El texto los acusa de falsedad y de visiones engañosas, pero también dice que “esperan” que su palabra se cumpla. Eso deja abierta la posibilidad de que algunos creyeran realmente en sus propias afirmaciones.
+
+Por tanto:
+
+> **la sinceridad del mensajero no demuestra el origen divino del mensaje.**
+
+Una persona puede estar convencida de haber recibido algo de Dios y aun así estar siguiendo su propia imaginación.
+
+## ¿Qué significa que anuncien “paz” cuando no hay paz?
+
+Los falsos profetas ofrecen seguridad cuando la realidad es otra.
+
+Ezequiel utiliza la imagen de una pared débil recubierta con una capa que la hace parecer sólida. El problema de esos profetas no es sólo que hagan una predicción equivocada; es que **ocultan la fragilidad real de la situación mediante un mensaje tranquilizador**.
+
+Cuando llega la tormenta, la pared cae y queda expuesto que el recubrimiento nunca la había fortalecido.
+
+## ¿Qué criterio aporta la imagen de la pared recubierta?
+
+Que un mensaje profético debe evaluarse también por su relación con la realidad que pretende describir.
+
+Un mensaje puede sonar espiritual, consolador y seguro y, sin embargo, limitarse a cubrir un problema que sigue intacto.
+
+Por eso, el carácter tranquilizador de una profecía no constituye evidencia a favor de su autenticidad.
+
+## ¿Hay falsos profetas concretos que ilustren este patrón?
+
+Ezequiel 13 denuncia a los “profetas de Israel” como grupo y no da sus nombres.
+
+El paralelo más cercano con nombre propio sigue siendo Hananías en Jeremías 28, que promete una rápida restauración frente al dominio babilónico.
+
+Jeremías 6 y 8 también utilizan la expresión “paz, paz, cuando no hay paz” contra dirigentes religiosos que tratan superficialmente la crisis del pueblo.
+
+## ¿Qué ocurre con las mujeres que profetizan en Ezequiel 13:17-23?
+
+La segunda mitad del capítulo denuncia a mujeres que también “profetizan de su propio corazón”.
+
+El texto describe bandas, velos y prácticas mediante las cuales “cazan vidas”, pero el significado exacto de esos objetos y rituales es difícil de reconstruir.
+
+Algunas traducciones y comentarios tradicionales hablan de prácticas mágicas o de adivinación. Sin embargo, investigaciones modernas advierten que el hebreo de esta sección es especialmente oscuro y que no podemos saber con seguridad qué hacían exactamente esas mujeres.
+
+Por eso no conviene convertir detalles inciertos del ritual en parte de nuestro criterio.
+
+## ¿Está claro que esas mujeres profetizaban por dinero?
+
+No completamente.
+
+Ezequiel 13:19 menciona puñados de cebada y trozos de pan. Muchas traducciones e interpretaciones han entendido que eran pagos.
+
+Pero el hebreo permite discusión, y estudios recientes señalan que no está claro que el texto describa literalmente una tarifa por servicios proféticos.
+
+El principio seguro no es “un profeta que recibe dinero es falso”.
+
+El principio seguro es que **esas mujeres atribuyen autoridad divina a prácticas y mensajes que Ezequiel considera falsos y perjudiciales**.
+
+## ¿Qué efecto producen sus mensajes?
+
+El texto afirma que hacen morir a quienes no deberían morir y mantienen con vida a quienes no deberían vivir; después lo expresa de otra manera: entristecen al justo con mentiras y fortalecen las manos del malvado para que no abandone su camino.
+
+Ese paralelismo aclara el criterio moral:
+
+> **la falsa profecía puede invertir la evaluación moral de la realidad: desalentar al justo y tranquilizar al malvado.**
+
+## ¿Qué criterio podemos conservar de Ezequiel 13?
+
+Podemos formular tres conclusiones:
+
+1. **La convicción personal del mensajero no demuestra inspiración; una persona puede seguir su propio espíritu creyendo que su palabra se cumplirá.**
+2. **Un mensaje tranquilizador no es verdadero por ser tranquilizador; debe corresponder con la realidad y con el mensaje de Dios.**
+3. **El efecto moral del mensaje importa: una profecía que fortalece persistentemente al malvado o condena falsamente al justo es problemática.**
+
+Para Ellen White esto significará que su sinceridad personal será relevante para evaluar su carácter, pero no podrá utilizarse como prueba suficiente de inspiración.
+
+## ¿Qué pregunta queda abierta después de Ezequiel 13?
+
+Ya tenemos criterios bastante amplios. Antes de cerrar esta primera etapa conviene preguntar: **¿qué enseña Miqueas 3 sobre profetas cuyo mensaje puede estar condicionado por dinero, conveniencia o interés personal?**
