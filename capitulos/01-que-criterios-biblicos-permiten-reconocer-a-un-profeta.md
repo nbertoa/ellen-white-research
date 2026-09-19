@@ -172,12 +172,76 @@ Pero debemos agregar una cautela:
 
 Cuando lleguemos a Ellen White tendremos que investigar tanto su vida como los resultados de sus enseñanzas, sin seleccionar sólo episodios edificantes ni sólo fallas personales.
 
-## ¿Qué pregunta queda abierta después de Mateo 7?
+## ¿Qué significa “probar los espíritus” en 1 Juan 4?
 
-Todavía queda una prueba más específica: **¿qué significa “probar los espíritus” y qué criterio establece 1 Juan 4 para evaluar a quienes afirman hablar por inspiración?**
+1 Juan 4:1 comienza con una advertencia sencilla: **no hay que creer automáticamente toda afirmación de inspiración**. El autor pide “probar los espíritus” porque “muchos falsos profetas” han salido al mundo.
 
-## ¿Qué otra prueba bíblica debemos estudiar ahora?
+En el contexto, “probar los espíritus” significa examinar la fuente de una afirmación religiosa que pretende proceder de Dios. El hecho de que alguien hable en términos espirituales o proféticos no basta.
 
-Hasta aquí sabemos dos cosas: una señal cumplida no basta para autenticar a un profeta, y una predicción incondicional fallida constituye evidencia contra la afirmación profética.
+## ¿Qué criterio concreto ofrece 1 Juan 4?
 
-La siguiente pregunta es distinta: **¿qué ocurre cuando el problema no es una predicción, sino el contenido y el fruto del mensaje?**
+El criterio central de 1 Juan 4:2-3 es cristológico: el espíritu que confiesa a Jesucristo venido en carne es de Dios; el que no confiesa a Jesús no es de Dios.
+
+Por tanto, la pretensión profética debe evaluarse también por **lo que afirma acerca de Jesús**.
+
+El texto no está preguntando solamente si el mensajero usa el nombre de Jesús. Está distinguiendo entre una enseñanza que confiesa verdaderamente a Jesús y otra que lo niega.
+
+## ¿Qué significa que Jesucristo “ha venido en carne”?
+
+Como mínimo, afirma que el Cristo vino realmente en existencia humana. El pasaje impide separar la revelación espiritual de la realidad concreta de Jesús.
+
+A menudo se ha interpretado esta frase como una respuesta contra formas tempranas de docetismo —la idea de que Jesús sólo parecía ser humano— o contra otras cristologías que separaban indebidamente al Cristo del Jesús humano. Esa reconstrucción histórica es posible y ha sido muy influyente, pero no es completamente segura: la identidad y las doctrinas exactas de los adversarios de 1 Juan siguen siendo discutidas.
+
+Para nuestro criterio no necesitamos resolver toda esa discusión. El punto textual seguro es más simple: **una supuesta inspiración que niega la identidad y realidad de Jesucristo tal como la comunidad apostólica la recibió no procede de Dios según 1 Juan.**
+
+## ¿Basta con pronunciar correctamente una frase sobre Jesús para demostrar inspiración?
+
+No deberíamos convertir el texto en una contraseña verbal.
+
+El mismo pasaje termina diciendo que quien conoce a Dios escucha el testimonio apostólico, y 2 Juan 7-9 vuelve sobre el mismo problema: llama engañadores a quienes no confiesan a Jesucristo venido en carne y exige permanecer en la enseñanza de Cristo.
+
+Por tanto, el criterio no parece ser simplemente pronunciar determinadas palabras, sino mantener una enseñanza coherente con el testimonio apostólico acerca de Jesús.
+
+## ¿Quiénes eran los falsos profetas que fallaban esta prueba?
+
+1 Juan no da sus nombres.
+
+Sí dice que “muchos falsos profetas” han salido al mundo. En 1 Juan 2 también habla de adversarios que “salieron de nosotros” y describe como mentiroso y anticristo a quien niega que Jesús sea el Cristo y niega al Padre y al Hijo.
+
+Es muy probable que estos textos estén relacionados con el mismo conflicto o con adversarios muy próximos, pero no conviene afirmar más de lo que podemos demostrar. El documento identifica claramente el tipo de error; no nos permite reconstruir con total seguridad la identidad histórica de cada persona.
+
+2 Juan ofrece un paralelo todavía más directo: habla de “muchos engañadores” que no confiesan a Jesucristo venido en carne.
+
+## ¿Tenemos entonces un ejemplo de falsos profetas que no cumplen este criterio?
+
+Sí, aunque no son individuos identificados por nombre.
+
+Los propios falsos profetas mencionados en 1 Juan 4 constituyen el ejemplo: su error se reconoce precisamente porque su confesión acerca de Jesús no supera la prueba establecida por el autor. 2 Juan confirma que circulaban maestros o engañadores caracterizados por esa negación.
+
+A diferencia de Hananías o los profetas de Baal, aquí tenemos **un grupo de falsos maestros o profetas sin nombres propios**.
+
+## ¿Una cristología correcta demuestra que alguien es profeta verdadero?
+
+No.
+
+Como ocurría con Deuteronomio 13, este criterio funciona con mucha fuerza para excluir una pretensión incompatible con la revelación anterior, pero no demuestra por sí solo inspiración.
+
+Una persona puede creer correctamente que Jesús vino en carne sin ser profeta.
+
+Por eso, aprobar 1 Juan 4 será una condición relevante para cualquier profeta cristiano, pero no una prueba suficiente de autenticidad.
+
+## ¿Qué criterio podemos conservar de 1 Juan 4?
+
+Podemos formularlo así:
+
+> **Una afirmación de inspiración debe ser examinada por su fidelidad a Jesucristo y al testimonio apostólico acerca de él; la pretensión espiritual del mensajero no puede colocarse por encima de ese contenido.**
+
+Y una segunda regla metodológica:
+
+> **No hay que creer una afirmación simplemente porque se presente como procedente del Espíritu; debe ser probada.**
+
+Cuando estudiemos a Ellen White, esto nos obligará a preguntar no sólo si habló favorablemente de Jesús, sino si su enseñanza cristológica permanece coherente con el testimonio del Nuevo Testamento.
+
+## ¿Qué pregunta queda abierta después de 1 Juan 4?
+
+Todavía queda un texto muy utilizado como prueba profética, especialmente dentro del adventismo: **¿Isaías 8:20 enseña realmente que todo profeta debe ser evaluado por “la ley y el testimonio”, y qué significaban esas palabras en su contexto original?**
