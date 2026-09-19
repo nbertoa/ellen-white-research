@@ -108,6 +108,74 @@ Pero también debemos conservar la corrección aportada por Jeremías 18 y Joná
 
 Este criterio será especialmente importante cuando estudiemos las predicciones de Ellen White. No bastará con preguntar si algo “se cumplió” o “no se cumplió”. Habrá que reconstruir exactamente qué dijo, cuándo lo dijo, qué condiciones existían y qué resultado habría contado realmente como fracaso.
 
+
+## ¿Qué significa reconocer a los falsos profetas “por sus frutos”?
+
+Mateo 7:15-20 advierte que los falsos profetas pueden parecer ovejas por fuera y ser lobos por dentro. Eso significa que la primera impresión, la apariencia religiosa o incluso una reputación piadosa no bastan para evaluarlos.
+
+Jesús propone otra prueba: **“por sus frutos los conoceréis”**.
+
+La imagen del árbol y su fruto apunta a lo que una persona produce de manera característica. En el contexto inmediato, la advertencia continúa en Mateo 7:21-23 con personas que dicen “Señor, Señor”, profetizan, expulsan demonios y hacen obras poderosas en el nombre de Jesús, pero son rechazadas por practicar la maldad. Eso hace difícil reducir el “fruto” a dones extraordinarios o manifestaciones religiosas.
+
+## ¿El “fruto” se refiere sólo al carácter personal del profeta?
+
+No parece limitarse sólo a eso.
+
+El carácter y la conducta importan, pero también importa lo que el mensaje produce. Jeremías 23 describe a falsos profetas que cometen adulterio, viven en mentira y fortalecen a quienes hacen el mal, de modo que nadie se aparta de su maldad. Allí aparecen juntos el comportamiento del profeta y el efecto de su enseñanza.
+
+Por eso, el “fruto” puede evaluarse al menos en dos niveles:
+
+1. **cómo vive el supuesto profeta**;
+2. **qué clase de vida y conducta fomenta su mensaje**.
+
+No deberíamos reducirlo a simpatía, éxito, popularidad o crecimiento institucional.
+
+## ¿Un profeta verdadero tendría que ser moralmente perfecto?
+
+No. Ese estándar sería incompatible con otros personajes que la propia Biblia presenta como profetas y que cometieron errores o pecados.
+
+Por eso, Mateo 7 no puede utilizarse razonablemente como una exigencia de impecabilidad absoluta. La imagen del árbol sugiere más bien un patrón reconocible: qué produce habitualmente esa vida y ese ministerio.
+
+Una falla moral concreta puede ser grave, pero para aplicar este criterio habrá que estudiar su naturaleza, persistencia, reconocimiento, arrepentimiento y relación con el mensaje profético.
+
+## ¿Los milagros o dones espirituales cuentan como buen fruto?
+
+No necesariamente.
+
+El contexto inmediato es especialmente fuerte porque Mateo 7:22 menciona personas que afirman haber profetizado, expulsado demonios y hecho muchos milagros en el nombre de Jesús. Sin embargo, Jesús las rechaza.
+
+Por tanto:
+
+> **los dones extraordinarios no sustituyen el fruto moral y espiritual como criterio de discernimiento.**
+
+Esto coincide con Deuteronomio 13: una señal impresionante no autentica por sí sola al mensajero.
+
+## ¿Hay ejemplos bíblicos de falsos profetas con malos frutos?
+
+Sí.
+
+Jeremías 23 ofrece uno de los ejemplos más claros. Los profetas condenados allí viven en mentira, cometen adulterio y fortalecen a los malhechores en vez de llevarlos al arrepentimiento. El problema no es sólo que sus mensajes sean incorrectos; su ministerio produce y sostiene una cultura de maldad.
+
+Miqueas 3 agrega otro patrón: describe profetas que ajustan su mensaje según reciben alimento y que practican la adivinación por dinero, mientras aseguran que YHWH está con ellos.
+
+En el Nuevo Testamento, Apocalipsis 2:20 menciona a una mujer llamada simbólicamente “Jezabel”, que se presenta como profetisa y mediante su enseñanza conduce a los creyentes hacia inmoralidad sexual e idolatría. Es un ejemplo especialmente cercano al criterio de Mateo: la pretensión profética se evalúa también por aquello que la enseñanza produce.
+
+## ¿Qué criterio podemos conservar entonces de Mateo 7?
+
+Podemos formularlo así:
+
+> **La autenticidad profética no debe evaluarse sólo por afirmaciones de inspiración, señales o dones extraordinarios, sino también por el patrón moral del mensajero y por los efectos característicos de su enseñanza.**
+
+Pero debemos agregar una cautela:
+
+> **“Buen fruto” no significa éxito, popularidad ni ausencia absoluta de pecado.**
+
+Cuando lleguemos a Ellen White tendremos que investigar tanto su vida como los resultados de sus enseñanzas, sin seleccionar sólo episodios edificantes ni sólo fallas personales.
+
+## ¿Qué pregunta queda abierta después de Mateo 7?
+
+Todavía queda una prueba más específica: **¿qué significa “probar los espíritus” y qué criterio establece 1 Juan 4 para evaluar a quienes afirman hablar por inspiración?**
+
 ## ¿Qué otra prueba bíblica debemos estudiar ahora?
 
 Hasta aquí sabemos dos cosas: una señal cumplida no basta para autenticar a un profeta, y una predicción incondicional fallida constituye evidencia contra la afirmación profética.
