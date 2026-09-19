@@ -325,6 +325,84 @@ Y debemos agregar una cautela:
 
 Para nuestra investigación de Ellen White, la pregunta correcta no será simplemente “¿coincide con nuestra interpretación de la Biblia?”, sino algo más exigente: **¿alguna afirmación que ella atribuye a revelación contradice de manera clara una enseñanza bíblica suficientemente establecida?**
 
-## ¿Qué pregunta queda abierta después de Isaías 8:20?
+## ¿Qué criterio agrega 1 Tesalonicenses 5:19-22?
 
-Ya tenemos criterios sobre señales, predicciones, frutos, cristología y coherencia con revelación previa. La siguiente dificultad es: **¿la Biblia ordena evaluar las profecías dentro de la comunidad cristiana, incluso cuando el don profético es aceptado como real?**
+Pablo mantiene juntas dos obligaciones que podrían parecer opuestas.
+
+Por un lado dice: **no apaguen el Espíritu y no desprecien las profecías**.
+
+Por otro agrega inmediatamente: **examínenlo todo, retengan lo bueno y rechacen lo malo**.
+
+Eso significa que la respuesta cristiana a una pretensión profética no debe ser ni credulidad automática ni rechazo automático. El don profético puede ser real y, precisamente por eso, sus manifestaciones deben ser examinadas.
+
+## ¿“Examínenlo todo” se refiere especialmente a las profecías?
+
+El mandato puede formularse de manera amplia, pero el contexto inmediato hace muy probable que incluya especialmente las manifestaciones proféticas recién mencionadas.
+
+La secuencia es:
+
+1. no apaguen el Espíritu;
+2. no desprecien las profecías;
+3. examinen todo;
+4. retengan lo bueno;
+5. rechacen lo malo.
+
+El verbo griego *dokimazō* se usa para probar o examinar algo con el fin de determinar si es genuino o aprobado. El punto no es sospechar de todo indefinidamente, sino distinguir lo auténtico de lo que debe rechazarse.
+
+## ¿Esto significa que una profecía podía ser evaluada por otros creyentes?
+
+Sí.
+
+1 Corintios 14:29 confirma ese principio de manera todavía más explícita: pueden hablar dos o tres profetas y “los otros” deben evaluar lo dicho.
+
+Eso muestra que una afirmación profética dentro de la iglesia no quedaba automáticamente fuera de examen por haber sido pronunciada por alguien reconocido como profeta.
+
+## ¿Qué equilibrio establece este pasaje?
+
+Un equilibrio bastante preciso:
+
+> **No despreciar la profecía, pero tampoco creerla sin examen.**
+
+El escepticismo absoluto puede “apagar” una obra genuina del Espíritu.
+
+La aceptación acrítica puede permitir que una afirmación falsa sea recibida como palabra de Dios.
+
+El discernimiento bíblico se encuentra entre ambos extremos.
+
+## ¿Hay un ejemplo del Nuevo Testamento que muestre por qué hacía falta este examen?
+
+2 Tesalonicenses 2:1-3 ofrece un caso cercano.
+
+La comunidad recibe —o corre peligro de recibir— una afirmación acerca del día del Señor presentada mediante un “espíritu”, un mensaje o incluso una carta supuestamente procedente de Pablo. El autor les ordena no dejarse engañar.
+
+No conocemos el nombre de la persona que originó el mensaje y el pasaje no la llama explícitamente “falso profeta”. Pero muestra que una afirmación con apariencia profética o apostólica podía circular dentro de una comunidad cristiana y debía ser comprobada en lugar de aceptarse por su forma religiosa.
+
+## ¿Hay un falso profeta identificado por nombre que falle exactamente esta prueba?
+
+No tenemos un ejemplo narrativo que diga explícitamente: “esta persona profetizó en Tesalónica, la iglesia la examinó según 1 Tesalonicenses 5 y la rechazó”.
+
+Por eso no conviene fabricar uno.
+
+Lo que sí tenemos es el principio general confirmado por 1 Juan 4:1 —“prueben los espíritus”— y por 1 Corintios 14:29 —“evalúen” lo que dicen los profetas—.
+
+## ¿Aprobar el examen demuestra que alguien es profeta verdadero?
+
+No por sí solo.
+
+El texto dice que después del examen debe retenerse lo bueno y rechazarse lo malo. No define aquí todos los criterios concretos mediante los cuales se realiza la prueba.
+
+Esos criterios deben reconstruirse con los otros textos que estamos estudiando: fidelidad a Dios, cumplimiento de predicciones incondicionales, frutos, cristología y coherencia con revelación previa.
+
+## ¿Qué criterio podemos conservar de 1 Tesalonicenses 5?
+
+Podemos formularlo así:
+
+> **Toda pretensión profética debe ser examinada; ni el rechazo automático de la profecía ni su aceptación automática constituyen la actitud bíblica.**
+
+Y esto tiene una consecuencia importante para Ellen White:
+
+> **Que una comunidad la haya reconocido como profeta no elimina la obligación de examinar sus afirmaciones; pero la existencia de dificultades tampoco justifica descartarlas antes de investigarlas.**
+
+## ¿Qué pregunta queda abierta después de 1 Tesalonicenses 5?
+
+El siguiente texto vuelve esta exigencia todavía más concreta: **¿qué significa que, mientras unos profetas hablan, “los otros” deben juzgar o evaluar lo dicho en 1 Corintios 14:29?**
