@@ -655,6 +655,107 @@ Podemos formular tres conclusiones:
 
 Para Ellen White esto significará que su sinceridad personal será relevante para evaluar su carácter, pero no podrá utilizarse como prueba suficiente de inspiración.
 
-## ¿Qué pregunta queda abierta después de Ezequiel 13?
+## ¿Qué enseña Miqueas 3 sobre profetas condicionados por dinero o conveniencia?
 
-Ya tenemos criterios bastante amplios. Antes de cerrar esta primera etapa conviene preguntar: **¿qué enseña Miqueas 3 sobre profetas cuyo mensaje puede estar condicionado por dinero, conveniencia o interés personal?**
+Miqueas 3 denuncia a profetas cuyo mensaje cambia según reciben o no reciben beneficios.
+
+El versículo 5 dice que anuncian “paz” cuando tienen algo que comer, pero preparan guerra contra quien no pone nada en sus bocas.
+
+Más adelante, el versículo 11 amplía la acusación: los dirigentes juzgan por soborno, los sacerdotes enseñan por precio y los profetas “adivinan por dinero”, mientras todos siguen diciendo que YHWH está con ellos.
+
+El problema no es simplemente que exista dinero alrededor del ministerio. El problema es que **el contenido del mensaje queda condicionado por el beneficio recibido**.
+
+## ¿Significa esto que un profeta verdadero nunca puede recibir un regalo o sustento?
+
+No.
+
+1 Samuel 9:7-8 muestra a Saúl y su siervo preocupados por llevar un presente al “hombre de Dios”, identificado en el contexto como vidente o profeta. El relato no presenta ese regalo como algo corrupto.
+
+Por tanto, Miqueas 3 no permite formular la regla:
+
+> “Si un profeta recibe dinero o regalos, es falso.”
+
+El criterio debe ser más preciso.
+
+## ¿Qué vuelve corrupto el dinero en Miqueas 3?
+
+Que modifica el mensaje.
+
+Según Miqueas 3:5:
+
+- quien alimenta al profeta recibe “paz”;
+- quien no lo alimenta recibe “guerra”.
+
+Eso convierte la profecía en una transacción donde el contenido depende del interés del mensajero.
+
+Miqueas 3:11 añade que los profetas practican *qasam* “por dinero”. Ese verbo normalmente se refiere a divinación, no simplemente al acto neutral de profetizar.
+
+Así que el problema reúne al menos dos elementos:
+
+1. **motivo económico**;
+2. **práctica profética o adivinatoria corrompida por ese motivo**.
+
+## ¿La Biblia presenta alguna vez a un profeta verdadero rechazando dinero?
+
+Sí.
+
+En 2 Reyes 5, después de la curación de Naamán, Eliseo rechaza expresamente el regalo que Naamán quiere darle.
+
+Pero eso tampoco permite convertir el rechazo de todo dinero en criterio universal, porque 1 Samuel 9 muestra que los regalos a un hombre de Dios podían formar parte de una práctica aceptada.
+
+Los dos relatos juntos obligan a evitar una regla demasiado simple.
+
+La pregunta relevante no es sólo **“¿recibió dinero?”**, sino:
+
+> **¿el beneficio económico condicionó el mensaje, la decisión o la supuesta revelación?**
+
+## ¿Hay falsos profetas concretos identificados por nombre que fallen este criterio?
+
+Miqueas 3 denuncia un grupo de profetas, no individuos nombrados.
+
+Jeremías 6:13 ofrece un paralelo colectivo: desde el profeta hasta el sacerdote, todos buscan ganancia y practican engaño.
+
+Balaam podría parecer un candidato porque textos posteriores lo asocian con recompensa y avaricia, pero su caso es más complejo: en Números 22-24 insiste repetidamente en que sólo puede decir lo que YHWH ponga en su boca y termina pronunciando bendiciones en vez de la maldición que Balac desea.
+
+Por eso no conviene usar a Balaam como ejemplo simple de “profeta que cambia su mensaje por dinero” sin estudiar su caso por separado.
+
+## ¿Qué significa que los profetas “adivinen por dinero”?
+
+Miqueas 3:11 usa el verbo hebreo *qasam*, habitualmente traducido como “practicar adivinación”.
+
+Es significativo porque Deuteronomio 18:10 condena precisamente *qasam* como práctica prohibida.
+
+Miqueas no describe simplemente a profetas que reciben honorarios; los acusa de convertir su actividad religiosa en una forma de adivinación mercenaria mientras, paradójicamente, siguen afirmando que YHWH está en medio de ellos.
+
+## ¿Qué error adicional cometen estos dirigentes religiosos?
+
+Confunden pertenencia religiosa con inmunidad moral.
+
+Miqueas 3:11 los describe diciendo:
+
+> “¿No está YHWH entre nosotros? No vendrá mal sobre nosotros.”
+
+Es decir, utilizan la presencia de Dios como garantía de seguridad mientras practican corrupción.
+
+Eso agrega otro criterio:
+
+> **una institución, una identidad religiosa o una afirmación de cercanía con Dios no protege a un mensajero de ser evaluado por su conducta y sus intereses.**
+
+## ¿Qué criterio podemos conservar de Miqueas 3?
+
+Podemos formularlo así:
+
+> **El dinero, el sustento o los regalos no desacreditan automáticamente a un profeta; el problema aparece cuando intereses personales condicionan el contenido del mensaje o cuando la autoridad religiosa se utiliza para obtener beneficio.**
+
+Para estudiar a Ellen White esto nos obligará a investigar, cuando corresponda:
+
+- cómo se financiaba su ministerio;
+- qué ingresos recibía por libros, salarios o propiedades;
+- si existen casos donde un interés económico pueda haber influido en un mensaje;
+- y, sobre todo, si hay evidencia de que el contenido de alguna supuesta revelación cambiara según ese interés.
+
+No bastará con demostrar que manejó dinero. Habrá que demostrar una relación entre **interés** y **mensaje**.
+
+## ¿Qué pregunta queda abierta después de Miqueas 3?
+
+Antes de cerrar los criterios bíblicos conviene estudiar un caso que combina revelación, dinero y motivaciones ambiguas: **¿qué podemos aprender realmente de Balaam sin simplificar su historia?**
