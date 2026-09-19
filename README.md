@@ -73,6 +73,7 @@ Pasajes estudiados hasta ahora:
 - 1 Corintios 14:29-33: incluso dentro de una comunidad que reconoce el don profético, lo dicho por los profetas debe ser evaluado por otros.
 - Jeremías 23:16-32: una visión, sueño o mensaje debe distinguirse de ideas propias falsamente atribuidas a Dios; tomar material ajeno sólo se vuelve directamente problemático cuando se presenta falsamente como revelación divina.
 - Ezequiel 13: la sinceridad subjetiva no basta; los falsos profetas pueden seguir su propio espíritu, ofrecer falsa seguridad y producir efectos morales dañinos.
+- Miqueas 3:5-12: el dinero no desacredita por sí mismo a un profeta; el problema aparece cuando el interés personal condiciona el mensaje o corrompe la función religiosa.
 
 El capítulo 1 está en desarrollo.
 
