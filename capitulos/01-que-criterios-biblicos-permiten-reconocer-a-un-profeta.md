@@ -72,6 +72,30 @@ Micaías anuncia lo contrario: Israel quedará disperso y Acab no regresará en 
 
 El caso confirma el valor del resultado como criterio, aunque el relato introduce una complicación propia —la escena del “espíritu de mentira”— que habrá que tratar por separado si llegamos a utilizarlo como prueba detallada.
 
+
+## ¿Qué enseña el caso del profeta engañado de 1 Reyes 13?
+
+1 Reyes 13 agrega una dificultad distinta. Un hombre de Dios recibe directamente la orden de no comer ni beber en Betel y de no regresar por el mismo camino. Más tarde, un anciano profeta le asegura que un ángel le transmitió una nueva palabra de YHWH autorizándolo a volver a su casa y comer.
+
+El narrador aclara algo decisivo: **el anciano profeta le estaba mintiendo**.
+
+El hombre de Dios acepta esa supuesta revelación posterior, desobedece la orden que ya había recibido y, después de salir de la casa, es muerto por un león. El propio relato interpreta su muerte como consecuencia de haber desobedecido la palabra de YHWH.
+
+Este episodio aporta un principio diferente de los anteriores:
+
+> **Una afirmación posterior de “Dios me dijo” no debe aceptarse automáticamente cuando contradice una instrucción divina ya establecida.**
+
+Pero el relato contiene una complicación importante. El hombre que mintió sigue siendo llamado “profeta” y, mientras están comiendo, recibe realmente una palabra de YHWH anunciando el juicio sobre el hombre de Dios. Es decir, el texto no presenta necesariamente una división simple entre “profeta verdadero que nunca dice nada falso” y “falso profeta que nunca recibe nada verdadero”.
+
+Eso obliga a distinguir dos preguntas:
+
+1. **¿Es auténtico el ministerio profético de una persona?**
+2. **¿Es auténtica esta afirmación concreta que esa persona atribuye a Dios?**
+
+1 Reyes 13 muestra que no conviene identificar automáticamente ambas cosas. Al menos dentro de este relato, una persona llamada profeta puede pronunciar una afirmación falsa en nombre de una revelación y después recibir una palabra que el narrador sí presenta como proveniente de YHWH.
+
+Para nuestra investigación esto será importante: tendremos que evaluar las afirmaciones concretas de Ellen White y no suponer que un veredicto global sobre su persona resuelve automáticamente cada declaración particular.
+
 ## ¿Qué criterio podemos conservar de Deuteronomio 18?
 
 Podemos formularlo así:
