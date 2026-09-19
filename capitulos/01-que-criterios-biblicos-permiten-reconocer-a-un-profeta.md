@@ -1370,6 +1370,6 @@ Con esos criterios fijados antes de examinarla, ya podemos evitar adaptar la pru
 
 ## ¿Cuál es la siguiente pregunta?
 
-Ahora sí podemos pasar de los criterios a la persona:
+Antes de pasar directamente a Ellen White necesitamos aclarar una distinción que puede cambiar toda la investigación:
 
-**¿Qué afirmó realmente Ellen G. White sobre su propio don y sobre el origen de sus mensajes?**
+**¿Es lo mismo estar inspirado que ser profeta?**
