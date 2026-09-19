@@ -70,6 +70,7 @@ Pasajes estudiados hasta ahora:
 - 1 Juan 4:1-6: las afirmaciones espirituales deben probarse y su contenido acerca de Jesús debe concordar con el testimonio apostólico.
 - Isaías 8:19-20: la orientación sobrenatural debe contrastarse con la instrucción/testimonio divinos; el texto no debe leerse anacrónicamente como referencia directa a un canon posterior.
 - 1 Tesalonicenses 5:19-22: las profecías no deben despreciarse ni aceptarse automáticamente; deben examinarse y conservar sólo lo que supera la prueba.
+- 1 Corintios 14:29-33: incluso dentro de una comunidad que reconoce el don profético, lo dicho por los profetas debe ser evaluado por otros.
 
 El capítulo 1 está en desarrollo.
 
