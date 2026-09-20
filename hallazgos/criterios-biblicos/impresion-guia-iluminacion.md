@@ -94,6 +94,8 @@ Como convención limitada:
 
 Esta definición es metodológica, no una afirmación de que todos los cristianos deban usar la palabra de este modo.
 
+También describe una clase de ayuda reclamada; llamar “iluminación” a una experiencia no verifica por sí solo que Dios la haya causado.
+
 ## ¿Puede haber iluminación sin nueva revelación?
 
 Sí por definición de trabajo.
@@ -114,6 +116,14 @@ Cuando aumenta la pretensión de origen divino, aumenta la necesidad de examen.
 
 1 Tesalonicenses 5:19-22 y 1 Corintios 14:29 muestran que incluso las afirmaciones proféticas dentro de la comunidad cristiana deben ser evaluadas.
 
+## ¿Cuál es la objeción más fuerte a estas distinciones?
+
+La Biblia no presenta una tabla que separe “impresión”, “guía”, “iluminación” y “revelación”; además, Efesios 1:17-18 reúne lenguaje de revelación e iluminación. Podría objetarse que la clasificación es artificial.
+
+## ¿Cómo debe responderse?
+
+La objeción impide convertir las categorías en compartimentos rígidos. La distinción no afirma que las experiencias nunca se superpongan, sino que una expresión subjetiva no establece automáticamente una pretensión de mayor autoridad. Funciona como herramienta de análisis y debe ceder cuando el contexto de un texto combine los conceptos.
+
 ## ¿Qué queda establecido?
 
 **Hecho:** Romanos 8 y Gálatas 5 utilizan lenguaje de ser guiados por el Espíritu en contextos principalmente morales y existenciales.
@@ -128,7 +138,7 @@ Cuando aumenta la pretensión de origen divino, aumenta la necesidad de examen.
 
 **Interpretación fuerte:** impresión, guía, iluminación y revelación no deben tratarse como sinónimos.
 
-**Conclusión metodológica:** una impresión o experiencia de guía sólo debe clasificarse como revelación cuando exista evidencia adicional para la afirmación de que Dios dio a conocer contenido.
+**Conclusión metodológica:** una impresión o experiencia de guía sólo debe clasificarse como revelación cuando la afirmación incluya que Dios manifestó o dio a conocer contenido y exista evidencia adicional para examinar ese origen.
 
 **Nivel de certeza:** alto respecto de la distinción metodológica; moderado respecto de cómo clasificar experiencias concretas que combinan varias categorías.
 
@@ -160,4 +170,7 @@ La evidencia disponible no sostiene esas afirmaciones.
 ### ¿Qué fuentes secundarias son útiles?
 
 - Robert Pasnau, “Divine Illumination”, *Stanford Encyclopedia of Philosophy*, para la historia y amplitud filosófica del concepto.
-- Comentarios académicos a Romanos 8, Gálatas 5, Efesios 1 y Hechos 16 para controlar el contexto de cada expresión.
+- Douglas J. Moo, *The Epistle to the Romans*, 2.ª ed., NICNT (Eerdmans, 2018), comentario a Romanos 8:14.
+- David A. deSilva, *The Letter to the Galatians*, NICNT (Eerdmans, 2018), comentario a Gálatas 5:18.
+- Frank Thielman, *Ephesians*, BECNT (Baker Academic, 2010), comentario a Efesios 1:17-18.
+- Craig S. Keener, *Acts: An Exegetical Commentary*, vol. 3 (Baker Academic, 2014), comentario a Hechos 16:6-10.

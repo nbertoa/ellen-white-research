@@ -22,11 +22,11 @@ Juan atribuye a sus palabras un significado más profundo que su intención inme
 
 Por eso el caso suele entenderse como un ejemplo de profecía involuntaria o inconsciente.
 
-## ¿Esto autentica a Caifás como profeta verdadero?
+## ¿Esto autentica a Caifás como profeta reconocido?
 
 No.
 
-Juan autentica la declaración, no todo el ministerio ni el carácter de Caifás.
+Juan interpreta proféticamente la declaración, no todo el ministerio ni el carácter de Caifás.
 
 El contexto lo vincula con la decisión de dar muerte a Jesús.
 
@@ -49,6 +49,14 @@ No está claro que deba inferirse una regla general según la cual el sumo sacer
 
 Los comentaristas históricos han ofrecido varias explicaciones: oficio representativo, recuerdo del papel oracular del sacerdocio, o ironía providencial en la que Dios utiliza al principal dirigente sacerdotal para anunciar sin saberlo el significado de la muerte de Jesús.
 
+## ¿Cuál es la objeción más fuerte?
+
+Podría objetarse que Juan no describe un “don de profecía” sino una ironía narrativa: Caifás dice más verdad de la que entiende porque ocupa el sumo sacerdocio. Si fuera así, el caso no debería utilizarse para definir la experiencia normal de un profeta.
+
+## ¿Cómo debe responderse?
+
+La objeción limita correctamente el uso del caso. Juan llama *eprophēteusen* a la declaración y atribuye su sentido a una causalidad que excede la intención de Caifás; eso basta para mostrar que el narrador puede identificar un acto como profético sin una pretensión consciente del hablante. No basta para convertir ese acto excepcional en modelo de recepción profética ni para atribuir a Caifás una identidad o don estable.
+
 ## ¿Qué queda establecido provisionalmente?
 
 **Hecho:** Juan 11:51 llama profecía a la declaración de Caifás.
@@ -57,7 +65,7 @@ Los comentaristas históricos han ofrecido varias explicaciones: oficio represen
 
 **Hecho:** Caifás no es presentado como discípulo fiel ni como modelo de profeta.
 
-**Interpretación fuerte:** una afirmación profética auténtica puede ser pronunciada por una persona que no comprende plenamente su significado.
+**Interpretación fuerte:** un texto bíblico puede identificar como profética una afirmación cuyo significado supera la intención consciente del hablante.
 
 **Conclusión provisional:** un acierto profético concreto no basta para autenticar globalmente al mensajero.
 
@@ -65,7 +73,7 @@ Los comentaristas históricos han ofrecido varias explicaciones: oficio represen
 
 ## ¿Qué podría cambiar esta conclusión?
 
-Habría que demostrar que Juan pretende presentar a Caifás como profeta auténtico en sentido global y no sólo interpretar proféticamente esta declaración concreta. El contexto general del Evangelio hace difícil esa lectura.
+Habría que demostrar que Juan pretende presentar a Caifás como profeta auténtico en sentido global y no sólo interpretar proféticamente esta declaración concreta, o que *eprophēteusen* tiene aquí un sentido no profético. El vocabulario y el contexto general del Evangelio hacen difíciles ambas lecturas.
 
 ## ¿Qué fuentes sostienen este hallazgo?
 
@@ -76,7 +84,9 @@ Habría que demostrar que Juan pretende presentar a Caifás como profeta autént
 
 ### ¿Qué fuentes secundarias son útiles?
 
-- Comentarios reunidos en BibleHub sobre Juan 11:51, especialmente Ellicott, Meyer y Expositor's Greek Testament, que destacan el carácter involuntario o irónico de la profecía y su paralelo con Balaam.
+- Raymond E. Brown, *The Gospel According to John I–XII*, Anchor Bible 29 (Doubleday, 1966), comentario a Juan 11:49-52.
+- Craig S. Keener, *The Gospel of John: A Commentary*, vol. 1 (Hendrickson, 2003), comentario a Juan 11:49-52.
+- J. Ramsey Michaels, *The Gospel of John*, NICNT (Eerdmans, 2010), comentario a Juan 11:49-52.
 
 ## ¿Qué falta investigar?
 
