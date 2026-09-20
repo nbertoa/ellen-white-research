@@ -1,6 +1,6 @@
 # Capítulo 2 — ¿Qué credenciales debe reunir un profeta auténtico?
 
-Antes de estudiar a Ellen G. White necesitamos fijar un criterio que usaríamos con cualquier persona que afirmara recibir mensajes de Dios. Si definiéramos la prueba después de conocer sus aciertos, dificultades y explicaciones, podríamos adaptarla al resultado que preferimos.
+Antes de evaluar a cualquier persona que afirme recibir mensajes de Dios necesitamos fijar primero el criterio. Si definiéramos la prueba después de conocer sus aciertos, dificultades y explicaciones, podríamos adaptarla al resultado que preferimos.
 
 La Biblia no entrega una lista única ni un procedimiento infalible. Reúne leyes, relatos, advertencias y normas comunitarias nacidas en contextos diferentes. Algunos textos ayudan a rechazar una palabra; otros indican cómo examinarla; otros sólo impiden sacar conclusiones demasiado rápidas. Por eso no construiremos una suma de puntos, sino una matriz que distinga evidencias de diferente clase y peso.
 
@@ -308,13 +308,17 @@ Una conclusión cambiará cuando aparezca mejor evidencia, no cuando resulte có
 | **Reglas de evaluación** | Fijar texto y fechas; distinguir condición de explicación retrospectiva; examinar contenido, origen, frutos y medios; separar testigos independientes; comparar hipótesis; evaluar cada afirmación y luego la trayectoria | Impiden convertir el cumplimiento, el fracaso, la utilidad o la rareza en conclusiones automáticas. |
 | **Regla de ponderación** | Valorar claridad, documentación, independencia, especificidad, alternativas y alcance | Una evidencia fuerte puede pesar más que muchas débiles. No habrá puntuación ni compensación mecánica. |
 
-Esta matriz es provisional sólo en el sentido correcto: podrá corregirse si una mejor exégesis demuestra que interpretamos mal un texto. No se modificará simplemente para proteger o atacar a la persona que estudiaremos.
+Esta matriz es provisional sólo en el sentido correcto: podrá corregirse si una mejor exégesis demuestra que interpretamos mal un texto. No se modificará simplemente para proteger o atacar a la persona evaluada.
 
-## ¿Qué pregunta debemos hacer ahora?
+## ¿Qué debemos establecer al pasar de los criterios a un caso concreto?
 
-Ya sabemos qué clase de afirmación queremos evaluar, qué evidencias podrían desafiarla, cuáles podrían favorecerla y cuáles no bastan. Antes de aplicar la matriz a predicciones, visiones, frutos o controversias, necesitamos establecer con precisión qué pretensión hizo la propia autora.
+Ya sabemos qué clase de afirmación queremos evaluar, qué evidencias podrían desafiarla, cuáles podrían favorecerla y cuáles no bastan.
 
-**¿Qué afirmó realmente Ellen G. White sobre la naturaleza de su propio don y sobre el origen y la autoridad de sus mensajes?**
+El siguiente paso, cualquiera sea la persona examinada, es reconstruir con precisión qué afirmó sobre la naturaleza de su don, el origen de sus mensajes y la autoridad que les atribuyó. Sólo después corresponde aplicar la matriz a predicciones, visiones, frutos o controversias.
+
+Por tanto, antes de evaluar un caso profético concreto debemos preguntar:
+
+**¿Qué afirmó realmente la persona sobre la naturaleza de su don y sobre el origen y la autoridad de sus mensajes?**
 
 [^1]: Para los textos, véanse Hechos 11:27-28; 13:1; 21:9-11; 1 Corintios 12-14; 13:8-12; Efesios 2:20; 3:5; 4:11-13. Dos argumentos enfrentados y suficientemente claros son Thomas R. Schreiner, “It All Depends upon Prophecy: A Brief Case for Nuanced Cessationism”, *Themelios* 44.1 (2019): 29-35, y Jon Ruthven, “The ‘Foundational Gifts’ of Ephesians 2.20”, *Journal of Pentecostal Theology* 10.2 (2002): 28-43, https://doi.org/10.1177/096673690201000204. Ninguno funciona aquí como autoridad final; sirven para identificar qué inferencias exige cada posición.
 [^2]: Deuteronomio 13:1-5 en la numeración castellana habitual; 13:2-6 en la numeración hebrea; compárese Mateo 24:24. Véanse Jeffrey H. Tigay, *Deuteronomy*, JPS Torah Commentary (Jewish Publication Society, 1996), comentario a Deuteronomio 13; y Ludwig Koehler, Walter Baumgartner y Johann Jakob Stamm, *The Hebrew and Aramaic Lexicon of the Old Testament* (Brill, 1994-2000), voces אוֹת y מוֹפֵת.
