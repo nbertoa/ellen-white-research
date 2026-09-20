@@ -24,9 +24,9 @@ Y otras identifican una **función o identidad reconocible**: profeta.
 
 “Inspiración” agrega otra dificultad. En el uso cristiano moderno puede significar desde una idea creativa hasta una doctrina técnica acerca del origen de la Escritura. Por eso la frase “esa persona fue inspirada” es demasiado ambigua para resolver nuestra pregunta.
 
-La primera regla del libro será, entonces, sencilla: **no inferir una categoría más fuerte a partir de una más débil sin evidencia adicional**.
+La primera regla del libro será, entonces, sencilla: **no convertir una afirmación en otra que reclama más sin evidencia adicional**.
 
-Una impresión puede ser verdadera sin ser revelación. Una persona puede ser guiada por Dios sin ser profeta. Un escrito puede ser considerado inspirado sin que su autor sea identificado como profeta. Una persona puede profetizar en una ocasión sin que eso autentique todo lo que diga después.
+Una impresión puede resultar acertada sin ser revelación. Una persona puede ser guiada por Dios sin ser profeta. Un escrito puede ser considerado inspirado sin que su autor sea identificado como profeta. Una persona puede profetizar en una ocasión sin que eso autentique todo lo que diga después.
 
 Pero para sostener esas distinciones necesitamos examinar cada término.
 
@@ -95,6 +95,8 @@ La distinción sigue siendo útil, pero como distinción analítica: **comprende
 El texto central es 2 Timoteo 3:16: “Toda Escritura” es *theopneustos*.
 
 El adjetivo se aplica directamente a la **Escritura**, no a una clase de personas. La traducción tradicional “inspirada por Dios” puede sugerir que Dios sopla algo dentro del texto. El sentido del compuesto griego suele expresarse mejor con la idea de “soplada por Dios” o “procedente del aliento de Dios”. El énfasis recae en el origen divino de la Escritura.[^5]
+
+El contexto inmediato también impone un límite. En el versículo anterior, Timoteo conoce desde niño “las Sagradas Escrituras”; la referencia apunta, como mínimo, a las Escrituras judías que había recibido. 2 Timoteo 3:16 no enumera por adelantado los libros que formarían el canon cristiano completo. La aplicación posterior del texto a todo el canon pertenece a una conclusión canónica y teológica más amplia, no al significado de la palabra *theopneustos* por sí sola.
 
 Esto corrige dos exageraciones opuestas.
 
