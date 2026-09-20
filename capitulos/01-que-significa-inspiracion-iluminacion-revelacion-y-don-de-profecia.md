@@ -1,12 +1,12 @@
 # Capítulo 1 — ¿Qué significan inspiración, iluminación, revelación, impresión del Espíritu, guía del Espíritu, profecía y don de profecía?
 
-Antes de preguntar si Ellen G. White tuvo el don de profecía necesitamos saber exactamente qué estamos preguntando.
+Antes de evaluar si una persona posee el don de profecía necesitamos saber exactamente qué estamos preguntando.
 
 En el lenguaje cristiano es frecuente escuchar expresiones como “Dios me impresionó”, “el Espíritu me guió”, “fui iluminado”, “Dios me inspiró”, “Dios me reveló”, “tuve una visión” o “profeticé”. A veces esas frases se usan casi como sinónimos. La Biblia, sin embargo, no las reúne en una única categoría, y algunas ni siquiera son expresiones técnicas de sus autores.
 
 La diferencia importa. Si alguien dice que sintió una fuerte convicción de llamar a un amigo, no está afirmando necesariamente lo mismo que quien dice: “Dios me mostró lo que va a ocurrir mañana”. Y ninguna de esas dos afirmaciones equivale, por sí sola, a sostener que una persona posee el don de profecía.
 
-Este capítulo no decidirá todavía si Ellen White fue profeta. Tampoco intentará construir una teoría completa de inspiración bíblica. La tarea es más modesta y, al mismo tiempo, indispensable: separar categorías que suelen mezclarse y precisar qué clase de afirmación tendremos que evaluar después.
+Este capítulo no evaluará todavía a ninguna persona concreta. Tampoco intentará construir una teoría completa de inspiración bíblica. La tarea es más modesta y, al mismo tiempo, indispensable: separar categorías que suelen mezclarse y precisar qué clase de afirmación está haciendo alguien cuando habla de guía, inspiración, revelación o profecía.
 
 ## ¿Por qué no podemos usar todas estas palabras como si significaran lo mismo?
 
@@ -114,13 +114,13 @@ Eso no significa que los autores humanos sean irrelevantes. 2 Pedro 1:20-21 afir
 
 La teología cristiana ha extendido el vocabulario y habla con frecuencia de “autores inspirados”. Pero conviene distinguir la formulación del texto de la elaboración doctrinal posterior.
 
-Esa precisión importa para este libro. Si alguien dice “Ellen White fue inspirada”, todavía debemos preguntar qué quiere decir:
+Esa precisión importa porque decir que una persona “fue inspirada” todavía deja abiertas varias preguntas:
 
-- ¿que sus escritos eran espiritualmente valiosos?
-- ¿que Dios la ayudó?
+- ¿se quiere decir que sus escritos resultan espiritualmente valiosos?
+- ¿que Dios la guió o ayudó?
 - ¿que recibió revelaciones?
-- ¿que sus escritos poseen una inspiración comparable a la Escritura?
-- ¿que tuvo el don de profecía?
+- ¿que se atribuye a sus escritos una autoridad especial?
+- ¿que ejerció el don de profecía?
 
 La palabra sola no decide.
 
@@ -128,11 +128,11 @@ La palabra sola no decide.
 
 No se sigue de 2 Timoteo 3:16.
 
-Hay modelos cristianos que sostienen una inspiración verbal muy fuerte y, aun así, rechazan la idea de que los autores hayan funcionado como máquinas de dictado. La Declaración de Chicago sobre la Inerrancia Bíblica, por ejemplo, afirma una inspiración verbal y plenaria, pero dice también que el modo de inspiración permanece en gran medida misterioso y que Dios utilizó las personalidades y estilos literarios de los escritores sin anularlos. El Concilio Vaticano II, desde una tradición teológica distinta, afirma igualmente que los escritores actuaron como “verdaderos autores” usando sus facultades y capacidades.[^7]
+2 Pedro 1:21 atribuye la profecía a la acción del Espíritu, pero no elimina al autor humano: son seres humanos quienes “hablaron de parte de Dios”. Lucas 1:1-4 describe además investigación, tradición recibida y organización del material. Y los propios libros bíblicos conservan diferencias de vocabulario, estilo, género y forma de argumentar.
 
-Estas formulaciones no son pruebas bíblicas. Sirven para mostrar algo histórico: **“inspiración” no ha significado necesariamente “dictado mecánico”, ni siquiera en modelos de autoridad bíblica muy elevados**.
+Nada de eso construye por sí solo una teoría completa de inspiración. Sí establece un límite: **inspiración no puede definirse simplemente como dictado mecánico sin participación real del autor**.[^7]
 
-La pregunta exegética debe resolverse con los textos. Y los textos muestran actividad humana real.
+Por tanto, inspiración divina y agencia humana no son categorías excluyentes. La pregunta sobre cuánto control divino corresponde a pensamientos, palabras, selección, memoria o edición requiere argumentos adicionales; 2 Timoteo 3:16 por sí solo no describe ese mecanismo.
 
 ## ¿Inspiración exige ausencia de investigación o de fuentes humanas?
 
@@ -149,8 +149,6 @@ Por tanto:
 > **usar fuentes humanas no refuta por sí solo la inspiración.**
 
 Pero la conclusión inversa también sería excesiva. El hecho de que un autor inspirado pueda usar fuentes no vuelve irrelevante cualquier pregunta sobre procedencia. Si alguien afirma que un detalle le fue mostrado directamente por Dios y después se demuestra que ese detalle provino de una fuente humana identificable, la cuestión ya no es “¿puede un autor inspirado usar fuentes?”, sino “¿describió correctamente el origen de este material?”.
-
-Esa distinción será decisiva más adelante.
 
 ## ¿Todo autor de un escrito inspirado tiene que ser profeta?
 
@@ -172,7 +170,7 @@ No hay base para esa inferencia.
 
 La lección mínima es importante: **ser profeta no convierte automáticamente todo lo que una persona piensa o dice en revelación**.
 
-Incluso una formulación evangélica muy fuerte de inspiración como la Declaración de Chicago niega que la inspiración confiera omnisciencia al autor.[^9]
+No hace falta atribuir infalibilidad global al mensajero para reconocer una palabra revelada concreta. El propio relato de Natán basta para distinguir entre la identidad del profeta y cada opinión que expresa.[^9]
 
 ## ¿Qué es entonces revelación?
 
@@ -202,13 +200,11 @@ No todos los especialistas formulan la relación exactamente igual, pero esta di
 
 ## ¿Conviene hablar de “revelación pública” y “revelación privada”?
 
-Sólo si aclaramos que es una clasificación teológica posterior.
+No como nuestra clasificación principal.
 
-La teología católica, por ejemplo, distingue técnicamente entre la Revelación pública culminada en Cristo y las llamadas “revelaciones privadas”, que no pertenecen al depósito de la fe. Otras tradiciones cristianas utilizan taxonomías diferentes, como revelación general y especial, o distinguen entre revelación canónica y orientación providencial.[^11]
+La Biblia no organiza sus afirmaciones sobre revelación mediante esa pareja técnica. La teología posterior ha desarrollado varias taxonomías —por ejemplo, revelación general y especial, natural y sobrenatural, canónica y no canónica, pública y privada—, y no todas clasifican exactamente lo mismo.[^11]
 
-La Biblia no entrega esas parejas terminológicas como un glosario.
-
-Para nuestra investigación será más seguro preguntar primero:
+Para este estudio será más seguro preguntar primero:
 
 - ¿a quién fue dirigido el contenido?
 - ¿era una palabra para una persona, una comunidad o el pueblo entero?
@@ -217,7 +213,7 @@ Para nuestra investigación será más seguro preguntar primero:
 - ¿qué autoridad reclama el texto?
 - ¿fue incorporada a Escritura canónica?
 
-Así evitamos resolver de antemano el caso de Ellen White introduciendo una taxonomía confesional como si fuera la única posible.
+Estas preguntas describen primero la afirmación y su alcance, sin imponer de antemano una taxonomía teológica posterior.
 
 ## ¿Qué es una visión?
 
@@ -363,7 +359,7 @@ ni tampoco:
 
 > “Sólo quien ocupa un oficio formal puede profetizar”.
 
-Lo que sí podemos hacer históricamente es preguntar si una persona fue reconocida de manera sostenida como receptora y comunicadora de mensajes divinos. Esa pregunta será relevante para Ellen White, pero la respuesta tendrá que surgir de sus propias afirmaciones, de la recepción contemporánea y de la evidencia sobre sus mensajes.
+Lo que sí podemos hacer históricamente es preguntar si una persona fue reconocida de manera sostenida como receptora y comunicadora de mensajes divinos. La respuesta debe surgir de sus propias afirmaciones, de la recepción contemporánea y de la evidencia disponible sobre sus mensajes.
 
 ## ¿Todo profeta escribe Escritura?
 
@@ -419,9 +415,9 @@ Los relatos pueden decir que “vino palabra de YHWH” y luego conservar las pa
 
 Pero estos textos no resuelven por sí solos todas las preguntas sobre **contenido**, **formulación verbal**, **memoria**, **edición** y **grado de precisión** en cada clase de mensaje.
 
-Las tradiciones cristianas han construido modelos diferentes. Algunas sostienen inspiración verbal de las palabras; otras enfatizan con más fuerza la acción divina a través de autores humanos y géneros literarios. La discusión no puede resolverse importando sin más una teoría al estudio de Ellen White.
+Las tradiciones cristianas han construido modelos diferentes. Algunas sostienen inspiración verbal de las palabras; otras enfatizan con más fuerza la acción divina a través de autores humanos y géneros literarios. La discusión no puede resolverse imponiendo sin más una teoría previa sobre cualquier caso histórico.
 
-Cuando examinemos lo que ella afirmó, tendremos que preguntar qué modelo describió ella misma y si la evidencia histórica coincide con ese modelo.
+Cuando se evalúe a una persona concreta, habrá que preguntar qué afirmó ella misma sobre el origen y la formulación de sus mensajes y si la evidencia histórica coincide con esa descripción.
 
 ## ¿Puede una impresión personal obligar a otras personas?
 
@@ -474,21 +470,17 @@ Para el resto de este libro trabajaremos con estas definiciones, siempre abierta
 
 Esta tabla no pretende imponer a la Biblia un sistema que ella nunca formuló. Es una herramienta para impedir que nosotros confundamos afirmaciones diferentes mientras evaluamos evidencia histórica.
 
-## ¿Qué afirmación investigará realmente este libro?
+## ¿Por qué importa mantener separadas estas categorías?
 
-No investigaremos la frase vaga:
+Porque la frase “esta persona fue inspirada” puede significar demasiadas cosas.
 
-> “¿Fue Ellen White inspirada?”
-
-Esa pregunta puede significar demasiadas cosas.
-
-Una persona podría llamar “inspirado” a un libro porque le ayudó espiritualmente sin creer que contiene una sola revelación sobrenatural. Otra podría decir que Dios guió providencialmente a una autora. Otra podría afirmar que recibió visiones auténticas. Y otra podría sostener que ejerció un don profético reconocible durante décadas.
+Alguien podría usarla simplemente para decir que un libro le resultó espiritualmente valioso. Otra persona podría afirmar que Dios guió providencialmente a su autor. Otra podría sostener que recibió revelaciones concretas. Y otra podría decir que ejerció un don profético reconocible.
 
 No son la misma tesis.
 
-La pregunta de este libro será más precisa:
+Si queremos evaluar una pretensión profética, la pregunta precisa no es simplemente “¿fue inspirada esta persona?”, sino algo más exigente:
 
-> **¿Existe evidencia suficiente para concluir que Ellen G. White recibió y comunicó auténticos mensajes de Dios de una manera que justifique atribuirle el don de profecía?**
+> **¿Existe evidencia suficiente para concluir que recibió y comunicó auténticos mensajes de Dios de una manera que justifique atribuirle el don de profecía?**
 
 Ahora sabemos mejor qué tendría que significar una respuesta afirmativa.
 
@@ -496,7 +488,7 @@ Pero todavía no sabemos cómo reconocerla.
 
 ## ¿Qué pregunta sigue?
 
-Si ya sabemos qué significa realmente poseer el don de profecía, queda una dificultad más básica antes de estudiar a Ellen White:
+Si ya sabemos qué significa realmente poseer el don de profecía, queda una dificultad más básica antes de evaluar cualquier caso concreto:
 
 > **¿Qué credenciales debería reunir una persona para que podamos considerar auténtico ese don?**
 
@@ -508,11 +500,11 @@ Si ya sabemos qué significa realmente poseer el don de profecía, queda una dif
 [^4]: Efesios 1:17-18; Lucas 24:45; 1 Corintios 2:10-16. Para la amplitud histórica del concepto, véase Robert Pasnau, “Divine Illumination”, *Stanford Encyclopedia of Philosophy*, que muestra que la doctrina de iluminación tuvo sentidos epistemológicos mucho más amplios que el uso protestante moderno centrado en comprender la Escritura.
 [^5]: 2 Timoteo 3:14-17. Véase Jeremy Begbie, “Who Is This God? Biblical Inspiration Revisited”, *Tyndale Bulletin* 43.2 (1992): 259-282, quien destaca que *theopneustos* apunta primariamente al origen de la Escritura en Dios y dice poco, por sí solo, acerca del modo concreto de composición.
 [^6]: 2 Pedro 1:19-21. Véase Richard J. Bauckham, *Jude, 2 Peter*, Word Biblical Commentary 50 (Word Books, 1983), comentario a 2 Pedro 1:20-21. La lectura más probable de 1:20 se refiere al origen de la profecía, no a prohibir la interpretación posterior del lector.
-[^7]: *Dei Verbum* 11-12 (Concilio Vaticano II, 1965) describe a los escritores como “verdaderos autores” que emplean sus facultades; *The Chicago Statement on Biblical Inerrancy* (1978), artículos VII-IX, afirma el origen divino, declara que el modo de inspiración sigue siendo en gran medida misterioso, niega que se anularan personalidad y estilo, y aclara que inspiración no confiere omnisciencia. Se citan aquí como ejemplos de modelos confesionales distintos, no como árbitros de la exégesis.
+[^7]: 2 Pedro 1:20-21; Lucas 1:1-4. Como ejemplos adventistas de una doctrina de alta autoridad bíblica que no identifica inspiración con dictado mecánico, véanse General Conference of Seventh-day Adventists, “The Holy Scriptures” (declaración oficial, 29 de junio de 1995), https://gc.adventist.org/official-statements/the-holy-scriptures/; y Gerhard Pfandl, “Some Thoughts on the Inspiration of the Bible”, Biblical Research Institute, https://adventistbiblicalresearch.org/articles/some-thoughts-on-the-inspiration-of-the-bible. La declaración de 1995 describe el mensaje de Dios como transmitido por escritores humanos y reconoce lenguaje, trasfondo y contexto histórico humanos; Pfandl distingue explícitamente la teoría del dictado de otros modelos de inspiración. Estas fuentes sirven como ejemplos históricos y teológicos, no como autoridad exegética final.
 [^8]: Lucas 1:1-4. Para el análisis literario del prólogo y los límites de clasificarlo mecánicamente como prefacio historiográfico clásico, véase Loveday Alexander, *The Preface to Luke’s Gospel: Literary Convention and Social Context in Luke 1.1–4 and Acts 1.1*, SNTSMS 78 (Cambridge University Press, 1993). El argumento de este capítulo depende del contenido explícito del prólogo, no de una solución particular al problema sinóptico.
-[^9]: 2 Samuel 7:1-17; *Chicago Statement*, art. IX. El relato de Natán no prueba una teoría de “profecía falible”: la primera respuesta no es introducida como “palabra de YHWH”. Precisamente por eso ayuda a distinguir la identidad del profeta de cada opinión que expresa.
+[^9]: 2 Samuel 7:1-17. El relato de Natán no prueba una teoría de “profecía falible”: la primera respuesta no es introducida como “palabra de YHWH”. Precisamente por eso ayuda a distinguir la identidad del profeta de cada opinión que expresa.
 [^10]: Mateo 16:17; Gálatas 2:2; 1 Corintios 14:26-32. Richard M. Blaylock, “Towards a Definition of New Testament Prophecy”, *Themelios* 44.2 (2019), 276-295, defiende que en Pablo la profecía es comunicación inteligible vinculada con revelación y distingue, por esa misma razón, recepción de revelación y comunicación profética.
-[^11]: Catecismo de la Iglesia Católica, §§66-67, como ejemplo explícito de la distinción “revelación pública/privada”. El hecho de que sea una clasificación teológica posterior no determina aquí si es correcta o incorrecta; sólo impide presentarla como vocabulario técnico compartido por todos los textos bíblicos.
+[^11]: Para un panorama de cómo la teología y la filosofía de la religión distinguen clases de revelación mediante taxonomías posteriores —por ejemplo, general/especial y natural/sobrenatural—, véase “Divine Revelation”, *Stanford Encyclopedia of Philosophy*, sección 1.1, https://plato.stanford.edu/entries/divine-revelation/. El punto aquí no es adoptar una de esas taxonomías, sino no confundirlas con un glosario técnico dado por los propios textos bíblicos.
 [^12]: 1 Pedro 1:10-12; Daniel 8:27; Juan 11:49-52; 1 Corintios 14:29. Sobre la evaluación de profecías en 1 Corintios 14 y el debate respecto de lo que esa evaluación implica, véanse Anthony C. Thiselton, *The First Epistle to the Corinthians*, NIGTC (Eerdmans, 2000), y Gordon D. Fee, *The First Epistle to the Corinthians*, ed. rev., NICNT (Eerdmans, 2014), comentarios a 14:29-33.
 [^13]: 1 Corintios 12:7-11; 14:1-6, 24-33; Juan 11:47-53. Véase también Blaylock, “Towards a Definition of New Testament Prophecy”, para el carácter comunicativo de la profecía neotestamentaria. La definición propuesta aquí es metodológica y deliberadamente incluye tanto pretensiones auténticas como falsas; la autenticidad se decide después.
 [^14]: Números 22-24; 31:16; Josué 13:22; Juan 11:49-52. Véanse Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Numbers 22–24”, *Religions* 14.9 (2023): 1104; Hans Ausloos, “A Star Was Born: About the Bifocal Reception History of Balaam”, *Scriptura* 116.2 (2017): 1-14; y Craig S. Keener, *The Gospel of John: A Commentary*, vol. 1 (Hendrickson, 2003), comentario a Juan 11:49-52.
