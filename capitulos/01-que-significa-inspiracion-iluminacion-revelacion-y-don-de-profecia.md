@@ -1,4 +1,4 @@
-# Capítulo 1 — ¿Qué significan inspiración, iluminación, revelación, guía del Espíritu, profecía y don de profecía?
+# Capítulo 1 — ¿Qué significan inspiración, iluminación, revelación, impresión del Espíritu, guía del Espíritu, profecía y don de profecía?
 
 Antes de preguntar si Ellen G. White tuvo el don de profecía necesitamos saber exactamente qué estamos preguntando.
 
@@ -94,7 +94,7 @@ La distinción sigue siendo útil, pero como distinción analítica: **comprende
 
 El texto central es 2 Timoteo 3:16: “Toda Escritura” es *theopneustos*.
 
-El adjetivo se aplica directamente a la **Escritura**, no a una clase de personas. La traducción tradicional “inspirada por Dios” puede sugerir que Dios sopla algo dentro del texto. El sentido del compuesto griego se expresa mejor con la idea de “soplada por Dios” o “procedente del aliento de Dios”. El énfasis recae en el origen divino de la Escritura.[^5]
+El adjetivo se aplica directamente a la **Escritura**, no a una clase de personas. La traducción tradicional “inspirada por Dios” puede sugerir que Dios sopla algo dentro del texto. El sentido del compuesto griego suele expresarse mejor con la idea de “soplada por Dios” o “procedente del aliento de Dios”. El énfasis recae en el origen divino de la Escritura.[^5]
 
 Esto corrige dos exageraciones opuestas.
 
@@ -110,7 +110,7 @@ No de la misma manera en que 2 Timoteo 3:16 habla de Escritura inspirada.
 
 Eso no significa que los autores humanos sean irrelevantes. 2 Pedro 1:20-21 afirma que la profecía no surgió de la voluntad humana, sino que seres humanos hablaron de parte de Dios siendo “llevados” por el Espíritu Santo. El texto une dos elementos: **personas realmente hablan** y **el origen de la profecía no se reduce a su propia iniciativa**.[^6]
 
-La teología cristiana ha extendido legítimamente el vocabulario y habla con frecuencia de “autores inspirados”. Pero conviene distinguir la formulación del texto de la elaboración doctrinal posterior.
+La teología cristiana ha extendido el vocabulario y habla con frecuencia de “autores inspirados”. Pero conviene distinguir la formulación del texto de la elaboración doctrinal posterior.
 
 Esa precisión importa para este libro. Si alguien dice “Ellen White fue inspirada”, todavía debemos preguntar qué quiere decir:
 
@@ -367,7 +367,7 @@ Lo que sí podemos hacer históricamente es preguntar si una persona fue reconoc
 
 Claramente no.
 
-Hechos 11 y 21 llama profeta a Agabo. Hechos 21 dice que las cuatro hijas de Felipe profetizaban. Hechos 13 menciona profetas y maestros en Antioquía. 1 Corintios presupone varios profetas dentro de una congregación.
+Hechos 11 y 21 llaman profeta a Agabo. Hechos 21 dice que las cuatro hijas de Felipe profetizaban. Hechos 13 menciona profetas y maestros en Antioquía. 1 Corintios presupone varios profetas dentro de una congregación.
 
 No poseemos libros canónicos atribuidos a esas personas.
 
@@ -502,7 +502,7 @@ Si ya sabemos qué significa realmente poseer el don de profecía, queda una dif
 
 [^1]: Ezequiel 13:1-16, especialmente 13:2-7. Véase Daniel I. Block, *The Book of Ezekiel, Chapters 1–24*, NICOT (Eerdmans, 1997), comentario a Ezequiel 13. El texto permite afirmar que la convicción del mensajero no prueba el origen del mensaje; no permite reconstruir con certeza el estado psicológico de cada falso profeta.
 [^2]: Romanos 8:5-17; Gálatas 5:13-25. En ambos contextos, “ser guiado” por el Espíritu aparece dentro de una discusión sobre identidad, conducta y transformación, no como definición de revelación profética.
-[^3]: Hechos 16:6-10. La secuencia distingue prohibición del Espíritu, visión y conclusión comunitaria sobre la dirección que debían tomar; no explica el mecanismo de las prohibiciones. Véase Melvin L. Otey, “Discerning God’s Guidance: Acts 16:6–10”, *Theology Today* (2026), para una lectura reciente de la combinación entre dirección y discernimiento.
+[^3]: Hechos 16:6-10. La secuencia distingue prohibición del Espíritu, visión y conclusión comunitaria sobre la dirección que debían tomar; el propio relato no explica el mecanismo de las prohibiciones.
 [^4]: Efesios 1:17-18; Lucas 24:45; 1 Corintios 2:10-16. Para la amplitud histórica del concepto, véase Robert Pasnau, “Divine Illumination”, *Stanford Encyclopedia of Philosophy*, que muestra que la doctrina de iluminación tuvo sentidos epistemológicos mucho más amplios que el uso protestante moderno centrado en comprender la Escritura.
 [^5]: 2 Timoteo 3:14-17. Véase Jeremy Begbie, “Who Is This God? Biblical Inspiration Revisited”, *Tyndale Bulletin* 43.2 (1992): 259-282, quien destaca que *theopneustos* apunta primariamente al origen de la Escritura en Dios y dice poco, por sí solo, acerca del modo concreto de composición.
 [^6]: 2 Pedro 1:19-21. Véase Richard J. Bauckham, *Jude, 2 Peter*, Word Biblical Commentary 50 (Word Books, 1983), comentario a 2 Pedro 1:20-21. La lectura más probable de 1:20 se refiere al origen de la profecía, no a prohibir la interpretación posterior del lector.
