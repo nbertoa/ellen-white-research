@@ -20,6 +20,8 @@ El adjetivo griego *theopneustos* califica directamente a la Escritura.
 
 El sentido probable es “soplada por Dios” o “procedente del aliento de Dios”. El énfasis está en el origen divino de la Escritura.
 
+El contexto de 3:15 apunta, como mínimo, a las Escrituras judías que Timoteo conocía desde niño. El versículo no enumera los libros del canon cristiano posterior; aplicar el principio al canon completo requiere una conclusión canónica y teológica más amplia.
+
 El término no describe por sí solo el mecanismo de composición.
 
 No permite inferir automáticamente:
@@ -31,7 +33,7 @@ No permite inferir automáticamente:
 - omnisciencia del autor;
 - inspiración de cada pensamiento privado de la persona.
 
-**Hecho:** 2 Timoteo 3:16 aplica *theopneustos* a la Escritura.
+**Hecho:** 2 Timoteo 3:16 aplica *theopneustos* a la Escritura; el contexto inmediato de 3:15 apunta al menos a las Escrituras judías conocidas por Timoteo.
 
 **Interpretación fuerte:** la palabra afirma origen divino, no una teoría completa del proceso literario.
 
