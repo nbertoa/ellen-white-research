@@ -274,4 +274,6 @@ La evidencia disponible no apoya esas afirmaciones.
 - Anthony C. Thiselton, *The First Epistle to the Corinthians*, NIGTC (Eerdmans, 2000).
 - Gordon D. Fee, *The First Epistle to the Corinthians*, ed. rev., NICNT (Eerdmans, 2014).
 - Richard M. Blaylock, “Towards a Definition of New Testament Prophecy”, *Themelios* 44.2 (2019): 276-295.
-- *Dei Verbum* 11-12 (1965) y *The Chicago Statement on Biblical Inerrancy* (1978), como ejemplos de modelos confesionales distintos que rechazan reducir inspiración a dictado mecánico.
+- General Conference of Seventh-day Adventists, “The Holy Scriptures” (declaración oficial, 29 de junio de 1995), que describe el mensaje de Dios como transmitido mediante escritores humanos y reconoce lenguaje, trasfondo y contexto histórico humanos.
+- Gerhard Pfandl, “Some Thoughts on the Inspiration of the Bible”, Biblical Research Institute, que distingue explícitamente la teoría del dictado de otros modelos de inspiración.
+- “Divine Revelation”, *Stanford Encyclopedia of Philosophy*, para controlar el uso de taxonomías teológicas posteriores sobre clases de revelación.
