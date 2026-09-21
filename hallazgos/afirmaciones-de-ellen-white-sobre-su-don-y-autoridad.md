@@ -2,181 +2,224 @@
 
 ## ¿Qué afirmación se está estudiando?
 
-Antes de evaluar si Ellen G. White fue profeta, hay que fijar la pretensión que realmente hizo.
+Antes de evaluar si Ellen G. White fue profeta hay que fijar la pretensión que realmente hizo.
 
-La reconstrucción provisional es:
+La reconstrucción auditada es:
 
-> Ellen G. White afirmó haber recibido de Dios una comisión revelatoria que incluía la función profética. Sostuvo que Dios le comunicaba luz mediante visiones y otras formas de instrucción, que ella transmitía con lenguaje humano y aplicaba también a situaciones posteriores; distinguió esos mensajes de asuntos humanos ordinarios y sostuvo que la Biblia seguía siendo la norma doctrinal y el criterio por el cual debía probarse toda enseñanza.
+> Ellen G. White afirmó que Dios le confió una comisión que incluía la función profética. Sostuvo que recibía visiones e instrucciones divinas, que las expresaba en lenguaje humano y que podía aplicar luz anterior a casos nuevos con ayuda de información ordinaria. Distinguió esos mensajes de asuntos comunes, reclamó obediencia para los testimonios que identificaba como enviados por Dios y presentó la Biblia como la norma doctrinal y el criterio de prueba.
 
-Esta ficha no evalúa todavía si la pretensión era verdadera.
+Esta ficha no decide si la pretensión era verdadera.
 
 ## ¿Qué hechos están establecidos por fuentes primarias?
 
-### ¿Atribuyó sus primeras visiones a Dios?
+### ¿Cuándo atribuyó a Dios su primera visión?
 
-**Establecido.**
+**Establecido:** a más tardar el 20 de diciembre de 1845.
 
-En la carta a Enoch Jacobs fechada el 20 de diciembre de 1845 y publicada en *The Day-Star* el 24 de enero de 1846, Ellen Harmon dice que Dios le había mostrado en “santa visión” aquello que iba a relatar y habla de “lo que Dios me ha revelado”.
+La carta de Ellen Harmon a Enoch Jacobs, publicada en *The Day-Star* el 24 de enero de 1846, introduce el relato con las expresiones “Dios me ha mostrado en santa visión” y “lo que Dios me ha revelado”. Es el relato en primera persona más temprano cuyo texto se conoce y el primero que se conoce publicado. No prueba que fuera su primera narración oral, que no existiera un escrito anterior ni que sobreviva el autógrafo.
 
-Es el primer relato publicado conocido de su primera visión.
+Fuente primaria: Ellen G. Harmon, Lt 1, 1845, Portland, 20 de diciembre de 1845; *The Day-Star*, 24 de enero de 1846, pp. 31-32.
 
-Fuente primaria:
-- Ellen G. Harmon, Lt 1, 1845 / *The Day-Star*, 24 de enero de 1846.
+### ¿Negó una función profética en 1904?
 
-### ¿Negó ejercer una función profética?
+**Establecido:** el registro conservado de su intervención del 2 de octubre de 1904 contiene una negación verbalmente más amplia que “no reclamo el título”.
 
-**No. Está establecido que negó asumir el título, no la función.**
+**Establecido:** en 1905 y 1906 explicó que no reclamaba el título de profetisa, pero afirmó que su comisión incluía “la obra de un profeta”.
 
-En Lt 55, 1905 explica que nunca asumió el título “profetisa”, que su trabajo era más amplio y que se consideraba “mensajera” encargada por el Señor.
+**Probable:** las explicaciones posteriores expresan la distinción que quería formular en 1904.
 
-En Ms 63, 1906 precisa que lo que quiso decir era que no reclamaba “el título” de profeta o profetisa.
-
-En Lt 244, 1906 afirma explícitamente que su comisión “abarca la obra de un profeta, pero no termina allí”.
+**Indeterminado:** si la precisión posterior reproduce exactamente lo que entendieron sus oyentes o corrige una formulación oral desafortunada.
 
 Fuentes primarias:
-- Lt 55, 1905, 30 de enero de 1905.
-- Ms 63, 1906, 26 de mayo de 1906.
-- Lt 244, 1906, 17 de julio de 1906.
 
-### ¿Atribuyó autoridad divina a los testimonios?
+- Ms 140, 1905, registro de la intervención del 2 de octubre de 1904 en Battle Creek.
+- Lt 55, 1905, a O. A. Olsen, 30 de enero de 1905.
+- Ms 63, 1906, “A Messenger”, 26 de mayo de 1906; *Review and Herald*, 26 de julio de 1906.
+- Lt 244, 1906, a los ancianos de Battle Creek, 17 de julio de 1906, párr. 18.
 
-**Establecido.**
+### ¿Qué significaba “mensajera” en su propio uso?
 
-En *Testimony for the Battle Creek Church* (1882) dice que una carta estaba “impulsada por el Espíritu de Dios”, que en sus cartas y testimonios presentaba lo que el Señor le había presentado y que sus artículos religiosos no expresaban meramente ideas propias.
+**Establecido:** era el título que prefería y describía una comisión que consideraba más amplia que el rótulo “profeta”. No reducía la pretensión a enseñanza religiosa común: la relacionó con revelación, visiones, escritura, reprensión, consejo y dirección práctica.
 
-En el mismo documento compara reducir la confianza en los testimonios enviados por Dios con la rebelión de Coré, Datán y Abiram.
+Fuentes primarias: Lt 55, 1905; Ms 63, 1906; Lt 244, 1906.
 
-En *Testimony for the Church—No. 33* sostiene que rechazar la luz enviada no era meramente rechazarla a ella sino al Señor.
+### ¿Qué autoridad atribuyó a los testimonios?
+
+**Establecido:** atribuyó autoridad divina y obediencia debida a las comunicaciones que identificaba como testimonios enviados por Dios.
+
+En *Testimony for the Battle Creek Church* (1882) dijo que una carta concreta fue impulsada por el Espíritu para presentar cosas mostradas, que en sus cartas y testimonios comunicaba lo que el Señor le presentaba y que los artículos religiosos aludidos no eran meramente ideas propias. Allí habla de Dios comunicándose “por medio del barro” y compara el rechazo de los testimonios con rebelión contra Dios. En 1889 sostuvo que rechazar el testimonio encargado era rechazar al Señor que lo enviaba.
+
+El referente inmediato es una carta específica y una clase de cartas, testimonios y artículos religiosos vinculados con su comisión. La fuente no autoriza a extender la afirmación a cada línea que escribió, pero tampoco permite reducirla a consejo pastoral opcional.
 
 Fuentes primarias:
+
 - *Testimony for the Battle Creek Church* (1882), pp. 47-49; luego 5T 66-68.
-- *Testimony for the Church—No. 33* (1889); luego 5T 683-691.
+- *Testimony for the Church—No. 33* (1889), “An Unwarranted Distinction”; luego 5T 687-688.
 
 ### ¿Afirmó inspiración especial para todo lo que decía o escribía?
 
 **No. Establecido.**
 
-Ms 107, 1909 distingue expresamente entre mensajes revelados por el Espíritu y asuntos comunes. El ejemplo inmediato es un número incorrecto de habitaciones de un sanatorio, información que dice haber recibido de otras personas y no por revelación. Añade que cartas, pensamientos e informaciones comunes no son dadas bajo inspiración especial.
+Ms 107, 1909 distingue mensajes revelados por el Espíritu de asuntos comunes. El ejemplo inmediato es un dato equivocado sobre el número de habitaciones de un sanatorio, obtenido de personas supuestamente informadas y expresado como opinión humana. Incluye cartas comunes, información de terceros y conversaciones ordinarias entre las cosas no dadas bajo inspiración especial.
 
-Fuente primaria:
-- Ms 107, 1909, “A Confusion of the Sacred and the Common”, 5 de marzo de 1909.
+**Indeterminado:** la clasificación de cada texto mixto, porque la distinción general no identifica automáticamente qué parte procede de memoria, información humana, aplicación o revelación reclamada.
 
-### ¿Afirmó dictado verbal general?
+Fuente primaria: Ms 107, 1909, “A Confusion of the Sacred and the Common”, St. Helena, 5 de marzo de 1909, párrs. 6-10.
 
-**No. Establecido.**
-
-En *Review and Herald*, 8 de octubre de 1867, dice que las palabras con las que describe lo visto son suyas, excepto cuando reproduce palabras de un ángel y las identifica como tales.
-
-Fuente primaria:
-- Ellen G. White, “Questions and Answers”, *Review and Herald*, 8 de octubre de 1867, párr. 9.
-
-### ¿Afirmó infalibilidad personal?
+### ¿Necesitaba una nueva visión para cada consejo?
 
 **No. Establecido.**
 
-En Lt 10, 1895 dice que nunca reclamó infalibilidad y que sólo Dios es infalible.
+En 1889 explicó que podía aplicar a un caso nuevo principios, peligros y patrones que afirmaba haber visto antes. Una noticia humana podía activar o contextualizar el consejo sin que cada persona hubiera aparecido en visión. Su modelo diferencia revelación específica, principio previamente recibido, aplicación posterior e información humana de ocasión.
 
-Esto no demuestra por sí mismo que considerara falibles los mensajes que identificaba como revelación divina.
+Fuente primaria: *Testimony for the Church—No. 33* (1889), “An Unwarranted Distinction”; luego 5T 683-691, especialmente 686-687.
 
-Fuente primaria:
-- Lt 10, 1895; después 1SM 37.
+### ¿Afirmó inspiración verbal o dictado general?
+
+**No. Establecido.**
+
+En el contexto limitado de la vestimenta reformada dijo en 1867 que las palabras usadas para describir lo visto eran suyas, salvo las atribuidas expresamente a un ángel. El pasaje por sí solo no define todos sus escritos.
+
+La evidencia general más directa es Lt 206, 1906. David Paulson describió la creencia de que cada palabra pública o privada y cada carta en cualquier circunstancia era tan inspirada como los Diez Mandamientos. White respondió que nunca había hecho semejante afirmación. Ms 24, 1886 describe la inspiración de los escritores bíblicos como acción sobre la persona y sus pensamientos, no dictado de expresiones. Lt 225, 1906 admite corrección gramatical, eliminación de repeticiones y preparación editorial, aunque niega autorización para añadir ideas o cambiar el sentido.
+
+**Probable:** “inspiración del pensamiento o mensaje” resume mejor su posición general que “inspiración verbal”, con la reserva de que es una sistematización y no una regla detallada formulada por ella para toda clase de documento.
+
+Fuentes primarias:
+
+- “Questions and Answers”, *Review and Herald*, 8 de octubre de 1867, p. 260, párr. 9.
+- Ms 24, 1886, “Objections to the Bible”.
+- Lt 206, 1906, a David Paulson, 14 de junio de 1906.
+- Lt 225, 1906, 8 de julio de 1906.
+
+### ¿Afirmó infalibilidad?
+
+**Establecido:** negó infalibilidad personal.
+
+Lt 10, 1895 dice que nunca la reclamó y que sólo Dios es infalible. El contexto contrasta la falibilidad de seres humanos con Dios y su palabra. Lt 27, 1876 admite errores en su vida y niega perfección de carácter.
+
+**Indeterminado:** si admitía la posibilidad de error en el contenido de un mensaje que identificaba inequívocamente como revelación. Los textos sobre infalibilidad personal no responden esa pregunta.
+
+Fuentes primarias:
+
+- Lt 10, 1895, a F. E. Belden, 9 de junio de 1895, párr. 6.
+- Lt 27, 1876, a James White, 16 de mayo de 1876.
 
 ### ¿Qué lugar dio a la Biblia?
 
-**Está establecido que presentó la Biblia como norma doctrinal y criterio de prueba.**
+**Establecido:** presentó la Biblia como norma doctrinal pública y criterio de prueba.
 
-En la introducción de *The Great Controversy* (1888) llama a las Escrituras revelación autoritativa e infalible de la voluntad de Dios, revelador de doctrinas y prueba de la experiencia; añade que el Espíritu nunca fue dado para sustituir la Biblia.
+La introducción de *The Great Controversy* (1888; conservada en 1911) llama a la Escritura revelación autoritativa e infalible de la voluntad de Dios, revelador de doctrinas y prueba de la experiencia; añade que el Espíritu nunca fue dado para sustituirla. En 1889 dijo que los testimonios no añadían una nueva regla de verdad, sino que hacían vívidos y aplicaban principios bíblicos. En Lt 11, 1894 indicó que en labor pública no se citara a “Sister White” como autoridad probatoria, sino que se presentara la evidencia bíblica.
 
-En 5T 665 dice que los testimonios escritos no traen “nueva luz” adicional, sino que hacen vívidas y aplican verdades ya reveladas.
-
-En Lt 11, 1894 instruye que en labor pública no se cite a “Sister White” como autoridad para sostener una posición, sino que se presente la evidencia desde la Palabra de Dios.
+**Establecido:** esa supremacía no volvía opcional un testimonio que ella identificaba como enviado por Dios. Su estructura declarada era jerárquica: Biblia como regla y prueba; testimonios como comunicaciones derivadas de advertencia, corrección y aplicación.
 
 Fuentes primarias:
-- *The Great Controversy* (1888), Introducción.
-- *Testimony for the Church—No. 33* / 5T 663-665.
-- Lt 11, 1894.
+
+- *The Great Controversy* (1888), introducción, pp. d-e; edición de 1911, pp. vi-vii.
+- *Testimony for the Church—No. 33* (1889); luego 5T 663-665, 687-691.
+- Lt 11, 1894, a Brother and Sister Colcord, 16 de enero de 1894, párr. 4.
+
+### ¿A qué se referían “luz menor” y “luz mayor”?
+
+**Probable, con evidencia contextual fuerte:** “luz menor” se refiere a los libros de Ellen White promovidos en la carta abierta; “luz mayor”, a la Biblia mencionada inmediatamente antes.
+
+El artículo nombra *Christ's Object Lessons*, *Patriarchs and Prophets*, *The Great Controversy* y *The Desire of Ages*, afirma que contienen instrucción dada por Dios y que conducen al Salvador. Después lamenta que la Biblia reciba poca atención, introduce la comparación entre las dos luces y vuelve a hablar de “los libros que contienen esta luz”. Cristo es el destino de los libros, pero no el referente gramatical más probable de “luz mayor”.
+
+Fuente primaria: carta abierta fechada en Elmshaven el 6 de diciembre de 1902 y publicada en *Review and Herald* el 20 y 27 de enero de 1903. El pasaje apareció el 20 de enero. “A Call for Recruits” es un encabezado de reproducción posterior; *Colporteur Ministry* tampoco debe citarse como publicación original.
+
+## ¿Cómo se interpreta mejor el conjunto?
+
+La interpretación que explica más documentos con menos excepciones es una pretensión de revelación con mediación humana:
+
+1. Dios sería el origen de visiones e instrucciones identificadas como tales;
+2. White las expresaría en lenguaje propio y admitiría corrección editorial;
+3. podría aplicar principios previamente recibidos a casos nuevos;
+4. información humana podría dar ocasión o contexto a un consejo;
+5. datos y comunicaciones comunes quedarían fuera de la inspiración especial;
+6. la Biblia sería la norma doctrinal y el criterio de prueba;
+7. los testimonios reconocidos como divinos conservarían autoridad derivada y exigirían obediencia.
+
+Esta interpretación no prueba que el proceso ocurriera así. Describe la explicación que White dio de él.
+
+## ¿Qué hipótesis siguen abiertas?
+
+- Que “mensajera” fuera también una respuesta estratégica a las limitaciones o problemas públicos asociados con “profetisa”, además de su explicación de una comisión más amplia. **Posible**, pero no demostrado por los textos auditados.
+- Que la declaración de 1904 fuera una formulación oral imprecisa corregida después. **Probable**, pero un registro contemporáneo más completo podría cambiar el juicio.
+- Que algunos documentos combinen material sagrado y común sin marcar la frontera. **Probable** como posibilidad documental; su alcance sólo puede establecerse caso por caso.
 
 ## ¿Cuál es el mejor argumento favorable?
 
-La defensa más fuerte sostiene que las declaraciones forman un modelo coherente de inspiración no verbal:
+La defensa más fuerte afirma que las declaraciones forman un modelo coherente de inspiración no verbal: revelación atribuida a Dios, formulación humana, aplicación posterior de principios, uso legítimo de información normal, distinción entre lo común y lo sagrado y primacía bíblica.
 
-1. revelación o luz atribuida a Dios;
-2. formulación en lenguaje humano;
-3. posibilidad de usar información normal y aplicar principios previamente recibidos;
-4. distinción entre asuntos comunes y mensajes sagrados;
-5. Biblia como norma superior y prueba;
-6. función profética real aunque prefiera el término “mensajera”.
-
-Herbert E. Douglass desarrolla esta lectura en *Messenger of the Lord*, cap. 16, y la conecta con la autocomprensión de Ellen White como mensajera, con la primacía bíblica y con una teoría de inspiración de pensamientos y no de palabras.
-
-Esta lectura explica bien varias fuentes primarias importantes.
+Herbert E. Douglass reconstruye este modelo en *Messenger of the Lord*, especialmente caps. 16, 32, 35 y 36. Sus fortalezas son reunir las declaraciones sobre “mensajera”, inspiración de pensamiento, “luz menor” y autoridad bíblica. Su límite es que a veces presenta como sistema cerrado lo que los documentos primarios dejan menos definido, especialmente la frontera práctica entre contenido revelado y aportes humanos. La conclusión de esta ficha se apoya en las fuentes primarias, no en la autoridad de Douglass.
 
 ## ¿Cuál es la mejor objeción crítica?
 
-La objeción más fuerte no es que Ellen White “dijo que cada palabra era dictada”, porque las fuentes contradicen eso.
+La objeción más fuerte no consiste en atribuirle una doctrina de dictado universal que ella negó. Consiste en tomar en serio la amplitud de sus afirmaciones de 1882 y 1889: Dios hablaba mediante los testimonios; cartas y artículos religiosos comunicaban cosas mostradas; rechazar el mensaje era rechazar a Dios.
 
-La objeción más fuerte es que algunas de sus afirmaciones de origen divino son muy amplias y fuertes. En 1882 dice que Dios estaba hablando “por medio de barro”, que sus comunicaciones estaban impulsadas por el Espíritu y que sus artículos religiosos contenían lo que Dios le había mostrado. También presenta el rechazo de los testimonios como rechazo de una comunicación enviada por Dios.
+Walter Rea destaca correctamente esa fuerza en *The White Lie*, cap. 3, pp. 52-53, y luego la contrapone a dependencia literaria. Su argumento separa dos niveles que deben probarse: las afirmaciones de autoridad están documentadas; que una dependencia humana concreta las contradiga es una inferencia que exige demostrar el origen, el acceso, la dependencia y la atribución hecha por White en cada caso. La retórica de Rea a veces amplía el alcance desde la clase de escritos religiosos discutida hasta toda la producción de White.
 
-Walter Rea enfatiza precisamente esa fuerza en *The White Lie*, cap. 3, pp. 52-53, y luego la contrasta con evidencia de dependencia literaria.
+## ¿Cuál es la mejor respuesta disponible a esa objeción?
 
-La cuestión crítica futura será:
+El uso de fuentes humanas no refuta automáticamente inspiración. El capítulo 2 ya estableció, a partir de Lucas 1:1-4, que investigación y fuente humana pueden coexistir con una pretensión inspirada. Además, White negó el dictado verbal, reconoció información común y sostuvo que no todo consejo requería una visión específica nueva.
 
-> ¿Existen materiales cuyo origen humano pueda demostrarse y que Ellen White haya descrito inequívocamente como contenido recibido directamente en visión o revelación?
+La respuesta sólo es válida si se mantiene falsable. En cada caso debe determinarse:
 
-Si la respuesta fuera sí en casos claros y sustantivos, la objeción afectaría directamente el criterio de falsa atribución de origen fijado en el capítulo 2.
+1. cuál es la fuente humana;
+2. si White tuvo acceso a ella;
+3. qué clase y grado de dependencia existe;
+4. qué dijo sobre el origen de ese contenido concreto;
+5. si la explicación de aplicación, información común o edición es compatible con el documento y no una salida inventada después.
 
-## ¿Cuál es la mejor respuesta a esa objeción?
+Esta respuesta impide una condena automática, pero no elimina la objeción. Si se demostrara una atribución falsa de origen en un caso claro y sustantivo, el problema sería serio según la matriz del capítulo 2.
 
-El mero uso de fuentes humanas no resuelve la cuestión.
+## ¿Qué dificultad permanece pendiente?
 
-El capítulo 2 ya estableció que Lucas 1:1-4 impide equiparar automáticamente investigación o fuentes humanas con falsa inspiración. Además, Ellen White no afirmó dictado verbal general, reconoció información ordinaria y sostuvo que no todo consejo requería una nueva visión específica.
+La frontera entre revelación específica, aplicación de luz anterior, información humana, memoria, razonamiento y edición no queda marcada en cada texto. Tampoco está resuelto si White admitía error en un mensaje que presentaba expresamente como revelado.
 
-Por tanto, para que la objeción sea decisiva hay que demostrar en cada caso:
+Estas no son lagunas que puedan llenarse con la fórmula “inspiración de pensamiento”. Requieren estudiar el origen y la pretensión de cada documento futuro.
 
-1. cuál era la fuente humana;
-2. que Ellen White tuvo acceso a ella;
-3. qué dependencia existe;
-4. qué afirmó ella sobre el origen de ese material concreto;
-5. que la afirmación de origen y la evidencia documental son realmente incompatibles.
+## ¿Qué cambió después de la auditoría?
 
-Esta respuesta evita una inferencia demasiado rápida, pero no elimina el problema. Lo traslada a una prueba documental precisa.
-
-## ¿Qué dificultad permanece abierta?
-
-La frontera entre “mensaje revelado”, “aplicación de luz anterior”, “información humana” y “redacción asistida” no siempre queda marcada en cada texto.
-
-El modelo general está documentado; su aplicación concreta deberá evaluarse caso por caso.
-
-## ¿Qué queda demostrado?
-
-**Establecido:**
-- Ellen White reclamó revelación divina desde sus primeros relatos publicados.
-- No negó la función profética; evitó el título y prefirió “mensajera”.
-- Atribuyó autoridad divina a mensajes que identificaba como testimonios o luz de Dios.
-- No afirmó inspiración especial para toda información cotidiana.
-- No afirmó dictado verbal general.
-- Negó infalibilidad personal.
-- Presentó la Biblia como norma doctrinal y criterio de prueba.
-
-**No demostrado todavía:**
-- que sus visiones provinieran realmente de Dios;
-- que todos los mensajes que presentó como divinos fueran correctos;
-- que la distinción entre revelación e información humana se mantuviera coherentemente en la práctica;
-- que el uso de fuentes humanas fuera o no compatible con sus afirmaciones en casos concretos.
+- Se reemplazó “desde el principio” por la fecha documental verificable: a más tardar el 20 de diciembre de 1845. El cambio procede de distinguir primer relato conocido, primer relato publicado y autógrafo conservado.
+- Se dejó de presentar 1904 como una simple negación del título. El registro conservado usa una frase más amplia; las cartas y manuscritos de 1905-1906 aportan la aclaración posterior y conservan una tensión real.
+- Se precisó el alcance de las declaraciones de 1882: son muy fuertes respecto de la carta y de una clase de cartas, testimonios y artículos religiosos, pero no demuestran inspiración de cada línea escrita.
+- Se incorporaron Lt 206 y Lt 225, 1906. La primera rechaza directamente la inspiración de cada palabra bajo cualquier circunstancia; la segunda documenta corrección y asistencia editorial sin autorización declarada para cambiar el sentido.
+- Se contextualizó Lt 10, 1895. Niega infalibilidad personal, pero no concede explícitamente error en una revelación concreta.
+- Se corrigió la fuente de “luz menor”: no fue originalmente *The Canvasser Evangelist*. Fue una carta abierta fechada el 6 de diciembre de 1902 y publicada en *Review and Herald* el 20 y 27 de enero de 1903; “A Call for Recruits” es un encabezado de reproducción posterior. El artículo completo hace probable que “luz menor” se refiera a sus libros y “luz mayor”, a la Biblia.
+- Se sustituyeron compilaciones temáticas por cartas, manuscritos, folletos y artículos originales siempre que fue posible, conservando las compilaciones sólo para localizar reproducciones posteriores.
 
 ## ¿Qué nivel de certeza corresponde?
 
-**Alto** para la reconstrucción general de lo que Ellen White afirmó, porque convergen documentos primarios separados por décadas.
+**Alto** para la reconstrucción general de su pretensión, porque convergen fuentes primarias de 1845 a 1909.
 
-**Indeterminado** para la verdad de la pretensión profética, que todavía no ha sido evaluada.
+**Probable** para la intención exacta detrás de la frase oral de 1904 y para los referentes de la metáfora “luz menor/luz mayor”.
 
-## ¿Qué evidencia podría obligarnos a cambiar esta conclusión?
+**Indeterminado** para el límite de lo sagrado en cada documento mixto, la posibilidad de error admitida en una revelación y la verdad de la pretensión profética.
 
-- documentos anteriores que muestren que inicialmente describía sus experiencias como no revelatorias;
-- documentos en los que niegue claramente la función profética, no sólo el título;
-- una afirmación general y clara de inspiración verbal de todas sus palabras;
-- evidencia de que consideraba inspirados también los datos cotidianos que en 1909 clasificó como humanos;
-- evidencia que altere el contexto o autenticidad documental de las fuentes primarias usadas.
+## ¿Qué evidencia podría falsar o modificar la conclusión?
+
+- un relato anterior que describa la primera experiencia como no revelatoria;
+- un registro contemporáneo más completo que muestre una negación sostenida de la función profética en 1904;
+- una afirmación general auténtica de que todas sus palabras y datos cotidianos fueron inspirados;
+- documentos que clasifiquen como opinión humana mensajes aquí tratados como testimonios divinos;
+- originales que muestren que el lenguaje de autoridad fue añadido por editores posteriores;
+- el artículo completo de 1903 o correspondencia contemporánea que identifique inequívocamente otros referentes para las dos luces;
+- evidencia documental de una falsa atribución de origen en un contenido presentado inequívocamente como revelación.
+
+## ¿Cuáles son las fuentes primarias decisivas?
+
+- Lt 1, 1845 / *The Day-Star*, 24 de enero de 1846.
+- Ms 140, 1905, sobre la intervención del 2 de octubre de 1904.
+- Lt 55, 1905; Ms 63, 1906; Lt 244, 1906.
+- *Testimony for the Battle Creek Church* (1882), pp. 47-49.
+- *Testimony for the Church—No. 33* (1889), luego 5T 663-691.
+- “Questions and Answers”, *Review and Herald*, 8 de octubre de 1867, p. 260.
+- Ms 24, 1886; Lt 206, 1906; Lt 225, 1906.
+- Lt 10, 1895; Lt 27, 1876.
+- Ms 107, 1909.
+- *The Great Controversy* (1888), introducción, pp. d-e; edición de 1911, pp. vi-vii.
+- Lt 11, 1894.
+- Carta abierta del 6 de diciembre de 1902; *Review and Herald*, 20 y 27 de enero de 1903.
 
 ## ¿Qué pregunta sigue?
 

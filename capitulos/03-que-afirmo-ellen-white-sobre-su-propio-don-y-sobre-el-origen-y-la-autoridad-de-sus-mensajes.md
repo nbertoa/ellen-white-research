@@ -1,216 +1,194 @@
 # Capítulo 3 — ¿Qué afirmó Ellen G. White sobre su propio don y sobre el origen y la autoridad de sus mensajes?
 
-Antes de preguntar si Ellen G. White fue realmente una profeta, necesitamos saber qué afirmó ella. No tendría sentido evaluar una pretensión más fuerte que la que hizo, ni rebajarla después para protegerla de una dificultad.
+Antes de preguntar si Ellen G. White fue realmente una profeta, necesitamos fijar qué afirmó ella. No sería justo evaluar una pretensión más fuerte que la que hizo ni rebajarla después para protegerla de una dificultad.
 
-La pregunta de este capítulo es limitada. No intentaremos decidir todavía si sus visiones procedían de Dios, si sus mensajes eran correctos ni si las explicaciones que dio sobre su origen resisten la investigación histórica. Primero reconstruiremos la pretensión que después deberá ser puesta a prueba.
+La tarea de este capítulo es limitada. No intentaremos decidir todavía si sus visiones procedían de Dios, si sus mensajes eran correctos ni si sus explicaciones sobre el origen de esos mensajes resisten la investigación histórica. Primero reconstruiremos la pretensión que después deberá ser sometida a prueba.
 
-Esto exige distinguir varias cosas. Decir que alguien tuvo una experiencia religiosa no equivale a decir que recibió una revelación. Afirmar que recibió una revelación no significa necesariamente que Dios dictó cada palabra. Reconocer una función profética tampoco obliga a usar el título “profeta”. Y decir que la Biblia tiene autoridad suprema no convierte automáticamente cualquier otro mensaje religioso en una opinión prescindible.
+Para hacerlo hay que conservar varias distinciones. Una experiencia religiosa no es necesariamente una revelación. Recibir una revelación no implica que Dios haya dictado cada palabra. Rechazar un título no equivale siempre a negar la función asociada con él. Y colocar la Biblia por encima de otro mensaje religioso no convierte automáticamente ese mensaje en una opinión prescindible.
 
-Con esas distinciones en mente, podemos preguntar qué afirmó realmente Ellen White.
+Con esas distinciones podemos preguntar qué afirmó realmente Ellen White.
 
-## ¿Atribuyó desde el principio sus visiones a Dios?
+## ¿Atribuyó desde el comienzo sus visiones a Dios?
 
-Sí.
+La evidencia permite responder algo más preciso: **a más tardar el 20 de diciembre de 1845, Ellen Harmon atribuía a Dios su primera visión**.
 
-El primer relato suyo conocido que llegó a publicarse apareció en *The Day-Star* el 24 de enero de 1846. Era una carta fechada el 20 de diciembre de 1845, cuando todavía se llamaba Ellen Harmon. Allí introdujo su relato diciendo que Dios le había mostrado en “santa visión” el viaje del pueblo adventista hacia la Santa Ciudad y que iba a ofrecer un resumen de lo que Dios le había revelado.[^1]
+Ese día escribió desde Portland a Enoch Jacobs, director de *The Day-Star*. Comenzó diciendo que Dios le había mostrado en “santa visión” el viaje del pueblo adventista hacia la Santa Ciudad y anunció un breve relato de lo que Dios le había revelado. Jacobs publicó la carta el 24 de enero de 1846.[^1]
 
-La importancia de este documento no está en demostrar que la visión fuera divina. Sólo establece qué origen le atribuía ella. No presentó aquella experiencia como una imaginación edificante, un sueño ordinario ni una interpretación personal de la Biblia. La presentó como algo que Dios le había mostrado.
+Este es el relato en primera persona más temprano de aquella visión cuyo texto se conoce y también el primero que se conoce publicado. El texto se conserva por su publicación; esta afirmación no supone que sobreviva el autógrafo de la carta ni que ella nunca hubiera contado o escrito antes la experiencia de otra manera.
 
-Esa forma de describir su experiencia no fue una explicación inventada al final de su vida. Está presente en el primer relato publicado que conocemos y continúa después en sus cartas, artículos y libros.
+El documento establece cómo interpretaba públicamente la experiencia en esa fecha. No la presentó como un sueño ordinario, una imaginación edificante ni sólo una conclusión bíblica, sino como algo mostrado y revelado por Dios. Documentos posteriores repitieron esa atribución.
 
-Por tanto, una primera parte de la pretensión está bien establecida: **Ellen White afirmó desde el comienzo de su ministerio público que al menos algunas de sus experiencias visionarias eran revelaciones recibidas de Dios.**
-
-Eso todavía deja abierta una cuestión importante. ¿Afirmó además ser profetisa?
+Por tanto, queda **establecido** que la atribución divina ya aparece en diciembre de 1845, al comienzo de su actividad pública conocida. Queda **indeterminado** si esas fueron las primeras palabras con las que describió la experiencia en privado y, sobre todo, si la atribución era verdadera. La pregunta siguiente tampoco puede resolverse con una palabra aislada.
 
 ## ¿Negó Ellen White ser profetisa?
 
-La respuesta más exacta es: **negó asumir el título, pero no negó realizar una función profética**.
+En una reunión pública celebrada en Battle Creek el 2 de octubre de 1904, el registro conservado le atribuye esta declaración: “No soy, como dije ayer, profeta”; a continuación afirmó que no pretendía ser dirigente y que sólo pretendía ser mensajera de Dios.[^2] La propia frase indica que reiteraba algo dicho el sábado anterior. Leída por sí sola, puede entenderse como una negación de la condición de profeta, no sólo de un título. Esa dificultad no debe desaparecer mediante una paráfrasis más cómoda.
 
-Este punto puede confundirse porque en 1904 dijo públicamente que no reclamaba ser profetisa. La frase produjo preguntas, y en enero de 1905 explicó por escrito qué quería decir. Señaló que otras personas la llamaban profetisa, pero que ella nunca había asumido ese título. La razón que dio no fue que careciera de revelaciones, sino que consideraba que su trabajo abarcaba más de lo que la palabra “profeta” expresaba. Prefería llamarse “mensajera”, encargada por el Señor de llevar mensajes a su pueblo.[^2]
+Sin embargo, sus explicaciones posteriores son explícitas. El 30 de enero de 1905 escribió a O. A. Olsen que nunca había asumido el título de profetisa, aunque otros la llamaran así, porque consideraba que su trabajo incluía más funciones. Prefería “mensajera del Señor”.[^3] En mayo de 1906 añadió que, si había hablado de manera que permitía otra interpretación, lo que pretendía decir era: “No reclamo el título de profeta o profetisa”.[^4] Y en julio escribió a los dirigentes de Battle Creek que su comisión abarcaba “la obra de un profeta”, pero no terminaba allí.[^5]
 
-En 1906 volvió sobre el asunto con todavía más claridad. Escribió que nunca había reclamado el título de profetisa y que, si en aquella intervención pública había usado una frase que podía entenderse de otro modo, lo que quiso decir era: “No reclamo el título de profeta o profetisa”. En el mismo manuscrito afirmó que había sido llamada por el Señor para recibir su palabra y comunicarla, y que las visiones le habían sido dadas como parte de ese trabajo.[^3]
+El conjunto documental permite dos conclusiones a la vez. Queda **establecido** que en 1905 y 1906 no negó una función profética: la afirmó. También queda **establecido** que la formulación pública conservada de 1904 era más amplia y podía comunicar una negación. Es **probable** que los textos posteriores expresen la distinción que ella quería hacer entre título y función; no pueden convertir retrospectivamente la frase de 1904 en una declaración inequívoca.
 
-Ese mismo año, en una carta a los dirigentes de la iglesia de Battle Creek, escribió una frase que prácticamente elimina la ambigüedad: su comisión, dijo, **incluía “la obra de un profeta”, aunque no terminaba allí**.[^4]
+No hay que escoger entre borrar la tensión y convertirla en contradicción definitiva. La evidencia muestra una declaración pública problemática seguida por una aclaración sostenida: no reclamaba el título como designación principal, pero sí una comisión que incluía la labor profética.
 
-Por eso no sería correcto usar su frase “no reclamo ser profetisa” como si fuera una negación de toda pretensión profética. Tampoco sería correcto ignorarla y decir simplemente que ella se presentó siempre con el título “profetisa”. Su posición fue más específica: no quiso adoptar ese título como designación principal, pero sí afirmó ejercer una función que incluía el trabajo de un profeta.
+## ¿Qué quiso decir al llamarse “mensajera”?
 
-La diferencia puede parecer semántica, pero importa. Lo que debemos poner a prueba no es un título, sino la función que reclamó.
+“Mensajera” cumplía dos funciones relacionadas: era su título preferido y describía una comisión que consideraba más amplia que el trabajo de un profeta.
 
-## ¿Qué quiso expresar al llamarse “mensajera”?
+En la carta de 1905 no se llamó mensajera para reducirse a maestra religiosa común. Dijo estar encargada por el Señor de llevar mensajes a su pueblo, dar a conocer lo que Dios le revelaba y escribir las instrucciones recibidas.[^3] En 1906 volvió a relacionar el término con visiones, reprensión, consejo, escritura y otras tareas prácticas.[^4]
 
-No parece haber usado “mensajera” para rebajar su pretensión a la de una maestra religiosa común.
+Por eso queda **establecido** que “mensajera” no disminuía el origen sobrenatural que ella reclamaba. También queda **establecido** que usó el término para ampliar la descripción de su trabajo más allá de lo que entendía por el título “profeta”. Determinar si esa ampliación estaba justificada será una pregunta posterior; aquí sólo importa no sustituir su uso por una definición denominacional construida después.
 
-En la explicación de 1905 dijo que se consideraba una mensajera “confiada por el Señor con mensajes para su pueblo”. En ese mismo documento afirmó que recibía instrucciones del mismo Maestro desde el comienzo de su ministerio y resumió su comisión como la obligación de hacer conocido lo que Dios le había revelado y de escribir los mensajes que recibía.[^2]
+Saber que reclamó una comisión divina conduce a una cuestión más exigente: ¿qué autoridad daba a los mensajes asociados con ella?
 
-En el manuscrito de 1906 la afirmación es todavía más fuerte. Presentó su función como recibir la palabra de Dios y dar “un mensaje claro y decidido” en el nombre de Jesús. También puso en boca de su Instructor la orden de escribir los mensajes recibidos y afirmó que los libros producidos durante su ministerio contenían “luz del cielo” y podían ser sometidos a investigación.[^3]
+## ¿Qué autoridad atribuyó a los testimonios?
 
-Por tanto, “mensajera” no funciona en estos textos como alternativa a una pretensión revelatoria. Es el nombre que ella prefirió para una comisión que, según su propia explicación, incluía revelación, visiones, advertencias, enseñanza, escritura y otras tareas prácticas.
+Atribuyó una autoridad muy fuerte a las comunicaciones que identificaba como testimonios o instrucciones enviadas por Dios.
 
-Hasta aquí sabemos que afirmó recibir mensajes de Dios. Pero falta precisar cuánta autoridad atribuía a esos mensajes.
+En *Testimony for the Battle Creek Church* (1882) respondió a quienes reducían sus comunicaciones a opiniones personales. El caso inmediato era una carta escrita desde Colorado acerca de una reunión campestre. Aunque el documento tenía forma de carta, sostuvo que el Espíritu de Dios la había impulsado para presentar cosas que le habían sido mostradas. Luego amplió la explicación: en las cartas y testimonios de esa labor presentaba lo que el Señor le había presentado, y los artículos religiosos a los que se refería no contenían meramente ideas propias, sino cosas abiertas ante ella en visión.[^6]
 
-## ¿Atribuyó autoridad divina a los mensajes que identificaba como testimonios?
+En el mismo folleto afirmó que Dios estaba hablando “por medio del barro” y comparó el esfuerzo por debilitar la confianza en los testimonios enviados por Dios con la rebelión de Coré, Datán y Abiram.[^6] En 1889 volvió a sostener que rechazar el testimonio que había sido comisionada a transmitir era rechazar al Señor que, según ella, enviaba el mensaje.[^7]
 
-Sí, y en algunos textos lo hizo en términos muy fuertes.
+El referente inmediato de estas afirmaciones no es cada nota doméstica o cada dato que escribió durante setenta años. Son una carta concreta y la clase de cartas, testimonios y artículos religiosos que relacionaba con su comisión. Restringirlas a “consejos pastorales útiles” debilitaría el texto; extenderlas automáticamente a cada línea salida de su pluma lo sobrepasaría.
 
-En un testimonio dirigido a la iglesia de Battle Creek y publicado en 1882, Ellen White respondió a personas que reducían sus comunicaciones a opiniones personales. Describió una carta que había escrito de madrugada y dijo que, aunque era una carta, había sido impulsada por el Espíritu de Dios para presentar cosas que le habían sido mostradas. Añadió que en sus cartas y testimonios presentaba aquello que el Señor le había presentado y que los artículos religiosos a los que se refería no expresaban meramente ideas propias, sino lo que Dios le había abierto en visión.[^5]
-
-En el mismo documento advirtió que disminuir la confianza del pueblo en los testimonios que Dios les había enviado equivalía, en aquel contexto, a rebelarse contra Dios como lo hicieron Coré, Datán y Abiram.[^6]
-
-Años después insistió en una idea semejante al escribir que rechazar el testimonio que había sido encargada de transmitir no era simplemente rechazarla a ella, sino rechazar al Señor que, según afirmaba, lo había enviado.[^7]
-
-Estas afirmaciones impiden describir sus escritos religiosos simplemente como consejos devocionales que ella consideraba útiles pero opcionales. Cuando identificaba algo como un testimonio o mensaje recibido de Dios, reclamaba para ese contenido una autoridad derivada de su supuesto origen divino.
-
-Eso eleva mucho la importancia de la investigación que seguirá. Si pudiéramos demostrar que un mensaje que ella presentó de manera inequívoca como recibido de Dios tenía en realidad un origen incompatible con esa afirmación, la dificultad sería seria según la matriz fijada en el capítulo anterior.
-
-Pero sería un error saltar de aquí a otra conclusión: que ella afirmaba que **todo** lo que decía o escribía, sobre cualquier asunto, procedía directamente de una revelación.
+Queda **establecido** que, cuando identificaba un testimonio como enviado por Dios, reclamaba para él autoridad derivada de ese origen y esperaba obediencia. Queda **indeterminado** el límite exacto de esa categoría en cada documento. Esa frontera importa porque ella misma admitió que no todo lo que decía o escribía pertenecía a esa categoría.
 
 ## ¿Afirmó que todo lo que escribía o decía estaba inspirado?
 
-No.
+No. En 1909 trazó una distinción explícita entre lo sagrado y lo común.
 
-Existe una tensión real entre algunas de sus expresiones amplias y otras distinciones explícitas, y no conviene borrar ninguna de las dos.
+La ocasión fue un dato equivocado sobre el número de habitaciones del Paradise Valley Sanitarium. Explicó que no lo había recibido por revelación: había preguntado a personas que suponía informadas y había expresado una opinión humana. Añadió que debía escribir cartas comunes, transmitir información recibida de otros y conversar sobre asuntos ordinarios; esas palabras e informaciones no eran dadas bajo la inspiración especial del Espíritu de Dios.[^8]
 
-La declaración de 1882 acerca de que no escribía artículos expresando “meramente” ideas propias es fuerte. Su contexto trata de cartas, testimonios y artículos vinculados con su labor religiosa. No tenemos base para debilitarla hasta convertirla en “a veces sentía que Dios la ayudaba”. Ella estaba reclamando origen divino para la instrucción que identificaba como parte de su mensaje.
+En contraste, sostuvo que, cuando el Espíritu le revelaba asuntos relativos a la obra, las instituciones o el corazón de las personas, el mensaje debía ser recibido como luz de Dios.[^8] No estaba renunciando a la autoridad de los testimonios, sino rechazando la mezcla indiscriminada de dos clases de material.
 
-Sin embargo, en 1909 estableció una distinción explícita entre lo sagrado y lo común. La ocasión fue una objeción basada en un dato incorrecto sobre el número de habitaciones de un sanatorio. Ellen White respondió que esa información no le había sido dada por revelación: era una opinión humana obtenida preguntando a personas que suponía informadas. Después explicó que en la vida cotidiana había que escribir cartas comunes, comunicar información recibida de otros y conversar sobre asuntos ordinarios; esas palabras e informaciones, dijo, **no eran dadas bajo la inspiración especial del Espíritu de Dios**.[^8]
+Queda **establecido** que no atribuyó inspiración especial a todo dato, conversación, opinión o carta cotidiana. También queda **establecido** que conservó una categoría de mensajes sagrados con pretensión divina. Es **indeterminado** cómo debe clasificarse cada texto mixto cuando contiene información humana, memoria, razonamiento y una advertencia que ella atribuía a Dios. Su distinción existe, pero no proporciona por sí sola una etiqueta inequívoca para cada frase.
 
-La distinción es documentalmente clara. Ellen White no sostuvo que cada dato factual que pronunciaba, cada conversación, cada carta cotidiana o cada opinión práctica fuera una revelación.
+## ¿Necesitaba una visión nueva para cada consejo?
 
-Esto no resuelve todos los casos. Todavía tendremos que investigar dónde colocó ella misma la frontera entre “común” y “sagrado”, porque un texto religioso puede combinar memoria, información de terceros, investigación, razonamiento y material que la autora atribuye a revelación. Pero sí elimina una caricatura: la pretensión que debemos evaluar no es “cada palabra que Ellen White produjo durante su vida vino directamente de Dios”.
+Según su propia explicación, no.
 
-## ¿Afirmó que necesitaba una visión nueva para cada consejo que daba?
+En *Testimony for the Church—No. 33* (1889) respondió a quienes daban más peso a una advertencia sólo cuando una visión había señalado directamente el caso particular. Sostuvo que Dios le había mostrado durante años principios, defectos de carácter, peligros y resultados de determinadas conductas. Ese aprendizaje la capacitaba, según ella, para reconocer una situación posterior y aplicar la luz ya recibida sin que cada persona o emergencia apareciera en una visión nueva.[^9]
 
-Tampoco.
+También admitió que información humana podía poner un problema ante ella. Usó el ejemplo de Pablo, que recibió noticias de la casa de Cloé antes de escribir a Corinto. Para Ellen White, el origen humano de la noticia podía explicar qué activó o contextualizó un consejo sin determinar por sí solo el origen de los principios aplicados.[^9]
 
-En 1889 explicó que algunas personas aceptaban sus consejos sólo cuando el caso particular había aparecido directamente en una visión. Ella rechazó esa distinción. Según su explicación, a lo largo de los años Dios le había mostrado principios, defectos de carácter, peligros y resultados de determinadas conductas. Esa experiencia la habría preparado para reconocer situaciones semejantes y aplicar advertencias anteriores aunque cada nuevo caso no hubiera aparecido individualmente en una visión.[^9]
+Su explicación distingue cuatro elementos:
 
-Este punto complica, pero también precisa, su pretensión.
+1. una revelación que ella consideraba específica;
+2. principios que afirmaba haber recibido anteriormente;
+3. la aplicación posterior de esos principios a un caso no visto de manera individual;
+4. información humana que daba ocasión o contexto al consejo.
 
-No todo consejo que ella consideraba autorizado era presentado como una revelación nueva recibida para ese individuo. Algunos consejos podían ser aplicaciones de principios que ella afirmaba haber recibido previamente. También reconocía que una pregunta, una carta o información humana podía ser la ocasión que motivara un testimonio, sin aceptar por ello que el contenido del consejo se redujera a esa información.[^9]
-
-La consecuencia metodológica es importante. Más adelante no bastará con preguntar: “¿De dónde obtuvo este dato?”. También habrá que preguntar: “¿Qué dijo que había recibido directamente en visión, qué afirmó que era una aplicación de luz anterior y qué presentó simplemente como información humana?”.
-
-Si no hacemos esa distinción, podríamos atribuirle una afirmación de revelación directa que nunca hizo. Pero también podríamos hacer lo contrario y convertir retrospectivamente cualquier mensaje problemático en una simple aplicación humana aunque ella lo hubiera presentado como revelación.
+La distinción queda **establecida** como parte de su autocomprensión. No demuestra que la primera revelación ocurriera ni permite reclasificar después cualquier mensaje problemático como aplicación humana. Obliga a examinar qué origen atribuyó al contenido concreto de cada caso.
 
 ## ¿Afirmó que Dios le dictaba las palabras exactas?
 
-En términos generales, no.
+No formuló una pretensión general de dictado verbal.
 
-En 1867, mientras aclaraba una controversia sobre la longitud adecuada de la vestimenta reformada, escribió que dependía del Espíritu del Señor tanto al escribir sus visiones como al recibirlas. Pero añadió una precisión decisiva: **las palabras empleadas para describir lo que había visto eran suyas**, excepto cuando reproducía palabras pronunciadas por un ángel y las colocaba entre comillas.[^10]
+En 1867, al responder preguntas sobre la longitud de la vestimenta reformada, dijo que dependía del Espíritu del Señor tanto al escribir sus visiones como al recibirlas. Inmediatamente añadió que las palabras empleadas para describir lo que había visto eran suyas, salvo las palabras pronunciadas por un ángel, que identificaba entre comillas.[^10] El pasaje demuestra una distinción entre lo visto y las palabras escogidas para relatarlo en ese caso. Por sí solo no constituye una teoría completa de todos sus escritos.
 
-La declaración distingue el supuesto origen del contenido de su formulación verbal. Ella afirmaba recibir escenas, ideas o instrucciones, pero no decía que el vocabulario ordinario de sus escritos fuera dictado palabra por palabra por Dios.
+Una carta a David Paulson, del 14 de junio de 1906, amplía la evidencia. Paulson le había dicho que lo educaron para creer que cada palabra que ella pronunciaba en público o en privado y cada carta escrita bajo cualquier circunstancia era tan inspirada como los Diez Mandamientos. Ella respondió que él nunca encontraría semejante pretensión en sus escritos ni en la posición de los pioneros, y remitió a su explicación de la verdad divina expresada en lenguaje humano.[^11]
 
-Esta distinción será importante cuando estudiemos editores, asistentes literarios, revisiones y dependencia de otros autores. El uso de palabras humanas no contradice por sí solo la teoría de inspiración que Ellen White expresó. Pero tampoco resuelve anticipadamente el problema de las fuentes. Si más adelante aparece material tomado de otra obra, habrá que determinar qué tomó, cómo lo utilizó y, sobre todo, qué origen afirmó para ese contenido concreto.
+En un manuscrito de 1886, referido directamente a la Biblia, había explicado que la inspiración no actuaba sobre las palabras del escritor como si este fuera una pluma pasiva, sino sobre la persona, cuyas palabras llevaban la marca de su mente.[^12] Ese texto muestra el modelo con que entendía la Escritura; la carta a Paulson confirma que rechazaba aplicar a sus propios escritos una inspiración universal de cada palabra.
 
-El capítulo anterior ya estableció una regla simétrica: una fuente humana no refuta automáticamente inspiración; una atribución falsa y demostrable de origen sí sería problemática.
+También reconoció trabajo editorial. En 1906 recordó que James White corregía errores gramaticales y eliminaba repeticiones, y que ayudantes copiaban manuscritos y preparaban artículos. A la vez negó que estuvieran autorizados a añadir ideas propias o cambiar el sentido.[^13] La existencia de revisión humana, por tanto, no contradice la forma en que ella describía su proceso; tampoco demuestra que toda revisión conservara siempre el sentido ni resuelve el futuro estudio de sus fuentes.
+
+Queda **establecido** que negó la inspiración especial de cada palabra pronunciada o escrita en cualquier circunstancia y que admitió formulación y corrección humanas. Es **probable** describir su posición general como inspiración del mensaje o del pensamiento antes que dictado de palabras, siempre que no convirtamos esa etiqueta posterior en una precisión mayor que sus documentos.
 
 ## ¿Afirmó ser infalible?
 
-No afirmó infalibilidad personal.
+Negó la infalibilidad personal. En una carta del 9 de junio de 1895 a su sobrino F. E. Belden, dentro de una advertencia contra depender de seres humanos falibles, escribió: “En cuanto a la infalibilidad, nunca la he reclamado; sólo Dios es infalible”.[^14]
 
-En una carta de 1895 escribió de manera directa: “En cuanto a la infalibilidad, nunca la he reclamado; sólo Dios es infalible”.[^11]
+El contexto importa. No estaba retirando un testimonio concreto ni definiendo una lista de errores permitidos en los mensajes. Estaba contrastando la falibilidad humana con la seguridad de Dios y su palabra. En una carta privada de 1876 también había reconocido errores en su vida y negado perfección de carácter, pero eso se refería a su persona, no a la exactitud de una revelación particular.[^15]
 
-La frase establece un límite real, pero no debe utilizarse para decir más de lo que dice. Negar infalibilidad personal no equivale necesariamente a afirmar que un mensaje concreto atribuido a Dios puede ser falso. En otros textos ella sostuvo con mucha fuerza que los testimonios enviados por Dios debían recibirse precisamente por su origen.
+Por tanto, queda **establecido** que no se presentó como infalible en su conocimiento, memoria, conducta o juicio humanos. No queda establecido que admitiera la posibilidad de error en aquello que presentaba de manera inequívoca como revelación de Dios. Esa cuestión permanece **indeterminada**, y no puede resolverse ni con el lema “nunca reclamó infalibilidad” ni con la autoridad que atribuyó a los testimonios.
 
-Por eso hay que mantener separadas dos proposiciones:
+## ¿Qué lugar atribuyó a la Biblia?
 
-1. Ellen White no se presentó a sí misma como una persona infalible en todo lo que sabía, recordaba, opinaba o hacía.
-2. Cuando identificó determinados mensajes como luz o testimonio enviado por Dios, reclamó para ellos una autoridad mucho mayor que la de una opinión personal.
+Presentó la Biblia como la norma doctrinal pública y como el criterio para probar toda enseñanza y experiencia.
 
-El examen histórico deberá comprobar si logró mantener esa distinción de manera coherente.
+En la introducción de *The Great Controversy* de 1888 llamó a las Escrituras una revelación autoritativa e infalible de la voluntad de Dios, el revelador de doctrinas y la prueba de la experiencia. Añadió que la actividad continua del Espíritu no volvía innecesaria la Biblia y que el Espíritu nunca fue dado para sustituirla: la Palabra debía probar toda enseñanza y experiencia. La edición de 1911 mantuvo esta estructura.[^16]
 
-## ¿Qué lugar atribuyó a la Biblia frente a sus propios escritos?
+En 1889 explicó que los testimonios escritos no debían dar una nueva regla de verdad, sino llamar la atención a principios bíblicos ya revelados, hacerlos vívidos y aplicarlos. Su propósito declarado era exaltar la Escritura, no disminuirla.[^17] Y en 1894 aconsejó a un ministro que en el trabajo público no citara a “Sister White” como autoridad para probar una posición: debía presentar la evidencia desde la Palabra de Dios.[^18]
 
-Aquí también hay que conservar dos datos que a veces se separan artificialmente.
+Pero esa supremacía bíblica no convertía los testimonios en sugerencias opcionales. Cuando identificaba uno como mensaje enviado por Dios, sostenía que rechazarlo era rechazar al remitente divino. Su estructura era jerárquica: la Biblia servía como regla doctrinal y prueba; los testimonios dependían de ella y reclamaban autoridad como advertencias, correcciones y aplicaciones divinas para destinatarios concretos o para la comunidad.
 
-Por un lado, Ellen White atribuyó a sus testimonios un origen y una autoridad divinos. Por otro, declaró repetidamente que la Biblia debía funcionar como norma para probar toda enseñanza y experiencia.
+Esta combinación queda **establecida** como su pretensión. No resuelve por sí sola qué hacer si un testimonio parece contradecir la Biblia, contiene un error o se usa en la práctica como prueba doctrinal. Tampoco basta llamarla “Biblia más luz menor”. Hay que examinar la frase en su propio documento.
 
-La introducción de *The Great Controversy* de 1888 lo dice con especial claridad. Allí llamó a las Escrituras una revelación “autoritativa e infalible” de la voluntad de Dios, el revelador de doctrinas y la prueba de la experiencia. Inmediatamente añadió que la continuidad de la obra del Espíritu no hacía innecesaria la Biblia y que el Espíritu nunca fue dado para sustituirla; la Palabra de Dios seguía siendo el estándar mediante el cual debía probarse toda enseñanza y experiencia.[^12]
+## ¿Qué significaban “luz menor” y “luz mayor” en 1903?
 
-En otra declaración sostuvo que, si los testimonios no hablaban de acuerdo con la Palabra de Dios, debían ser rechazados.[^13]
+El contexto inmediato permite una respuesta más precisa de lo que sugiere la cita aislada.
 
-También explicó que los testimonios escritos no tenían la función de introducir una nueva regla de verdad. Su propósito, según ella, era hacer vívidas, aplicar y llamar la atención sobre verdades ya reveladas en la Escritura; debían exaltar la Palabra, no disminuirla.[^14]
+Ellen White redactó en Elmshaven, el 6 de diciembre de 1902, una carta abierta publicada en *Review and Herald* los días 20 y 27 de enero de 1903. Promovía la circulación de *Christ's Object Lessons*, *Patriarchs and Prophets*, *The Great Controversy* y *The Desire of Ages*. Declaró que ella no era el origen de esos libros, que contenían la instrucción que Dios le había dado y que debían llevar al lector al Salvador. Después lamentó la poca atención prestada a la Biblia y escribió que el Señor había dado una “luz menor” para conducir a hombres y mujeres a la “luz mayor”; enseguida volvió a hablar de “los libros que contienen esta luz”.[^19]
 
-Y en 1894 aconsejó a un ministro que, al trabajar públicamente, no utilizara los escritos de “Sister White” como autoridad para demostrar sus posiciones. Debía presentar la evidencia desde la Palabra de Dios y enseñar a las personas a mirar a Dios, no a ella.[^15]
+El referente gramatical e histórico **más probable** de “luz menor” son los libros de Ellen White que el artículo acaba de nombrar y quiere distribuir. El referente **más probable** de “luz mayor” es la Biblia, mencionada inmediatamente antes como desatendida. Cristo es el destino al que esos libros debían conducir, pero no es el antecedente más cercano ni la mejor explicación del contraste en esa oración.
 
-Tomados juntos, estos textos muestran una estructura bastante definida en su propia explicación: **la Biblia era la norma doctrinal pública y el criterio de prueba; los testimonios eran mensajes que ella afirmaba recibir de Dios para advertir, corregir, aplicar y dirigir**.
+Esta lectura coincide con la interpretación adventista tradicional expuesta, entre otros, por Herbert E. Douglass; no depende de ella, porque surge del documento primario completo.[^20] La metáfora expresa una función subordinada y orientadora, no una renuncia al origen divino que ella atribuía a sus libros. Tampoco define por sí sola todos los límites de su autoridad. Ya no hace falta mantener una controversia artificial sobre el referente principal; sí conviene conservar como **probable**, y no como definición exhaustiva, la conclusión que permite el contexto.
 
-Eso no vuelve los testimonios irrelevantes. Dentro de la comunidad que aceptaba su misión, Ellen White podía hablar de rechazarlos como rechazo de una comunicación enviada por Dios. Su relación con la Biblia, por tanto, no puede describirse adecuadamente ni como “otro canon independiente” ni como “mera opinión privada”.
+## ¿Qué objeción crítica deja planteada esta reconstrucción?
 
-Queda una frase famosa que suele utilizarse para simplificar esta relación.
+La objeción más fuerte no es que Ellen White afirmara que cada palabra privada era dictada por Dios. Ella negó esa idea. La dificultad está en la fuerza con la que describió una clase amplia de cartas, testimonios y artículos religiosos: impulsados por el Espíritu, abiertos ante ella en visión y enviados por Dios.
 
-## ¿Resuelve la expresión “luz menor” la relación entre sus escritos y la Biblia?
+Walter Rea reunió correctamente varias de esas afirmaciones fuertes antes de contrastarlas con supuesta dependencia de fuentes humanas.[^21] Pero la existencia de una fuente humana no demuestra por sí sola una falsa atribución de origen. Como estableció el capítulo 2, primero hay que identificar el material, probar la dependencia y preguntar qué afirmó ella sobre el origen de ese contenido concreto. A la inversa, su reconocimiento de lenguaje humano tampoco permite explicar como “simple ayuda editorial” cualquier caso que resulte problemático.
 
-No por sí sola.
+La pregunta falsable para capítulos posteriores es precisa: **¿existen contenidos cuyo origen humano pueda demostrarse y que Ellen White presentara inequívocamente como recibidos de manera directa en visión o revelación?** Si la respuesta fuera afirmativa en casos claros y sustantivos, afectaría el criterio de falsa atribución de origen. Este capítulo fija la pretensión; no adelanta el veredicto.
 
-En 1903 Ellen White lamentó que se prestara poca atención a la Biblia y escribió que el Señor había dado una “luz menor” para conducir a hombres y mujeres a la “luz mayor”. En el párrafo inmediato hablaba de libros que contenían esa luz y exhortaba a hacerlos circular.[^16]
+## ¿Qué queda realmente demostrado?
 
-La lectura más natural del contexto relaciona la “luz menor” con los libros que estaba promoviendo y contrasta su función con la Biblia, mencionada inmediatamente antes. Esa ha sido además una lectura adventista muy extendida.
+La evidencia primaria permite clasificar la reconstrucción así:
 
-Sin embargo, la frase aislada no explica por sí misma toda la jerarquía de autoridad. Algunos intérpretes adventistas han sostenido que la “luz mayor” final es Cristo, porque en el contexto más amplio esos libros debían conducir al Salvador. El lenguaje permite discutir el referente último de la metáfora.[^17]
+- **Establecido:** al menos desde el 20 de diciembre de 1845 Ellen White atribuyó a Dios la visión que relataba.
+- **Establecido:** en 1905 y 1906 negó reclamar el título de profetisa como designación principal, pero afirmó que su comisión incluía la obra de un profeta.
+- **Establecido:** “mensajera” fue su título preferido y, en su uso, ampliaba la descripción de su comisión sin reducir su pretensión revelatoria.
+- **Establecido:** atribuyó autoridad divina y obediencia debida a las comunicaciones que identificaba como testimonios enviados por Dios.
+- **Establecido:** distinguió esos mensajes de datos, opiniones, conversaciones y cartas comunes no recibidos bajo inspiración especial.
+- **Establecido:** no exigía una visión nueva para cada consejo; admitía aplicar principios previamente recibidos y usar información humana como ocasión o contexto.
+- **Establecido:** rechazó que cada palabra que pronunciaba o escribía bajo cualquier circunstancia fuera inspirada, y reconoció lenguaje y corrección editorial humanos.
+- **Establecido:** negó infalibilidad personal.
+- **Establecido:** presentó la Biblia como norma doctrinal pública y criterio de prueba, sin tratar por ello como opcionales los testimonios que atribuía a Dios.
+- **Probable:** en 1903 “luz menor” se refería a sus libros y “luz mayor” a la Biblia.
+- **Indeterminado:** el alcance exacto de lo “sagrado” en cada texto mixto, la posibilidad de error en un mensaje presentado expresamente como revelación y la precisión verbal de lo dicho oralmente en 1904 más allá del registro conservado.
 
-No necesitamos resolver toda la cuestión mediante dos palabras. Las declaraciones más explícitas son suficientes: Ellen White llamó a la Biblia la norma de doctrina y prueba de toda experiencia, negó que el Espíritu la sustituyera y aconsejó fundamentar públicamente las doctrinas en ella; al mismo tiempo afirmó que determinados testimonios procedían de Dios y debían ser recibidos como tales.
+No hace falta usar la categoría **posible** para afirmar un hecho adicional: en los puntos centrales la evidencia permite conclusiones más firmes, y en los límites señalados no permite pasar de lo indeterminado.
 
-La expresión “luz menor” puede ayudar a describir esa relación, pero no debe utilizarse para borrar ninguna de esas dos afirmaciones.
+La pretensión que queda para someter a prueba puede formularse así:
 
-## ¿Qué queda realmente establecido sobre la pretensión de Ellen White?
+> **Ellen G. White afirmó que Dios le confió una comisión que incluía la función profética. Sostuvo que recibía visiones e instrucciones divinas, que las expresaba en lenguaje humano y que podía aplicar luz anterior a casos nuevos con ayuda de información ordinaria. Distinguió esos mensajes de asuntos comunes, reclamó obediencia para los testimonios que identificaba como enviados por Dios y presentó la Biblia como la norma doctrinal y el criterio de prueba.**
 
-Podemos reconstruirla con bastante precisión.
+Esta formulación es más estrecha que “todo lo que escribió fue dictado por Dios”, pero mucho más fuerte que “fue una autora cristiana que ofrecía consejos”. Precisamente por ser concreta puede investigarse.
 
-**Está establecido** que Ellen White afirmó haber recibido visiones y mensajes de origen divino desde el comienzo de su ministerio publicado.
+## ¿Qué evidencia obligaría a corregir esta reconstrucción?
 
-**Está establecido** que prefirió el término “mensajera” y evitó asumir el título de “profetisa”, pero también afirmó explícitamente que su comisión incluía el trabajo de un profeta.
+Habría que cambiarla si aparecieran documentos más tempranos que mostraran que Ellen Harmon describió inicialmente su experiencia como no revelatoria y sólo después la atribuyó a Dios.
 
-**Está establecido** que atribuyó autoridad divina a los mensajes que identificaba como testimonios, luz o instrucción recibida de Dios. En ciertos contextos trató su rechazo como rechazo del consejo de Dios.
+Habría que revisar la lectura de 1904 si un registro contemporáneo más completo demostrara que negó de manera sostenida la función profética, no sólo el título, o si mostrara que sus explicaciones posteriores alteraron deliberadamente lo dicho.
 
-**Está establecido** que no presentó cada conversación, dato cotidiano, opinión práctica o carta común como inspirada. Distinguió expresamente lo sagrado de lo común.
+Deberíamos ampliar su pretensión si un documento general y claro atribuyera inspiración especial a todas sus palabras y datos cotidianos; deberíamos restringirla si documentos auténticos mostraran que ella trataba como mera opinión consejos que aquí se han clasificado como testimonios divinos.
 
-**Está establecido** que no afirmó, como regla general, recibir por dictado las palabras exactas de sus escritos. Dijo que las palabras usadas para describir sus visiones eran suyas, salvo las expresiones que identificaba como pronunciadas directamente por un ángel.
+Tendría que abandonarse la lectura de “luz menor” si el artículo completo o documentos contemporáneos identificaran inequívocamente otros referentes.
 
-**Está establecido** que negó reclamar infalibilidad personal.
+Y la reconstrucción de su autoridad quedaría seriamente afectada si se demostrara que el lenguaje de origen divino procede de editores posteriores y no de los documentos originales. Las ediciones y manuscritos consultados no indican eso, pero la pregunta seguirá abierta en cada caso futuro.
 
-**Está establecido** que presentó la Biblia como norma doctrinal y criterio de prueba que el Espíritu no podía sustituir, aunque eso no convertía en opcionales los mensajes que ella afirmaba que Dios había enviado mediante su ministerio.
-
-Lo que **no** queda demostrado por ninguna de estas afirmaciones es que Dios realmente le hablara. Hasta ahora sólo hemos establecido con razonable seguridad qué dijo acerca de su propia experiencia.
-
-La pretensión que deberemos evaluar puede formularse así:
-
-> **Ellen G. White afirmó haber recibido de Dios una comisión revelatoria que incluía la función profética. Sostuvo que Dios le comunicaba luz mediante visiones y otras formas de impresión, que ella transmitía con lenguaje humano y aplicaba también a situaciones posteriores; distinguió esos mensajes de asuntos humanos ordinarios y sostuvo que la Biblia seguía siendo la norma doctrinal y el criterio por el cual debía probarse toda enseñanza.**
-
-Esta formulación es más estrecha que “todo lo que escribió fue dictado por Dios”, pero mucho más fuerte que “fue una autora cristiana que daba buenos consejos”.
-
-Y precisamente por ser una afirmación concreta puede ponerse a prueba.
-
-## ¿Qué evidencia podría demostrar que esta reconstrucción está equivocada?
-
-Habría que modificarla si aparecieran documentos tempranos que mostraran que Ellen White presentó originalmente sus experiencias como fenómenos humanos y sólo mucho después las reinterpretó como revelaciones divinas.
-
-También habría que modificarla si sus explicaciones de 1905 y 1906 mostraran que al rechazar el título de profetisa estaba negando la función profética misma. Los documentos disponibles dicen lo contrario.
-
-Deberíamos ampliar su pretensión si pudiéramos demostrar que afirmó inspiración especial para cada frase y dato cotidiano. El manuscrito de 1909 impide hacerlo sin nueva evidencia.
-
-Y deberíamos reducir la distinción entre contenido y palabras si existiera una afirmación clara y general de que Dios dictaba verbalmente sus escritos. La declaración de 1867 apunta en la dirección opuesta.
-
-Por ahora, la reconstrucción anterior explica mejor el conjunto de las declaraciones primarias consultadas. Eso no la autentica. Sólo nos permite comenzar la investigación histórica sin cambiar la definición de su pretensión cuando encontremos evidencias favorables o problemáticas.
-
-La primera prueba debe dirigirse al comienzo mismo de la historia.
+Nada de lo establecido prueba que Dios realmente le hablara. El siguiente paso no consiste en repetir su testimonio sobre sí misma, sino en contrastarlo con evidencia independiente y con los criterios fijados antes de examinarla.
 
 **¿Qué ocurrió realmente en las primeras visiones de Ellen G. White, y qué podemos establecer sobre su origen, sus relatos y sus primeros testigos?**
 
-[^1]: Ellen G. Harmon, carta a Enoch Jacobs, Portland, Maine, 20 de diciembre de 1845, publicada en *The Day-Star*, 24 de enero de 1846, pp. 31-32; transcripción documental en *The Ellen G. White Letters and Manuscripts*, Lt 1, 1845. Véase también el facsímil/transcripción de *The Day-Star* en Ellen G. White Writings.
-[^2]: Ellen G. White, Lt 55, 1905, a O. A. Olsen, 30 de enero de 1905, párrs. 4-11, 21. La carta explica expresamente su declaración pública de que no reclamaba ser profetisa y define su trabajo como el de una mensajera encargada de transmitir mensajes del Señor.
-[^3]: Ellen G. White, Ms 63, 1906, “A Messenger”, 26 de mayo de 1906, párrs. 3-9, 18-21; publicado íntegramente en *Review and Herald*, 26 de julio de 1906. En el párr. 19 precisa que lo que pretendía decir era que no reclamaba “el título” de profeta o profetisa.
-[^4]: Ellen G. White, Lt 244, 1906, a los ancianos de la iglesia de Battle Creek, 17 de julio de 1906, párr. 18.
-[^5]: Ellen G. White, *Testimony for the Battle Creek Church* (1882), pp. 48-49; posteriormente *Testimonies for the Church*, t. 5, pp. 67-68. El contexto es una defensa del origen de cartas, testimonios y artículos vinculados con su labor religiosa.
-[^6]: Ellen G. White, *Testimony for the Battle Creek Church* (1882), p. 47; posteriormente *Testimonies for the Church*, t. 5, p. 66.
-[^7]: Ellen G. White, *Testimony for the Church—No. 33* (1889), sección “An Unwarranted Distinction”; posteriormente *Testimonies for the Church*, t. 5, pp. 687-688.
-[^8]: Ellen G. White, Ms 107, 1909, “A Confusion of the Sacred and the Common”, 5 de marzo de 1909, especialmente párrs. 6-10; publicado posteriormente en *Selected Messages*, t. 1, pp. 38-39. El ejemplo inmediato es el número de habitaciones del Paradise Valley Sanitarium.
-[^9]: Ellen G. White, *Testimony for the Church—No. 33* (1889), “An Unwarranted Distinction”; posteriormente *Testimonies for the Church*, t. 5, pp. 683-691. Allí niega que deba recibir una visión específica para cada emergencia y explica la aplicación de luz y principios previamente recibidos.
-[^10]: Ellen G. White, “Questions and Answers”, *Review and Herald*, 8 de octubre de 1867, párr. 9. La declaración aparece dentro de su explicación sobre la reforma de la vestimenta.
-[^11]: Ellen G. White, Lt 10, 1895; publicada posteriormente en *Selected Messages*, t. 1, p. 37.
-[^12]: Ellen G. White, *The Great Controversy* (1888), introducción, pp. d-e; en la edición de 1911, pp. vi-vii.
-[^13]: Ellen G. White, *Testimony for the Church—No. 33* (1889); posteriormente *Testimonies for the Church*, t. 5, p. 691.
-[^14]: Ellen G. White, *Testimony for the Church—No. 33* (1889); posteriormente *Testimonies for the Church*, t. 5, pp. 663-665.
-[^15]: Ellen G. White, Lt 11, 1894, párr. 4.
-[^16]: Ellen G. White, “The Canvasser Evangelist”, *Review and Herald*, 20 de enero de 1903; posteriormente en *Colporteur Ministry*, p. 125.
-[^17]: Para dos énfasis adventistas distintos sobre la expresión, compárese Herbert E. Douglass, *Messenger of the Lord* (Pacific Press, 1998/2013), cap. 35, con las explicaciones documentales reunidas por el Ellen G. White Estate en *101 Questions About Ellen White and Her Writings*, pregunta sobre “Lesser Light, Greater Light”. La diferencia interpretativa no altera las declaraciones más explícitas citadas en el cuerpo de este capítulo.
+[^1]: Ellen G. Harmon, carta a Enoch Jacobs, Portland, Maine, 20 de diciembre de 1845, publicada en *The Day-Star*, 24 de enero de 1846, pp. 31-32; catalogada como Lt 1, 1845. El registro bibliográfico y la reproducción se conservan en el [Heritage Research Center de Loma Linda University](https://library.llu.edu/day-star-letter-written-december-20-1845-portland-maine-by-sister-harmon-bro-jacobs-account-of-first-vision). La fecha de redacción no debe confundirse con la de publicación.
+[^2]: Ellen G. White, intervención en el Battle Creek Tabernacle, 2 de octubre de 1904, conservada como Ms 140, 1905, “Sermon at the Battle Creek Tabernacle”. La identificación de 1905 corresponde al manuscrito conservado, no a la fecha del acto referido.
+[^3]: Ellen G. White, Lt 55, 1905, a O. A. Olsen, Elmshaven, 30 de enero de 1905, especialmente párrs. 4-11 y 21.
+[^4]: Ellen G. White, Ms 63, 1906, “A Messenger”, 26 de mayo de 1906, especialmente párrs. 3-9 y 18-21; publicado en *Review and Herald*, 26 de julio de 1906. La publicación es posterior a la redacción.
+[^5]: Ellen G. White, Lt 244, 1906, a los ancianos de la iglesia de Battle Creek, 17 de julio de 1906, párr. 18.
+[^6]: Ellen G. White, *Testimony for the Battle Creek Church* (Oakland, California: Pacific Press, 1882), pp. 47-49; reproducido después en *Testimonies for the Church*, t. 5, pp. 66-68. El folleto de 1882, no la compilación posterior, es la referencia primaria.
+[^7]: Ellen G. White, *Testimony for the Church—No. 33* (Oakland, California: Pacific Press, 1889), sección “An Unwarranted Distinction”; reproducido en *Testimonies for the Church*, t. 5, pp. 687-688.
+[^8]: Ellen G. White, Ms 107, 1909, “A Confusion of the Sacred and the Common”, St. Helena, California, 5 de marzo de 1909, párrs. 6-10; publicado posteriormente en *Selected Messages*, t. 1, pp. 38-39. La compilación no es la fuente original.
+[^9]: Ellen G. White, *Testimony for the Church—No. 33* (1889), sección “An Unwarranted Distinction”; reproducido en *Testimonies for the Church*, t. 5, pp. 683-691, especialmente pp. 686-687.
+[^10]: Ellen G. White, “Questions and Answers”, *Review and Herald*, 8 de octubre de 1867, p. 260, párr. 9. La afirmación aparece en una respuesta sobre la reforma de la vestimenta.
+[^11]: Ellen G. White, Lt 206, 1906, a David Paulson, St. Helena, California, 14 de junio de 1906, apertura; publicada después en *Review and Herald*, 30 de agosto de 1906, y en *Selected Messages*, t. 1, pp. 24-26. La carta reproduce primero la creencia que Paulson había recibido y luego la rechaza; no debe citarse la primera parte como si fuera la posición de White.
+[^12]: Ellen G. White, Ms 24, 1886, “Objections to the Bible”, circa 1886; publicado posteriormente en *Selected Messages*, t. 1, pp. 19-21. El referente directo del pasaje es la inspiración de los escritores bíblicos.
+[^13]: Ellen G. White, Lt 225, 1906, St. Helena, California, 8 de julio de 1906; reproducida parcialmente en *The Writing and Sending Out of the Testimonies to the Church* (1913), p. 4. La carta, no el folleto posterior, es la fuente primaria.
+[^14]: Ellen G. White, Lt 10, 1895, a F. E. Belden, Granville, Nueva Gales del Sur, 9 de junio de 1895, párr. 6; publicada posteriormente en *Selected Messages*, t. 1, p. 37.
+[^15]: Ellen G. White, Lt 27, 1876, a James White, Oakland, California, 16 de mayo de 1876. La admisión se refiere a errores de su vida y a la falta de perfección de carácter.
+[^16]: Ellen G. White, *The Great Controversy Between Christ and Satan* (Oakland, California: Pacific Press, 1888), introducción, pp. d-e; *The Great Controversy* (Mountain View, California: Pacific Press, 1911), introducción, pp. vi-vii.
+[^17]: Ellen G. White, *Testimony for the Church—No. 33* (1889), sección sobre la relación de los testimonios con la Biblia; reproducido en *Testimonies for the Church*, t. 5, pp. 663-665. El argumento reutiliza una explicación publicada antes en *Testimony for the Church—No. 17* (1869), luego *Testimonies for the Church*, t. 2, pp. 604-606.
+[^18]: Ellen G. White, Lt 11, 1894, a Brother and Sister Colcord, Melbourne, Australia, 16 de enero de 1894, párr. 4.
+[^19]: Ellen G. White, carta abierta fechada en Elmshaven, California, 6 de diciembre de 1902, publicada en *Review and Herald*, 20 y 27 de enero de 1903. El pasaje “luz menor/luz mayor” apareció en la primera parte, 20 de enero de 1903. La carta fue reunida después bajo el encabezado “A Call for Recruits” en *The Colporteur Evangelist* (1920), pp. 35-37, y reproducida parcialmente en *Colporteur Ministry*, p. 125. Estas compilaciones posteriores no son la fuente original.
+[^20]: Herbert E. Douglass, *Messenger of the Lord: The Prophetic Ministry of Ellen G. White* (Nampa, Idaho: Pacific Press, 1998), cap. 35. Douglass identifica los escritos de White como la luz menor y la Biblia como la luz mayor; aquí la conclusión se apoya en el artículo primario.
+[^21]: Walter T. Rea, *The White Lie* (Turlock, California: M & R Publications, 1982), cap. 3, especialmente pp. 52-53. Rea cita las declaraciones de 1867, 1876 y 1882 y las relaciona con su argumento sobre dependencia literaria. La inferencia deberá evaluarse con los documentos de cada caso en capítulos posteriores.
