@@ -82,7 +82,11 @@ Pasajes estudiados hasta ahora:
 - Lucas 1:1-4: un escrito considerado inspirado puede surgir mediante investigación, testigos, tradición y fuentes humanas; la dependencia literaria no refuta por sí sola inspiración, y debe distinguirse del problema de atribuir falsamente a revelación directa el origen de un material.
 - Matriz bíblica provisional: los criterios se separan entre descalificadores fuertes, evidencias favorables no concluyentes, controles de origen y procedimientos de discernimiento; no se usará puntuación numérica.
 
-El orden de trabajo quedó fijado así: capítulo 1 distingue impresión, iluminación, inspiración, revelación, profecía y don de profecía; capítulo 2 reúne las credenciales bíblicas de un profeta y ya cuenta con una versión base coherente para auditoría profunda; desde el capítulo 3 se aplicarán esos criterios a Ellen G. White.
+El orden de trabajo avanzó así: el capítulo 1 distingue impresión, iluminación, inspiración, revelación, profecía y don de profecía; el capítulo 2 fija la matriz bíblica para evaluar una pretensión profética; el capítulo 3 reconstruye qué afirmó Ellen G. White sobre su propio don, el origen de sus mensajes y la autoridad que les atribuía.
+
+El capítulo 3 establece, sin decidir todavía si su pretensión era verdadera, que White afirmó recibir revelaciones de Dios, evitó asumir el título de “profetisa” pero reconoció que su comisión incluía la obra de un profeta, atribuyó autoridad divina a los testimonios que identificaba como mensajes de Dios, distinguió esos mensajes de asuntos humanos ordinarios, rechazó una teoría general de dictado verbal y presentó la Biblia como norma doctrinal y criterio de prueba.
+
+La siguiente etapa es reconstruir las primeras visiones: qué relatos son más tempranos, qué ocurrió según los documentos contemporáneos, quiénes fueron los primeros testigos y qué explicaciones rivales encajan mejor con la evidencia.
 
 ## ¿Cuál es la regla maestra?
 
