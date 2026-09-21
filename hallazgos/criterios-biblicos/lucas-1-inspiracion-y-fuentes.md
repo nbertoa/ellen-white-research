@@ -6,11 +6,11 @@ Lucas 1:1-4 describe un proceso de composición que incluye:
 
 - muchos relatos anteriores;
 - transmisión procedente de testigos oculares y servidores de la palabra;
-- investigación cuidadosa;
+- haber seguido de cerca o examinado cuidadosamente los acontecimientos;
 - organización del material;
 - redacción para Teófilo con el propósito de ofrecer certeza sobre lo enseñado.
 
-El prólogo adopta la forma de un prefacio historiográfico antiguo y presenta conscientemente el método del autor.
+El prólogo adopta convenciones formales reconocibles de la prosa griega y presenta conscientemente el método del autor. Su clasificación exacta se discute: Loveday Alexander encontró sus paralelos más cercanos en prefacios científicos y técnicos, mientras otros especialistas subrayan su relación con la historiografía. La conclusión sobre los medios humanos no depende de asignarlo a un único género.
 
 ## ¿Afirma Lucas que todo el contenido le fue revelado directamente?
 
@@ -18,19 +18,19 @@ No.
 
 El autor no presenta su conocimiento como producto exclusivo de visiones o dictado sobrenatural.
 
-Describe investigación y tradición recibida.
+Describe relatos anteriores, tradición recibida y su propio seguimiento o examen cuidadoso.
 
 ## ¿Afirma que copió directamente los relatos anteriores?
 
 Lucas 1:1-4 no lo dice de manera explícita.
 
-Sí demuestra que conocía relatos previos y que trabajó dentro de una tradición transmitida.
+Sí establece que conocía relatos previos y que trabajó dentro de una tradición transmitida.
 
 La crítica sinóptica añade otro nivel: una fuerte mayoría de especialistas considera que Lucas utilizó el evangelio de Marcos como fuente literaria principal, aunque siguen discutiéndose las demás relaciones y fuentes.
 
 Debe distinguirse:
 
-- **dato textual directo:** Lucas conocía relatos previos, recibió tradición e investigó;
+- **dato textual directo:** Lucas conocía relatos previos, recibió tradición y afirma haber seguido o examinado cuidadosamente los hechos;
 - **reconstrucción académica:** probablemente utilizó Marcos y otras fuentes.
 
 ## ¿Lucas es llamado profeta?
@@ -39,19 +39,27 @@ No.
 
 El Nuevo Testamento no llama profeta al autor de Lucas-Hechos.
 
-Dentro del cristianismo que acepta el canon, su obra se considera Escritura inspirada, pero “autor inspirado” y “profeta” no son automáticamente categorías equivalentes.
+Dentro del cristianismo que acepta el canon, su obra se considera Escritura inspirada, pero “autor inspirado” y “profeta” no son expresiones textuales automáticamente equivalentes.
 
-El valor del caso para este proyecto no depende de llamar profeta a Lucas.
+El silencio no demuestra que el autor nunca realizara una actividad profética desconocida para nosotros. El valor del caso no depende de probar esa negativa.
 
 ## ¿Qué demuestra entonces?
 
-Demuestra que, dentro de un modelo cristiano de inspiración bíblica:
+Establece que, dentro de la concepción cristiana que recibe Lucas como Escritura:
 
-**la inspiración puede operar mediante investigación, testigos, tradición, selección, organización y fuentes humanas.**
+**la inspiración es compatible con testigos, tradición, seguimiento o examen cuidadoso, selección, organización y materiales previos.**
 
 Por tanto:
 
 **dependencia literaria ≠ refutación automática de inspiración.**
+
+## ¿Cuál es la objeción más fuerte?
+
+El prólogo no utiliza la palabra *theopneustos* ni explica cómo actuó Dios. Por tanto, podría objetarse que Lucas 1 sólo describe el trabajo humano del autor y no prueba una teoría positiva sobre el mecanismo de inspiración.
+
+## ¿Cómo debe responderse?
+
+La objeción limita correctamente la conclusión. Lucas 1 no explica el mecanismo divino ni demuestra qué fuente concreta se usó. Su fuerza es más modesta: dentro del mismo canon cristiano, un escrito recibido como inspirado se presenta mediante un proceso que incluye tradición previa y composición deliberada. Por eso esos medios no pueden declararse incompatibles con la inspiración por definición.
 
 ## ¿Qué NO demuestra?
 
@@ -77,11 +85,11 @@ Si una autora atribuyó explícitamente a una visión o revelación directa info
 
 ## ¿Qué queda establecido provisionalmente?
 
-**Hecho:** Lucas 1:1-4 describe investigación, tradición de testigos y relatos anteriores.
+**Hecho:** Lucas 1:1-4 describe relatos anteriores, tradición procedente de testigos y servidores de la palabra, seguimiento o examen cuidadoso y composición ordenada.
 
 **Hecho:** el prólogo no presenta el proceso como dictado sobrenatural exclusivo.
 
-**Hecho:** el Nuevo Testamento no llama profeta al autor de Lucas-Hechos.
+**Hecho:** el Nuevo Testamento no llama profeta al autor de Lucas-Hechos; este silencio no demuestra que nunca profetizara.
 
 **Hecho:** una fuerte mayoría de especialistas sostiene que Lucas utilizó Marcos como fuente literaria, aunque la solución completa del problema sinóptico sigue discutida.
 
@@ -89,11 +97,11 @@ Si una autora atribuyó explícitamente a una visión o revelación directa info
 
 **Conclusión metodológica:** la dependencia literaria de Ellen White deberá evaluarse en relación con sus propias afirmaciones sobre inspiración y origen, no tratarse automáticamente como refutación.
 
-**Nivel de certeza:** alto respecto del proceso descrito en Lucas 1:1-4; alto respecto de que Luke no es llamado profeta; alto respecto de la relevancia metodológica.
+**Nivel de certeza:** alto respecto de los elementos explícitos del proceso y de que el autor no es llamado profeta; probable respecto del matiz de “investigar” en *parakoloutheō*; discutido respecto de la clasificación literaria exacta del prólogo y de sus fuentes concretas.
 
 ## ¿Qué podría cambiar esta conclusión?
 
-Habría que demostrar que Lucas 1:1-4 describe un proceso sin dependencia alguna de información humana previa o que la inspiración bíblica exige necesariamente ausencia de investigación y fuentes.
+Habría que demostrar que Lucas 1:1-4 describe un proceso sin información humana previa o que los relatos anteriores y la tradición no participaron de ningún modo en la composición. Para convertir la compatibilidad en una teoría completa de inspiración habría que aportar evidencia adicional sobre la acción divina, porque el prólogo no la detalla.
 
 El propio prólogo hace difícil sostener esa interpretación.
 
@@ -105,10 +113,11 @@ El propio prólogo hace difícil sostener esa interpretación.
 
 ### ¿Qué fuentes secundarias ayudan a interpretar el prólogo?
 
-- IVP New Testament Commentary, comentario sobre Lucas 1:3-4.
-- International Critical Commentary sobre Lucas 1:1-4.
-- *Oxford Academic*, Michael R. Licona, discusión de las relaciones sinópticas, que señala que una fuerte mayoría de especialistas considera que Mateo y Lucas usaron Marcos.
-- Estudios académicos sobre el prólogo lucano como prefacio historiográfico.
+- Walter Bauer et al., *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*, 3.ª ed. (University of Chicago Press, 2000), voces παρακολουθέω y ἀκριβῶς.
+- Joseph A. Fitzmyer, *The Gospel According to Luke I–IX*, Anchor Bible 28 (Doubleday, 1981), comentario a Lucas 1:1-4.
+- Loveday Alexander, *The Preface to Luke’s Gospel: Literary Convention and Social Context in Luke 1.1–4 and Acts 1.1*, SNTSMS 78 (Cambridge University Press, 1993).
+- Sean A. Adams, “Luke’s Preface and Its Relationship to Greek Historiography: A Response to Loveday Alexander”, *Journal of Greco-Roman Christianity and Judaism* 3 (2006): 177-191.
+- Mark Goodacre, *The Synoptic Problem: A Way Through the Maze* (T&T Clark, 2001), para la prioridad de Marcos y las discusiones restantes sobre las relaciones sinópticas; esta reconstrucción no se confunde con los datos explícitos del prólogo.
 
 ## ¿Qué falta investigar?
 
