@@ -8,7 +8,7 @@ Para hacerlo hay que conservar varias distinciones. Una experiencia religiosa no
 
 Con esas distinciones podemos preguntar qué afirmó realmente Ellen White.
 
-## ¿Atribuyó desde el comienzo sus visiones a Dios?
+## 1. ¿Atribuyó desde el comienzo sus visiones a Dios?
 
 La evidencia permite responder algo más preciso: **a más tardar el 20 de diciembre de 1845, Ellen Harmon atribuía a Dios su primera visión**.
 
@@ -20,7 +20,7 @@ El documento establece cómo interpretaba públicamente la experiencia en esa fe
 
 Por tanto, queda **establecido** que la atribución divina ya aparece en diciembre de 1845, al comienzo de su actividad pública conocida. Queda **indeterminado** si esas fueron las primeras palabras con las que describió la experiencia en privado y, sobre todo, si la atribución era verdadera. La pregunta siguiente tampoco puede resolverse con una palabra aislada.
 
-## ¿Negó Ellen White ser profetisa?
+## 2. ¿Negó Ellen White ser profetisa?
 
 En una reunión pública celebrada en Battle Creek el 2 de octubre de 1904, el registro conservado le atribuye esta declaración: “No soy, como dije ayer, profeta”; a continuación afirmó que no pretendía ser dirigente y que sólo pretendía ser mensajera de Dios.[^2] La propia frase indica que reiteraba algo dicho el sábado anterior. Leída por sí sola, puede entenderse como una negación de la condición de profeta, no sólo de un título. Esa dificultad no debe desaparecer mediante una paráfrasis más cómoda.
 
@@ -30,7 +30,7 @@ El conjunto documental permite dos conclusiones a la vez. Queda **establecido** 
 
 No hay que escoger entre borrar la tensión y convertirla en contradicción definitiva. La evidencia muestra una declaración pública problemática seguida por una aclaración sostenida: no reclamaba el título como designación principal, pero sí una comisión que incluía la labor profética.
 
-## ¿Qué quiso decir al llamarse “mensajera”?
+## 3. ¿Qué quiso decir al llamarse “mensajera”?
 
 “Mensajera” cumplía dos funciones relacionadas: era su título preferido y describía una comisión que consideraba más amplia que el trabajo de un profeta.
 
@@ -40,7 +40,7 @@ Por eso queda **establecido** que “mensajera” no disminuía el origen sobren
 
 Saber que reclamó una comisión divina conduce a una cuestión más exigente: ¿qué autoridad daba a los mensajes asociados con ella?
 
-## ¿Qué autoridad atribuyó a los testimonios?
+## 4. ¿Qué autoridad atribuyó a los testimonios?
 
 Atribuyó una autoridad muy fuerte a las comunicaciones que identificaba como testimonios o instrucciones enviadas por Dios.
 
@@ -52,7 +52,7 @@ El referente inmediato de estas afirmaciones no es cada nota doméstica o cada d
 
 Queda **establecido** que, cuando identificaba un testimonio como enviado por Dios, reclamaba para él autoridad derivada de ese origen y esperaba obediencia. Queda **indeterminado** el límite exacto de esa categoría en cada documento. Esa frontera importa porque ella misma admitió que no todo lo que decía o escribía pertenecía a esa categoría.
 
-## ¿Afirmó que todo lo que escribía o decía estaba inspirado?
+## 5. ¿Afirmó que todo lo que escribía o decía estaba inspirado?
 
 No. En 1909 trazó una distinción explícita entre lo sagrado y lo común.
 
@@ -62,7 +62,7 @@ En contraste, sostuvo que, cuando el Espíritu le revelaba asuntos relativos a l
 
 Queda **establecido** que no atribuyó inspiración especial a todo dato, conversación, opinión o carta cotidiana. También queda **establecido** que conservó una categoría de mensajes sagrados con pretensión divina. Es **indeterminado** cómo debe clasificarse cada texto mixto cuando contiene información humana, memoria, razonamiento y una advertencia que ella atribuía a Dios. Su distinción existe, pero no proporciona por sí sola una etiqueta inequívoca para cada frase.
 
-## ¿Necesitaba una visión nueva para cada consejo?
+## 6. ¿Necesitaba una visión nueva para cada consejo?
 
 Según su propia explicación, no.
 
@@ -79,7 +79,7 @@ Su explicación distingue cuatro elementos:
 
 La distinción queda **establecida** como parte de su autocomprensión. No demuestra que la primera revelación ocurriera ni permite reclasificar después cualquier mensaje problemático como aplicación humana. Obliga a examinar qué origen atribuyó al contenido concreto de cada caso.
 
-## ¿Afirmó que Dios le dictaba las palabras exactas?
+## 7. ¿Afirmó que Dios le dictaba las palabras exactas?
 
 No formuló una pretensión general de dictado verbal.
 
@@ -93,7 +93,7 @@ También reconoció trabajo editorial. En 1906 recordó que James White corregí
 
 Queda **establecido** que negó la inspiración especial de cada palabra pronunciada o escrita en cualquier circunstancia y que admitió formulación y corrección humanas. Es **probable** describir su posición general como inspiración del mensaje o del pensamiento antes que dictado de palabras, siempre que no convirtamos esa etiqueta posterior en una precisión mayor que sus documentos.
 
-## ¿Afirmó ser infalible?
+## 8. ¿Afirmó ser infalible?
 
 Negó la infalibilidad personal. En una carta del 9 de junio de 1895 a su sobrino F. E. Belden, dentro de una advertencia contra depender de seres humanos falibles, escribió: “En cuanto a la infalibilidad, nunca la he reclamado; sólo Dios es infalible”.[^14]
 
@@ -101,7 +101,7 @@ El contexto importa. No estaba retirando un testimonio concreto ni definiendo un
 
 Por tanto, queda **establecido** que no se presentó como infalible en su conocimiento, memoria, conducta o juicio humanos. No queda establecido que admitiera la posibilidad de error en aquello que presentaba de manera inequívoca como revelación de Dios. Esa cuestión permanece **indeterminada**, y no puede resolverse ni con el lema “nunca reclamó infalibilidad” ni con la autoridad que atribuyó a los testimonios.
 
-## ¿Qué lugar atribuyó a la Biblia?
+## 9. ¿Qué lugar atribuyó a la Biblia?
 
 Presentó la Biblia como la norma doctrinal pública y como el criterio para probar toda enseñanza y experiencia.
 
@@ -113,7 +113,7 @@ Pero esa supremacía bíblica no convertía los testimonios en sugerencias opcio
 
 Esta combinación queda **establecida** como su pretensión. No resuelve por sí sola qué hacer si un testimonio parece contradecir la Biblia, contiene un error o se usa en la práctica como prueba doctrinal. Tampoco basta llamarla “Biblia más luz menor”. Hay que examinar la frase en su propio documento.
 
-## ¿Qué significaban “luz menor” y “luz mayor” en 1903?
+## 10. ¿Qué significaban “luz menor” y “luz mayor” en 1903?
 
 El contexto inmediato permite una respuesta más precisa de lo que sugiere la cita aislada.
 
@@ -123,7 +123,7 @@ El referente gramatical e histórico **más probable** de “luz menor” son lo
 
 Esta lectura coincide con la interpretación adventista tradicional expuesta, entre otros, por Herbert E. Douglass; no depende de ella, porque surge del documento primario completo.[^20] La metáfora expresa una función subordinada y orientadora, no una renuncia al origen divino que ella atribuía a sus libros. Tampoco define por sí sola todos los límites de su autoridad. Ya no hace falta mantener una controversia artificial sobre el referente principal; sí conviene conservar como **probable**, y no como definición exhaustiva, la conclusión que permite el contexto.
 
-## ¿Qué objeción crítica deja planteada esta reconstrucción?
+## 11. ¿Qué objeción crítica deja planteada esta reconstrucción?
 
 La objeción más fuerte no es que Ellen White afirmara que cada palabra privada era dictada por Dios. Ella negó esa idea. La dificultad está en la fuerza con la que describió una clase amplia de cartas, testimonios y artículos religiosos: impulsados por el Espíritu, abiertos ante ella en visión y enviados por Dios.
 
@@ -131,7 +131,7 @@ Walter Rea reunió correctamente varias de esas afirmaciones fuertes antes de co
 
 La pregunta falsable para capítulos posteriores es precisa: **¿existen contenidos cuyo origen humano pueda demostrarse y que Ellen White presentara inequívocamente como recibidos de manera directa en visión o revelación?** Si la respuesta fuera afirmativa en casos claros y sustantivos, afectaría el criterio de falsa atribución de origen. Este capítulo fija la pretensión; no adelanta el veredicto.
 
-## ¿Qué queda realmente demostrado?
+## 12. ¿Qué queda realmente demostrado?
 
 La evidencia primaria permite clasificar la reconstrucción así:
 
@@ -155,7 +155,7 @@ La pretensión que queda para someter a prueba puede formularse así:
 
 Esta formulación es más estrecha que “todo lo que escribió fue dictado por Dios”, pero mucho más fuerte que “fue una autora cristiana que ofrecía consejos”. Precisamente por ser concreta puede investigarse.
 
-## ¿Qué evidencia obligaría a corregir esta reconstrucción?
+## 13. ¿Qué evidencia obligaría a corregir esta reconstrucción?
 
 Habría que cambiarla si aparecieran documentos más tempranos que mostraran que Ellen Harmon describió inicialmente su experiencia como no revelatoria y sólo después la atribuyó a Dios.
 
