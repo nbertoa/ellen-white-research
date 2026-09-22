@@ -351,7 +351,7 @@ Por eso debemos separar:
 - **profeta:** persona reconocida en una función profética;
 - **ministerio profético:** expresión descriptiva útil para una actividad profética sostenida, pero no una categoría que Pablo defina con un umbral técnico.
 
-Esta formulación es menos simple que el borrador inicial, pero dice exactamente lo que la evidencia permite.
+La distinción puede parecer más compleja, pero evita afirmar más de lo que la evidencia permite.
 
 ## ¿Todo el que profetiza debe ser llamado profeta?
 
@@ -485,7 +485,7 @@ Para el resto de este libro trabajaremos con estas definiciones, siempre abierta
 | **Acto profético** | Una instancia concreta de profecía | Que exista necesariamente un don o ministerio estable |
 | **Don de profecía** | Capacidad o manifestación distribuida por el Espíritu para actividad profética en beneficio de la comunidad | Un umbral específico de duración, un cargo formal o canonicidad |
 | **Profeta** | Persona identificada con una función reconocible de comunicar mensajes presentados como procedentes de Dios y dotados de autoridad divina | Que esa identificación sea correcta o que cada palabra personal sea revelación |
-| **Autor canónico** | Autor de un escrito recibido como parte de la Escritura | Que sea idéntica, por definición, a la categoría “profeta” |
+| **Autor canónico** | Autor de un escrito recibido como parte de la Escritura | Que deba identificarse, por definición, con la categoría “profeta” |
 
 Esta tabla no pretende imponer a la Biblia un sistema que ella nunca formuló. Es una herramienta para impedir que nosotros confundamos afirmaciones diferentes mientras evaluamos evidencia histórica.
 
