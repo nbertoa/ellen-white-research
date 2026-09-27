@@ -60,33 +60,34 @@ La progresión normal es:
 
 ## ¿Cuál es el estado actual?
 
-La investigación comenzó por los criterios bíblicos para reconocer o rechazar a un profeta.
+La investigación y redacción del manuscrito avanzó hasta el **capítulo 7**.
 
-Pasajes estudiados hasta ahora:
+Capítulos incorporados al repositorio:
 
-- Deuteronomio 13:1-5: una señal cumplida no basta si el mensaje aparta de YHWH.
-- Deuteronomio 18:20-22: una predicción concreta e incondicional que falla constituye evidencia contra la palabra atribuida a Dios.
-- Jeremías 18:7-10 y Jonás 3: introducen la necesidad de distinguir las profecías condicionales de las incondicionales.
-- 1 Reyes 13: una nueva afirmación de revelación no queda autenticada sólo por el estatus del mensajero.
-- Mateo 7:15-23: los falsos profetas deben evaluarse por sus frutos, no sólo por dones o manifestaciones extraordinarias.
-- 1 Juan 4:1-6: las afirmaciones espirituales deben probarse y su contenido acerca de Jesús debe concordar con el testimonio apostólico.
-- Isaías 8:19-20: la orientación sobrenatural debe contrastarse con la instrucción/testimonio divinos; el texto no debe leerse anacrónicamente como referencia directa a un canon posterior.
-- 1 Tesalonicenses 5:19-22: las profecías no deben despreciarse ni aceptarse automáticamente; deben examinarse y conservar sólo lo que supera la prueba.
-- 1 Corintios 14:29-33: incluso dentro de una comunidad que reconoce el don profético, lo dicho por los profetas debe ser evaluado por otros.
-- Jeremías 23:16-32: una visión, sueño o mensaje debe distinguirse de ideas propias falsamente atribuidas a Dios; tomar material ajeno sólo se vuelve directamente problemático cuando se presenta falsamente como revelación divina.
-- Ezequiel 13: la sinceridad subjetiva no basta; los falsos profetas pueden seguir su propio espíritu, ofrecer falsa seguridad y producir efectos morales dañinos.
-- Miqueas 3:5-12: el dinero no desacredita por sí mismo a un profeta; el problema aparece cuando el interés personal condiciona el mensaje o corrompe la función religiosa.
-- Balaam (Números 22-24 y textos posteriores): una palabra auténtica no autentica automáticamente todo el mensajero, y una figura moralmente condenada puede haber pronunciado mensajes concretos que el propio texto atribuye a Dios.
-- Caifás (Juan 11:49-52): una declaración puede ser interpretada por el propio texto como profética aunque el hablante no comprenda plenamente su significado ni quede autenticado globalmente como profeta.
-- Continuidad del don profético: el NT reconoce profetas no apostólicos y no vincula explícitamente el fin de la profecía con el cierre del canon; Efesios 2:20 constituye la principal objeción fundacional y queda como cuestión abierta relevante.
-- Lucas 1:1-4: un escrito considerado inspirado puede surgir mediante investigación, testigos, tradición y fuentes humanas; la dependencia literaria no refuta por sí sola inspiración, y debe distinguirse del problema de atribuir falsamente a revelación directa el origen de un material.
-- Matriz bíblica provisional: los criterios se separan entre descalificadores fuertes, evidencias favorables no concluyentes, controles de origen y procedimientos de discernimiento; no se usará puntuación numérica.
+1. **Capítulo 1 — ¿Qué significa inspiración, iluminación, revelación y don de profecía?**  
+   Distingue las categorías necesarias para evaluar una pretensión profética sin confundir experiencias religiosas, guía espiritual, revelación y profecía.
 
-El orden de trabajo avanzó así: el capítulo 1 distingue impresión, iluminación, inspiración, revelación, profecía y don de profecía; el capítulo 2 fija la matriz bíblica para evaluar una pretensión profética; el capítulo 3 reconstruye qué afirmó Ellen G. White sobre su propio don, el origen de sus mensajes y la autoridad que les atribuía.
+2. **Capítulo 2 — ¿Qué credenciales debe reunir un profeta auténtico?**  
+   Construye una matriz bíblica de evaluación que distingue descalificadores fuertes, evidencias favorables no concluyentes, controles de origen y procedimientos de discernimiento.
 
-El capítulo 3 establece, sin decidir todavía si su pretensión era verdadera, que White afirmó recibir revelaciones de Dios, evitó asumir el título de “profetisa” pero reconoció que su comisión incluía la obra de un profeta, atribuyó autoridad divina a los testimonios que identificaba como mensajes de Dios, distinguió esos mensajes de asuntos humanos ordinarios, rechazó una teoría general de dictado verbal y presentó la Biblia como norma doctrinal y criterio de prueba.
+3. **Capítulo 3 — ¿Qué afirmó Ellen White sobre su propio don y sobre el origen y la autoridad de sus mensajes?**  
+   Reconstruye su propia pretensión: afirmó recibir revelaciones de Dios, reconoció una comisión que incluía la labor profética y presentó la Biblia como norma doctrinal y criterio de prueba.
 
-La siguiente etapa es reconstruir las primeras visiones: qué relatos son más tempranos, qué ocurrió según los documentos contemporáneos, quiénes fueron los primeros testigos y qué explicaciones rivales encajan mejor con la evidencia.
+4. **Capítulo 4 — ¿Qué ocurrió realmente en las primeras visiones de Ellen G. White?**  
+   Reconstruye las primeras experiencias visionarias mediante los documentos más tempranos, distinguiendo hechos contemporáneos, recuerdos posteriores e interpretaciones.
+
+5. **Capítulo 5 — ¿Qué ocurría físicamente durante las visiones de Ellen G. White?**  
+   Examina ojos abiertos, respuesta al entorno, respiración, rigidez, fuerza, exámenes atribuidos a médicos y las historias de las Biblias, separando lo bien documentado de los detalles tardíos.
+
+6. **Capítulo 6 — ¿Qué podría explicar las visiones de Ellen G. White?**  
+   Compara trauma, epilepsia, trance o absorción religiosa, contexto cultural, error sincero, fraude y origen divino. La fenomenología permite describir algunos estados, pero no identifica por sí sola su causa.
+
+7. **Capítulo 7 — ¿Predijo Ellen White acontecimientos que no podía conocer?**  
+   Somete predicciones favorables y problemáticas al mismo control de anterioridad, especificidad, improbabilidad y cumplimiento. Incluye Guerra Civil, Inglaterra, Jerusalén, Battle Creek, San Francisco, propiedades del sur de California y las expectativas generacionales de 1856 y 1888.
+
+El balance provisional sigue abierto. Los fenómenos físicos no identifican la causa de las visiones y las predicciones aportan evidencia mixta: existen advertencias anteriores y concretas que merecen peso real, pero ninguna estudiada hasta ahora obliga por sí sola a una explicación sobrenatural; también existe al menos una expectativa revelada y específica cuyo sentido literal no se cumplió, aunque su evaluación depende de la cuestión de la profecía condicional.
+
+La siguiente etapa será examinar **si Ellen White comunicó información concreta sobre personas, hechos o situaciones que no pudiera haber obtenido por medios ordinarios**, como un control independiente de la hipótesis profética.
 
 ## ¿Cuál es la regla maestra?
 
