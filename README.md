@@ -60,7 +60,7 @@ La progresión normal es:
 
 ## ¿Cuál es el estado actual?
 
-La investigación y redacción del manuscrito avanzó hasta el **capítulo 7**.
+El manuscrito incorporado llega hasta el **capítulo 7**. El **capítulo 8** está en borrador para revisión en el [PR #5](https://github.com/nbertoa/ellen-white-research/pull/5).
 
 Capítulos incorporados al repositorio:
 
@@ -85,9 +85,12 @@ Capítulos incorporados al repositorio:
 7. **Capítulo 7 — ¿Predijo Ellen White acontecimientos que no podía conocer?**  
    Somete predicciones favorables y problemáticas al mismo control de anterioridad, especificidad, improbabilidad y cumplimiento. Incluye Guerra Civil, Inglaterra, Jerusalén, Battle Creek, San Francisco, propiedades del sur de California y las expectativas generacionales de 1856 y 1888.
 
+8. **Capítulo 8 — ¿Conoció Ellen White cosas que no podía saber por medios normales?** *(borrador para revisión)*  
+   Examina mensajes personales y posibles vías ordinarias de información. En Rochester distingue el relato publicado en 1884 de las ampliaciones de 1892 y 1909; en E. P. Daniels separa una reprensión errónea de la atribución a una visión que él negó. [Ficha de fuentes y cuestiones abiertas](hallazgos/capitulo-08-rochester-1852-y-daniels-1883.md).
+
 El balance provisional sigue abierto. Los fenómenos físicos no identifican la causa de las visiones y las predicciones aportan evidencia mixta: existen advertencias anteriores y concretas que merecen peso real, pero ninguna estudiada hasta ahora obliga por sí sola a una explicación sobrenatural; también existe al menos una expectativa revelada y específica cuyo sentido literal no se cumplió, aunque su evaluación depende de la cuestión de la profecía condicional.
 
-La siguiente etapa será examinar **si Ellen White comunicó información concreta sobre personas, hechos o situaciones que no pudiera haber obtenido por medios ordinarios**, como un control independiente de la hipótesis profética.
+La revisión del capítulo 8 mantiene abiertas las verificaciones documentales indicadas en su ficha; sus casos no permiten aún demostrar que alguna información fuera humanamente inaccesible.
 
 ## ¿Cuál es la regla maestra?
 
