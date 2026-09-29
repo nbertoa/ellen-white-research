@@ -67,3 +67,12 @@
 1. **Rochester:** facsímiles de 1884 (p. 154), 1892 (pp. 171–173) y 1909 (p. 1) cotejados directamente. Sigue faltando carta, diario o respuesta anterior a 1884 del viajero, su esposa u otro testigo independiente; sólo entonces evaluar su nombre y la simultaneidad.
 2. **Daniels:** p. 10 del suplemento de 1883 cotejada directamente en facsímil. Sigue sin localizarse el *Advocate Extra* original o una carta que feche la conversación, identifique al ministro del tren, al informante o a la persona realmente aludida, o pruebe que existió un testimonio escrito. La fecha hacia 1882 y el nombre E. R. Jones siguen dependiendo de Canright.
 3. **Manuscrito:** capítulo 8 incorporado a `capitulos/` para revisión; ajustados §7, §9, la tabla y las notas [^12] y [^15]. Las lagunas documentales siguen explícitas y no se han transformado en certezas.
+
+
+## ¿Qué añadió la remediación y qué permanece abierto?
+
+Se conservan las versiones de 1884, 1892 y 1909, sus diferencias y la declaración de Daniels de 1883. No se encontró una acusación original de White ni el *Advocate Extra*. El catálogo [CAR Collection 327](https://centerforadventistresearch.org/wp-content/uploads/2023/03/John-N.-Loughborough-Papers-327.pdf), p. 7, identifica **E. P. Daniels a Loughborough, 14-I-1890, Box 4 Folder 2, dos páginas, fotocopia WDF 230**. No se obtuvo el texto: no sabemos si corresponde al episodio y no se lo suma como corroboración.
+
+**Hecho establecido:** estos impresos conservan las afirmaciones de sus autores. **Probable:** el error pastoral sobre Daniels, admitido por el destinatario; **indeterminado:** la atribución divina original que la versión polémica alegaba. **Posible:** el núcleo del encuentro de Rochester; su especificidad anterior y simultaneidad no están verificadas independientemente. Los grados no convierten el testimonio de parte en certificación externa.
+
+Para cerrar Rochester harían falta una amonestación de 1852 y confirmación autónoma del viajero; para Daniels, el impreso acusatorio, correspondencia de White/informante o un registro contemporáneo del encuentro. Una fuente que documentara noticia humana previa cambiaría el primer balance; un escrito inequívocamente revelatorio con el dato falso cambiaría el segundo. C8 conserva estos límites y no usa la ausencia de un informante demostrado como prueba sobrenatural.
