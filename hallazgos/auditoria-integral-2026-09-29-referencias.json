@@ -1,0 +1,2033 @@
+{
+  "audit_date": "2026-09-29",
+  "repository": "https://github.com/nbertoa/ellen-white-research",
+  "main_sha": "1242677982dc3fe6b71095c65f6d4e5a95c5aff9",
+  "chapter_08_pr": 5,
+  "chapter_08_sha": "e0b10129cb379fa5b439946a7be1f20c5e72e35e",
+  "method": "Auditoría completa del corpus con verificación externa selectiva de afirmaciones materiales y registro explícito de pendientes; no certificación de todos los autógrafos ni de toda la bibliografía.",
+  "report_path": "hallazgos/auditoria-integral-2026-09-29.md",
+  "report_sha256": "38aa31df497d8a87b804148fe5ca9d49c233309b8e8f72632d47ea49841b7646",
+  "inventory": [
+    {
+      "path": "README.md",
+      "sha256": "e037ce27d6c376a90e6799714fbd9104b7a144da08c5b55ca1f27fb129a441b8",
+      "bytes": 5538
+    },
+    {
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "sha256": "946a91351740b1c6eb8bb3e2bad0a84ee6d009ae8ffdf29843f3fba1b10670f4",
+      "bytes": 51261
+    },
+    {
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "sha256": "6d8694cb1674c29a9a7f31bce15d9f47345c4ab258894504d532dbf9d073a2d5",
+      "bytes": 42868
+    },
+    {
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "sha256": "c607f58442c34be7a3e423bd671a3a470267df904a367ec0b0c578681ddc9d29",
+      "bytes": 28930
+    },
+    {
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "sha256": "fd87bcec81faa30ad74b102de05984116d7ff1ac5c266429ba5052c5f4c3e109",
+      "bytes": 69007
+    },
+    {
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "sha256": "a0e3d28896c78e5dada0c25633afc7e847eec379174aa843fd3ac5a8ea70aeac",
+      "bytes": 57670
+    },
+    {
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "sha256": "193825902fff596fbb4dbbad989b25b395041e7e079bf299a2b60a0210c88546",
+      "bytes": 46335
+    },
+    {
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "sha256": "b99a9535e4d550f21a20103c3826dca6bbf3d1b3c7cbec299d0cecadcaafebb8",
+      "bytes": 49582
+    },
+    {
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "sha256": "f5f2341e84221ac491755dcc844481bac00e4998d3d198ef124e97f39d3e31a4",
+      "bytes": 39681
+    },
+    {
+      "path": "hallazgos/afirmaciones-de-ellen-white-sobre-su-don-y-autoridad.md",
+      "sha256": "67bff1b39d48a6812079e5a694d5d79f700fe980990fc56d654b15deb0fbe907",
+      "bytes": 18263
+    },
+    {
+      "path": "hallazgos/capitulo-08-rochester-1852-y-daniels-1883.md",
+      "sha256": "d75a64050ac30342cd7d5bdb460edaea7278e021109b0200bf024ea2745355df",
+      "bytes": 15786
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/1-corintios-14-evaluar-profecias.md",
+      "sha256": "56b25bd4c0c506cc67873f2cddd4d7cb88ce026eb47412278809838c5101b0fd",
+      "bytes": 3817
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/1-juan-4-probar-los-espiritus.md",
+      "sha256": "f085b733bd1aec29de1deb0d0fef09afba06fbedc981f1b29231e29b5512d652",
+      "bytes": 4721
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/1-reyes-13.md",
+      "sha256": "07203d2e9066d13907fe9dc560d5b3f0790f88bb2819c6630f2b4d465416746c",
+      "bytes": 3247
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/1-tesalonicenses-5-examinar-profecias.md",
+      "sha256": "ca4d4f3ca0ac231d77f1448f6d794559deb3eae30a58d63547561a4af42d3006",
+      "bytes": 3436
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/balaam-caso-complejo.md",
+      "sha256": "76e077e5b10b3b136700ee90987e9d162cd13523a624e67673e949c7dcc0bd30",
+      "bytes": 5395
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/caifas-profecia-involuntaria.md",
+      "sha256": "1abd99f137265d255c13f8638e6b5c5ede506347eac1c3a16cfa0ee8d24e2de7",
+      "bytes": 4921
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/continuidad-don-profetico.md",
+      "sha256": "c10b9a700cf65bb77694d17255c84fbe925aa31ffe9188caedd17f545b7fff68",
+      "bytes": 5123
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/deuteronomio-13.md",
+      "sha256": "2611f7f255236d6f48d0eab8dd6478db8967f8e9212ff45280c43fd9ac73460a",
+      "bytes": 4213
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/deuteronomio-18-medios-de-revelacion.md",
+      "sha256": "350c449c948b22fbc790af5d0d3373de18e8852f1e48f872927f700ca1d8eddc",
+      "bytes": 5538
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/deuteronomio-18.md",
+      "sha256": "8eec699ee3429a9501a42cdbe089bfdcd1473fa67026f113b1d0963d102c5421",
+      "bytes": 5270
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/ezequiel-13-falsa-seguridad.md",
+      "sha256": "cb511e95705ad9169898633ed3b7499cf470ec24e927dc7672a6103375b5a039",
+      "bytes": 4460
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/impresion-guia-iluminacion.md",
+      "sha256": "b102a4f6ec8ec97247d946e1cbda3a1ff02cb34d9870a190cd522920d6fc83b2",
+      "bytes": 8493
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/inspiracion-revelacion-profecia.md",
+      "sha256": "b14fbbd08bced9d6dd4cd66832acb885aa0b43712929d8582ffe992cc1343182",
+      "bytes": 20000
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/isaias-8-20-ley-testimonio.md",
+      "sha256": "194f6354972c063de6770293bff37352c2848d0dcf48e6092b7ab8b87bd96ec6",
+      "bytes": 5144
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/jeremias-23-origen-mensaje.md",
+      "sha256": "2dd654f8162b7bcc26bbc5385f2a6a72945548f2a869519a596394f20eb1f855",
+      "bytes": 4756
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/lucas-1-inspiracion-y-fuentes.md",
+      "sha256": "689dfc5cc4843b472c440e9fc9c45be8a5167ec8ff15b1e1212871fc65a16738",
+      "bytes": 7394
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/mateo-7-frutos.md",
+      "sha256": "3ca66c8e331b24e5dc70244b1e3a092b70791c4b3883a3abc681a888fd0ef94c",
+      "bytes": 4323
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/miqueas-3-dinero-interes.md",
+      "sha256": "aa716fccd8b512f5d2070152392be512a80d56453a039c8a0f14fe0c480bb070",
+      "bytes": 4184
+    },
+    {
+      "path": "metodologia/INSTRUCCIONES_PROYECTO.md",
+      "sha256": "781c3e20ce96da5057ad9abfdbd4772771ad54410d91c6941ce3c21ddc1fb635",
+      "bytes": 7096
+    },
+    {
+      "path": "metodologia/MATRIZ_CRITERIOS_BIBLICOS.md",
+      "sha256": "82ea0956a7e16c0509d51d99b063ee5e550df00a4fdf7064b29b1ddd942b2190",
+      "bytes": 4732
+    },
+    {
+      "path": "metodologia/PROMPT_WORK_AUDITORIA_CAPITULO_2.md",
+      "sha256": "80d22a983f6ec1b7b2b7df6525995da331e4229c3ad3b8c8f1495925b809ad42",
+      "bytes": 7978
+    }
+  ],
+  "references": [
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "1",
+      "line": 516,
+      "text": "Ezequiel 13:1-16, especialmente 13:2-7. Véase Daniel I. Block, *The Book of Ezekiel, Chapters 1–24*, NICOT (Eerdmans, 1997), comentario a Ezequiel 13. El texto permite afirmar que la convicción del mensajero no prueba el origen del mensaje; no permite reconstruir con certeza el estado psicológico de cada falso profeta.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "2",
+      "line": 517,
+      "text": "Romanos 8:5-17; Gálatas 5:13-25. En ambos contextos, “ser guiado” por el Espíritu aparece dentro de una discusión sobre identidad, conducta y transformación, no como definición de revelación profética.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "3",
+      "line": 518,
+      "text": "Hechos 16:6-10. La secuencia distingue prohibición del Espíritu, visión y conclusión comunitaria sobre la dirección que debían tomar; el propio relato no explica el mecanismo de las prohibiciones.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "4",
+      "line": 519,
+      "text": "Efesios 1:17-18; Lucas 24:45; 1 Corintios 2:10-16. Para la amplitud histórica del concepto, véase Robert Pasnau, “Divine Illumination”, *Stanford Encyclopedia of Philosophy*, que muestra que la doctrina de iluminación tuvo sentidos epistemológicos mucho más amplios que el uso moderno centrado en comprender la Escritura.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "5",
+      "line": 520,
+      "text": "2 Timoteo 3:14-17. Véanse Walter Bauer et al., *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*, 3.ª ed. (University of Chicago Press, 2000), voz θεόπνευστος; Philip H. Towner, *The Letters to Timothy and Titus*, NICNT (Eerdmans, 2006), comentario a 3:16; William D. Mounce, *Pastoral Epistles*, WBC 46 (Thomas Nelson, 2000), comentario a 3:16; y Jeremy Begbie, “Who Is This God? Biblical Inspiration Revisited”, *Tyndale Bulletin* 43.2 (1992): 259-282. La construcción griega permite discutir si los adjetivos son predicativos o atributivos, pero ninguna opción define el mecanismo de composición.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "6",
+      "line": 521,
+      "text": "2 Pedro 1:19-21. Véanse Richard J. Bauckham, *Jude, 2 Peter*, WBC 50 (Word Books, 1983), y Gene L. Green, *Jude and 2 Peter*, BECNT (Baker Academic, 2008), comentarios a 1:20-21. *Pheromenoi* es participio pasivo de *pherō*. La relación entre *epilysis* en 1:20 y el origen o interpretación de la profecía sigue discutida; 1:21 inclina el argumento hacia su procedencia sin resolver todos los detalles del proceso.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "7",
+      "line": 522,
+      "text": "Éxodo 34:27; Jeremías 36:2-4; Apocalipsis 2–3; 2 Pedro 1:20-21; Lucas 1:1-4. Como ejemplos adventistas de una doctrina de alta autoridad bíblica que no identifica inspiración con dictado mecánico, véanse General Conference of Seventh-day Adventists, “The Holy Scriptures” (declaración oficial, 29 de junio de 1995), https://gc.adventist.org/official-statements/the-holy-scriptures/; y Gerhard Pfandl, “Some Thoughts on the Inspiration of the Bible”, Biblical Research Institute, https://adventistbiblicalresearch.org/articles/some-thoughts-on-the-inspiration-of-the-bible. La declaración describe el mensaje de Dios como transmitido por escritores humanos; Pfandl distingue dictado de otros modelos. Se citan para documentar una posición adventista, no como autoridad exegética final.",
+      "urls": [
+        "https://gc.adventist.org/official-statements/the-holy-scriptures/;",
+        "https://adventistbiblicalresearch.org/articles/some-thoughts-on-the-inspiration-of-the-bible."
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "8",
+      "line": 523,
+      "text": "Lucas 1:1-4. *Parakoloutheō* puede significar seguir de cerca o investigar; *akribōs* añade la idea de cuidado o precisión. Véanse BDAG, voces παρακολουθέω y ἀκριβῶς; Loveday Alexander, *The Preface to Luke’s Gospel: Literary Convention and Social Context in Luke 1.1–4 and Acts 1.1*, SNTSMS 78 (Cambridge University Press, 1993); y Sean A. Adams, “Luke’s Preface and Its Relationship to Greek Historiography: A Response to Loveday Alexander”, *Journal of Greco-Roman Christianity and Judaism* 3 (2006): 177-191. La clasificación literaria exacta del prólogo se discute; el argumento depende de lo que éste declara, no de asignarlo a un único género ni de resolver el problema sinóptico.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "9",
+      "line": 524,
+      "text": "2 Samuel 7:1-17. Véanse A. A. Anderson, *2 Samuel*, WBC 11 (Word Books, 1989), y P. Kyle McCarter Jr., *II Samuel*, Anchor Bible 9 (Doubleday, 1984), comentarios al pasaje. El relato no prueba una teoría de “profecía falible”: la primera respuesta no se introduce como “palabra de YHWH”.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "10",
+      "line": 525,
+      "text": "Véanse BDAG, voces ἀποκαλύπτω y ἀποκάλυψις; y Mats Wahlberg, “Divine Revelation”, *Stanford Encyclopedia of Philosophy*, secciones 1–1.2, https://plato.stanford.edu/entries/divine-revelation/. La literatura distingue entre el acto y el contenido de revelar, y entre revelación manifestacional y proposicional; esa discusión impide reducir la categoría a datos nuevos.",
+      "urls": [
+        "https://plato.stanford.edu/entries/divine-revelation/."
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "11",
+      "line": 526,
+      "text": "Mateo 16:17; Gálatas 2:2; 1 Corintios 14:26-32. Richard M. Blaylock, “Towards a Definition of New Testament Prophecy”, *Themelios* 44.1 (2019): 41-60, vincula en Pablo revelación recibida y comunicación profética. Es una propuesta argumentada, no un consenso académico ni una definición aplicable sin matices a toda la Biblia.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "12",
+      "line": 527,
+      "text": "Para las diferencias entre audiencia, medio y estatuto de una revelación y para taxonomías como general/especial y natural/sobrenatural, véase Wahlberg, “Divine Revelation”, sección 1.1. “Pública/privada” y “canónica/no canónica” clasifican dimensiones distintas y no forman el glosario técnico de los textos bíblicos.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "13",
+      "line": 528,
+      "text": "Números 12:6; Jeremías 23:16-32; Ezequiel 13:1-9. Véanse Ludwig Koehler, Walter Baumgartner y Johann Jakob Stamm, *The Hebrew and Aramaic Lexicon of the Old Testament* (Brill, 1994-2000), voces חָזוֹן y מַרְאֶה; y BDAG, voz ὅραμα. Los términos tienen usos superpuestos y el contexto decide si el relato autentica o rechaza el origen reclamado.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "14",
+      "line": 529,
+      "text": "1 Pedro 1:10-12; Daniel 8:27; Juan 11:49-52; 1 Corintios 14:29. Sobre la evaluación de profecías en 1 Corintios 14 y el debate respecto de lo que implica, véanse Anthony C. Thiselton, *The First Epistle to the Corinthians*, NIGTC (Eerdmans, 2000), y Gordon D. Fee, *The First Epistle to the Corinthians*, ed. rev., NICNT (Eerdmans, 2014), comentarios a 14:29-33.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "15",
+      "line": 530,
+      "text": "1 Corintios 14:1-6, 24-33; Juan 11:47-53. Para distintos intentos de definir la actividad profética, véanse David E. Aune, *Prophecy in Early Christianity and the Ancient Mediterranean World* (Eerdmans, 1983); Christopher Forbes, *Prophecy and Inspired Speech in Early Christianity and Its Hellenistic Environment*, WUNT II/75 (Mohr Siebeck, 1995); y Blaylock, “Towards a Definition”. El carácter inteligible es claro en la regulación paulina de la asamblea, pero no debe convertirse sin argumento en toda la definición transhistórica de profecía.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "16",
+      "line": 531,
+      "text": "Números 22-24; 31:16; Josué 13:22; Juan 11:49-52. Véanse Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Numbers 22–24”, *Religions* 14.9 (2023): 1104; Hans Ausloos, “A Star Was Born: About the Bifocal Reception History of Balaam”, *Scriptura* 116.2 (2017): 1-14; y Craig S. Keener, *The Gospel of John: A Commentary*, vol. 1 (Hendrickson, 2003), comentario a Juan 11:49-52.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "17",
+      "line": 532,
+      "text": "Éxodo 7:1; Deuteronomio 18:18; Jeremías 1:7-9. Véanse HALOT, voz נָבִיא; BDAG, voz προφήτης; y Aune, *Prophecy in Early Christianity*. “Portavoz” recoge una dimensión textual importante, pero no agota la diversidad histórica de funciones ni establece por sí solo la autenticidad de quien recibe el título.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "18",
+      "line": 533,
+      "text": "Romanos 12:6; 1 Corintios 12:7-11, 28-30; 14:1, 29-32. La relación exacta entre “todos podéis profetizar” (14:31) y “¿son todos profetas?” (12:29) es discutida. Véanse Thiselton y Fee, comentarios a esos pasajes; Pablo no proporciona un umbral temporal que convierta una manifestación en “ministerio permanente”.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "19",
+      "line": 534,
+      "text": "1 Tesalonicenses 5:19-22; 1 Corintios 14:29. Para posiciones distintas sobre evaluación y autoridad, véanse Thiselton y Fee, comentarios a 1 Corintios 14; Wayne Grudem, *The Gift of Prophecy in the New Testament and Today*, ed. rev. (Crossway, 2000); y Blaylock, “Towards a Definition”. Estos autores no concuerdan en si la profecía congregacional podía mezclar revelación y formulación humana falible.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "01",
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "note": "20",
+      "line": 535,
+      "text": "Éxodo 4:15-16; Deuteronomio 18:18; Jeremías 1:9; 36:2-4; 2 Pedro 1:21; Lucas 1:1-4. Véanse Begbie, “Who Is This God?”, y Towner, *The Letters to Timothy and Titus*, comentario a 2 Timoteo 3:16. Los textos permiten reconocer tanto afirmaciones de palabras divinas concretas como procesos humanos de composición; no sistematizan una sola relación entre pensamiento, palabra, memoria y edición.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "1",
+      "line": 323,
+      "text": "Para los textos, véanse Hechos 11:27-28; 13:1; 21:9-11; 1 Corintios 12-14; 13:8-12; Efesios 2:20; 3:5; 4:11-13. Dos argumentos enfrentados y suficientemente claros son Thomas R. Schreiner, “It All Depends upon Prophecy: A Brief Case for Nuanced Cessationism”, *Themelios* 44.1 (2019): 29-35, y Jon Ruthven, “The ‘Foundational Gifts’ of Ephesians 2.20”, *Journal of Pentecostal Theology* 10.2 (2002): 28-43, https://doi.org/10.1177/096673690201000204. Ninguno funciona aquí como autoridad final; sirven para identificar qué inferencias exige cada posición.",
+      "urls": [
+        "https://doi.org/10.1177/096673690201000204."
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "2",
+      "line": 324,
+      "text": "Deuteronomio 13:1-5 en la numeración castellana habitual; 13:2-6 en la numeración hebrea; compárese Mateo 24:24. Véanse Jeffrey H. Tigay, *Deuteronomy*, JPS Torah Commentary (Jewish Publication Society, 1996), comentario a Deuteronomio 13; y Ludwig Koehler, Walter Baumgartner y Johann Jakob Stamm, *The Hebrew and Aramaic Lexicon of the Old Testament* (Brill, 1994-2000), voces אוֹת y מוֹפֵת.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "3",
+      "line": 325,
+      "text": "Deuteronomio 18:20-22. Véanse Tigay, *Deuteronomy*, comentario a 18:9-22; J. D. Atkins, “Reassessing the Origins of Deuteronomic Prophecy”, *Bulletin for Biblical Research* 23.3 (2013): 323-341; y HALOT, voz זוד. El hebreo de 18:22 describe la palabra que no “sucede” ni “se realiza” y califica el hablar del profeta como presuntuoso.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "4",
+      "line": 326,
+      "text": "Jeremías 18:7-10; 26:17-19; Jonás 3:4-10. Véanse Jack R. Lundbom, *Jeremiah 1–20*, Anchor Yale Bible 21A (Yale University Press, 1999), comentario a Jeremías 18; y Willem J. Wessels, “At the Potter’s Workshop: Jeremiah 18:1-12”, *HTS Teologiese Studies* 76.4 (2020), a6108, https://doi.org/10.4102/hts.v76i4.6108.",
+      "urls": [
+        "https://doi.org/10.4102/hts.v76i4.6108."
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "5",
+      "line": 327,
+      "text": "Jeremías 28:1-17, especialmente 28:8-9, 15-17. Véanse Jack R. Lundbom, *Jeremiah 21–36*, Anchor Yale Bible 21B (Yale University Press, 2004), comentario a Jeremías 28; y William McKane, *A Critical and Exegetical Commentary on Jeremiah*, vol. 2, ICC (T&T Clark, 1996), comentario a Jeremías 28.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "6",
+      "line": 328,
+      "text": "1 Reyes 13:1-32. Véase Mordechai Cogan, *1 Kings*, Anchor Yale Bible 10 (Yale University Press, 2001), comentario a 1 Reyes 13.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "7",
+      "line": 329,
+      "text": "Isaías 8:16-20. Véanse Joseph Blenkinsopp, *Isaiah 1–39*, Anchor Yale Bible 19 (Yale University Press, 2000), comentario a Isaías 8; H. G. M. Williamson, *Isaiah 6–12*, ICC (T&T Clark, 2018), comentario a 8:16-23; y HALOT, voces תּוֹרָה y תְּעוּדָה. La dificultad sintáctica y las diferencias de traducción desaconsejan apoyar una prueba completa en una sola versión castellana.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "8",
+      "line": 330,
+      "text": "Deuteronomio 18:9-22; Isaías 8:19; Hechos 16:16-18. Véanse Hendrik L. Bosman, “Redefined Prophecy as Deuteronomic Alternative to Divination in Deuteronomy 18:9-22”, *Acta Theologica* 16.1 (1996): 1-23; Tigay, *Deuteronomy*, comentario a 18:9-22; y HALOT para los términos hebreos de 18:10-11. La comparación histórica con la adivinación antigua ayuda a entender la función común de buscar conocimiento, pero no anula la valoración negativa explícita del texto deuteronómico.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "9",
+      "line": 331,
+      "text": "1 Juan 4:1-6; 2 Juan 7-9. Véanse Judith M. Lieu, *I, II, & III John*, New Testament Library (Westminster John Knox, 2008), comentarios a esos pasajes; y John Painter, “The ‘Opponents’ in I John”, *New Testament Studies* 32.1 (1986): 48-71, https://doi.org/10.1017/S0028688500013503.",
+      "urls": [
+        "https://doi.org/10.1017/S0028688500013503."
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "10",
+      "line": 332,
+      "text": "1 Tesalonicenses 5:19-22. Véanse Abraham J. Malherbe, *The Letters to the Thessalonians*, Anchor Yale Bible 32B (Yale University Press, 2000), comentario a 5:19-22; y Walter Bauer et al., *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*, 3.ª ed. (University of Chicago Press, 2000), voz δοκιμάζω.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "11",
+      "line": 333,
+      "text": "1 Corintios 14:29; 12:10. Véanse Anthony C. Thiselton, *The First Epistle to the Corinthians*, NIGTC (Eerdmans, 2000), comentario a 14:29; Gordon D. Fee, *The First Epistle to the Corinthians*, ed. rev., NICNT (Eerdmans, 2014), comentario a 14:29; y BDAG, voz διακρίνω.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "12",
+      "line": 334,
+      "text": "1 Corintios 14:30-33. Véanse Thiselton y Fee, comentarios a esos versículos. Ambos discuten el sentido de “los espíritus de los profetas” dentro del argumento de Pablo sobre orden, turno y control.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "13",
+      "line": 335,
+      "text": "Mateo 7:15-23; compárese 12:33-37. Véanse W. D. Davies y Dale C. Allison Jr., *A Critical and Exegetical Commentary on the Gospel according to Saint Matthew*, vol. 1, ICC (T&T Clark, 1988), comentario a 7:15-23; y Ulrich Luz, *Matthew 1–7*, Hermeneia (Fortress, 2007), comentario al pasaje.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "14",
+      "line": 336,
+      "text": "Jeremías 23:16-32. Véanse Lundbom, *Jeremiah 21–36*, y McKane, *Jeremiah*, vol. 2, comentarios a Jeremías 23. El verbo “robar” de 23:30 es גנב; el objeto son “mis palabras”, pero el mecanismo preciso de apropiación no se explica.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "15",
+      "line": 337,
+      "text": "Ezequiel 13:1-23. Véanse Daniel I. Block, *The Book of Ezekiel, Chapters 1–24*, NICOT (Eerdmans, 1997), comentario a Ezequiel 13; y Rosanne Liebermann, “For-Profit Prophets? Ezekiel 13:17-23 and the Threat of Female Intermediaries”, *Hebrew Studies* 61 (2020): 213-234. Los detalles rituales de 13:17-23 y el sentido de varios términos siguen discutidos.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "16",
+      "line": 338,
+      "text": "Miqueas 3:5-12; 1 Samuel 9:7-9; 2 Reyes 5:15-16. Véanse Francis I. Andersen y David Noel Freedman, *Micah*, Anchor Yale Bible 24E (Yale University Press, 2000), comentario a Miqueas 3; y HALOT, voz קסם.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "17",
+      "line": 339,
+      "text": "Números 22-24; 31:16; Deuteronomio 23:4-5; Josué 13:22; 2 Pedro 2:15; Judas 11; Apocalipsis 2:14. Véanse Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Numbers 22–24”, *Religions* 14.9 (2023): 1104, https://doi.org/10.3390/rel14091104; y Hans Ausloos, “A Star Was Born: About the Bifocal Reception History of Balaam”, *Scriptura* 116.2 (2017): 1-14, https://doi.org/10.7833/116-2-1311.",
+      "urls": [
+        "https://doi.org/10.3390/rel14091104;",
+        "https://doi.org/10.7833/116-2-1311."
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "02",
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "note": "18",
+      "line": 340,
+      "text": "Juan 11:47-53. Véase Craig S. Keener, *The Gospel of John: A Commentary*, vol. 1 (Hendrickson, 2003), comentario a 11:49-52.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "1",
+      "line": 174,
+      "text": "Ellen G. Harmon, carta a Enoch Jacobs, Portland, Maine, 20 de diciembre de 1845, publicada en *The Day-Star*, 24 de enero de 1846, pp. 31-32; catalogada como Lt 1, 1845. El registro bibliográfico y la reproducción se conservan en el [Heritage Research Center de Loma Linda University](https://library.llu.edu/day-star-letter-written-december-20-1845-portland-maine-by-sister-harmon-bro-jacobs-account-of-first-vision). La fecha de redacción no debe confundirse con la de publicación.",
+      "urls": [
+        "https://library.llu.edu/day-star-letter-written-december-20-1845-portland-maine-by-sister-harmon-bro-jacobs-account-of-first-vision"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "2",
+      "line": 175,
+      "text": "Ellen G. White, intervención en el Battle Creek Tabernacle, 2 de octubre de 1904, conservada como Ms 140, 1905, “Sermon at the Battle Creek Tabernacle”. La identificación de 1905 corresponde al manuscrito conservado, no a la fecha del acto referido.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "3",
+      "line": 176,
+      "text": "Ellen G. White, Lt 55, 1905, a O. A. Olsen, Elmshaven, 30 de enero de 1905, especialmente párrs. 4-11 y 21.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "4",
+      "line": 177,
+      "text": "Ellen G. White, Ms 63, 1906, “A Messenger”, 26 de mayo de 1906, especialmente párrs. 3-9 y 18-21; publicado en *Review and Herald*, 26 de julio de 1906. La publicación es posterior a la redacción.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "5",
+      "line": 178,
+      "text": "Ellen G. White, Lt 244, 1906, a los ancianos de la iglesia de Battle Creek, 17 de julio de 1906, párr. 18.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "6",
+      "line": 179,
+      "text": "Ellen G. White, *Testimony for the Battle Creek Church* (Oakland, California: Pacific Press, 1882), pp. 47-49; reproducido después en *Testimonies for the Church*, t. 5, pp. 66-68. El folleto de 1882, no la compilación posterior, es la referencia primaria.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "7",
+      "line": 180,
+      "text": "Ellen G. White, *Testimony for the Church—No. 33* (Oakland, California: Pacific Press, 1889), sección “An Unwarranted Distinction”; reproducido en *Testimonies for the Church*, t. 5, pp. 687-688.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "8",
+      "line": 181,
+      "text": "Ellen G. White, Ms 107, 1909, “A Confusion of the Sacred and the Common”, St. Helena, California, 5 de marzo de 1909, párrs. 6-10; publicado posteriormente en *Selected Messages*, t. 1, pp. 38-39. La compilación no es la fuente original.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "9",
+      "line": 182,
+      "text": "Ellen G. White, *Testimony for the Church—No. 33* (1889), sección “An Unwarranted Distinction”; reproducido en *Testimonies for the Church*, t. 5, pp. 683-691, especialmente pp. 686-687.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "10",
+      "line": 183,
+      "text": "Ellen G. White, “Questions and Answers”, *Review and Herald*, 8 de octubre de 1867, p. 260, párr. 9. La afirmación aparece en una respuesta sobre la reforma de la vestimenta.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "11",
+      "line": 184,
+      "text": "Ellen G. White, Lt 206, 1906, a David Paulson, St. Helena, California, 14 de junio de 1906, apertura; publicada después en *Review and Herald*, 30 de agosto de 1906, y en *Selected Messages*, t. 1, pp. 24-26. La carta reproduce primero la creencia que Paulson había recibido y luego la rechaza; no debe citarse la primera parte como si fuera la posición de White.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "12",
+      "line": 185,
+      "text": "Ellen G. White, Ms 24, 1886, “Objections to the Bible”, circa 1886; publicado posteriormente en *Selected Messages*, t. 1, pp. 19-21. El referente directo del pasaje es la inspiración de los escritores bíblicos.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "13",
+      "line": 186,
+      "text": "Ellen G. White, Lt 225, 1906, St. Helena, California, 8 de julio de 1906; reproducida parcialmente en *The Writing and Sending Out of the Testimonies to the Church* (1913), p. 4. La carta, no el folleto posterior, es la fuente primaria.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "14",
+      "line": 187,
+      "text": "Ellen G. White, Lt 10, 1895, a F. E. Belden, Granville, Nueva Gales del Sur, 9 de junio de 1895, párr. 6; publicada posteriormente en *Selected Messages*, t. 1, p. 37.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "15",
+      "line": 188,
+      "text": "Ellen G. White, Lt 27, 1876, a James White, Oakland, California, 16 de mayo de 1876. La admisión se refiere a errores de su vida y a la falta de perfección de carácter.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "16",
+      "line": 189,
+      "text": "Ellen G. White, *The Great Controversy Between Christ and Satan* (Oakland, California: Pacific Press, 1888), introducción, pp. d-e; *The Great Controversy* (Mountain View, California: Pacific Press, 1911), introducción, pp. vi-vii.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "17",
+      "line": 190,
+      "text": "Ellen G. White, *Testimony for the Church—No. 33* (1889), sección sobre la relación de los testimonios con la Biblia; reproducido en *Testimonies for the Church*, t. 5, pp. 663-665. El argumento reutiliza una explicación publicada antes en *Testimony for the Church—No. 17* (1869), luego *Testimonies for the Church*, t. 2, pp. 604-606.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "18",
+      "line": 191,
+      "text": "Ellen G. White, Lt 11, 1894, a Brother and Sister Colcord, Melbourne, Australia, 16 de enero de 1894, párr. 4.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "19",
+      "line": 192,
+      "text": "Ellen G. White, carta abierta fechada en Elmshaven, California, 6 de diciembre de 1902, publicada en *Review and Herald*, 20 y 27 de enero de 1903. El pasaje “luz menor/luz mayor” apareció en la primera parte, 20 de enero de 1903. La carta fue reunida después bajo el encabezado “A Call for Recruits” en *The Colporteur Evangelist* (1920), pp. 35-37, y reproducida parcialmente en *Colporteur Ministry*, p. 125. Estas compilaciones posteriores no son la fuente original.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "20",
+      "line": 193,
+      "text": "Herbert E. Douglass, *Messenger of the Lord: The Prophetic Ministry of Ellen G. White* (Nampa, Idaho: Pacific Press, 1998), cap. 35. Douglass identifica los escritos de White como la luz menor y la Biblia como la luz mayor; aquí la conclusión se apoya en el artículo primario.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "03",
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "note": "21",
+      "line": 194,
+      "text": "Walter T. Rea, *The White Lie* (Turlock, California: M & R Publications, 1982), cap. 3, especialmente pp. 52-53. Rea cita las declaraciones de 1867, 1876 y 1882 y las relaciona con su argumento sobre dependencia literaria. La inferencia deberá evaluarse con los documentos de cada caso en capítulos posteriores.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "1",
+      "line": 342,
+      "text": "“Trial of Elder I. Dammon: Reported for the *Piscataquis Farmer*”, *Piscataquis Farmer* (Dover, Maine), 7 de marzo de 1845, pp. 1–2. [Facsímil y transcripción digital](https://archive.org/details/TrialOfElderI.Dammon.ReportedForThePiscataquisFarmer.-In). El juicio comenzó el 17 de febrero y continuó al día siguiente; la reunión investigada había ocurrido la noche del 15.",
+      "urls": [
+        "https://archive.org/details/TrialOfElderI.Dammon.ReportedForThePiscataquisFarmer.-In"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "2",
+      "line": 344,
+      "text": "James White a Enoch Jacobs, 19 de agosto de 1845, publicado en *The Day-Star*, 6 de septiembre de 1845. El texto se reproduce en “The Earliest Published References to the Vision”, dentro de [*Ellen G. White and the Shut Door Question*](https://whiteestate.org/about/issues1/unusual/shut-door/door-alw/), pp. 17–18.",
+      "urls": [
+        "https://whiteestate.org/about/issues1/unusual/shut-door/door-alw/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "3",
+      "line": 346,
+      "text": "Ellen G. Harmon a Enoch Jacobs, Portland, Maine, 20 de diciembre de 1845, publicada como “Letter From Sister Harmon” en *The Day-Star*, 24 de enero de 1846, pp. 31–32; catalogada como Lt 1, 1845 en [*Letters and Manuscripts, vol. 1*](https://text.egwwritings.org/read/13961.20000015). La edición anotada advierte que es el primer relato publicado conocido y que combina la primera visión con la posterior visión de la tierra nueva.",
+      "urls": [
+        "https://text.egwwritings.org/read/13961.20000015"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "4",
+      "line": 348,
+      "text": "James White, *A Word to the “Little Flock”* (Gorham, Maine, 30 de mayo de 1847), pp. 22–23. [Facsímil digital](https://www.aplib.org/files/ebooks/pdf/James%20White%20-%20A%20Word%20to%20the%20Little%20Flock.pdf). Ellen G. White, *A Sketch of the Christian Experience and Views of Ellen G. White* (Saratoga Springs, Nueva York: James White, 1851), p. 5.",
+      "urls": [
+        "https://www.aplib.org/files/ebooks/pdf/James%20White%20-%20A%20Word%20to%20the%20Little%20Flock.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "5",
+      "line": 350,
+      "text": "Ellen G. White a Joseph Bates, Lt 3, 1847, 13 de julio de 1847. Ellen distinguió allí la visión del “clamor de medianoche”, recibida en diciembre de 1844, de la visión del Novio de febrero de 1845. [Texto documental](https://m.egwwritings.org/en/book/711.90).",
+      "urls": [
+        "https://m.egwwritings.org/en/book/711.90"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "6",
+      "line": 352,
+      "text": "Ellen G. White, Lt 2c, 1874, variante de la parte final de Lt 2, 1874, 24 de agosto. Al recordar sus primeros contactos con I. C. Wellcome escribió que no había tenido una visión hasta “about January or February” y que ya no podía precisar cuál de los dos meses. Es un recuerdo aproximadamente treinta años posterior. [Texto](https://m.egwwritings.org/en/book/3531).",
+      "urls": [
+        "https://m.egwwritings.org/en/book/3531"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "7",
+      "line": 354,
+      "text": "William Miller, *Wm. Miller’s Apology and Defence* (Boston: Joshua V. Himes, 1845), p. 28. El pasaje fechado en agosto de 1845 se reproduce en [*The Shut Door Documents*](https://whiteestate.org/about/issues1/unusual/shut-door/door-docs/), entrada 19.",
+      "urls": [
+        "https://whiteestate.org/about/issues1/unusual/shut-door/door-docs/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "8",
+      "line": 356,
+      "text": "William E. Foy, *The Christian Experience of William E. Foy Together With the Two Visions He Received in the Months of January and February 1842* (Portland, Maine: J. and C. H. Pearson, 1845). [Texto de la edición de 1845](https://text.egwwritings.org/read/1116.2). La publicación documenta que experiencias visionarias circulaban en el mismo ambiente religioso antes del ministerio público de Ellen Harmon. La afirmación de Ellen, hecha décadas después, de que había oído a Foy antes de su propia primera visión procede de recuerdos tardíos y no se usa aquí para demostrar dependencia.",
+      "urls": [
+        "https://text.egwwritings.org/read/1116.2"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "9",
+      "line": 358,
+      "text": "“Conference of Adventists at New York, Commencing May 6th, 1845”, *Advent Herald*, 21 de mayo de 1845, p. 118. Allí, después de aprobar por unanimidad las decisiones de Albany, se resolvió no confiar en nuevos mensajes, visiones, sueños, lenguas, milagros u otras manifestaciones que no concordaran con la Palabra de Dios. [Reproducción documental](https://text.egwwritings.org/read/653.1764).",
+      "urls": [
+        "https://text.egwwritings.org/read/653.1764"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "10",
+      "line": 360,
+      "text": "Ellen G. White, *A Sketch of the Christian Experience and Views* (1851), pp. 3–5; *Spiritual Gifts*, vol. 2 (Battle Creek, Michigan: James White, 1860), pp. 7–30. Son autobiografías retrospectivas, no expedientes clínicos de 1844.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "11",
+      "line": 362,
+      "text": "Ronald D. Graybill, [“Visions and Revisions—Part 1”](https://www.ministrymagazine.org/archive/1994/02/visions-and-revisions), *Ministry*, febrero de 1994, pp. 11–13. Graybill realizó una comparación textual de las ediciones y señaló la pérdida del manuscrito enviado a Jacobs.",
+      "urls": [
+        "https://www.ministrymagazine.org/archive/1994/02/visions-and-revisions"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "12",
+      "line": 364,
+      "text": "Ellen G. White, *Spiritual Gifts*, vol. 2 (1860), cap. 6, “My First Vision”, pp. 30–35, y cap. 9, “Vision of the New Earth”, pp. 52–55.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "13",
+      "line": 366,
+      "text": "Nota de Enoch Jacobs a la publicación de la carta, *The Day-Star*, 24 de enero de 1846: indicó que la imprimía a pedido de amigos que la habían oído leer. La secuencia documental se reproduce en [“A Word to the ‘Little Flock’”](https://www.ministrymagazine.org/archive/1944/09/a-word-to-the-little-flock), *Ministry*, septiembre de 1944.",
+      "urls": [
+        "https://www.ministrymagazine.org/archive/1944/09/a-word-to-the-little-flock"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "14",
+      "line": 368,
+      "text": "Ellen G. Harmon a Enoch Jacobs, Falmouth, Massachusetts, 15 de febrero de 1846, publicada en *The Day-Star*, 14 de marzo de 1846. Véase la reproducción en Denis Fortin, [“Ellen G. White as a Writer, Part I”](https://www.andrews.edu/~fortind/EGWLiteraryAssistants.htm).",
+      "urls": [
+        "https://www.andrews.edu/~fortind/EGWLiteraryAssistants.htm"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "15",
+      "line": 370,
+      "text": "*To the Little Remnant Scattered Abroad*, hoja suelta publicada por James White y H. S. Gurney, 6 de abril de 1846; James White, *A Word to the “Little Flock”* (1847), pp. 13–22. Para las variantes exactas, Graybill, “Visions and Revisions”, pp. 11–13.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "16",
+      "line": 372,
+      "text": "Ellen G. White, *A Sketch of the Christian Experience and Views* (1851), p. 5. El pasaje fue impreso también en *Review and Herald Extra*, 21 de julio de 1851.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "17",
+      "line": 374,
+      "text": "Ellen G. White, *Spiritual Gifts*, vol. 2 (1860), p. 30. Allí aparece “sister H.”, no el nombre completo.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "18",
+      "line": 376,
+      "text": "Otis Nichols a William Miller, Dorchester, Massachusetts, 20 de abril de 1846, manuscrito en Ellen G. White Estate, Document File 105/439b, escrito en una copia de la hoja de abril de 1846. Amplios extractos y el contexto están disponibles en [*The Shut Door Documents*](https://whiteestate.org/legacy/issues-shutdoor-html/).",
+      "urls": [
+        "https://whiteestate.org/legacy/issues-shutdoor-html/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "19",
+      "line": 378,
+      "text": "Ellen G. White, *A Sketch of the Christian Experience and Views* (1851), pp. 5–6; el mismo relato apareció en *Review and Herald Extra*, 21 de julio de 1851. Allí escribió que “aproximadamente una semana” después de la primera visión recibió otra en la que se le indicó que debía relatar a otros lo que había visto. [Texto de 1851](https://media2.egwwritings.org/swf/en_ExV/files/assets/seo/page11.html).",
+      "urls": [
+        "https://media2.egwwritings.org/swf/en_ExV/files/assets/seo/page11.html"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "20",
+      "line": 380,
+      "text": "Ellen G. White a Joseph Bates, Lt 3, 1847, 13 de julio. Situó la visión del Novio “about the middle of February, 1845” en Exeter, Maine, durante una reunión con Israel Dammon, James White y otros, y afirmó que la mayoría “were settled upon the shut door” después de recibirla. [Texto](https://m.egwwritings.org/en/book/711.90). La visión había sido publicada antes en *The Day-Star*, 14 de marzo de 1846.",
+      "urls": [
+        "https://m.egwwritings.org/en/book/711.90"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "21",
+      "line": 382,
+      "text": "Otis Nichols a William Miller, 20 de abril de 1846, White Estate Document File 439b. Nichols caracterizó el mensaje de Ellen como un llamado a conservar la fe en el movimiento del séptimo mes y a creer que “our work was done for the nominal church and the world”, quedando trabajo para “the household of faith”. [Transcripción del documento](https://text.egwwritings.org/read/758.390).",
+      "urls": [
+        "https://text.egwwritings.org/read/758.390"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "22",
+      "line": 384,
+      "text": "Ellen G. White a J. N. Loughborough, Lt 2, 1874, 24 de agosto. Reconoció que, después de 1844, ella y sus hermanos creían que no se convertirían más pecadores, pero negó haber recibido una visión que enseñara eso. [Texto de la carta](https://m.egwwritings.org/en/book/14052.3301001).",
+      "urls": [
+        "https://m.egwwritings.org/en/book/14052.3301001"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "23",
+      "line": 386,
+      "text": "*Piscataquis Farmer*, 7 de marzo de 1845, p. 1. La acusación invocó los *Revised Statutes of Maine*, cap. 178, sec. 9. Véase la transcripción del informe en Frederick Hoyt, “Trial of Elder I. Dammon”, *Spectrum* 17, n.º 5 (agosto de 1987), pp. 29–36: [PDF](https://www.andrews.edu/library/car/cardigital/Periodicals/Spectrum/1986_Vol_17/5_August_1987.pdf).",
+      "urls": [
+        "https://www.andrews.edu/library/car/cardigital/Periodicals/Spectrum/1986_Vol_17/5_August_1987.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "24",
+      "line": 388,
+      "text": "*Piscataquis Farmer*, 7 de marzo de 1845, p. 2. El periódico termina indicando que Dammon apeló. En una carta fechada el 28 de mayo de 1845 y publicada en *The Jubilee Standard* el 5 de junio, p. 104, el propio Dammon afirmó posteriormente que “the warrant was quashed” y que fue absuelto. Es su propio testimonio del desenlace, no el expediente judicial de la apelación. Véase también la referencia documental en [*Ellen White’s Interaction With Fanatics During 1845 and 1846*](https://text.egwwritings.org/read/12667.5949).",
+      "urls": [
+        "https://text.egwwritings.org/read/12667.5949"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "25",
+      "line": 390,
+      "text": "Introducción del reportero, *Piscataquis Farmer*, 7 de marzo de 1845, p. 1. Frederick Hoyt editó una transcripción más legible en “Trial of Elder I. Dammon”, *Spectrum* 17, n.º 5 (agosto de 1987), pp. 29–36.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "26",
+      "line": 392,
+      "text": "Testimonios de William C. Crosby, Loton Lambert, James Ayer hijo, Job Moody, Jacob Mason, Joel Doore, George Woodbury, Joseph Moulton y Benjamin Smith en *Piscataquis Farmer*, 7 de marzo de 1845, pp. 1–2. Moulton describió el arresto y la resistencia; Smith explicó que ciudadanos de Atkinson le habían pedido intervenir para detener las reuniones porque temían que Dammon y otros se convirtieran en una carga para el pueblo. Para localizar las declaraciones en una transcripción anotada, véase [“Another Look at Israel Damman’s Trial”](https://whiteestate.org/legacy/issues-israel_damman-html/). La interpretación de ese ensayo es defensiva; aquí se usa como índice y se contrasta con el periódico.",
+      "urls": [
+        "https://whiteestate.org/legacy/issues-israel_damman-html/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "27",
+      "line": 394,
+      "text": "Ellen G. White, *Spiritual Gifts*, vol. 2 (1860), pp. 40–42; declaración del agente Joseph Moulton en *Piscataquis Farmer*, 7 de marzo de 1845. Los dos relatos se colocan en paralelo en “Another Look at Israel Damman’s Trial”.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "28",
+      "line": 396,
+      "text": "Carta anónima citada por James White en *A Word to the “Little Flock”* (1847), pp. 22–23. El autor distinguía entre deshonestidad y “religious reveries”; James respondió inmediatamente después.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "29",
+      "line": 398,
+      "text": "Joseph Bates, “Remarks”, en *A Word to the “Little Flock”* (1847), p. 21. Bates afirmó haber interrogado a Ellen y a sus acompañantes y observado varias visiones en New Bedford, Fairhaven y Topsham.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "30",
+      "line": 400,
+      "text": "Graybill, “Visions and Revisions”, especialmente la cronología de las ediciones de 1846, 1847, 1851, 1860, 1882 y 1883.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "31",
+      "line": 402,
+      "text": "*The Day-Star*, 24 de enero de 1846; *A Word to the “Little Flock”* (1847), pp. 14–17; *A Sketch of the Christian Experience and Views* (1851), pp. 9–17; *Spiritual Gifts*, vol. 2 (1860), pp. 30–35, 52–55. Véase la colación de Graybill, “Visions and Revisions”.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "32",
+      "line": 404,
+      "text": "James White, *Life Incidents, in Connection With the Great Advent Movement* (Battle Creek, Michigan: Seventh-day Adventist Publishing Association, 1868), pp. 272–273.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "04",
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "note": "33",
+      "line": 406,
+      "text": "Walter T. Rea, *The White Lie* (Turlock, California: M & R Publications, 1982), caps. 3 y 11, localiza las críticas basadas en Foy, la lesión infantil, la histeria y la epilepsia, pero a menudo adopta sus conclusiones sin la cautela diagnóstica necesaria. La mejor respuesta adventista se resume en Herbert E. Douglass, *Messenger of the Lord* (1998), pp. 62–63, que cita “Did Ellen White Have Complex-Partial Seizures?”, *Ministry*, agosto de 1984, y Donald I. Peterson, *Visions or Seizures?* (Boise, Idaho: Pacific Press, 1988), pp. 26–27. Ni Rea ni Douglass sustituye el expediente primario inexistente.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "1",
+      "line": 320,
+      "text": "James White, *Life Incidents, in Connection with the Great Advent Movement, as Illustrated by the Three Angels of Revelation XIV* (Battle Creek, 1868), pp. 272–273. Edición digital del texto original: [Project Gutenberg](https://www.gutenberg.org/files/61394/61394-h/61394-h.htm). Es la primera descripción general impresa localizada que reúne inconsciencia del entorno, ausencia de respiración, rigidez y recuperación gradual de la vista.",
+      "urls": [
+        "https://www.gutenberg.org/files/61394/61394-h/61394-h.htm"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "2",
+      "line": 322,
+      "text": "George I. Butler, “Visions and Prophecy—Have They Been Manifested Among Seventh-day Adventists?”, *Review and Herald*, 9 de junio de 1874, pp. 201–202. Facsímil: [General Conference Archives](https://documents.adventistarchives.org/Periodicals/RH/RH18740609-V43-26.pdf).",
+      "urls": [
+        "https://documents.adventistarchives.org/Periodicals/RH/RH18740609-V43-26.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "3",
+      "line": 324,
+      "text": "J. N. Loughborough, *Rise and Progress of the Seventh-day Adventists* (Battle Creek, 1892), pp. 92–96. Facsímil: [Adventist Digital Library / General Conference Archives](https://documents.adventistarchives.org/Books/RP1892.pdf). Loughborough dice haber presenciado por primera vez una visión en octubre de 1852 y haber visto unas cincuenta.",
+      "urls": [
+        "https://documents.adventistarchives.org/Books/RP1892.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "4",
+      "line": 326,
+      "text": "“Trial of Elder I. Dammon”, *Piscataquis Farmer*, 7 de marzo de 1845, reproducción y transcripción en [Ellen G. White Estate](https://whiteestate.org/legacy/issues-israel_damman-html/). El hecho investigado ocurrió el 15 de febrero y el juicio se celebró los días 17 y 18.",
+      "urls": [
+        "https://whiteestate.org/legacy/issues-israel_damman-html/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "5",
+      "line": 328,
+      "text": "Joseph Bates, “Remarks”, publicados junto con la carta de Ellen Harmon a Bates fechada en Topsham, Maine, 7 de abril de 1847, en el pliego *A Vision*, vol. 1, n.º 1; reimpresos en James White, *A Word to the ‘Little Flock’* (30 de mayo de 1847), p. 21. Véanse [EGW Writings, carta del 7 de abril](https://m.egwwritings.org/en/book/1445.48) y [la reproducción de los ‘Remarks’](https://text.egwwritings.org/amp/read/650.429). La fecha 21 de abril de 1847 corresponde a una carta distinta, dirigida a Eli Curtis.",
+      "urls": [
+        "https://m.egwwritings.org/en/book/1445.48",
+        "https://text.egwwritings.org/amp/read/650.429"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "6",
+      "line": 330,
+      "text": "“Mrs. E. G. White in Vision”, recuerdo atribuido a Martha D. Amadon, publicado en *Review and Herald*, 18 de mayo de 1944, p. 8, a partir de una publicación anterior en *Ministry*. Facsímil: [General Conference Archives](https://documents.adventistarchives.org/Periodicals/RH/RH19440518-V121-20.pdf). Amadon había muerto en 1937; la fecha de redacción del original reproducido no queda establecida por esa publicación.",
+      "urls": [
+        "https://documents.adventistarchives.org/Periodicals/RH/RH19440518-V121-20.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "7",
+      "line": 332,
+      "text": "Loughborough, *Rise and Progress*, pp. 264–265, visión del 5 de noviembre de 1862; véase también su exposición en *General Conference Daily Bulletin*, 18 de marzo de 1891, p. 145. La narración procede de Loughborough, no de una declaración conservada de Diagneau.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "8",
+      "line": 334,
+      "text": "Declaración de D. T. Bourdeau, 4 de febrero de 1891, reproducida en Loughborough, *Rise and Progress*, pp. 98–99. El episodio se sitúa en Buck’s Bridge, Nueva York, el 28 de junio de 1857.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "9",
+      "line": 336,
+      "text": "Declaraciones de D. H. Lamson (8 de febrero de 1893), Drusilla Lamson (9 de marzo de 1893) y David Seeley (29 de agosto de 1897), reproducidas en J. N. Loughborough, *The Great Second Advent Movement* (1905), sección sobre los fenómenos físicos. La distancia de 39 a 43 años y las variaciones entre espejo, vela e identidad del médico deben conservarse al citar el episodio.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "10",
+      "line": 338,
+      "text": "M. G. Kellogg, declaración del 28 de diciembre de 1890 sobre la visión de Tyrone, Michigan, del 29 de mayo de 1853, en Loughborough, *Rise and Progress*, pp. 95–96. Es la fuente del examen atribuido al doctor Drummond y de las respiraciones profundas al final.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "11",
+      "line": 340,
+      "text": "Milton Hook, “Kellogg, Merritt Gardner (1832–1921)”, *Encyclopedia of Seventh-day Adventists*, [edición digital](https://encyclopedia.adventist.org/article?id=A9LS). Kellogg nació en 1832 y cursó su formación médica en 1867. El punto histórico no depende de negar su posterior condición de médico: en 1853 todavía no tenía esa formación.",
+      "urls": [
+        "https://encyclopedia.adventist.org/article?id=A9LS"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "12",
+      "line": 342,
+      "text": "A. F. Fowler y esposa, declaración del 1 de enero de 1891; C. S. Glover, 19 de enero de 1891; y W. R. y Eliza Carpenter, 30 de agosto de 1891, reproducidas en Loughborough, *Rise and Progress*, pp. 96–98. Son recuerdos de un mismo episodio y no exámenes separados.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "13",
+      "line": 344,
+      "text": "Loughborough, *Rise and Progress*, pp. 209–211, visión de Parkville, Michigan, 12 de enero de 1861. El relato del doctor Brown procede enteramente del recuerdo publicado por Loughborough.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "14",
+      "line": 346,
+      "text": "Para órdenes de magnitud en personas no entrenadas, véanse S. B. Gay et al., “Breath-holding capability of adults”, *Investigative Radiology* 29 (1994): 848–851, [PubMed](https://pubmed.ncbi.nlm.nih.gov/7995705/), y B. Marks, D. G. Mitchell y J. P. Simelaro, “Breath-holding in healthy and pulmonary-compromised populations: effects of hyperventilation and oxygen inspiration”, *Journal of Magnetic Resonance Imaging* 7 (1997): 595–597, [PubMed](https://pubmed.ncbi.nlm.nih.gov/9170048/). Para la fisiología y el límite involuntario de la apnea voluntaria, véase M. J. Parkes, “Breath-holding and its breakpoint”, *Experimental Physiology* 91 (2006): 1–15, [PubMed](https://pubmed.ncbi.nlm.nih.gov/16272264/). Estas comparaciones delimitan posibilidades fisiológicas; no diagnostican el caso histórico.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/7995705/",
+        "https://pubmed.ncbi.nlm.nih.gov/9170048/",
+        "https://pubmed.ncbi.nlm.nih.gov/16272264/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "15",
+      "line": 348,
+      "text": "G. Cacho et al., “Capnography is superior to pulse oximetry for the detection of respiratory depression during colonoscopy”, *Revista Española de Enfermedades Digestivas* 102 (2010): 86–89, [PubMed](https://pubmed.ncbi.nlm.nih.gov/20361844/). En ese estudio, la capnografía detectó episodios de apnea o hipoventilación que la oximetría no mostró o mostró con retraso. El contexto clínico moderno es distinto; se cita únicamente para explicar la limitación de observar pulso y color como sustitutos de la ventilación.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/20361844/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "16",
+      "line": 350,
+      "text": "Otis Nichols, relato de la visión en casa de los Thayer, Randolph, publicado en Ellen G. White, *Spiritual Gifts*, t. 2 (1860), pp. 77–79. Texto digital: [Ellen White Research Centre](https://ellenwhiteresearch.com/works/2SG/12). El episodio se sitúa en el invierno de 1845–1846; algunas cronologías secundarias han dado fechas diferentes.",
+      "urls": [
+        "https://ellenwhiteresearch.com/works/2SG/12"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "17",
+      "line": 352,
+      "text": "“The Big Bible”, descripción del objeto y de la tradición conservada, [Ellen G. White Estate](https://whiteestate.org/about/issues1/about-egw/life-and-ministry/big-bible/). Para una investigación crítica de la procedencia y de las dos historias bíblicas, véase Ronald D. Graybill, “The Big Bible, Bigger Still”, *Spectrum* 43, n.º 3 (verano de 2015): 5–17, [PDF](https://media.spectrummagazine.org/app/uploads/2018/08/43-3-spectrum-summer2015-web-file_0.pdf).",
+      "urls": [
+        "https://whiteestate.org/about/issues1/about-egw/life-and-ministry/big-bible/",
+        "https://media.spectrummagazine.org/app/uploads/2018/08/43-3-spectrum-summer2015-web-file_0.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "18",
+      "line": 354,
+      "text": "Loughborough, sermón en *General Conference Daily Bulletin*, 18 de marzo de 1891, p. 145; ampliado en *Rise and Progress* (1892), pp. 103–104. Ésta es la primera publicación localizada de la historia de la Biblia Harmon sostenida durante una visión.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "19",
+      "line": 356,
+      "text": "Actas taquigráficas de la Conferencia Bíblica y el Concilio de Profesores de Biblia e Historia de 1919, discusión sobre el uso de demostraciones físicas; publicadas en *Spectrum* 10, n.º 1 (mayo de 1979), pp. 23–57. Daniells distinguió entre no negar la historia y no usarla como la mejor prueba.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "20",
+      "line": 358,
+      "text": "H. E. Carver, *Mrs. E. G. White’s Claims to Divine Inspiration Examined* (1877), especialmente la carta de William Russell del 12 de julio de 1869. Transcripción: [NonEGW](https://www.nonegw.org/carver.shtml). Carver declara que nunca vio a Ellen White en trance.",
+      "urls": [
+        "https://www.nonegw.org/carver.shtml"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "21",
+      "line": 360,
+      "text": "D. M. Canright, *Life of Mrs. E. G. White, Seventh-day Adventist Prophet: Her False Claims Refuted* (1919), capítulos sobre las visiones y sus causas propuestas. Transcripción: [Bible.ca](https://www.bible.ca/7-Life-of-White-her-claims-refuted-canright.htm). Se utiliza como fuente crítica secundaria, no como examen médico.",
+      "urls": [
+        "https://www.bible.ca/7-Life-of-White-her-claims-refuted-canright.htm"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "22",
+      "line": 362,
+      "text": "Walter T. Rea, *The White Lie* (Turlock, California: M & R Publications, 1982), cap. 11. Rea sirve aquí para localizar la tradición crítica y las hipótesis médicas, no como autoridad final sobre un diagnóstico. La mejor defensa adventista consultada es Herbert E. Douglass, *Messenger of the Lord: The Prophetic Ministry of Ellen G. White* (Nampa, Idaho: Pacific Press, 1998/2013), cap. 7 y notas; véase también Herbert E. Douglass, *Profecías dramáticas de Elena de White* (Buenos Aires: ACES, 2013). Las conclusiones del capítulo se apoyan en los documentos anteriores, no en aceptar sin examen a Rea o Douglass.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "23",
+      "line": 364,
+      "text": "Delbert H. Hodder, “Visions or Partial-Complex Seizures?”, *Evangelica* 2, n.º 5 (noviembre de 1981), p. 35. El White Estate nombró el 1 de septiembre de 1983 un comité de profesionales para examinar la cuestión; su informe, “Did Ellen White Have Complex Partial Seizures?”, apareció en *Ministry* 57 (agosto de 1984), p. 25. Molleurus Couperus publicó después “The Significance of Ellen White’s Head Injury”, *Adventist Currents* 1, n.º 6 (junio de 1985), p. 31. Referencias y reproducción del argumento defensivo en [Ellen G. White Estate, “Visions or Epileptic Seizures”](https://whiteestate.org/legacy/issues-visions-html/). La página es una defensa denominacional y se usa aquí para fijar la cronología documental, no como adjudicación médica independiente.",
+      "urls": [
+        "https://whiteestate.org/legacy/issues-visions-html/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "24",
+      "line": 366,
+      "text": "Ellen G. White, “A Review of Early Experiences”, *Review and Herald*, 14 de junio de 1906; reproducido en *Selected Messages*, t. 3, p. 38. Texto digital: [EGW Writings](https://text.egwwritings.org/read/100.152). Es un recuerdo retrospectivo de lo que sus acompañantes afirmaron haber comprobado, no un registro escrito durante una visión temprana.",
+      "urls": [
+        "https://text.egwwritings.org/read/100.152"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "25",
+      "line": 368,
+      "text": "Merritt G. Kellogg a John Harvey Kellogg, 3 de junio de 1906, documento catalogado como DF 105-k en colecciones de investigación adventistas; el catálogo identifica una copia del documento y remite al original conservado en Michigan State University. Ronald L. Numbers citó la carta en *Prophetess of Health* al señalar la discrepancia con la tradición de un pulso regular. La respuesta del White Estate reconoce la existencia de la carta y contrasta su contenido con la declaración favorable de Kellogg de 1890: [*A Critique of the Book Prophetess of Health*](https://m.egwwritings.org/en/book/776.167) y [discusión sobre el pulso](https://m.egwwritings.org/en/book/776.505). La carta es tardía y debe ponderarse como tal.",
+      "urls": [
+        "https://m.egwwritings.org/en/book/776.167",
+        "https://m.egwwritings.org/en/book/776.505"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "05",
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "note": "26",
+      "line": 370,
+      "text": "En la discusión del Bible and History Teachers’ Council de 1919, A. G. Daniells sostuvo que rasgos físicos como la ausencia de respiración y los ojos abiertos podían haber acompañado las manifestaciones tempranas pero no del mismo modo las posteriores, sin que él considerara por eso menos genuino el don. La transcripción fue publicada en *Spectrum* 10, n.º 1 (1979), a partir de las actas taquigráficas de 1919; véase también el resumen documental del [Ellen G. White Estate](https://whiteestate.org/legacy/issues-rev-insp-html/) sobre la discusión de los fenómenos físicos. Esa misma documentación sitúa la última “visión abierta” registrada en 1884.",
+      "urls": [
+        "https://whiteestate.org/legacy/issues-rev-insp-html/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "1",
+      "line": 123,
+      "text": "Para el grado de certeza de los signos físicos, véase el capítulo 5 de este libro, «¿Qué ocurría físicamente durante las visiones de Ellen G. White?». James White, *Life Incidents* (Battle Creek, 1868), pp. 272–273, estimó entre cien y doscientas visiones en veintitrés años; [edición digital](https://www.gutenberg.org/files/61394/61394-h/61394-h.htm). W. C. White, intervención del 17 de diciembre de 1905, [transcripción](https://whiteestate.org/legacy/issues-visionsofegw-html/), pp. 1–3, distingue manifestaciones diurnas anteriores y sueños posteriores.",
+      "urls": [
+        "https://www.gutenberg.org/files/61394/61394-h/61394-h.htm",
+        "https://whiteestate.org/legacy/issues-visionsofegw-html/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "2",
+      "line": 125,
+      "text": "«Trial of Elder I. Dammon», *Piscataquis Farmer*, 7 de marzo de 1845, pp. 1–2, [facsímil y transcripción](https://archive.org/details/TrialOfElderI.Dammon.ReportedForThePiscataquisFarmer.-In); testimonios de Crosby, Lambert, Ayer, Moody, Mason y otros. Se refiere a la reunión del 15 de febrero y el reportero reconoció que había abreviado el juicio. Su valor y límites se investigaron en el capítulo 4.",
+      "urls": [
+        "https://archive.org/details/TrialOfElderI.Dammon.ReportedForThePiscataquisFarmer.-In"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "3",
+      "line": 127,
+      "text": "Ellen G. White, *Spiritual Gifts*, vol. 2 (1860), cap. 1, «My Misfortune», pp. 7–9, [texto de la primera autobiografía extensa](https://ellenwhiteresearch.com/works/2SG). Compárese su versión más desarrollada en [*Life Sketches Manuscript*](https://m.egwwritings.org/en/book/666.16), pp. 3–5. Para la cronología editorial: introducción a [*Letters and Manuscripts*, vol. 1](https://text.egwwritings.org/read/12667.111). «Tres semanas» es la memoria familiar comunicada por Ellen, no un registro de conciencia de 1836/1837.",
+      "urls": [
+        "https://ellenwhiteresearch.com/works/2SG",
+        "https://m.egwwritings.org/en/book/666.16",
+        "https://text.egwwritings.org/read/12667.111"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "4",
+      "line": 129,
+      "text": "Jakob Christensen, Marianne G. Pedersen, Carsten B. Pedersen, Per Sidenius, Jørn Olsen y Mogens Vestergaard, «Long-term risk of epilepsy after traumatic brain injury in children and young adults: a population-based cohort study», *Lancet* 373 (2009), pp. 1105–1110, [DOI 10.1016/S0140-6736(09)60214-2; PMID 19233461](https://pubmed.ncbi.nlm.nih.gov/19233461/). Cohorte poblacional danesa de 1.605.216 personas nacidas entre 1977 y 2002; no incluye a Ellen White. Ningún riesgo estadístico permite diagnosticarla ni reconstruir la gravedad intracraneal de su golpe.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/19233461/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "5",
+      "line": 131,
+      "text": "Ellen G. White, *A Sketch of the Christian Experience and Views* (1851), pp. 3–4, [texto](https://ellenwhiteresearch.com/works/ExV/1): al narrar una oración de su adolescencia, describe rigidez corporal y desconocimiento de lo que ocurría alrededor. El año exacto de ese episodio no queda establecido clínicamente; está situado por ella antes de sus visiones posteriores.",
+      "urls": [
+        "https://ellenwhiteresearch.com/works/ExV/1"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "6",
+      "line": 133,
+      "text": "Delbert H. Hodder, «Visions or Partial-Complex Seizures?», *Evangelica* 2, n.º 5 (noviembre de 1981), [reproducción del artículo original](https://www.nonegw.org/egw79.shtml). Hodder era pediatra con interés especial en neurología pediátrica; su comparación fue retrospectiva y recurrió a relatos publicados, incluidas descripciones secundarias. Molleurus Couperus, «The Significance of Ellen White’s Head Injury», *Adventist Currents* 1, n.º 6 (junio de 1985), pp. 16–33, [reproducción íntegra](https://www.nonegw.org/headinjury.shtml). Couperus era médico y profesor de dermatología, no neurólogo; véase James L. Hayward, [«Couperus, Molleurus (1906–1998)»](https://encyclopedia.adventist.org/article?id=F969), *Encyclopedia of Seventh-day Adventists*. En ambos casos se trata de análisis retrospectivos de textos, no estudios clínicos de Ellen. Sobre experiencias religiosas documentadas en pacientes con epilepsia: A. Ogata y T. Miyakawa, «Religious experiences in epileptic patients with a focus on ictus-related episodes», *Psychiatry and Clinical Neurosciences* 52, n.º 3 (1998), pp. 321–325, [DOI 10.1046/j.1440-1819.1998.00397.x; PMID 9681585](https://pubmed.ncbi.nlm.nih.gov/9681585/). Examinaron 234 pacientes y hallaron tres con experiencias religiosas vinculadas con crisis; el estudio tampoco evaluó a Ellen.",
+      "urls": [
+        "https://www.nonegw.org/egw79.shtml",
+        "https://www.nonegw.org/headinjury.shtml",
+        "https://encyclopedia.adventist.org/article?id=F969",
+        "https://pubmed.ncbi.nlm.nih.gov/9681585/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "7",
+      "line": 135,
+      "text": "International League Against Epilepsy, [manual diagnóstico de crisis temporales](https://www.epilepsydiagnosis.org/seizure/temporal-overview), actualización de 2024: signos motores, sensoriales y confusión posterior; admite habla en algunas crisis. La [clasificación de 2025](https://www.ilae.org/updated-classification-epileptic-seizures-2025) cambió nuevamente terminología. «Crisis parcial compleja» se usa aquí sólo al citar la expresión histórica de Hodder y Couperus.",
+      "urls": [
+        "https://www.epilepsydiagnosis.org/seizure/temporal-overview",
+        "https://www.ilae.org/updated-classification-epileptic-seizures-2025"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "8",
+      "line": 137,
+      "text": "Pirgit Meritam Larsen, Stephan Wüstenhagen, Daniella Terney, Elena Gardella, Harald Aurlien y Sándor Beniczky, «Duration of epileptic seizure types: A data-driven approach», *Epilepsia* 64 (2023), pp. 469–478, [DOI 10.1111/epi.17492; PMID 36597206; texto del estudio](https://pmc.ncbi.nlm.nih.gov/articles/PMC10107943/). Midieron episodios con video y EEG en pacientes atendidos en Dinamarca y Groenlandia sin retirada de medicación anticonvulsiva: para las crisis focales con conciencia alterada analizaron 84 episodios de 53 pacientes, con una mediana de 42,5 segundos y casos de hasta casi diez minutos. No estudiaron visiones del siglo XIX; las horas atribuidas a Ellen tampoco fueron cronometradas con criterios clínicos.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10107943/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "9",
+      "line": 139,
+      "text": "Comité de Salud de Ellen G. White, «Did Ellen White Have Complex Partial Seizures? A Committee Report», *Ministry*, agosto de 1984, pp. 24–25, [texto del informe, tras la introducción editorial](https://www.ministrymagazine.org/archive/1984/08/was-ellen-g.-white-an-epileptic). El comité declaró que no veía evidencia convincente de epilepsia y, más categóricamente, que las crisis parciales complejas no podían explicar las visiones ni el papel de Ellen en la iglesia. Véase también Donald I. Peterson, *Visions or Seizures?* (Pacific Press, 1988). Se trata de valoraciones retrospectivas, no resultados de EEG de Ellen.",
+      "urls": [
+        "https://www.ministrymagazine.org/archive/1984/08/was-ellen-g.-white-an-epileptic"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "10",
+      "line": 141,
+      "text": "Merritt G. Kellogg a John Harvey Kellogg, 3 de junio de 1906, extracto reproducido por Couperus, «Significance», sección «M. G. Kellogg’s Diagnosis», [texto](https://www.nonegw.org/headinjury.shtml). Compárese su declaración del 28 de diciembre de 1890 sobre Tyrone en J. N. Loughborough, *Rise and Progress of the Seventh-day Adventists* (1892), pp. 95–96, [facsímil](https://documents.adventistarchives.org/Books/RP1892.pdf). Los dos textos interpretan recuerdos de experiencias anteriores; no constituyen exámenes clínicos contemporáneos.",
+      "urls": [
+        "https://www.nonegw.org/headinjury.shtml",
+        "https://documents.adventistarchives.org/Books/RP1892.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "11",
+      "line": 143,
+      "text": "Emmanuel H. During, Fanny M. Elahi, Olivier Taieb, Marie-Rose Moro y Thierry Baubet, «A critical review of dissociative trance and possession disorders: etiological, diagnostic, therapeutic, and nosological issues», *Canadian Journal of Psychiatry* 56, n.º 4 (2011), pp. 235–242, [DOI 10.1177/070674371105600407; PMID 21507280](https://pubmed.ncbi.nlm.nih.gov/21507280/). Revisaron 28 publicaciones que describían 402 casos de pacientes con trastornos de trance/posesión; sus resultados delimitan la categoría, pero no diagnostican a Ellen ni implican que todo trance religioso sea patológico.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/21507280/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "12",
+      "line": 145,
+      "text": "Joseph Bates, «Remarks», en James White, *A Word to the “Little Flock”* (1847), p. 21, [facsímil](https://www.aplib.org/files/ebooks/pdf/James%20White%20-%20A%20Word%20to%20the%20Little%20Flock.pdf). Resolución de la conferencia de Albany en *Advent Herald*, 21 de mayo de 1845, citada en H. E. Douglass, *Messenger of the Lord* (1998), cap. 3, p. 37. Para el encuadre histórico independiente: Jonathan M. Butler, «Prophecy, Gender, and Culture», *Religion and American Culture* 1, n.º 1 (1991), pp. 3–29, [DOI 10.1525/rac.1991.1.1.03a00020; facsímil](https://centrowhite.org.br/wp-content/uploads/2024/08/PROPHECY-GENDER-AND-CULTURE_compressed.pdf).",
+      "urls": [
+        "https://www.aplib.org/files/ebooks/pdf/James%20White%20-%20A%20Word%20to%20the%20Little%20Flock.pdf",
+        "https://centrowhite.org.br/wp-content/uploads/2024/08/PROPHECY-GENDER-AND-CULTURE_compressed.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "13",
+      "line": 147,
+      "text": "Las fuentes tempranas y tardías sobre la respiración, con su distinta calidad, están cotejadas en el capítulo 5. No se ha localizado una medición temprana de hiperventilación al comenzar una visión. La posibilidad fisiológica de una respiración alterada no permite inferir su presencia en un episodio concreto.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "14",
+      "line": 149,
+      "text": "William E. Foy, *The Christian Experience of William E. Foy, Together With the Two Visions He Received in the Months of Jan. and Feb. 1842* (Portland, Maine: J. y C. H. Pearson, 1845), pp. 9–23; [facsímil del folleto](https://documents.adventistarchives.org/Books/WFoy1845.pdf). El folleto incluye un certificado conjunto con ocho nombres y, por separado, testimonios de Henry Cummings y Ann Foy: diez voces documentales, no diez firmantes de un único certificado. Las visiones preceden a la publicación. El propio relato de Foy presenta un desarrollo de su relación con la expectativa adventista, por lo que no conviene describirlo sin matices como «adventista» ya antes de la primera visión. Sobre la continuidad de su ministerio y su fallecimiento en 1893, véase [biografía documental](https://encyclopedia.adventist.org/article?id=9CEN).",
+      "urls": [
+        "https://documents.adventistarchives.org/Books/WFoy1845.pdf",
+        "https://encyclopedia.adventist.org/article?id=9CEN"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "15",
+      "line": 151,
+      "text": "Ellen G. White, entrevista con D. E. Robinson, 13 de agosto de 1906, Ms 131, 1906, extractos publicados como «William Foy Lectures in Beethoven Hall», *Manuscript Releases*, vol. 17, n.º 1253, [texto](https://m.egwwritings.org/en/book/63.540). La entrevista es retrospectiva y atribuye a Foy cuatro visiones, mientras que el folleto conservado de 1845 publica dos; esa diferencia no prueba que no existieran otras, pero obliga a usar el recuerdo de 1906 con cautela cronológica. Walter T. Rea, *The White Lie* (1982), cap. 3, pp. 47–48, sostiene dependencia y generaliza que los dos hombres dejaron de difundir sus visiones; la actividad posterior de Foy contradice esa generalización. Herbert E. Douglass, *Messenger of the Lord* (1998), capítulo sobre Foy y Foss, compara parecidos y diferencias; el contenido concreto debe cotejarse con Foy (1845) y Ellen Harmon, carta del 20 de diciembre de 1845 publicada en *The Day-Star* el 24 de enero de 1846, [edición documental](https://text.egwwritings.org/read/13961.20000015).",
+      "urls": [
+        "https://m.egwwritings.org/en/book/63.540",
+        "https://text.egwwritings.org/read/13961.20000015"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "16",
+      "line": 153,
+      "text": "Ellen G. White a Mary Foss, 22 de diciembre de 1890, Lt 37, 1890, [texto íntegro](https://m.egwwritings.org/en/book/5903.1), párrs. 2–10. La carta dice que Foss había recibido visiones y un mensaje que debía comunicar, pero no describe allí un «camino del pueblo adventista» ni ofrece el contenido necesario para comparar escenas con las de Ellen. La propia carta solicita confirmación a Mary y la dirección de Hazen; no es testimonio escrito por él en 1844. Las versiones posteriores de esta escena suelen depender de esta carta.",
+      "urls": [
+        "https://m.egwwritings.org/en/book/5903.1"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "17",
+      "line": 155,
+      "text": "James White a Enoch Jacobs, 19 de agosto de 1845, publicado en *The Day-Star*, 6 de septiembre de 1845; Ellen Harmon a Jacobs, 20 de diciembre de 1845, publicada en *The Day-Star*, 24 de enero de 1846, [edición anotada de la carta](https://text.egwwritings.org/read/13961.20000015). El capítulo 4 reconstruye sus fechas, variantes y alcance, incluida la distinción entre el núcleo de la visión y el desarrollo posterior.",
+      "urls": [
+        "https://text.egwwritings.org/read/13961.20000015"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "18",
+      "line": 157,
+      "text": "Carta de un creyente no identificado citada y respondida por James White, *A Word to the “Little Flock”* (1847), pp. 22–23, [facsímil](https://www.aplib.org/files/ebooks/pdf/James%20White%20-%20A%20Word%20to%20the%20Little%20Flock.pdf): negaba origen divino, proponía «religious reveries» y decía que no sospechaba deshonestidad. Es una opinión contemporánea, no una observación clínica independiente.",
+      "urls": [
+        "https://www.aplib.org/files/ebooks/pdf/James%20White%20-%20A%20Word%20to%20the%20Little%20Flock.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "19",
+      "line": 159,
+      "text": "W. C. White, intervención del 17 de diciembre de 1905, [«The Visions of Ellen G. White»](https://whiteestate.org/legacy/issues-visionsofegw-html/), pp. 1–3. Para el recuerdo de Loughborough sobre Oregón en 1884, véase su discurso en *General Conference Bulletin* (1893), pp. 19–20, citado con fecha en [*Ellen G. White: The Australian Years*](https://text.egwwritings.org/read/671.2004). W. C. White habló de las últimas manifestaciones **que él presenció**, no fechó una última visión pública absoluta.",
+      "urls": [
+        "https://whiteestate.org/legacy/issues-visionsofegw-html/",
+        "https://text.egwwritings.org/read/671.2004"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "06",
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "note": "20",
+      "line": 161,
+      "text": "Acta taquigráfica de la discusión del 30 de julio de 1919, «The Use of the Spirit of Prophecy in Our Teaching of Bible and History», publicada en *Spectrum* 10, n.º 1 (mayo de 1979), pp. 27–44, [reproducción facsimilar](https://www.andrews.edu/library/car/cardigital/Periodicals/Spectrum/1979-1980_Vol_10/22253166.READER_044.pdf), esp. pp. 28–29. Daniells dijo que no había presenciado ni podía verificar personalmente la escena de la Biblia pesada y rechazó usarla como prueba principal. En la misma discusión afirmó que fenómenos como la ausencia aparente de respiración y los ojos abiertos podían haber acompañado el don en los primeros tiempos, pero «surely did not» en los últimos, aunque seguía considerando genuino el don. No fijó una fecha precisa para ese cambio.",
+      "urls": [
+        "https://www.andrews.edu/library/car/cardigital/Periodicals/Spectrum/1979-1980_Vol_10/22253166.READER_044.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "1",
+      "line": 167,
+      "text": "Herbert E. Douglass, *Messenger of the Lord* (Pacific Press, 1998; edición digital proporcionada para esta investigación), cap. 43, y *Profecías dramáticas de Elena de White* (ACES, 2013), caps. 1–6; Walter T. Rea, *The White Lie* (M. & R. Publications, 1982), sección sobre la visión de 1856. Son guías para localizar afirmaciones; las notas siguientes remiten a documentos anteriores o a las defensas primarias cuando corresponde.",
+      "urls": [],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "2",
+      "line": 169,
+      "text": "J. N. Loughborough, *Rise and Progress of the Seventh-day Adventists* (1892), pp. 236–237, [edición digital del archivo adventista](https://documents.adventistarchives.org/Books/RP1892.pdf). En el prefacio afirmó: «Since November, 1853, I have kept a diary of daily occurrences. The narrative from that date is from the record of this diary». Esa afirmación mejora la base del relato de Parkville, pero no sustituye la inspección del diario original de enero de 1861 ni demuestra que la redacción publicada en 1892 sea una transcripción literal. Compárese Herbert E. Douglass, *Profecías dramáticas*, pp. 9–17.",
+      "urls": [
+        "https://documents.adventistarchives.org/Books/RP1892.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "3",
+      "line": 171,
+      "text": "U. S. Senate, [«The Civil War Senate Reacts to Secession»](https://www.senate.gov/about/powers-procedures/expulsion/CivilWar_Expulsion.htm), para Carolina del Sur (20 de diciembre de 1860) y Mississippi (9 de enero de 1861); American Historical Association, [«Chronology of Major Events Leading to Secession Crisis»](https://www.historians.org/teaching-learning/aha-historical-collections/16-months-to-sumter/chronology-of-major-events-leading-to-secession-crisis/), para Mississippi (9 de enero), Florida (10 de enero), Alabama (11 de enero) y el ataque contra el *Star of the West* el 9 de enero. La visión de Parkville se fecha el 12 de enero, de modo que la secesión de varios estados ya era un hecho, no una predicción pendiente.",
+      "urls": [
+        "https://www.senate.gov/about/powers-procedures/expulsion/CivilWar_Expulsion.htm",
+        "https://www.historians.org/teaching-learning/aha-historical-collections/16-months-to-sumter/chronology-of-major-events-leading-to-secession-crisis/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "4",
+      "line": 173,
+      "text": "Ellen G. White, [«Slavery and the War», *Advent Review and Sabbath Herald*, 27 de agosto de 1861, art. A, párrs. 1–16](https://text.egwwritings.org/amp/read/821.325), que atribuye la visión al 3 de agosto; luego reproducido en *Testimonies for the Church*, t. 1. El lector debe comparar especialmente los párrs. 5, 8–14 para separar juicio sobre la duración, batalla pasada, potencial del Norte y lenguaje sobre otras naciones.",
+      "urls": [
+        "https://text.egwwritings.org/amp/read/821.325"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "5",
+      "line": 175,
+      "text": "[Library of Congress, «Today in History», 21 de julio, primera batalla de Bull Run](https://www.loc.gov/item/today-in-history/july-21); [Abraham Lincoln, memorando sobre política militar tras Bull Run, 23–27 de julio de 1861, Abraham Lincoln Papers, Library of Congress](https://www.loc.gov/resource/mal.1085100/?sp=1). El memorando muestra la revisión contemporánea de la situación, no que White tuviera acceso a ese documento.",
+      "urls": [
+        "https://www.loc.gov/item/today-in-history/july-21",
+        "https://www.loc.gov/resource/mal.1085100/?sp=1"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "6",
+      "line": 177,
+      "text": "Ellen G. White, [*Testimony for the Church—No. 7* (1862), «The North and South», pp. 3–5](https://text.egwwritings.org/read/12790.9), que comienza «January 4, 1862, I was shown»; reproducido con variantes menores en [*Testimonies for the Church*, t. 1, pp. 253–260](https://text.egwwritings.org/amp/read/116.1277), especialmente p. 259. Fecha de la visión declarada: 4 de enero; primera publicación conservada que se cita: folleto de 1862; desenlace: no hubo declaración británica de guerra durante el conflicto.",
+      "urls": [
+        "https://text.egwwritings.org/read/12790.9",
+        "https://text.egwwritings.org/amp/read/116.1277"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "7",
+      "line": 179,
+      "text": "Para la mejor defensa contextual adventista, [Francis D. Nichol, *Ellen G. White and Her Critics*, «Charge Number 7»](https://text.egwwritings.org/read/756.870); para la objeción histórica anterior y la respuesta que reproduce, [*The “Mistakes” of Mrs. White*, discusión de Canright](https://text.egwwritings.org/read/951.2125). Estas explicaciones son posteriores al texto de 1862. Una reutilización adventista de la oración en una coyuntura **distinta**, [*Review and Herald*, 24 de enero de 1899, p. 58](https://text.egwwritings.org/read/1063.159), ilustra por qué conviene mantener el referente original.",
+      "urls": [
+        "https://text.egwwritings.org/read/756.870",
+        "https://text.egwwritings.org/read/951.2125",
+        "https://text.egwwritings.org/read/1063.159"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "8",
+      "line": 181,
+      "text": "U. S. Department of State, Office of the Historian, [«The Trent Affair, 1861–1862»](https://history.state.gov/milestones/1861-1865/trent-affair), y [«The Confederacy and Foreign Intervention»](https://history.state.gov/milestones/1861-1865/confederacy). Documentan qué cuestiones diplomáticas eran reales en torno a enero de 1862; no prueban por sí solas qué periódico o carta recibió White.",
+      "urls": [
+        "https://history.state.gov/milestones/1861-1865/trent-affair",
+        "https://history.state.gov/milestones/1861-1865/confederacy"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "9",
+      "line": 183,
+      "text": "Ellen G. White, [*A Sketch of the Christian Experience and Views* (1851), «The Gathering Time», pp. 61–62](https://text.egwwritings.org/read/3.380), especialmente p. 62. Primera publicación comprobable de la frase sobre «Old Jerusalem», anterior al Estado de Israel moderno; compárese la reimpresión en [*Early Writings*, p. 75](https://text.egwwritings.org/read/28.475).",
+      "urls": [
+        "https://text.egwwritings.org/read/3.380",
+        "https://text.egwwritings.org/read/28.475"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "10",
+      "line": 185,
+      "text": "Ellen G. White, [*Present Truth*, noviembre de 1850, pp. 86–87](https://text.egwwritings.org/read/517.76); análisis de las capas textuales y de la discusión sobre el «age to come» en [*The Gathering Time and the Literalist Controversy*, introducción y cap. 14](https://text.egwwritings.org/read/740.9). La visión de septiembre de 1850, la inserción de una visión de junio de 1851 y la edición de agosto de 1851 son fechas diferentes.",
+      "urls": [
+        "https://text.egwwritings.org/read/517.76",
+        "https://text.egwwritings.org/read/740.9"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "11",
+      "line": 187,
+      "text": "Herbert E. Douglass, [*Messenger of the Lord*, sección «Worldwide Expansion of Adventists»](https://text.egwwritings.org/read/656.1685), para las dos fechas de 1902. Es corroboración histórica secundaria del desenlace, no prueba independiente de la fecha de la carta.",
+      "urls": [
+        "https://text.egwwritings.org/read/656.1685"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "12",
+      "line": 189,
+      "text": "Ellen G. White, [carta 138 de 1901, a los responsables de la *Review and Herald*, mecanografiada el 16 de octubre de 1901](https://text.egwwritings.org/read/14066.8751001), especialmente párrs. 8 y 23: en el primero teme que Dios limpie la casa publicadora «por fuego»; en el segundo afirma que, «a menos que haya una reforma», una calamidad alcanzará la casa publicadora. La [reproducción posterior en *Testimonies for the Church*, t. 8, cap. 17, pp. 90–96](https://text.egwwritings.org/read/112.500) encabeza el documento con «Read to the Review and Herald Board in November, 1901». Esa indicación apoya una recepción anterior al incendio, aunque para una demostración archivística ideal convendría cotejar las actas originales de la junta.",
+      "urls": [
+        "https://text.egwwritings.org/read/14066.8751001",
+        "https://text.egwwritings.org/read/112.500"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "13",
+      "line": 191,
+      "text": "Ellen G. White, [*Testimonies for the Church*, t. 8, pp. 96–101](https://text.egwwritings.org/read/115.453), donde las reflexiones sobre los incendios requieren comprobar la fecha interna de cada pasaje; véase también [la carta del 7 de enero de 1903 citada en la historia de la casa publicadora](https://text.egwwritings.org/amp/read/715.435). El resultado negativo de la búsqueda documental para el sanatorio se limita al corpus revisado para este capítulo.",
+      "urls": [
+        "https://text.egwwritings.org/read/115.453",
+        "https://text.egwwritings.org/amp/read/715.435"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "14",
+      "line": 193,
+      "text": "Ellen G. White, [manuscrito 114 de 1902, mecanografiado el 1 de septiembre de 1902](https://text.egwwritings.org/read/14067.8763001), con la advertencia sobre San Francisco y Oakland; extracto posterior en [*Evangelism*, p. 403](https://text.egwwritings.org/read/30.2207). «Manuscrito mecanografiado en 1902» no equivale a «publicado en 1902».",
+      "urls": [
+        "https://text.egwwritings.org/read/14067.8763001",
+        "https://text.egwwritings.org/read/30.2207"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "15",
+      "line": 195,
+      "text": "Ellen G. White, [manuscrito 47 de 1906, relato de la experiencia de abril](https://text.egwwritings.org/read/14071.7875001), y [*Review and Herald*, 24 de mayo de 1906](https://text.egwwritings.org/amp/read/821.26758), publicaciones posteriores al 18 de abril. Su aclaración, [*Review and Herald*, 5 de julio de 1906](https://text.egwwritings.org/read/821.26887), rechaza que hubiera pronosticado el terremoto preciso o la siguiente ciudad. Para el contraste posterior entre las dos ciudades, véase [Ms 25, 1908](https://m.egwwritings.org/en/book/14073.9567001), donde afirma que San Francisco había sido visitada por fuertes juicios mientras Oakland había sido hasta entonces preservada. Para el hecho sísmico, [U. S. Geological Survey, terremoto de San Francisco de 1906](https://www.usgs.gov/programs/earthquake-hazards/1906-san-francisco-earthquake).",
+      "urls": [
+        "https://text.egwwritings.org/read/14071.7875001",
+        "https://text.egwwritings.org/amp/read/821.26758",
+        "https://text.egwwritings.org/read/821.26887",
+        "https://m.egwwritings.org/en/book/14073.9567001",
+        "https://www.usgs.gov/programs/earthquake-hazards/1906-san-francisco-earthquake"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "16",
+      "line": 197,
+      "text": "Ellen G. White, [carta 157 de 1902, 13 de octubre](https://text.egwwritings.org/read/14067.9511001), especialmente párr. 3: afirma que en el sur de California habría propiedades con edificios aptos para la obra y que serían ofrecidas a mucho menos que su costo original. Para Paradise Valley, véase Philip K. Russell, [«Hospital Based Nursing Schools in San Diego, 1900–1970»](https://sandiegohistory.org/journal/1989/april/hospital/), *Journal of San Diego History* 35, n.º 2 (1989), que describe el cierre previo del Potts Sanitarium, su oferta por unos 11.000 dólares en 1902 y la compra adventista por 4.000 en 1904. La historia denominacional [*The Story of Our Health Message*, pp. 337–338](https://m.egwwritings.org/en/book/2738.2114) señala que el edificio había costado originalmente unos 25.000 dólares y documenta las sucesivas rebajas. Estas fuentes corroboran el caso de Paradise Valley; las conexiones con Glendale y Loma Linda requieren su propia reconstrucción documental y no se suman aquí como evidencias independientes.",
+      "urls": [
+        "https://text.egwwritings.org/read/14067.9511001",
+        "https://sandiegohistory.org/journal/1989/april/hospital/",
+        "https://m.egwwritings.org/en/book/2738.2114"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "17",
+      "line": 199,
+      "text": "Ellen G. White, [carta 11 de 1862 a Moses Hull](https://text.egwwritings.org/read/64.497), que recoge el pronóstico de médiums; [manuscrito 6 de 1862](https://text.egwwritings.org/read/13961.3007001); [*Testimony for the Church—No. 10* (1864), «Communications to Eld. M. Hull»](https://ellenwhiteresearch.com/works/T10/6), con prefacio del comité que habla de la salida ya ocurrida; reproducción ulterior en [*Testimonies for the Church*, t. 1, pp. 426–437](https://text.egwwritings.org/read/116.2018). Las fechas de las cartas de 1862 no deben convertirse en fecha de publicación del folleto de 1864.",
+      "urls": [
+        "https://text.egwwritings.org/read/64.497",
+        "https://text.egwwritings.org/read/13961.3007001",
+        "https://ellenwhiteresearch.com/works/T10/6",
+        "https://text.egwwritings.org/read/116.2018"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "18",
+      "line": 201,
+      "text": "Ellen G. White, [*Testimony for the Church—No. 1* (1855), «Other Testimony», p. 11](https://text.egwwritings.org/read/12674.42), reimpreso bajo el título «The Messenger Party» en [*Testimonies for the Church*, t. 1, pp. 122–123](https://text.egwwritings.org/read/116.625); [*Review and Herald*, 14 de enero de 1858](https://documents.adventistarchives.org/Periodicals/RH/RH18580114-V11-10.pdf), para el resultado comunicado por su propio bando. J. N. Loughborough, [*The Prophetic Gift in the Gospel Church* (1905), «Messenger Party»](https://text.egwwritings.org/read/1617.370), conserva el testimonio **tardío** sobre seis semanas, cierre y duplicación. Un informe de un adversario o un acta de 1855 con esa formulación fortalecería su anterioridad. La interpretación del efecto posible de las amonestaciones sobre dirigentes es una inferencia causal, no un hecho documentado para cada decisión del grupo.",
+      "urls": [
+        "https://text.egwwritings.org/read/12674.42",
+        "https://text.egwwritings.org/read/116.625",
+        "https://documents.adventistarchives.org/Periodicals/RH/RH18580114-V11-10.pdf",
+        "https://text.egwwritings.org/read/1617.370"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "19",
+      "line": 203,
+      "text": "[U. S. Geological Survey, terremoto de Hayward de 1868](https://www.usgs.gov/programs/earthquake-hazards/1868-hayward-earthquake) como antecedente de la actividad sísmica regional, no como demostración de que White consultara una fuente geológica.",
+      "urls": [
+        "https://www.usgs.gov/programs/earthquake-hazards/1868-hayward-earthquake"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "20",
+      "line": 205,
+      "text": "Ellen G. White, [*Testimony for the Church—No. 2* (1856), pp. 17 y 22](https://m.egwwritings.org/en/book/12675.1), en particular p. 22; [facsímil PDF de la publicación](https://media2.egwwritings.org/pdf/en_T02.pdf). Fecha declarada de la visión: 27 de mayo de 1856; publicación: 1856; evento anticipado: segunda venida durante la vida de algunos asistentes. Reimpresión en *Testimonies for the Church*, t. 1, pp. 131–132. Las notas editoriales y las muertes tempranas no deben usarse para alterar la afirmación relativa a los supervivientes.",
+      "urls": [
+        "https://m.egwwritings.org/en/book/12675.1",
+        "https://media2.egwwritings.org/pdf/en_T02.pdf"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "21",
+      "line": 207,
+      "text": "Ellen G. White, [Ms 4, 1883](https://text.egwwritings.org/read/14054.4510001), especialmente párrs. 50–53. Allí escribe que «las promesas y amenazas de Dios son igualmente condicionales» y sostiene que, si los adventistas hubieran cumplido su misión después de 1844, Cristo «habría venido antes». El [Ellen G. White Estate](https://whiteestate.org/about/issues1/unusual/unfulfilled-predictions/some-1856-alive-when-jesus-returns/) aplica posteriormente ese principio al anuncio de 1856. El dato importante para la cronología es que el principio fue formulado por White en 1883, no inventado después de la constatación moderna de que todos los asistentes de 1856 habían muerto; queda abierta la cuestión de si esa condición pertenecía al sentido reconocible de la frase de 1856.",
+      "urls": [
+        "https://text.egwwritings.org/read/14054.4510001",
+        "https://whiteestate.org/about/issues1/unusual/unfulfilled-predictions/some-1856-alive-when-jesus-returns/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "07",
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "note": "22",
+      "line": 209,
+      "text": "Ellen G. White, [*Review and Herald*, 31 de julio de 1888, p. 482, párrs. 8–9](https://text.egwwritings.org/read/821.9045). La oración aparece entre la observación de que han pasado siglos sin el cumplimiento esperado y una exhortación a esperar; ese contexto sostiene la lectura pastoral, sin borrar la referencia a «some of us who now believe».",
+      "urls": [
+        "https://text.egwwritings.org/read/821.9045"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "1",
+      "line": 138,
+      "text": "Ellen G. White, [*Testimonies for the Church*, t. 3, p. 314](https://ellenwhiteresearch.com/p/3T%2B314.1), primera publicación del material en los testimonios de la década de 1870. La afirmación sobre pecados ocultos es suya; no acredita por sí sola ningún caso particular.",
+      "urls": [
+        "https://ellenwhiteresearch.com/p/3T%2B314.1"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "2",
+      "line": 140,
+      "text": "Ellen G. White, [*Testimonies for the Church*, t. 5, pp. 683–687, «An Unwarranted Distinction»](https://ellenwhiteresearch.com/works/2TT/41), redactado en 1889; compárese t. 5, pp. 65–66, que ella misma vuelve a citar. La distinción entre informe que origina una respuesta y origen de cada juicio es una interpretación de estos pasajes.",
+      "urls": [
+        "https://ellenwhiteresearch.com/works/2TT/41"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "3",
+      "line": 142,
+      "text": "W. C. White, [«Statements Regarding Mrs. White and Her Work», apartados «Personal Influence», «The Integrity of Sister White's Writings», «Letters Received» e «Information From Men»](https://whiteestate.org/legacy/issues-integrity-html/). Testimonio de un participante, favorable a su madre, que detalla acceso a noticias, consultas y proceso de copiado; no demuestra la lectura de una carta determinada por Ellen.",
+      "urls": [
+        "https://whiteestate.org/legacy/issues-integrity-html/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "4",
+      "line": 144,
+      "text": "Ellen G. White, [manuscrito 107 de 1909, 5 de marzo, párrs. 1–2 y 11](https://m.egwwritings.org/en/book/14074.9768001). Reconoce el error de cuarenta frente a treinta y ocho habitaciones y distingue lo consultado de lo revelado.",
+      "urls": [
+        "https://m.egwwritings.org/en/book/14074.9768001"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "5",
+      "line": 146,
+      "text": "Ellen G. White, [«Testimony to the Workers in the Echo Publishing House», 29 de diciembre de 1891, junto con su relato de diciembre de 1892](https://ellenwhiteresearch.com/works/EA/3); Lester Devine, [«Faulkhead, Nathaniel D.»](https://encyclopedia.adventist.org/article?id=D7VS), sobre el estado de conservación del escrito de cincuenta páginas. No se debe tratar la fecha de un material general sobre la editorial como fecha comprobada de cada frase personal leída a Faulkhead.",
+      "urls": [
+        "https://ellenwhiteresearch.com/works/EA/3",
+        "https://encyclopedia.adventist.org/article?id=D7VS"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "6",
+      "line": 148,
+      "text": "Ellen G. White, [carta 21b de 1892, especialmente párrs. 14–19](https://text.egwwritings.org/read/14057.6162001), redactada tras el encuentro, aunque incluye una fecha parcial anterior a algunos párrafos; [*Experiences in Australia*, pp. 69–72](https://ellenwhiteresearch.com/works/EA/3); Nathaniel Faulkhead, [carta del 18 de septiembre de 1893, reproducida en *Mr. Faulkhead and the Secret Sign*](https://m.egwwritings.org/en/book/742.55). Los informes de compañeros sobre su afiliación anteriores al encuentro aparecen en la reconstrucción de [A. L. White, *The Australian Years*, cap. 5](https://text.egwwritings.org/read/670.355).",
+      "urls": [
+        "https://text.egwwritings.org/read/14057.6162001",
+        "https://ellenwhiteresearch.com/works/EA/3",
+        "https://m.egwwritings.org/en/book/742.55",
+        "https://text.egwwritings.org/read/670.355"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "7",
+      "line": 150,
+      "text": "Ellen G. White, [carta 46 de 1892, fechada el 13 de diciembre, descripción retrospectiva de la entrevista y de la señal](https://text.egwwritings.org/amp/read/14057.5613001); [*Experiences in Australia*, p. 72](https://ellenwhiteresearch.com/works/EA/3); Nathaniel Faulkhead, [carta del 5 de octubre de 1908, citada en A. L. White, *The Australian Years*, pp. 52–53](https://text.egwwritings.org/read/670.377). La atribución de la señal a un grado masónico procede del destinatario.",
+      "urls": [
+        "https://text.egwwritings.org/amp/read/14057.5613001",
+        "https://ellenwhiteresearch.com/works/EA/3",
+        "https://text.egwwritings.org/read/670.377"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "8",
+      "line": 152,
+      "text": "Milton Hook, [*Letters to Aussie Colonials*, pp. 3–4 del cuadernillo, sobre los registros masónicos de 1894, 1896 y 1923](https://education.adventistchurch.com/wp-content/uploads/sites/17/2017/07/03-Letters-to-Aussie-Colonials-Case-studies-from-the-EG-White-letters.pdf); Lester Devine, [«Faulkhead, Nathaniel D.»](https://encyclopedia.adventist.org/article?id=D7VS), con referencia a documentación masónica y a su membresía en 1923. Es una corrección sobre la conducta posterior, no un juicio directo sobre el gesto de 1892.",
+      "urls": [
+        "https://education.adventistchurch.com/wp-content/uploads/sites/17/2017/07/03-Letters-to-Aussie-Colonials-Case-studies-from-the-EG-White-letters.pdf",
+        "https://encyclopedia.adventist.org/article?id=D7VS"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "9",
+      "line": 154,
+      "text": "Ellen G. White Estate, [*The Salamanca Vision and the 1890 Diary*, «Eyewitness Accounts of the March 8, 1891, Early Morning Meeting»](https://text.egwwritings.org/read/737.503), que reúne relatos de A. T. Robinson, O. A. Olsen y otros, con variaciones de horario; Ellen G. White, [diario del 11 de marzo de 1891](https://text.egwwritings.org/read/46.455). Las declaraciones de varios oyentes confirman el efecto y el reconocimiento de la descripción, no la fecha de escritura de todos sus detalles.",
+      "urls": [
+        "https://text.egwwritings.org/read/737.503",
+        "https://text.egwwritings.org/read/46.455"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "10",
+      "line": 156,
+      "text": "Ellen G. White, [*The Vision at Salamanca*, Ms 40 de 1890, edición que indica «Written in 1891»](https://ellenwhiteresearch.com/works/1888/115); [*The Salamanca Vision and the 1890 Diary*, introducción y referencias fechadas](https://text.egwwritings.org/read/737.7); análisis crítico de fechas y adiciones al diario en [«The Salamanca Experience»](https://www.nonegw.org/salma.shtml). Las anotaciones de fecha incierta no prueban ni refutan por sí mismas conocimiento previo.",
+      "urls": [
+        "https://ellenwhiteresearch.com/works/1888/115",
+        "https://text.egwwritings.org/read/737.7",
+        "https://www.nonegw.org/salma.shtml"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "11",
+      "line": 158,
+      "text": "[«The Salamanca Experience», examen de la visita de W. C. White y de los horarios](https://www.nonegw.org/salma.shtml), que remite a los testimonios incluidos en [la colección documental del White Estate](https://text.egwwritings.org/read/737.503). La presencia de William en ambas escenas es una vía posible documentada; ninguna de esas fuentes reproduce una transmisión efectiva de información.",
+      "urls": [
+        "https://www.nonegw.org/salma.shtml",
+        "https://text.egwwritings.org/read/737.503"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "12",
+      "line": 160,
+      "text": "J. N. Loughborough, [«Recollections of the Past.—No. 4», *Review and Herald*, 4 de marzo de 1884, p. 154](https://documents.adventistarchives.org/Periodicals/RH/RH18840304-V61-10.pdf), primera publicación localizada: antes del regreso, un hombre infringía «uno» de los mandamientos; después, confesó su conducta en Michigan, sin que el artículo nombre el séptimo. Del mismo autor, [*Rise and Progress of the Seventh-day Adventists* (1892), pp. 171–173](https://documents.adventistarchives.org/Books/RP1892.pdf), identifica el mandamiento en la confesión y afirma la coincidencia temporal; [«Sketches of the Past—No. 72», *Pacific Union Recorder*, 15 de julio de 1909, p. 1](https://documents.adventistarchives.org/Periodicals/PUR/PUR19090715-V08-50.pdf), agrega Paw Paw y «el mismo día». La versión de 1909 llama esposa del viajero a la mujer de una escena siguiente; en 1892 se la llama Mrs. Riggs sin explicitar ese vínculo. No basta para asignar apellido al viajero. El recuerdo de Loughborough dice «primer sábado de octubre», pero [James White, «Eastern Tour», *Review*, 14 de octubre de 1852, p. 96](https://documents.adventistarchives.org/Periodicals/RH/RH18521014-V03-12.pdf), fecha el regreso el día 6: queda abierta la fecha exacta de la visión. La compilación [*Miracles in My Life* (1987)](https://text.egwwritings.org/book/b1323) es posterior y no una corroboración independiente.",
+      "urls": [
+        "https://documents.adventistarchives.org/Periodicals/RH/RH18840304-V61-10.pdf",
+        "https://documents.adventistarchives.org/Books/RP1892.pdf",
+        "https://documents.adventistarchives.org/Periodicals/PUR/PUR19090715-V08-50.pdf",
+        "https://documents.adventistarchives.org/Periodicals/RH/RH18521014-V03-12.pdf",
+        "https://text.egwwritings.org/book/b1323"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "13",
+      "line": 162,
+      "text": "E. W. Farnsworth, [carta a Ellen G. White del 15 de julio de 1885, transcrita por Arthur L. White en *Ministry*, julio de 1944](https://www.ministrymagazine.org/archive/1944/07/response-to-the-messages-received); [A. L. White, *The Early Years*, apéndice sobre Stephen Smith](https://text.egwwritings.org/read/668.3885). La segunda narración depende en parte de la primera, no constituye otra confesión independiente.",
+      "urls": [
+        "https://www.ministrymagazine.org/archive/1944/07/response-to-the-messages-received",
+        "https://text.egwwritings.org/read/668.3885"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "14",
+      "line": 164,
+      "text": "Herbert E. Douglass, *Messenger of the Lord*, cap. «Confirming the Confidence», apartado sobre la oportunidad de los mensajes, y [A. L. White, *The Later Elmshaven Years*, relato de los manuscritos 120 y 122 de 1905 y su lectura el 26 de diciembre](https://text.egwwritings.org/read/665.4684). Son pistas hacia documentos y testigos; la impresión de coincidencia no sustituye una comparación textual de frases fechadas.",
+      "urls": [
+        "https://text.egwwritings.org/read/665.4684"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "15",
+      "line": 166,
+      "text": "G. I. Butler, introducción y cita del relato atribuido a Prof. McLearn en el *Advocate Extra*, y E. P. Daniels, «Eld. E. P. Daniel's Reply», [*Review and Herald Supplement*, 14 de agosto de 1883, p. 10](https://documents.adventistarchives.org/Periodicals/RH/RH18830814-V60-33s.pdf); Daniels firma en Rankin, Michigan, el 25 de julio de 1883. La versión del *Advocate Extra* llega por una réplica adversaria; no se ha cotejado el impreso original ni identificado al supuesto ministro que contó la anécdota en el tren. Tampoco se ha localizado un escrito de White sobre esa reprensión, una fecha independiente de la conversación ni el nombre documentado del informante o del ministro aludido. Compárense D. M. Canright, [*Life of Mrs. E. G. White* (1919), cap. 17](https://www.nonegw.org/canright/can17.htm), y Francis D. Nichol, [*Ellen G. White and Her Critics*, pp. 491–493](https://text.egwwritings.org/read/756.3576), como interpretaciones posteriores, no nuevos testimonios del encuentro.",
+      "urls": [
+        "https://documents.adventistarchives.org/Periodicals/RH/RH18830814-V60-33s.pdf",
+        "https://www.nonegw.org/canright/can17.htm",
+        "https://text.egwwritings.org/read/756.3576"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "16",
+      "line": 168,
+      "text": "Ellen G. White, [*Testimony for the Church*, n.º 18 (1869), reimpreso en *Testimonies for the Church*, t. 2, pp. 449–457](https://ellenwhiteresearch.com/works/2T/59); Matthew J. Burton, [«Cracking the Whip to Make a Perfect Church», *Journal of the Adventist Theological Society* 29 (2018), pp. 85–87](https://www.atsjats.org/cracking-the-whip-to-make-a-perfect-church-the-purge-of-the-battle-creek-church-on-april-6%2C-1870.pdf), con referencias a la causa de Fuller y a la publicación del testimonio; Canright, [*Life of Mrs. E. G. White*, cap. 16](https://www.nonegw.org/canright/can16.htm). La precisión de las visitas y del intervalo de «unos días» del relato de Canright queda por probar con registros contemporáneos.",
+      "urls": [
+        "https://ellenwhiteresearch.com/works/2T/59",
+        "https://www.atsjats.org/cracking-the-whip-to-make-a-perfect-church-the-purge-of-the-battle-creek-church-on-april-6%2C-1870.pdf",
+        "https://www.nonegw.org/canright/can16.htm"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    },
+    {
+      "chapter": "08",
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "note": "17",
+      "line": 170,
+      "text": "Walter T. Rea, [*The White Lie* (1982)](https://azbyka.ru/otechnik/world/the-white-lie/), especialmente las comparaciones entre escritos de White y fuentes impresas previas. La cuestión de préstamos literarios tiene otro objeto de prueba; no permite trasladar sin más el hallazgo a un testimonio personal determinado.",
+      "urls": [
+        "https://azbyka.ru/otechnik/world/the-white-lie/"
+      ],
+      "status": "Consulte el informe y su registro E01–E35. La lectura del capítulo o la descarga de un enlace no certifica íntegramente esta nota."
+    }
+  ]
+}
