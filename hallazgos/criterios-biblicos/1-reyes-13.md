@@ -14,6 +14,8 @@ El hombre de Dios acepta esa afirmación, vuelve con él y come. Después recibe
 
 Una afirmación posterior de revelación no invalida automáticamente una instrucción divina previa, especialmente cuando ambas son incompatibles.
 
+No constituye una prohibición universal de que Dios modifique una instrucción en otro contexto; sabemos que aquí la segunda afirmación era falsa por el juicio explícito del narrador.
+
 El relato responsabiliza al hombre de Dios por abandonar la palabra que ya había recibido y aceptar una afirmación contradictoria atribuida a Dios por otra persona.
 
 ## ¿El anciano es presentado simplemente como falso profeta?
@@ -62,3 +64,4 @@ No debe darse por probado que una declaración procede de Dios sólo porque la p
 ## ¿Qué fuente primaria sostiene este hallazgo?
 
 - 1 Reyes 13:1-32.
+

@@ -131,6 +131,8 @@ La evidencia contemporánea hace el cuadro más concreto. Otis Nichols escribió
 
 La carta de Ellen a Bates de 1847 conecta explícitamente la visión del Novio con la puerta cerrada: dijo que la mayoría de los presentes quedó establecida en ella después de recibir la visión.[^20] Y en 1874 Ellen reconoció algo que no debe perderse: después del chasco ella y sus hermanos creían que no se convertirían más pecadores. Al mismo tiempo negó haber recibido una visión que enseñara que ya no se convertiría nadie.[^22]
 
+Conviene mantener separadas cuatro proposiciones: **creencia personal restrictiva**, **límite de salvación atribuido a una visión**, **aplicación a quienes rechazaron el movimiento** y **evangelización posterior**. Un documento puede apoyar una y no otra. Una negativa tardía responde al problema, pero no borra las expresiones tempranas; una omisión en 1851 documenta revisión, pero no su motivo.
+
 Estas dos afirmaciones pueden mantenerse juntas. Está **establecido** que Ellen compartió inicialmente una forma restrictiva de la creencia de la puerta cerrada y que sus primeras visiones fueron entendidas por seguidores cercanos como confirmación de ese marco. También está documentado que ella negó posteriormente que una visión hubiera enseñado el cierre universal de la misericordia.
 
 Lo que queda **indeterminado** es algo más específico: si el contenido de la primera visión pretendía enseñar que, desde el 22 de octubre, absolutamente toda persona que no hubiera participado del movimiento quedaba sin posibilidad de conversión. El texto no formula esa proposición con esa precisión. Tampoco sería correcto sostener que las primeras visiones no tuvieron relación con la puerta cerrada: la documentación de 1846 y 1847 muestra que sí la tuvieron.
@@ -234,10 +236,12 @@ La historia textual puede resumirse sin asumir que toda corrección es corrupci�
 | 19 de agosto / 6 de septiembre de 1845 | Carta de James White en *The Day-Star* | Aproximadamente ocho o nueve meses después | Primer resumen impreso conocido: sendero, clamor de medianoche, caída de quienes niegan la luz, voz de Dios y nube de la venida. No fecha el episodio. |
 | 20 de diciembre de 1845 / 24 de enero de 1846 | Carta de Ellen Harmon a Enoch Jacobs, impresa en *The Day-Star* | Aproximadamente un año después | Primer relato en primera persona. Se presenta como resumen privado; incluye la marcha, la venida, la ciudad, el templo y la tierra nueva. |
 | 6 de abril de 1846 | Hoja suelta *To the Little Remnant Scattered Abroad* | Unos quince meses después | Reimpresión con correcciones técnicas, cambios de tiempos verbales y eliminación de alusiones personales a Jacobs. |
-| 30 de mayo de 1847 | *A Word to the “Little Flock”* | Dos años y medio después | Texto casi idéntico a la hoja de 1846; James añade referencias bíblicas. Afirma expresamente que la primera visión fue en diciembre de 1844 y responde a una explicación natural. |
+| 30 de mayo de 1847 | *A Word to the “Little Flock”* | Dos años y medio después | Texto casi idéntico a la hoja de 1846; James añade referencias bíblicas y a 2 Esdras. Afirma expresamente que la primera visión fue en diciembre de 1844 y responde a una explicación natural. |
 | 21 de julio de 1851 y libro de 1851 | *Review and Herald Extra*; *A Sketch of the Christian Experience and Views* | Seis años y medio después | Omite varias expresiones y una sección extensa sobre el templo y el arca; agrega el marco autobiográfico de cinco mujeres en una reunión no excitada. |
 | 1860 | *Spiritual Gifts*, volumen 2 | Quince o dieciséis años después | Identifica a la anfitriona como “hermana H.”; suaviza vocabulario; separa “la visión de la tierra nueva” de “mi primera visión”. |
 | 1882 y después | *Early Writings* y reediciones | Casi cuatro décadas después | Se apoya principalmente en el texto abreviado de 1851, con nuevos ajustes menores. En 1883 se volvió a imprimir el texto amplio de 1847 para responder a acusaciones de supresión.[^30] |
+
+Las reimpresiones son descendientes de un relato, no corroboraciones independientes de la experiencia. James y Ellen compartían círculo y contenido; sus documentos tienen autores y fechas distintos, pero su independencia informativa debe evaluarse por afirmación.
 
 Las tres primeras formas extensas —*The Day-Star*, la hoja de 1846 y *A Word to the “Little Flock”*— son muy próximas entre sí. Sus cambios se concentran en gramática, ortografía, destinatario y algunos matices. Eso hace posible reconstruir con bastante confianza el relato que circulaba en 1846, aunque el manuscrito original esté perdido.
 
@@ -257,6 +261,7 @@ El contraste ayuda a no convertir una memoria desarrollada en testimonio contemp
 | Cinco mujeres, por la mañana, en una ocasión no excitada | Ellen, 1851 | Memoria a siete años de distancia; no aparece en la carta de 1845. |
 | La anfitriona era “hermana H.” | Ellen, 1860 | Memoria a dieciséis años. |
 | Identificación completa como Elizabeth Haines y detalles precisos de la casa | Biografías y reconstrucciones posteriores | Plausibles, pero de menor fuerza para fijar detalles de 1844. |
+| Ausencia de respiración y Biblia en Hannibal | Carta fechada 26 de agosto de 1848, transcripción de Record Book 1 | Testimonio temprano según fecha atribuida; copia y autógrafo pendientes, sin medición. |
 | Falta de respiración, rigidez invencible y otras pruebas físicas como patrón general | Descripción de James White, 1868 | Testimonio tardío y general; no es una observación contemporánea de la primera visión. |
 
 La distinción no convierte automáticamente en falsos los detalles tardíos. Cinco mujeres pueden haber estado allí aunque nadie lo imprimiera hasta 1851. Pero cuanto más tarde aparece un detalle, más necesitamos corroboración independiente antes de tratarlo como seguro.
@@ -275,6 +280,25 @@ Los defensores señalan que James todavía enseñaba públicamente una forma de 
 
 Lo demostrado es más limitado: hubo revisiones editoriales documentables; algunas afectaron pasajes teológicamente sensibles; el mensaje narrativo principal sobrevivió; y el texto final de *Early Writings* no reproduce todo lo que leyó un suscriptor de *The Day-Star* en 1846. No siempre sabemos quién decidió cada cambio ni por qué. El motivo exacto de las omisiones importantes queda **indeterminado** mientras no aparezca documentación editorial que lo explique.
 
+Hay además paralelos que afectan su posible independencia. Foy describe un ángel que alza la mano, toma la puerta y la abre sobre bisagras «glittering». White presenta a Jesús alzando el brazo, tomando la puerta y abriéndola sobre bisagras «golden» en la forma temprana; en 1851 aparecen como «glittering». El paralelo de acciones y vocabulario está documentado; el cambio posterior acerca una expresión a Foy. No demuestra por sí solo quién decidió la revisión ni dependencia, plagio o fraude.[^34]
+
+La cronología impide conclusiones automáticas:
+
+| Proposición | Fecha y soporte | Qué permite afirmar |
+|---|---|---|
+| Experiencias de Foy | enero y febrero de 1842 según su folleto | Son anteriores a la experiencia atribuida a White; el folleto las documenta retrospectivamente. |
+| Experiencia que White dijo tener | diciembre de 1844, fechado explícitamente en documentos de 1847 | No conservamos redacción de ese mes. |
+| Folleto de Foy | 1845; enero según la reconstrucción de Graybill | Precede al relato extenso publicado de White, aunque sigue a la fecha que ella atribuyó a su visión. |
+| Primera redacción personal conocida de White | carta fechada 20 de diciembre de 1845; autógrafo no localizado | Su texto se conoce por la publicación, no por un manuscrito cotejado. |
+| Primera publicación extensa | *The Day-Star*, 24 de enero de 1846 | Documenta el relato un año después de la experiencia atribuida. |
+| Reimpresión con notas | *A Word to the “Little Flock”*, 1847 | Conserva «golden»; James asume las referencias añadidas. |
+| Revisión | Extra y *Experience and Views*, 1851 | «Glittering» es una variante textual; su motivo permanece abierto. |
+| Acceso oral o textual | recuerdos de contacto con Foy de 1906; folleto disponible desde 1845 | Oportunidades posibles, sin fecha ni recepción de los detalles demostradas antes de diciembre de 1844. |
+
+También hay una relación concreta con **2 Esdras 2:19**: siete montañas con rosas y lirios. Esa imagen aparece en el relato de White, y James la vincula al pasaje en sus notas de 1847. Las referencias editoriales son de James: no constituyen por sí solas una admisión de lectura previa de Ellen. La coincidencia verbal permite investigar vocabulario religioso compartido, memoria de lectura o mediación oral; no autentica ni desacredita automáticamente la experiencia.[^35]
+
+**Hecho establecido:** semejanzas de texto e imagen y una revisión posterior. **Interpretación:** merecen más peso que una vaga semejanza de ambiente. **Hipótesis:** dependencia oral, dependencia textual o repertorio religioso compartido; su dirección, alcance y participación editorial siguen **indeterminados**. El folleto posterior a diciembre de 1844 no puede explicar por sí solo una experiencia anterior; sí pudo influir en una redacción publicada después. Para decidir harían falta acceso fechado, un escrito anterior de White o documentación de la revisión. Una comparación completa de todas las escenas sigue pendiente.
+
 La comparación textual aclara qué cambió en el relato. Queda otra clase de afirmaciones que suele citarse como evidencia independiente: ¿qué ocurría físicamente mientras Ellen estaba en visión?
 
 ## 19. ¿Podemos saber qué ocurría físicamente durante una visión temprana?
@@ -285,9 +309,11 @@ En Atkinson, testigos de ambos lados dijeron que Ellen permanecía acostada, mir
 
 En 1847 Joseph Bates dijo haber observado varias visiones con atención para detectar engaño o influencia mesmérica. Su conclusión favorable muestra que los episodios eran visibles y podían ser examinados informalmente. No dejó en ese texto mediciones fisiológicas.[^29]
 
+Una carta atribuida a James White a los Hastings, fechada el 26 de agosto de 1848, narra una visión reciente en Hannibal: afirma hora y media sin respirar y manipulación de una Biblia. La transcripción moderna remite a Record Book 1, pp. 18–20; no se ha determinado la fecha de copia ni autenticado el autógrafo. Mejora la proximidad temporal del testimonio, pero no establece una medición ni apnea continua y no describe la primera visión.[^36]
+
 La conocida descripción de ausencia de respiración, rigidez de músculos y articulaciones, movimientos imposibles de impedir y oscuridad temporal al salir de visión fue publicada por James White en 1868 como resumen de veintitrés años de experiencias.[^32] Puede ser evidencia sobre la memoria y observación acumulada de James, pero no documenta de forma contemporánea la visión de diciembre de 1844 ni identifica en qué episodios se realizó cada prueba. Relatos aún más gráficos —médicos, velas frente a la boca, Biblias pesadas sostenidas durante largo tiempo— deben evaluarse caso por caso y no retrotraerse automáticamente a la primera visión.
 
-Por eso, para los años 1844 y 1845 está **establecido** que hubo estados prolongados de quietud o trance acompañados de habla y aparente insensibilidad. La ausencia de respiración y la fuerza sobrenormal durante la primera visión son **indeterminadas**. Para demostrar cualquiera de ellas haría falta un testimonio temprano, específico, identificable y suficientemente detallado para excluir observaciones defectuosas.
+Para 1845 está **establecido** que testigos describieron quietud, habla y aparente insensibilidad; es **probable** el núcleo de una actividad visionaria pública. No son mediciones uniformes de duración o atención ni observaciones contemporáneas de diciembre de 1844. La ausencia de respiración y la fuerza sobrenormal durante la primera visión son **indeterminadas**. Para demostrar cualquiera de ellas haría falta un testimonio temprano, específico, identificable y suficientemente detallado para excluir observaciones defectuosas.
 
 Incluso una medición física extraordinaria no resolvería por sí sola el origen divino. Pero la falta de esa medición también impide usar una etiqueta médica con exceso de seguridad.
 
@@ -327,7 +353,7 @@ También puede seguirse un desarrollo rápido. En su relato de 1851 Ellen record
 
 El juicio de Dammon confirma algo distinto y muy valioso: para febrero de 1845 observadores externos veían a Ellen en estados que describían como trance o insensibilidad parcial, acostada durante períodos prolongados y comunicando mensajes a personas concretas. Esos testimonios establecen comportamiento observable; no identifican su causa. Tampoco autorizan a atribuirle todas las prácticas de la reunión.
 
-El relato publicado de la primera visión tampoco permaneció textualmente intacto. Las primeras reimpresiones fueron muy estables; después hubo omisiones, reformulaciones y una separación en más de una visión. El núcleo narrativo sobrevivió, pero algunos pasajes doctrinalmente sensibles y detalles autobiográficos cambiaron o aparecieron más tarde. En varios casos no podemos demostrar quién decidió una revisión ni con qué intención.
+El relato publicado de la primera visión tampoco permaneció textualmente intacto. Las primeras reimpresiones fueron muy estables; después hubo omisiones, reformulaciones y una separación en más de una visión. El núcleo narrativo sobrevivió en la transmisión escrita conocida; esa estabilidad no corrobora por sí sola la experiencia. Los paralelos Foy/2 Esdras requieren examinar mediación y acceso. Algunos pasajes doctrinalmente sensibles y detalles autobiográficos cambiaron o aparecieron más tarde. En varios casos no podemos demostrar quién decidió una revisión ni con qué intención.
 
 Respecto del origen de las experiencias, la evidencia de este capítulo permite menos de lo que suelen afirmar ambos extremos. **No hemos encontrado evidencia temprana directa que demuest fraude deliberado**, pero tampoco podemos demostrar históricamente el estado interior de sinceridad de Ellen. La sinceridad es una explicación plausible; no es todavía una conclusión que este capítulo pueda probar. Del mismo modo, una causa neurológica, disociativa o social específica es posible, pero ninguna ha sido establecida con evidencia clínica contemporánea.
 
@@ -404,3 +430,9 @@ Eso no convierte el capítulo en un empate. Hemos reducido considerablemente lo 
 [^32]: James White, *Life Incidents, in Connection With the Great Advent Movement* (Battle Creek, Michigan: Seventh-day Adventist Publishing Association, 1868), pp. 272–273.
 
 [^33]: Walter T. Rea, *The White Lie* (Turlock, California: M & R Publications, 1982), caps. 3 y 11, localiza las críticas basadas en Foy, la lesión infantil, la histeria y la epilepsia, pero a menudo adopta sus conclusiones sin la cautela diagnóstica necesaria. La mejor respuesta adventista se resume en Herbert E. Douglass, *Messenger of the Lord* (1998), pp. 62–63, que cita “Did Ellen White Have Complex-Partial Seizures?”, *Ministry*, agosto de 1984, y Donald I. Peterson, *Visions or Seizures?* (Boise, Idaho: Pacific Press, 1988), pp. 26–27. Ni Rea ni Douglass sustituye el expediente primario inexistente.
+
+[^34]: Foy (1845), escena de la puerta en [edición textual moderna del folleto](https://documents.adventistarchives.org/Books/WFoy1845.pdf), no facsímil tipográfico; White, *A Word to the “Little Flock”* (1847), p. 15; *Experience and Views* (1851), p. 11. [Graybill, *Ministry*, febrero de 1994, pp. 11–13](https://www.ministrymagazine.org/archive/1994/02/visions-and-revisions?mode=app), colación secundaria cotejada. Las formas de 1847 y 1851 se cotejan además en sus reproducciones textuales; falta cotejo integral de las primeras impresiones y del autógrafo perdido.
+
+[^35]: *A Word to the “Little Flock”* (1847), pp. 13 y 17, notas añadidas por James; referencia a 2 Esdras 2:19, entre otras. La [edición electrónica completa con prefacio/apéndice de 1944](https://m.egwwritings.org/en/book/1998.2) distingue las capas. No es una nueva atestación independiente de 1844 ni una prueba del acceso de Ellen en una fecha precisa.
+
+[^36]: James White a Hastings, 26-VIII-1848, [*The Shut Door Documents*, entrada 32](https://whiteestate.org/legacy/issues-shutdoor-html/), transcripción que atribuye la fuente a Record Book 1, pp. 18–20. Autógrafo, fecha de copia y primera publicación no autenticados aquí; véase C5, §7.

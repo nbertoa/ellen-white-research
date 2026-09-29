@@ -17,7 +17,7 @@ La matriz sirve para impedir que los criterios cambien después de ver la eviden
 
 ### ¿Contradicción con revelación previa?
 
-Una supuesta revelación que contradice de forma clara una enseñanza divina previamente establecida constituye un problema serio.
+Una supuesta revelación que contradice de forma clara una enseñanza divina previamente establecida constituye un problema serio. Hay que demostrar tanto la enseñanza como la contradicción; una disputa denominacional no basta. 1 Reyes 13 no establece que Dios nunca pueda modificar una instrucción: aquí sabemos que la segunda afirmación es falsa porque el narrador lo dice.
 
 Fuentes principales:
 
@@ -37,13 +37,13 @@ Fuentes principales:
 - Jonás 3;
 - Jeremías 28.
 
-La condicionalidad debe demostrarse, no inventarse después.
+La condicionalidad debe demostrarse, no inventarse después. Para cada caso registrar contenido, plazo o cierre, condición y evidencia de que pertenecía al significado reconocible del anuncio. Una defensa tardía anterior a la muerte del último destinatario tiene valor documental, pero no prueba esa pertenencia original. Si la condición no puede justificarse y se agota el referente literal, el incumplimiento permanece adverso; aplicar la misma regla a anuncios favorables y desfavorables.
 
 ### ¿Falsa atribución de origen?
 
 Presentar como revelación divina algo proveniente de la propia mente o de una fuente humana puede constituir una falla profética grave **si el origen fue descrito falsamente**.
 
-Lucas 1:1-4 impide tratar el mero uso de fuentes humanas como evidencia contra inspiración: un escrito considerado inspirado dentro del canon puede surgir de investigación, tradiciones, testigos y materiales anteriores.
+Dentro de la premisa cristiana que recibe Lucas como Escritura inspirada, Lucas 1:1-4 impide tratar el mero uso de fuentes humanas como refutación automática de inspiración: un escrito considerado inspirado dentro del canon puede surgir de investigación, tradiciones, testigos y materiales anteriores.
 
 Por tanto, deben separarse dos preguntas:
 
@@ -75,7 +75,7 @@ Fuentes principales:
 - frutos morales y espirituales positivos;
 - experiencias extraordinarias bien documentadas.
 
-Cada una necesita controles independientes y ninguna basta por sí sola.
+Cada una necesita controles y ninguna basta por sí sola. Distinguir independencia de observadores, documentos, ocasiones y argumentos: varios testigos de una ocasión pueden corroborarse parcialmente; una reedición no añade un observador; compartir creencia tampoco equivale sin más a copiar un documento. La matriz aplica C2, no aporta una segunda corroboración.
 
 ## ¿Qué cosas son insuficientes por sí mismas?
 
@@ -94,7 +94,9 @@ Cada una necesita controles independientes y ninguna basta por sí sola.
 
 Balaam y Caifás muestran que una palabra verdadera no autentica automáticamente todo el mensajero.
 
-Ezequiel 13 muestra que la sinceridad no prueba origen divino.
+Ezequiel 13 permite considerar convicción equivocada; no verifica la sinceridad interior de cada acusado. La sinceridad, si se establece por otras vías, no autentica el mensaje.
+
+1 Corintios 14:32 regula el turno y la responsabilidad en la asamblea; no permite excluir todos los estados de conciencia alterada en otros contextos.
 
 ## ¿Cómo se ponderará la evidencia?
 
@@ -137,10 +139,11 @@ y, para predicciones o casos proféticos:
 
 Un acierto no autentica todo.
 
-Una dificultad menor no invalida todo.
+Una dificultad menor no invalida todo. Un error sustancial atribuido inequívocamente a revelación sí desacredita ese mensaje y puede pesar seriamente en la evaluación del ministerio. Negar infalibilidad personal no inmuniza frente a esa prueba.
 
 Una evidencia decisiva, favorable o desfavorable, puede tener un peso mucho mayor que numerosos casos ambiguos.
 
 ## ¿Qué pregunta sigue?
 
 **¿Qué afirmó realmente Ellen G. White sobre su propio don y sobre el origen de sus mensajes?**
+

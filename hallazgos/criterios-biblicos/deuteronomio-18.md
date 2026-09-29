@@ -44,7 +44,7 @@ Puede apoyarse en:
 - el contexto del mensaje;
 - evidencia previa al desenlace de que la conducta humana podía modificar el resultado.
 
-No debe inventarse retrospectivamente sólo después de que la predicción haya fallado.
+No debe inventarse retrospectivamente sólo después de que la predicción haya fallado. Fijar significado, plazo/cierre, condición y evidencia de su pertenencia original. Una defensa posterior anterior al fallecimiento del último destinatario no equivale a condición comunicada originalmente. Si no puede justificarse y el referente literal se agota, el incumplimiento conserva peso adverso; no llamarlo simplemente indeterminado. Véanse C2 §6 y C7 §§14–17.
 
 ## ¿Qué falso profeta ilustra mejor este criterio?
 
@@ -120,3 +120,4 @@ La principal cuestión abierta no es el criterio mismo, sino **cómo distinguir 
 - Cómo entendían la condicionalidad los profetas bíblicos.
 - Qué tipos de predicción requieren un plazo para poder considerarse fallidos.
 - Si existen otros casos bíblicos donde un profeta auténtico modifica o retira una predicción por razones distintas del arrepentimiento.
+
