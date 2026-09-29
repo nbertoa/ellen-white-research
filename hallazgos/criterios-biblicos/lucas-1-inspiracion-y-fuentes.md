@@ -125,3 +125,8 @@ El propio prólogo hace difícil sostener esa interpretación.
 - Qué declaró acerca del uso de historiadores y otros autores.
 - Qué materiales utilizaron sus asistentes literarios.
 - En qué casos concretos existe dependencia demostrable y qué afirmó ella sobre el origen de esos pasajes.
+
+
+## ¿Cómo se aplica esta distinción a la remediación?
+
+Las definiciones de acción, ayuda u origen divino son teológicas. En un expediente histórico se registra primero **origen divino reclamado**. Dentro de la premisa cristiana sobre Lucas, los medios humanos no refutan automáticamente inspiración; tampoco autentican una obra posterior ni justifican que se atribuya falsamente a revelación un dato específico. La aplicación a White exige documentos propios (C1/C3/C4), sin usar esta ficha como defensa universal.

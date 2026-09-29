@@ -174,3 +174,8 @@ La evidencia disponible no sostiene esas afirmaciones.
 - David A. deSilva, *The Letter to the Galatians*, NICNT (Eerdmans, 2018), comentario a Gálatas 5:18.
 - Frank Thielman, *Ephesians*, BECNT (Baker Academic, 2010), comentario a Efesios 1:17-18.
 - Craig S. Keener, *Acts: An Exegetical Commentary*, vol. 3 (Baker Academic, 2014), comentario a Hechos 16:6-10.
+
+
+## ¿Cómo se aplica esta distinción a la remediación?
+
+Las definiciones de acción, ayuda u origen divino son teológicas. En un expediente histórico se registra primero **origen divino reclamado**. Dentro de la premisa cristiana sobre Lucas, los medios humanos no refutan automáticamente inspiración; tampoco autentican una obra posterior ni justifican que se atribuya falsamente a revelación un dato específico. La aplicación a White exige documentos propios (C1/C3/C4), sin usar esta ficha como defensa universal.

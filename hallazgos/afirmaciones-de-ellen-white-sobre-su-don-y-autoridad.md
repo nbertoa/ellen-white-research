@@ -28,7 +28,7 @@ Fuente primaria: Ellen G. Harmon, Lt 1, 1845, Portland, 20 de diciembre de 1845;
 
 **Probable:** las explicaciones posteriores expresan la distinción que quería formular en 1904.
 
-**Indeterminado:** si la precisión posterior reproduce exactamente lo que entendieron sus oyentes o corrige una formulación oral desafortunada.
+**Indeterminado:** el soporte y momento de transcripción de Ms 140, 1905, y si la precisión posterior reproduce exactamente lo que entendieron sus oyentes o corrige una formulación oral desafortunada. El registro conservado no autentica por sí solo cada palabra oral de 1904.
 
 Fuentes primarias:
 
@@ -76,11 +76,11 @@ Fuente primaria: *Testimony for the Church—No. 33* (1889), “An Unwarranted D
 
 ### ¿Afirmó inspiración verbal o dictado general?
 
-**No. Establecido.**
+**Establecido:** rechazó un dictado universal para toda expresión; eso no delimita por sí solo la exactitud verbal de cada clase de mensaje revelado.
 
 En el contexto limitado de la vestimenta reformada dijo en 1867 que las palabras usadas para describir lo visto eran suyas, salvo las atribuidas expresamente a un ángel. El pasaje por sí solo no define todos sus escritos.
 
-La evidencia general más directa es Lt 206, 1906. David Paulson describió la creencia de que cada palabra pública o privada y cada carta en cualquier circunstancia era tan inspirada como los Diez Mandamientos. White respondió que nunca había hecho semejante afirmación. Ms 24, 1886 describe la inspiración de los escritores bíblicos como acción sobre la persona y sus pensamientos, no dictado de expresiones. Lt 225, 1906 admite corrección gramatical, eliminación de repeticiones y preparación editorial, aunque niega autorización para añadir ideas o cambiar el sentido.
+Lt 206, 1906 rechaza la conjunción extrema de toda palabra pública/privada y toda carta en cualquier circunstancia; no concede automáticamente errores en una comunicación concretamente atribuida a revelación. La evidencia general más directa es Lt 206, 1906. David Paulson describió la creencia de que cada palabra pública o privada y cada carta en cualquier circunstancia era tan inspirada como los Diez Mandamientos. White respondió que nunca había hecho semejante afirmación. Ms 24, 1886 describe la inspiración de los escritores bíblicos como acción sobre la persona y sus pensamientos, no dictado de expresiones. Lt 225, 1906 admite corrección gramatical, eliminación de repeticiones y preparación editorial, aunque niega autorización para añadir ideas o cambiar el sentido.
 
 **Probable:** “inspiración del pensamiento o mensaje” resume mejor su posición general que “inspiración verbal”, con la reserva de que es una sistematización y no una regla detallada formulada por ella para toda clase de documento.
 
@@ -224,3 +224,12 @@ Estas no son lagunas que puedan llenarse con la fórmula “inspiración de pens
 ## ¿Qué pregunta sigue?
 
 **¿Qué ocurrió realmente en las primeras visiones de Ellen G. White, y qué podemos establecer sobre su origen, sus relatos y sus primeros testigos?**
+
+
+## ¿Qué añade el cotejo de 1888 y qué límite conserva?
+
+**Hecho establecido:** el prefacio de *The Great Controversy* de 1888, p. h, reconoce palabras de historiadores y uso similar de obras publicadas sobre reformadores, a veces sin crédito específico. Se cotejó el [facsímil de 1888](https://archive.org/details/greatcontrover00whit) y la formulación de 1911, pp. xi–xii ([facsímil](https://archive.org/details/greatcontroversy00whit)).
+
+**Interpretación probable:** su modelo admitía mediación literaria; no implica independencia de cada pasaje ni demuestra que un dato preciso fuera revelado. **Hipótesis por verificar:** el papel de lecturas y asistentes en cada segmento. Cambiaría el balance un borrador que atribuyera concretamente a revelación un dato previamente copiado, o que documentara otra secuencia de composición. La negación de infalibilidad personal no elimina esa prueba.
+
+Las fuentes originales citadas en esta ficha llegan en algunos casos por transcripciones o compilaciones modernas: llamar primaria a la autoría del documento no autentica el soporte digital. Para los pasajes corregidos, C3 y el registro de remediación identifican edición y localizadores. Esta actualización conserva la ficha previa como antecedente, sin contarla como corroboración independiente.

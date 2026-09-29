@@ -59,12 +59,14 @@ Por eso no conviene construir una doctrina completa de falibilidad profética s�
 
 “Los espíritus de los profetas están sujetos a los profetas”.
 
-Dentro del argumento sobre orden en el culto, esto muestra que la experiencia profética no elimina:
+Dentro del argumento sobre orden en el culto, esto regula la comunicación y muestra que la pretensión profética no elimina:
 
-- autocontrol;
+- control del turno de habla en la asamblea;
 - orden;
 - responsabilidad;
 - evaluación comunitaria.
+
+Este mandato no describe toda experiencia visionaria ni permite excluir por sí solo alteración de conciencia en otros contextos. **Establecido:** hay orden y evaluación; **probable:** los interlocutores pueden regular su turno; **indeterminado:** el mecanismo psicofisiológico.
 
 ## ¿Hay un falso profeta identificado que falle este criterio?
 
@@ -110,3 +112,4 @@ Habría que mostrar que *diakrinō* en 14:29 no implica ninguna evaluación de a
 - La relación exacta entre *diakrinō* en 14:29 y “discernimiento de espíritus” en 12:10.
 - La identidad de “los otros”.
 - Cómo funcionaba en la práctica la evaluación profética en las primeras comunidades cristianas.
+

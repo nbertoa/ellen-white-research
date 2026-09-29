@@ -216,3 +216,14 @@ La conclusión debe tener exactamente el grado de seguridad que permita la evide
 # ¿Cuál es la regla maestra?
 
 > **No investigar para demostrar que Ellen White fue profeta ni para demostrar que no lo fue. Investigar hasta descubrir qué conclusión explica mejor toda la evidencia disponible y detenerse donde se detenga la evidencia.**
+
+
+# ¿Cómo se cierra un expediente sin borrar su incertidumbre?
+
+Registrar qué documento se cotejó y por qué soporte: autógrafo, copia, facsímil, transcripción, edición electrónica, compilación o reproducción secundaria. Separar fecha atribuida al mensaje, redacción, copia, publicación, envío y recepción. Una fecha de catálogo no autentica todos esos momentos. Usar la página impresa de la edición consultada.
+
+Cada balance debe identificar hecho, interpretación e hipótesis; grado establecido, probable, posible o indeterminado; documento faltante; y evidencia que podría cambiarlo. Los rótulos antiguos «fuerte», «alto» y «moderado» describen confianza editorial, no sustituyen esos cuatro grados. El capítulo vigente controla la aplicación del criterio; una ficha o auditoría anterior se conserva como antecedente y no se cuenta como evidencia adicional.
+
+Aplicar la misma fiabilidad a duración, respiración, atención y recuperación cuando se comparan causas. Una incompatibilidad con fisiología ordinaria no demuestra por sí sola error del relato ni milagro. Primero decidir cuánto está documentado; después evaluar causalidad.
+
+Para condicionalidad fijar el significado verificable antes de usar el desenlace: condición explícita o justificable por género/contexto y su fecha documental. Una explicación tardía tiene el peso de una explicación tardía. No autoriza a salvar cualquier anuncio: si el referente se agota sin cumplimiento y falta evidencia de una condición legítima, conservar el resultado adverso. La negación de infalibilidad personal no protege un error sustancial concretamente atribuido a revelación.

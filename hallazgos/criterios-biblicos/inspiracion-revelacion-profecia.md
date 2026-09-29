@@ -331,3 +331,8 @@ La evidencia disponible no apoya esas afirmaciones.
 - General Conference of Seventh-day Adventists, “The Holy Scriptures” (declaración oficial, 29 de junio de 1995), https://gc.adventist.org/official-statements/the-holy-scriptures/, como fuente primaria de una posición adventista que combina origen divino con lenguaje, trasfondo y contexto humanos.
 - Gerhard Pfandl, “Some Thoughts on the Inspiration of the Bible”, Biblical Research Institute, https://adventistbiblicalresearch.org/articles/some-thoughts-on-the-inspiration-of-the-bible, como exposición adventista que distingue el dictado de otros modelos de inspiración.
 - “Divine Revelation”, *Stanford Encyclopedia of Philosophy*, para controlar el uso de taxonomías teológicas posteriores sobre clases de revelación.
+
+
+## ¿Cómo se aplica esta distinción a la remediación?
+
+Las definiciones de acción, ayuda u origen divino son teológicas. En un expediente histórico se registra primero **origen divino reclamado**. Dentro de la premisa cristiana sobre Lucas, los medios humanos no refutan automáticamente inspiración; tampoco autentican una obra posterior ni justifican que se atribuya falsamente a revelación un dato específico. La aplicación a White exige documentos propios (C1/C3/C4), sin usar esta ficha como defensa universal.

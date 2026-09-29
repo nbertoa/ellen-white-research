@@ -79,7 +79,7 @@ Hananías en Jeremías 28 constituye un paralelo cercano del profeta que promete
 
 **Conclusión provisional:** una persona puede estar sinceramente convencida y aun así atribuir a Dios una idea propia; la autenticidad debe probarse externamente.
 
-**Nivel de certeza:** alto para 13:1-16; moderado para detalles rituales de 13:17-23.
+**Establecido:** las acusaciones expresas de 13:1-16. **Posible:** autoengaño o convicción equivocada; la intención interior de cada acusado sigue **indeterminada**. Los detalles rituales de 13:17-23 tampoco quedan establecidos por la traducción sola.
 
 ## ¿Qué podría cambiar esta conclusión?
 
@@ -106,3 +106,4 @@ Una demostración textual de que los profetas de Ezequiel 13 eran necesariamente
 - Si “esperan que la palabra se cumpla” implica sinceridad o simplemente deseo de validación.
 - El significado de los objetos textiles de 13:18.
 - El sentido exacto de la cebada y el pan de 13:19.
+

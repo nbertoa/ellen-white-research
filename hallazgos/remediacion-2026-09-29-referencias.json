@@ -1,0 +1,261 @@
+{
+  "fecha": "2026-09-29",
+  "criterio": "Autoría primaria, soporte accesible y autenticación se distinguen; las reproducciones no se convierten en autógrafos.",
+  "p1": [
+    {
+      "id": "P1.1",
+      "tema": "1856 y condición posterior",
+      "estado": "parcialmente cerrado",
+      "aplicacion": "C7 §§13–17; ficha prediccion-1856-y-condicionalidad",
+      "resultado": "No. 2, p. 22, y No. 16 (1868), p. 98, cotejados en facsímil; defensa anterior a 1883 confirmada.",
+      "documento_faltante": "Registro contemporáneo de recepción del anuncio y aplicación original de la condición; correspondencia de asistentes y registro de Bonfoey."
+    },
+    {
+      "id": "P1.2",
+      "tema": "Parkville",
+      "estado": "abierto",
+      "aplicacion": "C7 §§3–4, nota 2",
+      "resultado": "Inventario CAR de Loughborough: los 54 diarios enumerados no incluyen 1861; esto no prueba que la entrada no exista en otra colección.",
+      "documento_faltante": "Cuaderno original y entrada del 12-I-1861, secuencia, procedencia y primera copia."
+    },
+    {
+      "id": "P1.3",
+      "tema": "Salamanca",
+      "estado": "parcialmente cerrado",
+      "aplicacion": "C8 §§6–8, nota 7",
+      "resultado": "Edición completa de The Salamanca Vision: notas sobre Diary 16, revisiones de comienzos de 1891 y Ms 40 escrito en marzo de 1891. Su PDF declara ausentes los facsímiles.",
+      "documento_faltante": "Imágenes del diario y manuscritos, examen de capas; comunicaciones anteriores a la reunión, especialmente de W. C. White."
+    },
+    {
+      "id": "P1.4",
+      "tema": "Faulkhead",
+      "estado": "parcialmente cerrado",
+      "aplicacion": "C8 §§4–5",
+      "resultado": "Hook cotejado: afiliación de 1894, retorno de 1896 y membresía de 1923 son noticias secundarias; no inspección de registros originales.",
+      "documento_faltante": "Lt 21b y Lt 46 en soporte material; cincuenta páginas si existen; cartas de 1893/1908; imágenes de logia y descripción reproducible del gesto."
+    },
+    {
+      "id": "P1.5",
+      "tema": "Foy / White / 2 Esdras",
+      "estado": "parcialmente cerrado",
+      "aplicacion": "C4 §18; ficha visiones-tempranas-foy-y-fisiologia",
+      "resultado": "Paralelo de puertas/bisagras y golden/glittering cotejado en reproducciones textuales; cronología y relaciones con 2 Esdras incorporadas.",
+      "documento_faltante": "Facsímiles de primeras impresiones 1845/1846/1847/1851 y evidencia de acceso anterior; comparación completa, no sólo un paralelo."
+    },
+    {
+      "id": "P1.6",
+      "tema": "1848, médicos y 1862/1863",
+      "estado": "parcialmente cerrado",
+      "aplicacion": "C4 §19; C5 §§7–12 y notas",
+      "resultado": "Transcripción de Record Book 1, pp. 18–20, integrada; páginas de Rise and Progress corregidas; conflicto cantero 1863/1862 y Amadon impreso en marzo de 1944 verificados.",
+      "documento_faltante": "Autógrafo/copia y fecha de copia de 1848; declaraciones originales de médicos y observadores; documento contemporáneo que resuelva identidad/fecha del cantero."
+    },
+    {
+      "id": "P1.7",
+      "tema": "Daniels",
+      "estado": "parcialmente cerrado",
+      "aplicacion": "C8 §11 y nota 15; ficha Rochester/Daniels",
+      "resultado": "Respuesta impresa de 1883 preservada y cotejada; inventario CAR localiza carta Daniels a Loughborough del 14-I-1890, WDF 230, sin contenido inspeccionado.",
+      "documento_faltante": "Advocate Extra y comunicación original de White/informante; imagen de la carta de 1890 para determinar si trata este episodio."
+    },
+    {
+      "id": "P1.8",
+      "tema": "Battle Creek, California, mercado y contexto",
+      "estado": "parcialmente cerrado",
+      "aplicacion": "C7 §§7–12 y balance",
+      "resultado": "Mensaje público de Buchanan de 3-XII-1860 cotejado en transcripción: riesgo de guerra costosa; costo original separado de precio pedido y compra; anterioridad de cartas recalibrada.",
+      "documento_faltante": "Soportes y envío/recepción de Lt 138 (1901) y Lt 157 (1902); registros de junta, construcción/compraventa; conjunto comparable de pronósticos contemporáneos."
+    },
+    {
+      "id": "P1.9",
+      "tema": "GC 1888 y discurso de 1904",
+      "estado": "parcialmente cerrado",
+      "aplicacion": "C3 §§7–8 y notas; ficha de autoridad",
+      "resultado": "Prefacios originales GC 1888, p. h, y GC 1911, pp. xi–xii, cotejados: reconocimiento explícito de historiadores incorporado.",
+      "documento_faltante": "Soporte y genealogía de Ms 140, 1905, que transmite discurso de 1904; materiales editoriales para atribuir cada pasaje concreto."
+    },
+    {
+      "id": "P1.10",
+      "tema": "Estudios clínicos y Kellogg",
+      "estado": "parcialmente cerrado",
+      "aplicacion": "C6 §§3–7 y notas",
+      "resultado": "Larsen: 52 pacientes, 53 registros, 84 crisis y exclusión de estado epiléptico; comparación PNES diferenciada. During: resumen de autores, 28 artículos/402 casos, no texto completo.",
+      "documento_faltante": "Carta completa Kellogg del 3-VI-1906 y soporte; artículo completo During. Ninguno permite diagnóstico retrospectivo sin datos clínicos de White."
+    },
+    {
+      "id": "P1.11",
+      "tema": "Bibliografía exegética C1/C2",
+      "estado": "parcialmente cerrado",
+      "aplicacion": "C1 notas académicas; C2 aparato",
+      "resultado": "Begbie, p. 260, y Adams, pp. 190–191, cotejados en artículos completos. Bosman sólo resumen editorial; Atkins y comentarios/léxicos no presentados como cotejo íntegro.",
+      "documento_faltante": "Textos y localizadores finos de Atkins, Bosman, Towner, Mounce, Bauckham, Green, Alexander, Fee, Thiselton, BDAG y HALOT."
+    },
+    {
+      "id": "P1.12",
+      "tema": "Albany/Nueva York y Dammon",
+      "estado": "abierto",
+      "aplicacion": "C4 §8; C6 §8 y notas",
+      "resultado": "Búsqueda dirigida en catálogos de periódico y archivos de Maine sin localizar los documentos decisivos. Reproducción textual y declaración de parte conservan ese carácter.",
+      "documento_faltante": "Advent Herald del 21-V-1845, p. 118, actas de Albany/Nueva York; expediente y apelación de Dammon. No afirmar revocación judicial por testimonio de parte."
+    }
+  ],
+  "referencias": [
+    {
+      "id": "R01",
+      "titulo": "Rise and Progress",
+      "edicion": "1892",
+      "url": "https://documents.adventistarchives.org/Books/RP1892.pdf",
+      "soporte": "facsímil",
+      "localizador": "95–98; 247–248",
+      "limite": "Páginas y relato; no verificación clínica ni declaraciones autógrafas",
+      "sha256": "8d8625cffefbc9e3a7fc45bcbdc3704fe65c48ec74704b2da25fd4f94482d0d8"
+    },
+    {
+      "id": "R02",
+      "titulo": "Testimony for the Church No. 2",
+      "edicion": "1856",
+      "url": "https://www.truthseeker.church/_files/ugd/ff8319_823527d4e0d945b7a56ef846eb23a7db.pdf",
+      "soporte": "facsímil",
+      "localizador": "22",
+      "limite": "Anuncio y nota Bonfoey; no recepción individual autenticada",
+      "sha256": "22497f261f89f27e30e3bd17ac6763ca754261687a6389ace3c2150cbd47003e"
+    },
+    {
+      "id": "R03",
+      "titulo": "Testimony for the Church No. 16",
+      "edicion": "1868",
+      "url": "https://www.truthseeker.church/_files/ugd/ff8319_b171182453c04652b03cbae45a1c3d6d.pdf",
+      "soporte": "facsímil",
+      "localizador": "98",
+      "limite": "Defensa general de demora; no condición expresa del anuncio de 1856",
+      "sha256": "b7d3fe5ec078560a17d86e16617f8e8989581fbf810f75ebb63362fa59b43abf"
+    },
+    {
+      "id": "R04",
+      "titulo": "The Great Controversy",
+      "edicion": "1888",
+      "url": "https://archive.org/download/greatcontrover00whit/greatcontrover00whit.pdf",
+      "soporte": "facsímil",
+      "localizador": "prefacio h",
+      "limite": "Reconocimiento de historiadores; no atribución de cada pasaje a lectura/revelación",
+      "sha256": "530f5e175b65b689cb3e41668e95e3e9f2d8fa0336d8086722039f7fc5cceebe"
+    },
+    {
+      "id": "R05",
+      "titulo": "The Great Controversy",
+      "edicion": "1911",
+      "url": "https://archive.org/download/greatcontroversy00whit/greatcontroversy00whit.pdf",
+      "soporte": "facsímil",
+      "localizador": "xi–xii",
+      "limite": "Revisión del reconocimiento de historiadores",
+      "sha256": "0d3c1e5241da5785767a2bc07da4795be2836ba39e7ef201e5af7c4c6a738637"
+    },
+    {
+      "id": "R06",
+      "titulo": "Ministry: Martha Amadon",
+      "edicion": "marzo 1944",
+      "url": "https://cdn.ministrymagazine.org/issues/1944/issues/MIN1944-03.pdf",
+      "soporte": "facsímil",
+      "localizador": "4",
+      "limite": "Reproducción; escrito previo de Amadon sin fecha determinada",
+      "sha256": "c594a9b7c8729767ffdfee846d4becf54d0b21de9aeca41775b98ff2c36172a2"
+    },
+    {
+      "id": "R07",
+      "titulo": "John N. Loughborough Papers, collection 327",
+      "edicion": "inventario archivístico",
+      "url": "https://centerforadventistresearch.org/wp-content/uploads/2023/03/John-N.-Loughborough-Papers-327.pdf",
+      "soporte": "instrumento de descripción archivística",
+      "localizador": "5–7",
+      "limite": "Diarios inventariados y carta Daniels 14-I-1890; no contenido de originales",
+      "sha256": "29571fbcb11de4c8b6b9b253b7a633c3d418b91ff34603b7edafd013a0f92fdc"
+    },
+    {
+      "id": "R08",
+      "titulo": "The Salamanca Vision",
+      "edicion": "compilación 1983",
+      "url": "https://ellenwhiteaudio.org/audio/en/svd/SVD.pdf",
+      "soporte": "reproducción textual de compilación con notas editoriales",
+      "localizador": "Diary 16, pp. 289–290, 321–326, 450; Ms 40; sección V",
+      "limite": "Facsímiles anunciados pero ausentes; notas sobre capas no inspección propia de tintas",
+      "sha256": "9ca21a7c96aca4cc6aadba0ace3e56cb82247447b6486c757442fb77b49abd83"
+    },
+    {
+      "id": "R09",
+      "titulo": "Buchanan: Fourth Annual Message",
+      "edicion": "3-XII-1860",
+      "url": "https://millercenter.org/the-presidency/presidential-speeches/december-3-1860-fourth-annual-message",
+      "soporte": "transcripción moderna",
+      "localizador": "párrafos sobre coerción y guerra",
+      "limite": "Pronóstico público; no prueba de lectura por White",
+      "sha256": "b78d96b4db1212505f1512ce84132f05cc1f495d23a012b5b907bca9888be3fd"
+    },
+    {
+      "id": "R10",
+      "titulo": "Begbie: Theopneustos",
+      "edicion": "artículo",
+      "url": "https://www.tyndalebulletin.org/article/30483.pdf",
+      "soporte": "PDF del editor",
+      "localizador": "260",
+      "limite": "Origen no define proceso; propuesta del autor no consenso",
+      "sha256": "91c1b5b91f17c6bde916d54e4b445f00395768e88e5d33b1b9217c76e3cccc60"
+    },
+    {
+      "id": "R11",
+      "titulo": "Adams: Luke historiography",
+      "edicion": "artículo",
+      "url": "https://www.jgrchj.net/volume3/JGRChJ3-9_Adams.pdf",
+      "soporte": "PDF del editor",
+      "localizador": "190–191",
+      "limite": "Posición historiográfica del autor, no cotejo de todos los comentarios",
+      "sha256": "8dd78c6a05c80cb8be8fa185f613600a6e1dd794bf1e8c7ed6ba3ce9ba32e9cc"
+    },
+    {
+      "id": "R12",
+      "titulo": "During: Dissociative trance and possession disorders",
+      "edicion": "2011",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21507280&format=json&resultType=core",
+      "soporte": "metadatos y resumen de autores",
+      "localizador": "28 artículos; 402 casos",
+      "limite": "No artículo íntegro ni muestra representativa de todo trance",
+      "sha256": "8f722bd7da044b44ddd6e5e51ee3015cbe46a41331f40c27494abdb10e00f99e"
+    },
+    {
+      "id": "R13",
+      "titulo": "Testimony for the Church No. 33",
+      "edicion": "1889",
+      "url": "https://www.truthseeker.church/_files/ugd/ff8319_ab842bbcc907444caba705ad30178d1c.pdf",
+      "soporte": "facsímil",
+      "localizador": "211–218",
+      "limite": "Correspondencia con 5T, no TT 1949 etiquetado como primera edición",
+      "sha256": "583c188db53c5d31e4b68b3da9d8c869424e22379e4e911f728e78cc51757f2e"
+    },
+    {
+      "id": "R14",
+      "titulo": "Foy, Christian Experience",
+      "url": "https://documents.adventistarchives.org/Books/WFoy1845.pdf",
+      "soporte": "reproducción textual",
+      "localizador": "puertas/bisagras",
+      "limite": "Texto moderno, no tipografía original",
+      "sha256": "7389f9936131601473b159fa62ee87c835be8fbc9613b952856905b306b3ec53"
+    },
+    {
+      "id": "R15",
+      "titulo": "James White a Hastings",
+      "url": "https://whiteestate.org/about/issues1/unusual/shut-door/door-docs/",
+      "soporte": "reproducción textual",
+      "localizador": "entrada 32; Record Book 1, 18–20",
+      "limite": "Transcripción; fecha de copia y autógrafo pendientes",
+      "sha256": "f5862829c51e047be444c311cb9df85c1b882beb25721406aa8fe70e41155174"
+    },
+    {
+      "id": "R16",
+      "titulo": "Larsen, Duration of epileptic seizure types",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10107943/",
+      "soporte": "artículo completo del editor en PMC",
+      "localizador": "métodos y tablas 1–2",
+      "limite": "Estudio de pacientes actuales, no evaluación de White",
+      "sha256": "b1dae9f6847d236088b91b5beb14daba746346c695645934f47b79a242174f70"
+    }
+  ]
+}
