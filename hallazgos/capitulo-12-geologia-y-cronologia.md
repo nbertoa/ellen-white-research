@@ -16,15 +16,13 @@ SG3 p. 80: “The earth quickly opens, and I saw villages, cities and burning mo
 
 SG3 p. 92: “I was shown that very large, powerful animals existed before the flood which do not now exist.” Esta proposición contiene un componente empírico verdadero —animales grandes extinguidos— y otro cronológico que no queda demostrado por encontrar fósiles.
 
-## ¿Cómo se evalúa la cronología sin convertirla en examen doctrinal?
+## ¿Por qué no se usa la edad de la Tierra como prueba en este capítulo?
 
-El [USGS](https://pubs.usgs.gov/gip/geotime/age.html) expone una edad terrestre de unos 4.540 millones de años, derivada de datación radiométrica y contraste con meteoritos. Su [explicación del reloj radiométrico](https://pubs.usgs.gov/gip/geotime/radiometric.html) distingue métodos y objetos datados: carbono 14 no fecha la formación de la Tierra. Se consultaron los contenidos recuperados por búsqueda y la presentación del organismo; el acceso directo a algunas páginas devolvió 403 y se registra esa limitación. No se declara haber inspeccionado las mediciones originales de cada laboratorio.
+La cronología o edad de la Tierra queda excluida deliberadamente del juicio probatorio de este capítulo. El proyecto no resolverá aquí la controversia entre modelos creacionistas de Tierra joven y reconstrucciones geológicas de larga duración, ni utilizará esa disputa como evidencia a favor o en contra de Ellen White.
 
-Clasificación E para «mundo de unos seis mil años» entendido como cronología física terrestre ordinaria y para comprimir toda la secuencia fósil/estratigráfica en esa historia. No es una discrepancia pequeña ni depende de una noticia reciente. No se demuestra por este procedimiento que Dios no pueda hacer un milagro. Una creación con apariencia de edad es una hipótesis adicional sin prueba independiente aquí; si se la define para reproducir cualquier huella física, deja de ser falsable científicamente. Una interpretación limitada a historia humana o vida reciente reduce el alcance, pero no concuerda sin dificultad con la explicación de grandes depósitos y registros geológicos del contexto. La lectura de Génesis y del sábado se reserva al capítulo 14.
+Los textos de *Spiritual Gifts* sobre una semana creadora ordinaria y un mundo de unos seis mil años se conservan como dato documental porque forman parte de la fuente, pero **no se clasifican aquí como error ni como acierto**. La exclusión no afirma que una cronología sea correcta; fija el límite de esta investigación.
 
-Disponibilidad ordinaria: en 1864 ya se discutían extensamente edades y procesos geológicos largos. No existía la estimación radiométrica actual. El desacuerdo era real en su época; no se le exige conocer un número de 1956 para reconocer que su proposición puede evaluarse hoy.
-
-Falsación: convergencia de mediciones robustas que demostrara que las dataciones y secuencias interpretadas son sistemáticamente erróneas; o texto contemporáneo que delimite «world» de modo incompatible con la lectura física adoptada. Una muestra contaminada o un método aplicado al objeto incorrecto no invalida todos los relojes.
+Esto no impide evaluar afirmaciones geológicas más concretas que no dependen de asignar una edad a la Tierra, como el mecanismo físico propuesto para volcanes y terremotos.
 
 ## ¿Qué parte del carbón y de los volcanes es correcta?
 
@@ -40,4 +38,4 @@ Falsación: descripción contemporánea que limite el pasaje a incendios de mant
 
 ## ¿Qué peso tiene el origen declarado?
 
-La cronología está integrada en lenguaje de traslado visionario y de información mostrada; no se presenta como informe neutral tomado de un geólogo. La atribución es más próxima que en la prioridad valdense. La escena geológica contiene «I saw», pero no permite identificar por sí sola cuáles detalles químicos fueron vistos, inferidos o formulados con vocabulario disponible. No se demostró una fuente humana exacta ni un ayudante para cada mecanismo. El capítulo conserva esa diferencia: contenido científico problemático establecido según su alcance; revelación específica de cada eslabón, no siempre delimitada.
+La escena geológica contiene «I saw», pero no permite identificar por sí sola cuáles detalles químicos fueron vistos, inferidos o formulados con vocabulario disponible. No se demostró una fuente humana exacta ni un ayudante para cada mecanismo. El capítulo conserva esa diferencia: mecanismos científicos problemáticos establecidos según su alcance; revelación específica de cada eslabón, no siempre delimitada.
