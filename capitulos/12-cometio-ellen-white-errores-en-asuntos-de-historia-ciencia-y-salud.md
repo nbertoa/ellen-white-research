@@ -104,19 +104,8 @@ No pediremos a un texto popular que use todas las palabras actuales. Sí examina
 
 En ciencia, además, la posibilidad de un milagro no se decide mediante un experimento ordinario. Pero una explicación que reclama describir fenómenos físicos deja consecuencias evaluables. No debemos convertirla en inmune a toda evidencia precisamente cuando esa evidencia crea una dificultad.
 
-## 10. ¿Qué afirmó sobre la edad y la historia de la Tierra?
 
-En *Spiritual Gifts*, de 1864, White dijo haber sido trasladada a la creación y que la primera semana fue como cualquier otra. En el mismo argumento defendió una historia del mundo de unos seis mil años frente a los periodos extensos propuestos por geólogos. Añadió que se le había mostrado que, sin la historia bíblica, la geología no podía demostrar nada.[^15]
-
-La reconstrucción geológica actual sitúa la formación terrestre alrededor de 4.540 millones de años. No depende de un titular ni de aplicar carbono 14 a una roca antigua: combina métodos radiométricos apropiados, materiales diferentes y secuencias geológicas. La distancia con unos seis mil años es sustancial.[^16]
-
-Puede proponerse que White hablaba sólo de historia humana o que la materia ya existía. Esa lectura reduce parte del conflicto, pero necesita explicar el contexto: fósiles, depósitos y transformaciones terrestres colocados dentro de la misma historia reciente. No basta cambiar el referente de una palabra y dejar intactas sus consecuencias.
-
-También puede proponerse una creación milagrosa con apariencia de edad. Eso no es imposible por definición teológica; tampoco es una explicación confirmada por la evidencia examinada. Si se formula para acomodar cualquier medición imaginable, no ofrece una prueba científica que pueda refutarla.
-
-La conclusión delimitada es que la cronología física reciente entra en fuerte conflicto con evidencia científica bien establecida. La interpretación de Génesis y del sábado corresponde a otro capítulo. Aquí importa además que este argumento aparece unido a lenguaje visionario, de modo más próximo que la prioridad histórica valdense.
-
-## 11. ¿Se equivocó también al explicar carbón, volcanes y terremotos?
+## 10. ¿Se equivocó también al explicar carbón, volcanes y terremotos?
 
 Su explicación contiene partes diferentes. Dice que grandes bosques fueron enterrados, que dieron origen al carbón y que éste produjo aceite. Después afirma que carbón y aceite arden bajo tierra, calientan rocas, queman caliza y funden hierro; agua y fuego interactúan y causan terremotos, volcanes y emisiones ígneas.[^17]
 
@@ -128,9 +117,9 @@ La explicación general del volcanismo mediante carbón, aceite, caliza y agua r
 
 El marco es revelatorio y contiene una escena introducida con «vi». No queda delimitado de manera individual qué parte de cada mecanismo químico fue vista y cuál fue formulada o inferida. Ese límite de atribución debe conservarse sin ocultar el problema físico.
 
-## 12. ¿Podemos llamar errores a todos sus comentarios sobre fósiles y seres antiguos?
+## 11. ¿Podemos llamar errores a todos sus comentarios sobre fósiles y seres antiguos?
 
-No. Que existieron animales muy grandes hoy extinguidos es verdadero. Que un fósil pertenece a esa categoría no demuestra automáticamente cuándo vivió en relación con el diluvio ni toda la cronología que lo acompaña. Un acierto parcial no confirma la explicación completa.
+No. Que existieron animales muy grandes hoy extinguidos es verdadero. Un acierto parcial no confirma automáticamente las demás afirmaciones sobre esos seres.
 
 White también habló de seres humanos y árboles antiguos mucho mayores, y de una humanidad que fue disminuyendo en tamaño. El registro conocido no sostiene una población humana ancestral universal de gigantes como la descrita. Sin embargo, no podemos convertir cada ausencia de fósil en prueba concluyente de que jamás existió un individuo grande. Debemos distinguir población, excepcionalidad y escala del relato.[^20]
 
@@ -138,7 +127,7 @@ Algunas palabras admiten lectura popular. Llamar «petrificación» al endurecim
 
 Por eso el caso central no será una colección de términos imperfectos. Será la explicación comprobable que esos términos transmiten. Las afirmaciones más vagas sobre tamaño, durabilidad o criaturas no identificadas permanecen discutidas o insuficientemente verificables.
 
-## 13. ¿Qué decía realmente sobre la amalgamación?
+## 12. ¿Qué decía realmente sobre la amalgamación?
 
 En 1864 escribió sobre «amalgamation of man and beast», que habría deformado la imagen de Dios y producido confusión. En otro pasaje dijo que especies confusas, no creadas por Dios, fueron destruidas por el diluvio, y que la amalgamación posterior podía verse en variedades de animales y en ciertas razas humanas.[^21]
 
@@ -148,7 +137,7 @@ La referencia a «ciertas razas» está realmente en el texto. Los nombres de pu
 
 Si se interpreta como híbridos humanos y animales, la afirmación no cuenta con apoyo biológico sólido. Si se interpreta como cruces entre poblaciones humanas y entre animales, algunas mezclas son posibles, pero todavía habría que identificar cuáles explicarían las especies y razas mencionadas. La vaguedad no confirma esa explicación alternativa; impide resolverla por completo.
 
-## 14. ¿La interpretación incómoda fue inventada por críticos posteriores?
+## 13. ¿La interpretación incómoda fue inventada por críticos posteriores?
 
 No. Smith, defensor adventista, la utilizó en 1868. Su respuesta relacionó la mezcla humano/animal con pueblos que describió mediante categorías raciales desacreditadas. Eso muestra que la lectura existió cerca de la publicación original y dentro de la defensa, no sólo en una lista crítica moderna.[^22]
 
@@ -158,7 +147,7 @@ La defensa distributiva, desarrollada posteriormente, merece consideración porq
 
 Las frases no fueron incluidas en narraciones ampliadas posteriores. Una omisión tampoco equivale a retractación ni prueba por qué se omitieron. Sin una explicación de White que identifique el mecanismo, el expediente permanece ambiguo. Una carta contemporánea o un manuscrito que resolviera los referentes cambiaría mucho la evaluación. Mientras falte, no convertiremos la ambigüedad en absolución ni en condena científica inequívoca.
 
-## 15. ¿Las estrellas y las lunas ofrecen errores astronómicos seguros?
+## 14. ¿Las estrellas y las lunas ofrecen errores astronómicos seguros?
 
 No en los candidatos examinados. En *Education*, de 1903, White comparó una enseñanza recibida con la luz reflejada por la Luna y las «estrellas de nuestro sistema solar». En el habla popular, «estrella» podía incluir un planeta; la restricción al sistema solar favorece esa lectura. No es necesario interpretar la analogía como una afirmación de que estrellas físicas como el Sol reflejan luz solar.[^23]
 
@@ -168,7 +157,7 @@ Además, ver un mundo con siete lunas no necesariamente significa afirmar que ti
 
 Aquí permanecen límites importantes de identificación y transmisión. No se ha demostrado un error astronómico inequívoco en esos pasajes, ni conocimiento científicamente inaccesible. Una documentación contemporánea más precisa podría modificar ambas conclusiones.
 
-## 16. ¿Qué ideas sanitarias circulaban antes de sus principales declaraciones?
+## 15. ¿Qué ideas sanitarias circulaban antes de sus principales declaraciones?
 
 Muchas que después aparecen en su programa. Graham había difundido un régimen de alimentación y vida; Coles trataba dieta, aire, ejercicio y estimulantes; Jackson publicaba consejos de medicina reformista; Dio Lewis promovía ejercicio para hombres, mujeres y niños. Esas ideas no eran el consenso de toda la profesión, pero existían públicamente antes de la visión sanitaria de junio de 1863.[^24]
 
@@ -178,7 +167,7 @@ Esto no demuestra que Ellen hubiera leído todos los libros que después negó h
 
 Sus declaraciones de 1867 sobre lecturas y redacción quedaron examinadas en el capítulo 10. Aquí nos permiten rechazar una defensa demasiado amplia: no es sostenible decir que sus principales consejos sanitarios aparecieron en un mundo sin antecedentes accesibles. El contexto reduce la pretensión de conocimiento extraordinario; no decide por sí solo la verdad ni el origen de cada mensaje.
 
-## 17. ¿Cuáles de sus consejos tenían un fundamento sanitario real?
+## 16. ¿Cuáles de sus consejos tenían un fundamento sanitario real?
 
 La advertencia contra el tabaco es un caso favorable importante. Lo trató como hábito perjudicial y describió dependencia y deterioro. La evidencia actual confirma grandes riesgos. No es justo reducir esa advertencia a una rareza del siglo XIX. Tampoco avala cada explicación nerviosa o cada consecuencia moral que añadió.[^26]
 
@@ -190,7 +179,7 @@ White también protestó contra negar agua a personas con fiebre y contra tratam
 
 La evaluación simétrica reconoce el acierto y después pregunta cuánto demuestra. Ese segundo paso nos lleva al problema de la anterioridad y de la información ordinaria.
 
-## 18. ¿Esos aciertos prueban que se adelantó sobrenaturalmente a la medicina?
+## 17. ¿Esos aciertos prueban que se adelantó sobrenaturalmente a la medicina?
 
 No. Pueden preceder a una aceptación general posterior y seguir siendo conocimientos normalmente disponibles. Advertir contra el tabaco antes del consenso epidemiológico del siglo XX es valioso; no demuestra que nadie hubiera advertido su daño antes de White. Graham, Coles y otros reformadores ya difundían ejercicio, dieta y crítica a estimulantes.
 
@@ -202,7 +191,7 @@ En los casos examinados no se estableció un consejo simultáneamente correcto, 
 
 Una formulación anterior más precisa, que no apareciera en fuentes accesibles y fuera confirmada por evidencia robusta, cambiaría el resultado. No basta reinterpretar retrospectivamente una frase general con el lenguaje de un descubrimiento posterior.
 
-## 19. ¿Qué afirmó exactamente sobre masturbación?
+## 18. ¿Qué afirmó exactamente sobre masturbación?
 
 En *An Appeal to Mothers*, de 1864, White atribuyó a lo que llamaba «vicio secreto» o «abuso de sí» efectos físicos y mentales concretos. No era sólo una valoración moral ni una exhortación a dominar impulsos.[^28]
 
@@ -212,7 +201,7 @@ Hay reservas que debemos conservar. No dijo que todos los jóvenes débiles fuer
 
 Pero esas reservas no eliminan el contenido causal. El texto atribuye enfermedades y muerte a una práctica mediante desgaste de fuerzas vitales. Ésa es la proposición que debe contrastarse, separada de la ética sexual del lector.
 
-## 20. ¿La medicina actual confirma esas consecuencias?
+## 19. ¿La medicina actual confirma esas consecuencias?
 
 No confirma ese síndrome orgánico general. La historia de la medicina permite reconocerlo como una creencia antigua, extendida antes de White, acerca de masturbación, debilitamiento y enfermedad mental. No era un descubrimiento singular suyo.[^30]
 
@@ -226,7 +215,7 @@ El vocabulario médico antiguo requiere cuidado. «Humor canceroso» no es autom
 
 La conclusión alcanza al síndrome causal descrito, no a toda observación sobre exceso, compulsión o cansancio. El texto mezcla preocupaciones que pueden tener un fundamento con relaciones médicas sustancialmente incorrectas.
 
-## 21. ¿La defensa basada en exceso, fantasías o zinc resuelve el problema?
+## 20. ¿La defensa basada en exceso, fantasías o zinc resuelve el problema?
 
 Sólo parcialmente. Una defensa seria recuerda que White hablaba de hábitos persistentes, pensamiento e incapacidad de control. Eso corrige lecturas caricaturescas. Pero no permite convertir una lista de enfermedades físicas en una simple advertencia sobre descuidar responsabilidades.
 
@@ -236,7 +225,7 @@ La defensa puede mostrar que no todo el párrafo carece de sentido: el exceso qu
 
 Para resolver el caso necesitamos evidencia sobre la misma afirmación, con su alcance y secuencia. Serviría un estudio sólido que demostrara esa relación, o un documento original que mostrara que el texto tenía otro referente. No bastaría encontrar un paciente compulsivo o una enfermedad distinta asociada a déficit de zinc.
 
-## 22. ¿Presentó esas afirmaciones como opinión personal o como información mostrada?
+## 21. ¿Presentó esas afirmaciones como opinión personal o como información mostrada?
 
 La atribución es especialmente importante aquí. El pasaje sobre niños empieza con «I have been shown»: «me ha sido mostrado». La descripción de enfermedades continúa como explicación de las consecuencias. En el contexto anterior dice que se le presentó el estado del mundo y que vio las causas de sus males. El original de 1864 conserva esas palabras; no fueron agregadas por una compilación póstuma.[^33]
 
@@ -246,7 +235,7 @@ No se encontró un manuscrito que muestre que un asistente añadió la lista de 
 
 Estamos, por tanto, ante una de las dificultades más fuertes del capítulo: una relación factual sustancialmente incorrecta presentada como algo mostrado. La matriz del libro no permite neutralizarla mediante una declaración general de falibilidad personal. El problema pesa seriamente contra ese mensaje; la evaluación completa del ministerio queda para el capítulo final.
 
-## 23. ¿Qué afirmó sobre medicamentos y qué contexto debemos conservar?
+## 22. ¿Qué afirmó sobre medicamentos y qué contexto debemos conservar?
 
 En 1864 denunció medicamentos peligrosos, preparados administrados sin diagnóstico y pacientes que exigían una sustancia fuerte para sentirse tratados. Describió riesgos reales de opio, estricnina, mercurio y calomel. Algunas prácticas terapéuticas de su época podían causar daños graves. No sería justo leer toda advertencia como rechazo ingenuo de una medicina segura.[^34]
 
@@ -258,7 +247,7 @@ La primera contiene una magnitud no sustentada por el expediente histórico exam
 
 La segunda niega una eficacia de clase. Su contexto puede restringirla a medicación dañina e indiscriminada, pero necesita justificar esa restricción frente a palabras tan generales y a sustancias reales de la época. No podemos salvarla introduciendo automáticamente todas las excepciones de una medicina posterior.
 
-## 24. ¿Había medicamentos eficaces en su propio tiempo?
+## 23. ¿Había medicamentos eficaces en su propio tiempo?
 
 Sí. La corteza de quina y la quinina ofrecen un contraejemplo importante: podían tratar malaria, aunque tuvieran riesgos y no sirvieran para cualquier fiebre. Su historia de uso y evaluación es anterior a 1864. No necesitamos esperar antibióticos modernos para plantear la dificultad.[^36]
 
@@ -270,7 +259,7 @@ Existen testimonios posteriores de que White admitió usos excepcionales de medi
 
 El resultado es mixto: advertencias reales contra toxicidad y abuso, junto con una negación general de eficacia que no se sostiene. La cuantificación de muertes abre con atribución directa a lo mostrado; la frase sobre curación está integrada en ese marco sanitario, sin una marca separada para cada oración.
 
-## 25. ¿Tenía razón al relacionar carne y cáncer?
+## 24. ¿Tenía razón al relacionar carne y cáncer?
 
 La pregunta necesita dividirse. Hay evidencia fuerte de que la carne procesada aumenta el riesgo de determinados cánceres; la evaluación de la carne roja tiene un grado diferente. Eso no significa que toda carne cause todo cáncer ni que cualquier consumo produzca necesariamente la enfermedad.[^39]
 
@@ -280,7 +269,7 @@ Otro pasaje de *The Ministry of Healing* afirma que las personas comen carne lle
 
 La frase reúne relaciones distintas. Una puede ser razonablemente correcta como posibilidad, otra demasiado amplia y otra aparentemente errónea. Un párrafo no tiene que recibir una sola clasificación. El consejo práctico de evitar alimento infectado tampoco resuelve qué mecanismo atribuyó a una enfermedad particular.
 
-## 26. ¿Los virus relacionados con cáncer vindican la frase sobre gérmenes de carne?
+## 25. ¿Los virus relacionados con cáncer vindican la frase sobre gérmenes de carne?
 
 No por sí solos. Algunos agentes infecciosos pueden favorecer determinados cánceres. Eso impide ridiculizar la palabra «gérmenes» como si ninguna infección pudiera intervenir en un tumor. Pero transmitir un agente que aumenta riesgo y transmitir el cáncer de un animal al comer su carne no son la misma proposición.[^42]
 
@@ -290,7 +279,7 @@ Podría proponerse que «germ» significa semilla o principio de enfermedad en u
 
 La clasificación más prudente es aparentemente errónea, con evidencia fuerte contra la lectura causal ordinaria, sin declarar imposible cualquier hallazgo futuro sobre alimentación e infección. No encontramos una declaración individual de White que atribuya esa frase precisa a una visión. El libro pertenece a su programa sanitario, pero eso no permite fabricar una cita en la que un ángel le haya explicado ese mecanismo.
 
-## 27. ¿El café, el té y otras advertencias médicas pueden evaluarse igual?
+## 26. ¿El café, el té y otras advertencias médicas pueden evaluarse igual?
 
 Hay que aplicar el mismo procedimiento, aunque el resultado cambie. White describió café y té como estimulantes, habló de malestar al dejarlos y los llamó venenos lentos semejantes al tabaco, aunque de menor efecto. Estímulo y abstinencia tienen fundamento; deterioro general por cualquier consumo es otra afirmación.[^43]
 
@@ -300,7 +289,7 @@ Otros casos requieren más reservas. Que el cerdo mal tratado pueda transmitir p
 
 Estos ejemplos permanecen en el inventario con sus límites. No reciben el peso de una afirmación causal clara introducida como información mostrada. Conservarlos evita seleccionar sólo lo favorable o sólo lo desfavorable; desarrollarlos todos con igual extensión convertiría el capítulo en una colección de curiosidades.
 
-## 28. ¿Qué permite concluir el conjunto sin forzar una respuesta uniforme?
+## 27. ¿Qué permite concluir el conjunto sin forzar una respuesta uniforme?
 
 Permite afirmar que White publicó errores históricos, y que algunas revisiones corrigieron contenido. La prioridad valdense es un caso claro; la secuencia jurídica francesa conserva problemas incluso después de revisarse. Otras modificaciones son precisión, estilo o reducción de una cifra todavía discutida.
 
@@ -328,8 +317,8 @@ El resultado sigue la evidencia de cada caso. Hay errores demostrados, afirmacio
 [^12]: GC 1888/1911, p. 284; Prescott §62. El cambio es documentado; no se estableció una contabilidad homogénea de todas las muertes del universo narrado.
 [^13]: GC 1888/1911, p. 247; Donald McAdams, [*Ellen G. White and the Protestant Historians* (1977)](https://whiteestate.org/issues/EGWPH77.pdf), pp. 237–241; [Württembergische Landesbibliothek, ejemplar de 1526](https://wiki.wlb-stuttgart.de/index.php/Bibeln_Tyndale_NT_1526); [Library of Congress, exposición Tyndale, 1997](https://www.loc.gov/loc/lcib/9707/tyndale.html). La estimación de 6.000 no se trató como hecho seguro frente a 3.000.
 [^14]: White, *Spiritual Gifts*, vol. 3 (1864), pp. 95–97 y 301; [prefacio facsimilar posterior](https://text.egwwritings.org/read/106.2). Rea, *The White Lie* (1982), cap. 4, funciona como mapa crítico. La atribución de errata es editorial posterior, no autógrafo inspeccionado. Corona de espinas: [ficha del cap. 11](../hallazgos/capitulo-11-colaboradores-y-limites-de-atribucion.md).
-[^15]: SG3, pp. 90–95, [texto y contexto](https://ellenwhiteresearch.com/works/3SG/9); primera edición, 1864. [Expediente geológico](../hallazgos/capitulo-12-geologia-y-cronologia.md).
-[^16]: USGS, [*Age of the Earth*](https://pubs.usgs.gov/gip/geotime/age.html) y [*Radiometric Time Scale*](https://pubs.usgs.gov/gip/geotime/radiometric.html). Se recuperó contenido por búsqueda; algunos accesos directos devolvieron 403. Se utiliza la síntesis del organismo, sin afirmar cotejo de todas las mediciones originales.
+
+
 [^17]: SG3, pp. 79–83, [*After the Flood*](https://ellenwhiteresearch.com/works/3SG/8). «I saw» aparece en la escena de p. 80; no se atribuye marca revelatoria separada a cada eslabón químico.
 [^18]: USGS, [*Coal: A Complex Natural Resource*](https://pubs.usgs.gov/circ/c1143/html/text.html); E. L. Heffern y D. A. Coates, [*Geologic history of natural coal-bed fires, Powder River basin, USA* (2004)](https://www.usgs.gov/publications/geologic-history-natural-coal-bed-fires-powder-river-basin-usa). Esos fenómenos parciales no prueban la explicación universal de SG3.
 [^19]: USGS, [*About Volcanoes*](https://www.usgs.gov/programs/VHP/about-volcanoes). La defensa de fenómenos pseudovolcánicos se reconstruye en la ficha geológica, separando la referencia de Douglass a Stutzer de documentos realmente cotejados.
