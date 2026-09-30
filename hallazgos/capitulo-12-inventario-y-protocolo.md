@@ -39,8 +39,6 @@ Las páginas son las de las ediciones inglesas indicadas, no las páginas del vi
 | H10 | Hus y Wylie: reconstrucción histórica y coincidencias, cap. 9. | Dependencia establecida; no declaración global de falsedad del relato. | Análisis de McAdams; historia. |
 | H11 | Babel supuestamente anterior al diluvio: SG3 1864, p. 301; contrastar pp. 95–97. | Acusación no establecida; enseñanza explícita contraria. | Rea, errata atribuida por prefacio posterior; historia. |
 | H12 | Dos coronas de espinas en borradores de DA, carta Davis 1895. | N como error histórico: silencio evangélico no prueba inexistencia. | Atribución editorial incompleta; remisión cap. 11. |
-| C01 | Mundo de unos 6.000 años: SG3 1864, pp. 91–95. | E según reconstrucción geológica ordinaria; alcance del «mundo» delimitado. | «I have been shown» en argumento próximo; [geología](capitulo-12-geologia-y-cronologia.md). |
-| C02 | Semana creadora literal mostrada: SG3 p. 90. | Conflicto científico de cronología; milagro en sí no es ensayo empírico. | «I was then carried back»; geología, sin examen doctrinal. |
 | C03 | Grandes animales extinguidos anteriores: SG3 p. 92. | V para existencia/extinción; N para ubicación de todos antes del diluvio. | «I was shown»; geología. |
 | C04 | Huesos humanos mucho mayores y humanidad primitiva gigantesca: SG3 pp. 92, 84–85. | A; no evidencia sólida de población ancestral universal así. | Escena visionaria; no se presenta ausencia de hallazgo como refutación total. |
 | C05 | Bosques enterrados originaron carbón: SG3 pp. 79–80. | I para origen vegetal/enterramiento; E para explicación universal por un diluvio reciente. | Marco revelatorio; geología. |
@@ -81,9 +79,13 @@ Las páginas son las de las ediciones inglesas indicadas, no las páginas del vi
 | S27 | Dieta/condimentos excitan pasiones: ApM pp. 20–21; MH pp. 325–326. | D para relación general; N si no hay dosis/desenlace definido. | No deducir causalidad de valoración moral; capítulos 13–15 si procede. |
 | O01 | Cuarenta habitaciones frente a treinta y ocho: Ms 107, 1909. | Error ordinario reconocido, atribución humana explícita. | [Autoridad](capitulo-12-autoridad-y-limites.md). |
 
+## ¿Qué caso se excluye deliberadamente del juicio probatorio?
+
+La cronología o edad de la Tierra no se utiliza en este capítulo como evidencia a favor o en contra de la pretensión profética de Ellen White. El proyecto no pretende resolver aquí la controversia entre modelos creacionistas de Tierra joven y reconstrucciones geológicas de larga duración. Esta exclusión metodológica **no declara demostrada ni refutada** la cronología defendida por White; simplemente evita convertir una disputa de marco que el libro no va a adjudicar en un supuesto error probatorio. Permanecen evaluables por separado afirmaciones geológicas causales más concretas —por ejemplo, el mecanismo propuesto para volcanes y terremotos— cuando puedan contrastarse sin depender de fijar una edad para la Tierra.
+
 ## ¿Qué casos se eligieron y qué podría cambiar la selección?
 
-El cuerpo desarrolla prioridad valdense, revisiones y Francia; cronología/geología; amalgamación y astronomía; reforma sanitaria, aciertos, masturbación, medicamentos, cáncer y café. Se eligieron por falsabilidad, relevancia y posibilidad de delimitar autoridad, no por espectacularidad. El inventario conserva controles favorables y acusaciones que no prosperan.
+El cuerpo desarrolla prioridad valdense, revisiones y Francia; mecanismos geológicos concretos; amalgamación y astronomía; reforma sanitaria, aciertos, masturbación, medicamentos, cáncer y café. Se eligieron por falsabilidad, relevancia y posibilidad de delimitar autoridad, no por espectacularidad. El inventario conserva controles favorables y acusaciones que no prosperan.
 
 Para ampliar o cambiar un resultado se requieren documentos o estudios capaces de modificar la proposición, su fecha, su exactitud o su origen. Las pruebas concretas figuran en cada expediente. No se interpreta «prueba pendiente» como suspensión automática de un resultado sostenido; indica cómo se lo podría refutar.
 
