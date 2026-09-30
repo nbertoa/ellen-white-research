@@ -1,0 +1,401 @@
+{
+  "fecha": "2026-09-30",
+  "repositorio": "nbertoa/ellen-white-research",
+  "base_commit": "8dc4c55fff7579858b23a20e3aba0f71601a3bc8",
+  "criterio": "Huella del ejemplar o transcripción consultados, no autenticación de autógrafos ni experiencias.",
+  "fuentes": [
+    {
+      "id": "sg2-1860",
+      "documento": "White, Spiritual Gifts 2 (1860), 292–293",
+      "url": "https://m.egwwritings.org/en/book/105.1115",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Unidad completa; sin autógrafo ni facsímil del libro inspeccionado",
+      "archivo_consultado": "memory1860.md",
+      "sha256": "c8ba1b38bb71cb3f8e48d024022086c0d5bd779c18bdfbea30600f006336034a",
+      "bytes": 32220
+    },
+    {
+      "id": "rh-1867",
+      "documento": "White, Questions and Answers, 8-X-1867, 260",
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH18671008-V30-17.pdf",
+      "acceso": "primaria-facsimil",
+      "alcance": "PDF y página 260 cotejados; transcripción digital también consultada",
+      "archivo_consultado": "RH18671008.pdf",
+      "sha256": "845ecb4800ea85d1f3c20e6101ab5a716b0381adfeb308c42722272498f0107f",
+      "bytes": 1320665
+    },
+    {
+      "id": "ms7-1867",
+      "documento": "White, Ms 7, catalogado 1867, antes Undated Ms 149",
+      "url": "https://m.egwwritings.org/en/book/13961.2972001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Unidad completa; año del catálogo sin día ni lugar",
+      "archivo_consultado": "health1867.md",
+      "sha256": "096018309536da91a7872e5de4183a4fba7ae6d15c2534cb8b44b9ade6c19b14",
+      "bytes": 5560
+    },
+    {
+      "id": "t29-1880",
+      "documento": "White, T29 (1880), The Judgment, 3–7; experiencia declarada 23-X-1879",
+      "url": "https://text.egwwritings.org/amp/read/12814.16",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Unidad completa; no autógrafo ni facsímil inicial cotejado",
+      "archivo_consultado": "judgment-no29.md",
+      "sha256": "45bbd81a6004e98b5aded9cd9620e6d34a6187da1b6c35c7a1b0f045aed83e59",
+      "bytes": 7654
+    },
+    {
+      "id": "march-1866",
+      "documento": "March, Walks and Homes of Jesus (1866), 316–317",
+      "url": "https://archive.org/details/walkshomesofjesu00marc",
+      "acceso": "primaria-facsimil",
+      "alcance": "Portada, OCR y ambas páginas renderizadas",
+      "archivo_consultado": "walkshomesofjesu00marc.pdf",
+      "sha256": "1f490194a234126fbdc81b38f9dde13cfb5a4a84cdd01955d7a70cd9759b5497",
+      "bytes": 19118338
+    },
+    {
+      "id": "march-1869",
+      "documento": "March, Night Scenes in the Bible, edición 1869, 201–202",
+      "url": "https://archive.org/details/nightscenesinbib00marc",
+      "acceso": "primaria-ocr",
+      "alcance": "OCR del ejemplar y metadatos; no se afirma facsímil de esas páginas cotejado",
+      "archivo_consultado": "march-night.txt",
+      "sha256": "2467d41d1fbb108e35539a5eec0df048b5b09b5ac6f2bca1d244130afbca7ddc",
+      "bytes": 872972
+    },
+    {
+      "id": "bc-1882",
+      "documento": "White, testimonio de 1882, reproducido en 5T 66–68",
+      "url": "https://m.egwwritings.org/en/book/113.310",
+      "acceso": "primaria-transcripcion-reimpresion",
+      "alcance": "Contexto completo; primera publicación controlada por C3",
+      "archivo_consultado": "battle-creek1882.md",
+      "sha256": "6abe89fbc3af994cb1476136cbc6041d0f0f29b2da058ba76d3f012adabd032f",
+      "bytes": 70201
+    },
+    {
+      "id": "lt38-1885",
+      "documento": "White, Lt 38, 22-XII-1885, Edson y William, par. 30",
+      "url": "https://m.egwwritings.org/en/book/14054.3943001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Carta completa, sin autógrafo inspeccionado",
+      "archivo_consultado": "lt38-1885-full.md",
+      "sha256": "08194821f4eea5b9d6a4f5274991d754f6bc34a73ee0c2a77017fd3af87ce2b8",
+      "bytes": 17740
+    },
+    {
+      "id": "ms24-1886",
+      "documento": "White, Ms 24, año catalogado 1886",
+      "url": "https://m.egwwritings.org/en/book/14054.4421001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Documento completo; no día ni lugar",
+      "archivo_consultado": "ms24-1886.md",
+      "sha256": "87a643cb5708704415df5b509fba6ee91b15c000e3fef7bf8c476ec9835bdc94",
+      "bytes": 7225
+    },
+    {
+      "id": "gc1888",
+      "documento": "White, GC 1888, Author’s Preface, c–h",
+      "url": "https://m.egwwritings.org/en/book/133.18",
+      "acceso": "primaria-transcripcion-edicion",
+      "alcance": "Prólogo de autora separado del de editores",
+      "archivo_consultado": "white-preface1888.md",
+      "sha256": "fb9dbea5906ed79204c5a4700dc69bf4b34f1ee8e3a07bee5bca775a3f6b9bfc",
+      "bytes": 27491
+    },
+    {
+      "id": "ms29a-1890",
+      "documento": "White, Ms 29a, entrada 21-XI-1890, 2–4",
+      "url": "https://m.egwwritings.org/en/book/14056.6865048",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Variante, contexto consultado; no autógrafo",
+      "archivo_consultado": "diary1890.md",
+      "sha256": "1b1ff9d868fc42170120933385f875878f176d322101ee9bcb6e6eb3763c8abd",
+      "bytes": 34031
+    },
+    {
+      "id": "ms29-1890",
+      "documento": "White, Ms 29, variante de diario",
+      "url": "https://m.egwwritings.org/en/book/14056.7187001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Comparación de variantes; no testigos independientes de experiencia",
+      "archivo_consultado": "ms29variant.md",
+      "sha256": "c05fdf7751feeae112fb78086de9a93a69af25d8a2341c106340b8f84cf4c2cb",
+      "bytes": 32020
+    },
+    {
+      "id": "krum1847",
+      "documento": "Krummacher, Elijah the Tishbite, Carter, 1847, 20–21",
+      "url": "https://archive.org/details/elijahtishbite00krum_0",
+      "acceso": "primaria-facsimil",
+      "alcance": "Portada y ambas páginas renderizadas; traducción pertinente",
+      "archivo_consultado": "elijahtishbite00krum_0.pdf",
+      "sha256": "2147845084c49480ad6f1cccee1f598c5165e26848ba75d1efc40bf623de665a",
+      "bytes": 25186955
+    },
+    {
+      "id": "lt7-1894",
+      "documento": "White, Lt 7, 6-II-1894, Fannie Bolton",
+      "url": "https://m.egwwritings.org/en/book/14059.6726001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Carta individual y variantes editoriales",
+      "archivo_consultado": "bolton1894.md",
+      "sha256": "5a5693dc3323815001732e75a86b4ad81b638fbfb961916ca014b2b5f890fd19",
+      "bytes": 34162
+    },
+    {
+      "id": "lt25-1897",
+      "documento": "White, Lt 25, 11-IV-1897, Fannie Bolton",
+      "url": "https://m.egwwritings.org/en/book/14062.7296001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Carta completa; abril, no mayo",
+      "archivo_consultado": "bolton-april1897.md",
+      "sha256": "c03638f67f9422bdf4698bc4c40700a6bb545ccc2bf29affa990a150b0a20ab0",
+      "bytes": 9619
+    },
+    {
+      "id": "lt24-1897",
+      "documento": "White, Lt 24, 25-VI-1897, Fannie Bolton",
+      "url": "https://m.egwwritings.org/en/book/14062.4760010",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Carta completa; alcance de negativa preservado",
+      "archivo_consultado": "bolton-june1897.md",
+      "sha256": "1432ec1764e3017d17ff911ca983cdee96cdb1341ed07517512d83e36c7007e2",
+      "bytes": 8691
+    },
+    {
+      "id": "ms153-1898",
+      "documento": "White, Ms 153, 28-X-1898, entrada 29-X, 11–18",
+      "url": "https://m.egwwritings.org/en/book/14063.7007001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Unidad completa; no autógrafo",
+      "archivo_consultado": "ms153-1898.md",
+      "sha256": "8e3b8717651514b58ce83cd8070f8e1974c2442bd2be437f70026d3a031ee3f7",
+      "bytes": 21341
+    },
+    {
+      "id": "rh1899",
+      "documento": "White, After the Camp-meeting, 4-IV-1899, 209–210",
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH18990404-V76-14.pdf",
+      "acceso": "primaria-facsimil",
+      "alcance": "PDF y páginas; ausencia de comillas delimitadoras",
+      "archivo_consultado": "RH18990404.pdf",
+      "sha256": "f1a2dbe11cf48bf14b699f3f1e777ac8b2f7eff9724f4cc473c38a8a4184ef09",
+      "bytes": 1001227
+    },
+    {
+      "id": "humphrey1836",
+      "documento": "Heman Humphrey, introducción a Harris, Great Teacher, 1836, xiv–xvii",
+      "url": "https://archive.org/details/greatteacherch00harr",
+      "acceso": "primaria-facsimil",
+      "alcance": "Texto cotejado; xvi–xvii también visualmente",
+      "archivo_consultado": "greatteacherch00harr.pdf",
+      "sha256": "8f11c9e47139b577ff64092d2a546beea4d57a8025a2f56a7af2894e6ee29c3c",
+      "bytes": 25971517
+    },
+    {
+      "id": "lt238-1903",
+      "documento": "White, Lt 238, 1-XI-1903, A. G. Daniells, 1–3",
+      "url": "https://m.egwwritings.org/en/book/14068.10141001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Carta completa; no relato leído identificado",
+      "archivo_consultado": "iceberg1903.md",
+      "sha256": "ff6294b61c49b63645c8686f0bf90151533c3ae272ff32427cb7861c4bd0a7ac",
+      "bytes": 6752
+    },
+    {
+      "id": "ms10-1905",
+      "documento": "White, Ms 10, 1905, fecha interna 12-IX-1904, par. 6",
+      "url": "https://m.egwwritings.org/en/book/7597",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Unidad completa; diferencia de archivo y fecha preservada",
+      "archivo_consultado": "ms10-1905.md",
+      "sha256": "e48a98bd58b2a1c0a9064377c235f9de797d0f125868762b985bdf411172ba61",
+      "bytes": 8860
+    },
+    {
+      "id": "lt206-1906",
+      "documento": "White, Lt 206, 14-VI-1906, David Paulson",
+      "url": "https://m.egwwritings.org/en/book/14071.9129001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Carta completa; afirmación de Paulson distinguida",
+      "archivo_consultado": "paulson1906.md",
+      "sha256": "df6be03b930413de6688677f8a29c4532fc91622dd557034769b3285202c8b5c",
+      "bytes": 24297
+    },
+    {
+      "id": "lt225-1906",
+      "documento": "White, Lt 225, 8-VII-1906",
+      "url": "https://m.egwwritings.org/en/book/14071.7929001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Sin destinatario identificado; no confundida con variantes",
+      "archivo_consultado": "writing1906.md",
+      "sha256": "a209fc8569f886f2da710ef50cf28f15f46c4f89e764b7e37954cdf3d4231d56",
+      "bytes": 11056
+    },
+    {
+      "id": "ms107-1909",
+      "documento": "White, Ms 107, 5-III-1909, 2 y 11",
+      "url": "https://m.egwwritings.org/en/book/14074.9768001",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Unidad completa; información común y sagrada",
+      "archivo_consultado": "ms1071909.md",
+      "sha256": "e0f7ce84c7b621a30d61438885abb7b2c19d781c1d9b2dfe0a468ed9b8a224bf",
+      "bytes": 10522
+    },
+    {
+      "id": "gc1911",
+      "documento": "White, GC 1911, introducción xi–xii",
+      "url": "https://m.egwwritings.org/en/book/132.21",
+      "acceso": "primaria-transcripcion-edicion",
+      "alcance": "Comparada con prólogo 1888",
+      "archivo_consultado": "gc-intro.md",
+      "sha256": "a37b401a1afb8e8b77c6411fddb63da2766969bbe03a9bf268fbcd160f05149d",
+      "bytes": 27125
+    },
+    {
+      "id": "wcw1911",
+      "documento": "W. C. White, 24-VII-1911, leído 30-X",
+      "url": "https://whiteestate.org/about/issues1/ref-lib/add-docs/gc/gc-wcw/",
+      "acceso": "primaria-transcripcion-participante",
+      "alcance": "Carta y contexto; no prueba del origen divino",
+      "archivo_consultado": "wcw1911.md",
+      "sha256": "557b4256dd49c47fd2bec9bded19ce558355d70204ca53c352a9ea2f87885424",
+      "bytes": 16867
+    },
+    {
+      "id": "wcw1935",
+      "documento": "W. C. White, exposiciones 18-VI y 27-VII-1935",
+      "url": "https://whiteestate.org/legacy/issues-howegwbkswcw-html/",
+      "acceso": "primaria-retrospectiva",
+      "alcance": "Secciones sobre historia y edición; recuerdos tardíos",
+      "archivo_consultado": "wcw1935.md",
+      "sha256": "5cc3ba6e648e838ae84c347aa1123b6b8856074ef42aba01a6735a0b53811f0c",
+      "bytes": 71063
+    },
+    {
+      "id": "gunn1863",
+      "documento": "Gunn, New Domestic Physician, edición 1863, 367–368",
+      "url": "https://archive.org/details/63570990R.nlm.nih.gov",
+      "acceso": "primaria-ocr",
+      "alcance": "Texto del ejemplar 1863, no página de edición 1857",
+      "archivo_consultado": "gunn1863.txt",
+      "sha256": "9c493f58cfa1b97e11cff9a06fb4afa3821fe8aa9aca5bc1c708ceaee856e06f",
+      "bytes": 3088858
+    },
+    {
+      "id": "rh1864",
+      "documento": "Tobacco-Using No. 2, 24-V-1864, 205–206",
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH18640524-V23-26.pdf",
+      "acceso": "primaria-pdf-texto",
+      "alcance": "Circulación de fórmula; no lectura individual probada",
+      "archivo_consultado": "RH18640524.pdf",
+      "sha256": "a3d34d5c3a7b47888c5abc7557c49f7e69f93aa38c9d79c21b87a38cf78e181b",
+      "bytes": 875995
+    },
+    {
+      "id": "sg4a1864",
+      "documento": "White, Spiritual Gifts 4a (1864), Health, 128",
+      "url": "https://m.egwwritings.org/en/book/107.596",
+      "acceso": "primaria-transcripcion",
+      "alcance": "Contexto de capítulo; no fuente inmediata identificada",
+      "archivo_consultado": "sg-health.md",
+      "sha256": "8d4957fb7e5406117c749d40bb72dc75982582a0e4bdc27efe61df1d07406c26",
+      "bytes": 69177
+    },
+    {
+      "id": "graybill1981a",
+      "documento": "Graybill, 2-IV-1981, 7",
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH19810402-V158-14.pdf",
+      "acceso": "investigacion-secundaria",
+      "alcance": "Explicación inicial de Queensland; no facsímil 6T inicial",
+      "archivo_consultado": "RH19810402.pdf",
+      "sha256": "12a7af805ab08741d13b06e00c8679b77c78fec27c83d85d073e6dd46f7b10e9",
+      "bytes": 1118759
+    },
+    {
+      "id": "graybill1981b",
+      "documento": "Graybill, Author writes, 30-IV-1981, 2",
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH19810430-V158-18.pdf",
+      "acceso": "investigacion-secundaria",
+      "alcance": "Rectificación: recomendación y serie bíblica",
+      "archivo_consultado": "RH19810430.pdf",
+      "sha256": "e5d641cdf47101b58a2790e2bf630db432b65712594cf1c574f6ef43c0365d73",
+      "bytes": 890359
+    },
+    {
+      "id": "graybill1982",
+      "documento": "Graybill, The I Saw Parallels, 29-VII-1982, 4–5",
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH19820729-V159-30.pdf",
+      "acceso": "investigacion-secundaria",
+      "alcance": "Localizador de casos; no sustituto de cotejo primario",
+      "archivo_consultado": "RH19820729.pdf",
+      "sha256": "c9a581c3f2c45553909ca80b3cdafa2c074806d3b6f04acfa833f8efb92514a9",
+      "bytes": 1588687
+    },
+    {
+      "id": "olson1981",
+      "documento": "Olson, 101 Questions, pregunta 89, 94–96",
+      "url": "https://text.egwwritings.org/read/818.743",
+      "acceso": "defensa-secundaria",
+      "alcance": "Estado de archivo y cierre propuesto según informe, no inspección propia",
+      "archivo_consultado": "editorial-qld.md",
+      "sha256": "966946fb1ee58fcd9c9a3e3d0d712323979fd1dd78ee91b4941cb4ccd6d4c5fe",
+      "bytes": 20603
+    },
+    {
+      "id": "olson1991",
+      "documento": "Olson, Ellen White’s Denials, febrero 1991, 15–18",
+      "url": "https://www.ministrymagazine.org/archive/1991/02/ellen-whites-denials",
+      "acceso": "defensa-secundaria",
+      "alcance": "Alternativas y cita indirecta de W. C. a Andross, 18-VI-1920",
+      "archivo_consultado": "denials.md",
+      "sha256": "18b23d01f794aa0878e12d9b1261a4692a7fe4b7f6392b2b0bdf29c88e5875de",
+      "bytes": 26996
+    },
+    {
+      "id": "poirier2012",
+      "documento": "Poirier, Ellen White and Sources: 125 Years Later",
+      "url": "https://whiteestate.org/about/issues1/ref-lib/sources/",
+      "acceso": "investigacion-secundaria",
+      "alcance": "Rastreo de tradición verbal y controversias; no ruta individual probada",
+      "archivo_consultado": "sources-poirier.md",
+      "sha256": "fa542da5975ba9031deb4385471dd4615db4e6199f6d8c808f195faf62745297",
+      "bytes": 71885
+    },
+    {
+      "id": "enoch",
+      "documento": "1 Enoc 1:9, traducción R. H. Charles",
+      "url": "https://sacred-texts.com/book/the-book-of-enoch/read/chapter-i",
+      "acceso": "primaria-traduccion",
+      "alcance": "Texto contrastado; sin año de edición digital no verificado",
+      "archivo_consultado": "enoch1.md",
+      "sha256": "5e640804e1511f092b715642b713d537287eb75288a9d4b8db7b78ce50c8bdfe",
+      "bytes": 8328
+    }
+  ],
+  "fuentes_aportadas": [
+    {
+      "autor": "Walter Rea",
+      "obra": "The White Lie",
+      "edicion": "1982",
+      "alcance": "cap. 3, 52–54; cap. 7 y paralelos pertinentes",
+      "sha256": "134b89320a8318b2174e82ba48120ba91c66ff00714ad2b8c8e76871ae6b984e"
+    },
+    {
+      "autor": "Herbert E. Douglass",
+      "obra": "Messenger of the Lord",
+      "edicion": "1998; edición digital 2013",
+      "alcance": "caps. 16, 39–40 y notas pertinentes",
+      "sha256": "2c7ad55a763dde2f73b8032e591222211ce8a2fa05de94f7091629427e92f202"
+    }
+  ],
+  "limitaciones": [
+    "No autógrafos de los casos nuevos inspeccionados",
+    "No facsímil inicial de 6T cotejado",
+    "Carta completa W. C. a Andross 1920 no cotejada",
+    "Sin constancias fechadas de acceso individual a March/Krummacher/Gunn",
+    "Fuentes de capítulos previos se usan con los límites ya registrados"
+  ]
+}
