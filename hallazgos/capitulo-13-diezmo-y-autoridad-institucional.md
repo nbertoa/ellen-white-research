@@ -1,0 +1,45 @@
+# ¿Se contradicen las instrucciones sobre el diezmo y la autoridad institucional?
+
+Fecha de corte: 30-IX-2026. C13-30 a C13-33. El objeto son afirmaciones e instrucciones comparables. Motivaciones, enriquecimiento, favoritismo, secreto y evaluación de conducta se registran para C15 sin decidirlos aquí.
+
+## ¿Qué decía la regla pública sobre decidir el destino del diezmo?
+
+**A:** «A Test of Gratitude and Loyalty», RH **10-XI-1896**, párr. 9: “Let none feel at liberty to retain their tithe to use according to their own judgment. They are not to use it for themselves in any emergency, nor to apply it as they see fit, even in what they may regard as the Lord’s work.” Párr. 10: el ministro tampoco puede retenerlo por ser ministro. Público: miembros y ministros; problema: desviar a usos que el administrador particular considera adecuados lo reservado a Dios. Párrs. 3–4, 9 y 13 presentan el plan como dirección divina, no preferencia personal.
+
+Fuente primaria leída completa: [artículo](https://text.egwwritings.org/read/821.15339). Primera publicación cotejada: 10-XI-1896. No atribuir su fecha a la compilación *Counsels on Stewardship* de 1940. Reaparición: RH **9-X-1906**, y 9T (1909), p. 247: no se trata necesariamente de regla abandonada antes de la excepción.
+
+## ¿Qué autorizaba la carta a Watson?
+
+**B:** Lt 267, **22-I-1905**, Mountain View, a **G. F. Watson**, [carta completa, siete párrafos](https://text.egwwritings.org/read/14070.10694001), publicada íntegra posteriormente en 2MR, pp. 99–100; primera difusión pública absoluta no establecida. Problema: críticas a asignación de diezmo a ministros blancos y negros, ancianos o desatendidos, especialmente en el Sur.
+
+Párr. 2: “It has been presented to me for years that my tithe was to be appropriated by myself to aid the white and colored ministers who were neglected and did not receive sufficient properly to support their families.” Párr. 4: “I have myself appropriated my tithe to the most needy cases brought to my notice. I have been instructed to do this; and as the money is not withheld from the Lord’s treasury, it is not a matter that should be commented upon”. Párr. 5: “I commend those sisters who have placed their tithe where it is most needed to help to do a work that is being left undone”. Párr. 6: “Circumstances alter cases. I would not advise that any one should make a practice of gathering up tithe money.” Describe que recibió dinero, extendió recibos e informó su destino.
+
+**Crítica más fuerte:** A dice *none*, incluye usos pretendidamente religiosos y niega privilegio ministerial; B aprueba asignación individual y no sólo la propia. La excepción no está indicada en el artículo de 1896. La repetición de A después de B dificulta reducirlo a un mero cambio definitivo de opinión. La pretensión de instrucción divina hace este candidato importante.
+
+**Defensa más fuerte:** A prohíbe autonomía del juicio particular y desvío del destino ministerial; B reclama una comisión específica de Dios para sostener precisamente ministros desatendidos. No autoriza cualquier proyecto elegido por un donante ni cambio del propósito del diezmo. En B la excepción y el problema están expresos. Su significado de «tesorería del Señor» tampoco es automáticamente «únicamente cuenta bancaria de la conferencia».
+
+**Debilidades de ambas lecturas:** la crítica necesita probar que A prohíbe también la asignación por comisión específica, no sólo por juicio propio; la defensa necesita justificar por qué las hermanas aprobadas en B se hallan fuera de la clase descrita por A, no afirmar que todo acto de White estaba por definición autorizado. B dice «por años», pero no fija comienzo: **no prueba por sí solo simultaneidad con noviembre de 1896**. Tampoco tener fines buenos autentica la supuesta instrucción divina.
+
+**Resultado C13-30:** excepción institucional y autorización especial establecidas; posible contradicción entre norma pública y autorización privada, no establecida bajo condiciones equivalentes. Dos textos auténticos de autoridad significativa; alcance original y comisión anterior no verificados independientemente. **Peso:** uno de los casos pendientes materialmente relevantes; no se elimina con «era contextual» sin explicar *none* y las hermanas. No se etiqueta «revelaciones específicas incompatibles comprobadas», porque A no formula explícitamente la negación de toda comisión extraordinaria.
+
+**Falsación crítica:** un documento de Ellen que prohíba esa misma asignación, para esos mismos ministros desatendidos y pese a la comisión alegada, establecería el par; una carta previa a 1896 con comisión y excepción reconocida aclararía continuidad. **Falsación favorable:** si todo pago que hace White se declarara automáticamente comisión, la defensa no podría perder y sería inadmisible. Se necesitan documentos que identifiquen misión, destinatarios y límites. No atribuir a la carta un permiso general que niega.
+
+## ¿Conferencia General significa siempre el mismo órgano y forma de actuación?
+
+**A:** *Testimony No. 25* (**1875**), «Leadership», pp. 43–44, dirigido a un ministro anonimizado: “I have been shown that no man's judgment should be surrendered to the judgment of any one man. But when the judgment of the General Conference, which is the highest authority God has upon the earth, is exercised, private independence and private judgment must not be maintained but be surrendered.” En p. 44 reprocha colocar a James en el lugar de la voz colectiva de la iglesia. [Texto original reeditado electrónicamente](https://ellenwhiteresearch.com/works/T25/7); luego 3T, pp. 492–493. No añadir «in session» como si fueran palabras de esta oración: no aparecen allí.
+
+**B:** Ms 43, **1-IV-1901**, biblioteca del colegio de Battle Creek, discurso a trabajadores antes de la sesión, párr. 4: “Over and over again men have said, ‘The voice of the Conference is the voice of God; therefore everything must be referred to the Conference. The Conference must permit or restrict in the various lines of work.’” Luego rechaza el círculo estrecho que pretende poder regio. Párrs. 10 y 14: malas decisiones durante quince años y carga puesta sobre dos o tres hombres; pide representación institucional mayor. [Discurso completo](https://m.egwwritings.org/en/book/14066.9289001). Hay variantes 43b/c/d: no mezclar sus frases como una única transcripción sin indicarlo. Primera publicación íntegra no fijada aquí.
+
+**C de control:** 9T (**1909**), pp. 260–261: autoridad de representantes de la iglesia de todo el mundo reunidos en Conferencia General, frente a poder de uno o unos pocos. Sirve para comprobar que B no abolió todo gobierno colectivo; no introducir todas las condiciones de 1909 silenciosamente en A.
+
+**Crítica:** la autoridad más alta puede luego no ser voz divina; la descripción temprana parece demasiado amplia. **Defensa:** autoridad colectiva y comportamiento de un pequeño grupo no son idénticos; la oposición a un solo hombre ya existe en A. El tiempo y el funcionamiento institucional cambiaron, según B, no sólo según un defensor moderno.
+
+**Resultado C13-31:** diferencia contextual probable y desarrollo de delimitación institucional; no contradicción lógica establecida. Origen: *I have been shown* en A e instrucción religiosa en B, peso real. Faltan actas y órdenes precisas del conflicto original para demostrar que A y B se refieren a la misma clase de decisión bajo condiciones equivalentes. La defensa pierde si una orden individual antes investida de autoridad incondicional se repudia luego bajo iguales condiciones; la crítica pierde si identifica todo comité local o reducido con asamblea representativa sin justificar el referente.
+
+## ¿Todo cambio sobre ubicación, deuda o publicación es equivalente a este caso?
+
+**C13-32:** desarrollo de Battle Creek y posterior descentralización: los documentos conocidos de C7/C11 registran crecimiento, responsabilidades y advertencias concretas, pero un mandato de fundar una institución no es mandato de mantenerla para siempre en idéntico tamaño y lugar. Sin A/B específico equivalente, resultado **indeterminado**, no «armonizado» por defecto.
+
+**C13-33:** evitar deudas y financiar proyectos mediante préstamos: Lt 128, 9-VII-1896, párrs. 16–18, informa deudas, gastos y necesidad de ventas editoriales, pero ese relato no afirma por sí solo que endeudarse sea siempre lícito. Falta un par normativo completo sobre mismo proyecto y condiciones. Registrar para C15 los gastos y ayuda familiar, sin deducir uso impropio del diezmo de la coexistencia de gastos personales y comisiones ministeriales. **Resultado:** indeterminado para contradicción normativa; diferencia entre hecho y norma establecida. No inventar una regla «nunca tomar préstamos» desde consejos de prudencia sin examinar su texto.
+
+Mapas: [crítica sobre diezmo](https://www.nonegw.org/contra1.shtml); Douglass, *Messenger of the Lord*, capítulo 44, contextualización de autoridad; [dossier del Estate sobre diezmo](https://m.egwwritings.org/en/book/690.7). El análisis anterior se sostiene en A/B primarios, no en acusaciones de corrupción ni certificaciones de armonía.

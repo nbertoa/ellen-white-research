@@ -1,0 +1,43 @@
+# ¿Qué muestran los candidatos sobre matrimonio y qué no podemos decidir todavía?
+
+Fecha de corte: 30-IX-2026. C13-46 a C13-62. Se conserva la frontera con C14–C17. Esta ficha no llama «resuelto» a un caso cuyo par original no se obtuvo.
+
+## ¿Menos matrimonios equivale a una prohibición universal?
+
+**A:** *Testimony No. 32* (1885), «Marriage With Unbelievers», pp. 117–124, fechado **13-II-1885**, St. Helena, dirigido a **Sister L**, identidad no determinada por el impreso. P. 122.1: “In this age of the world, as the scenes of earth’s history are soon to close, and we are about to enter upon the time of trouble such as never was, the fewer the marriages contracted, the better for all, both men and women.” P. 120.1 le dice que está prohibido por el cielo unirse a un compañero que no ha aceptado la verdad para ese tiempo. Contexto: ese enlace concreto, riesgos y advertencia general vinculada a cercanía del fin. [Unidad original](https://text.egwwritings.org/read/12856.551); reimpresión 5T, p. 366. Autoridad religiosa fuerte, presentada como requisitos de Dios y advertencia que espera afrontar en el juicio. No convertir el encabezamiento abreviado en una carta a persona identificada sin documentación.
+
+**B:** Lt 60, **21-IV-1900**, Sunnyside, Cooranbong, a **Charles McDaniel**, Trevor Hall, Rochester, Nueva York, párr. 8: “We have, as a people, never forbidden marriage, except in cases where there were obvious reasons that marriage would be misery to both parties. And even then, we have only advised and counseled.” **Mismo párrafo:** “Believers are not to marry unbelievers. This is God’s injunction, and no human advise contrary to this should be accepted.” Párr. 9 aconseja orar ambos y proceder si no hay obstáculos; párr. 10 no ve motivo para que creyentes no se casen en el Señor. [Carta completa](https://text.egwwritings.org/read/14065.8296001). Primera publicación íntegra no fijada; catálogo identifica reproducciones parciales.
+
+**Crítica más fuerte:** una prohibición particular investida de autoridad divina parece más que «solamente aconsejar»; la advertencia general de 1885 no es un mero comentario sobre una sola pareja. **Defensa más fuerte:** B no niega prohibiciones de ciertos enlaces —las expresa en el mismo párrafo—, sino que niega prohibir matrimonio como institución. «Cuantos menos, mejor» es desaliento, no «ninguno puede». A y B mantienen la restricción creyente/incrédulo.
+
+**Resultado C13-46:** aparente contradicción universal resuelta por referente y clase de afirmación, certeza establecida. Persistencia de advertencias específicas y precisión posterior, no autorización nueva de todo enlace antes prohibido. **C13-47:** tensión entre «sólo aconsejar» y autoridad vinculante de prohibiciones concretas: posible diferencia semántica entre coerción comunitaria y consejo de deber divino, no demostrada suficientemente para cierre. No suavizar A como simple preferencia. No aceptar que la admisión de excepciones sea añadida por apologistas: B ya las incorpora.
+
+**Falsación:** una norma original que prohíba toda boda incluso entre creyentes aptos en 1885, o una carta B que niegue haber prohibido ese mismo enlace, cambiaría C13-46. Un registro institucional de sanción exigida por White frente al mismo matrimonio ayudaría a evaluar *only advised* en C13-47. La comparación con 1 Timoteo o con la boda propia en 1846 corresponde respectivamente a C14 y C15.
+
+## ¿Qué hacemos con el celibato y Peckham?
+
+**C13-48:** la crítica invoca un texto de 1860 sobre traer hijos al mundo y que quienes tienen esposa sean «en un sentido» como si no la tuvieran; sostiene que fue retirado. No se obtuvo aquí el manuscrito íntegro y su historia de circulación. Retirada de un impreso no prueba por sí sola retractación de proposición. **Resultado: indeterminado**, prioridad de investigación documental antes de usarlo como prueba.
+
+**C13-49:** la crítica invoca una visión de 1850 acerca de Sophronia Peckham y «break loose» de su esposo. Para decidir ruptura de matrimonio o liberación de control religioso se necesita carta/manuscrito íntegro, fecha, destinatario y respuesta, no sólo extracto de web. **Resultado: indeterminado**, no se lo descarta como falso ni se etiqueta divorcio revelado contrario a otro mandato de White. [Mapa crítico](https://www.nonegw.org/egw78.shtml). El artículo mezcla contradicción bíblica con autoevaluación y conducta; esas preguntas se separan antes de decidir.
+
+## ¿Qué otros temas tienen candidatos sin un par equivalente establecido?
+
+| Caso | A/B propuesto y localizador de partida | Qué falta y clasificación actual |
+| --- | --- | --- |
+| C13-50, sexualidad | Condena de exceso conyugal / elogio del matrimonio, 2T pp. 380–382; MH pp. 356–363 | La felicidad matrimonial no afirma la bondad de un mismo exceso. Desarrollo compatible en esa comparación; efectos fisiológicos ya tratados en C12. Para nueva contradicción se necesita acto y condiciones definidos. |
+| C13-51, psicología | 1T pp. 296–297, mesmerismo «good in their place» / condenas y principios verdaderos de psicología, 2MCP pp. 698–700 | *Satan utiliza X* no equivale a *todo X es intrínsecamente malo*. Unidades originales y cronología terminológica pendientes para una afirmación más fuerte; indeterminado. Douglass, cap. 43, es mapa. |
+| C13-52, expiación | 1858, 1SG p. 161 / GC pp. 420–422, alcance de obra final | Debe fijarse significado de sacrificio, aplicación e intercesión. Sin ese expediente no cerrar como oposición doctrinal. Indeterminado; relación bíblica reservada C14. |
+| C13-53, Cristo | Predicción de resurrección / DA p. 753, no ver a través de tumba durante agonía | Estado experimentado en un momento no niega automáticamente información dicha antes. Falta par interno íntegro específico; indeterminado para acusación más amplia. No contrastar sólo con Evangelios (C14). |
+| C13-54, día y hora | Voz divina anuncia tiempo, EW pp. 15, 34 / mensajes contra cálculo de fecha, 1SM pp. 188–189 | Destinatario, escenario futuro y cálculo presente diferentes a comprobar. No convertir voz escatológica en mandato de fijar fecha ministerial; expediente íntegro pendiente. |
+| C13-55, amalgamación | SG3 pp. 64, 75 / omisión en obras posteriores | Omisión no afirma no-X. Cambio editorial establecido, retractación indeterminada; C12 conserva incertidumbre semántica. |
+| C13-56, cáncer/carne | SG4a / MH p. 313 y Lt 83, 1901 | Nuevas razones de peligro no niegan automáticamente las antiguas. Desarrollo compatible respecto del par de razones; causalidad ya evaluada C12. |
+| C13-57, publicaciones | Aprobación de libros / preparación, notas y obras póstumas | Se necesita proposición incompatible de White, no palabra editorial añadida después de 1915. C11 documenta atribución limitada; indeterminado para caso nuevo. |
+| C13-58, personas | Reprensión a Daniels / negación de origen visionario en declaración Daniels 1883 | No existe A escrito por White cotejado. Error pastoral probable, atribución divina indeterminada según C8. No fabricar dos declaraciones de Ellen. |
+| C13-59, recuerdos | Versiones Rochester 1884/1892/1909 | Autor Loughborough, no White; cambios de precisión establecidos, no auto contradicción de Ellen. |
+| C13-60, pescado/huevo institucional | Exclusión de carne en sanatorios / transición y pacientes con limitaciones, CD cap. 22 y Lt 37, 1901 | Regla para mesa no equivale a prohibición de todo remedio individual. Diferencia contextual documentada; ampliar a toda institución requiere sus documentos. |
+| C13-61, recreación | Juegos peligrosos / “I do not condemn the simple exercise of playing ball”, Lt 17a, 2-X-1893, párr. 10 | Intensidad, fin y gasto están expresos en B; no condena todo movimiento corporal. Para declaración universal adversa falta A equivalente; indeterminado para el par global. |
+| C13-62, dinero/prestaciones | Ayuda familiar / austeridad y responsabilidad, Lt 128, 1896; otros gastos | Gastar no niega una norma y no demuestra fuente de fondos. Conducta y motivación a C15, no cierre por sospecha. |
+
+## ¿Por qué conservar expedientes abiertos en un trabajo terminado?
+
+Un capítulo escrito puede terminar con una respuesta documental delimitada sin fingir haber resuelto cada alegación que circula. Estos candidatos no cuentan como acusaciones comprobadas ni como armonizaciones exitosas. Los expedientes centrales tienen A/B, contexto, defensa, objeción y falsación; los restantes indican qué impide construir ese par. La prioridad futura pertenece a los que puedan modificar peso del origen declarado, no al tamaño de la lista.

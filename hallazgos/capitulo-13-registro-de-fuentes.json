@@ -1,0 +1,1154 @@
+{
+  "initial_commit": "48a960c158fb107e384d239797ed990ae7ffbd40",
+  "integration_parent": "d9a942d537a7cbda98d26c9b2aad6a64c43d2361",
+  "integration_tree": "0e3fdbabdbfbf27b58d59a8400aa2df787c3c793",
+  "branches": [
+    {
+      "name": "audit/capitulo-01-final",
+      "commit": {
+        "sha": "8240a019b9e01fe6873d6d5101ab83d20ab2a10a",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/8240a019b9e01fe6873d6d5101ab83d20ab2a10a"
+      },
+      "protected": false
+    },
+    {
+      "name": "audit/capitulo-03",
+      "commit": {
+        "sha": "f21cdda78ca6299f20381e2ec836807c96935aaf",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/f21cdda78ca6299f20381e2ec836807c96935aaf"
+      },
+      "protected": false
+    },
+    {
+      "name": "audit/integral-2026-09-29",
+      "commit": {
+        "sha": "8a13c78f8b2836fb1b95e91179654b4fe0da615f",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/8a13c78f8b2836fb1b95e91179654b4fe0da615f"
+      },
+      "protected": false
+    },
+    {
+      "name": "capitulo-09-fuentes-literarias",
+      "commit": {
+        "sha": "fd4e0dd533992a4da4ff03e87fd0d0d8f9cc2e5e",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/fd4e0dd533992a4da4ff03e87fd0d0d8f9cc2e5e"
+      },
+      "protected": false
+    },
+    {
+      "name": "main",
+      "commit": {
+        "sha": "d9a942d537a7cbda98d26c9b2aad6a64c43d2361",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/d9a942d537a7cbda98d26c9b2aad6a64c43d2361"
+      },
+      "protected": false
+    },
+    {
+      "name": "remediation/auditoria-integral-2026-09-29",
+      "commit": {
+        "sha": "c82240b603722b863bd6ea7db5c0cfd0dcc410f8",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/c82240b603722b863bd6ea7db5c0cfd0dcc410f8"
+      },
+      "protected": false
+    },
+    {
+      "name": "research/capitulo-08-rochester-daniels-fuentes",
+      "commit": {
+        "sha": "e0b10129cb379fa5b439946a7be1f20c5e72e35e",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/e0b10129cb379fa5b439946a7be1f20c5e72e35e"
+      },
+      "protected": false
+    },
+    {
+      "name": "research/capitulo-10-inspiracion-y-origen",
+      "commit": {
+        "sha": "a8fa7823b0e4ae3d44b69f44bc899619b0fef081",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/a8fa7823b0e4ae3d44b69f44bc899619b0fef081"
+      },
+      "protected": false
+    },
+    {
+      "name": "work/auditoria-capitulo-1",
+      "commit": {
+        "sha": "1628560fa4b7af03b816bdb3e1688eb3410cae77",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/1628560fa4b7af03b816bdb3e1688eb3410cae77"
+      },
+      "protected": false
+    },
+    {
+      "name": "work/auditoria-capitulo-2",
+      "commit": {
+        "sha": "2d5b3550385c8f8666a112fbd37390f2625f356f",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/2d5b3550385c8f8666a112fbd37390f2625f356f"
+      },
+      "protected": false
+    },
+    {
+      "name": "work/capitulo-3",
+      "commit": {
+        "sha": "bfe95faa754664be7801378a6f96b9fa8b24a90b",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/bfe95faa754664be7801378a6f96b9fa8b24a90b"
+      },
+      "protected": false
+    },
+    {
+      "name": "work/capitulo-12-historia-ciencia-salud",
+      "commit": {
+        "sha": "667d67b4907c0ad839bf7d991c93221d48e15ed7",
+        "url": "https://api.github.com/repos/nbertoa/ellen-white-research/commits/667d67b4907c0ad839bf7d991c93221d48e15ed7"
+      },
+      "protected": false
+    }
+  ],
+  "prs": [
+    {
+      "number": 10,
+      "title": "Capítulo 12 — ¿Cometió Ellen White errores en historia, ciencia y salud?",
+      "url": "https://github.com/nbertoa/ellen-white-research/pull/10",
+      "state": "closed",
+      "merged": true
+    },
+    {
+      "number": 9,
+      "title": "Capítulo 10 — ¿Qué implica su dependencia literaria para sus afirmaciones de inspiración?",
+      "url": "https://github.com/nbertoa/ellen-white-research/pull/9",
+      "state": "closed",
+      "merged": true
+    },
+    {
+      "number": 8,
+      "title": "Incorporar capítulo 9: uso documentado de escritos ajenos",
+      "url": "https://github.com/nbertoa/ellen-white-research/pull/8",
+      "state": "closed",
+      "merged": true
+    },
+    {
+      "number": 7,
+      "title": "Remediar C1–C8: cerrar P0, investigar P1 y sincronizar evidencia y método",
+      "url": "https://github.com/nbertoa/ellen-white-research/pull/7",
+      "state": "closed",
+      "merged": true
+    },
+    {
+      "number": 6,
+      "title": "Auditoría integral de los capítulos 1–8: evidencia, fuentes y correcciones priorizadas",
+      "url": "https://github.com/nbertoa/ellen-white-research/pull/6",
+      "state": "closed",
+      "merged": true
+    },
+    {
+      "number": 5,
+      "title": "Incorporar capítulo 8 y cotejar Rochester (1852) y Daniels (1883)",
+      "url": "https://github.com/nbertoa/ellen-white-research/pull/5",
+      "state": "closed",
+      "merged": true
+    },
+    {
+      "number": 4,
+      "title": "Pulido final del capítulo 1",
+      "url": "https://github.com/nbertoa/ellen-white-research/pull/4",
+      "state": "closed",
+      "merged": true
+    },
+    {
+      "number": 3,
+      "title": "Capítulo 3: ¿Qué afirmó Ellen White sobre su propio don?",
+      "url": "https://github.com/nbertoa/ellen-white-research/pull/3",
+      "state": "closed",
+      "merged": true
+    },
+    {
+      "number": 2,
+      "title": "Auditoría profunda del capítulo 1: inspiración, revelación y don de profecía",
+      "url": "https://github.com/nbertoa/ellen-white-research/pull/2",
+      "state": "closed",
+      "merged": true
+    },
+    {
+      "number": 1,
+      "title": "Audita y profundiza los criterios bíblicos del capítulo 2",
+      "url": "https://github.com/nbertoa/ellen-white-research/pull/1",
+      "state": "closed",
+      "merged": true
+    }
+  ],
+  "remote_files": [
+    {
+      "path": "README.md",
+      "git_blob": "e818650a14400223793d99b364525c4d4d69809f",
+      "sha256": "8d0ce7b01afc25966a6cf505cbd0128ebd431ece4dedfe347067f2f5348333e8",
+      "bytes": 10955
+    },
+    {
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "git_blob": "bce8d3dd1438204cb6812af31c751231574bf6cb",
+      "sha256": "9f937ff44d9381449301a0f537820dbc23003243357b13868cdb741a138088c1",
+      "bytes": 52655
+    },
+    {
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "git_blob": "d3404f14199baa8b2f693ee0261ba52f0280af30",
+      "sha256": "cd632d3c44a0494aaa0df5d7bfef5aa6bc0f3523050c3c3fc97f242f99afcf65",
+      "bytes": 44806
+    },
+    {
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "git_blob": "ecac44fe70c6ec420e34e2262e43025e08d69d47",
+      "sha256": "a5e796de2a0932738d0d9101171d17e42060b51c52694f2d4739f40f39be9c9a",
+      "bytes": 30886
+    },
+    {
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "git_blob": "abeadc5aa73c235a1e9d21c797c0827f566a19d0",
+      "sha256": "448fdfd46b64fe5bdcc6d42775dd59901aaa0fa4fd24fc1fac11cf0dec1a58cd",
+      "bytes": 74925
+    },
+    {
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "git_blob": "29ef40ab9e69cef1f68f9dab0ec8d0b7b8d02afa",
+      "sha256": "0081d97c13c56ec83799be349b553b7826313498c62a443f9fa0ad988dd72b6a",
+      "bytes": 62960
+    },
+    {
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "git_blob": "194c16068aa79de946cd2bbdbb5208244595cf41",
+      "sha256": "26d6750408feb0ee2b9f428643b8f10042888d8169147fe09231c4be5d1f986f",
+      "bytes": 49624
+    },
+    {
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "git_blob": "934ac01b464b60af9aceb0dbea8f7eb90828b614",
+      "sha256": "a424bf8bdf774d2a827c41795151db4459001b767037221d60689de2a9fc0be1",
+      "bytes": 51957
+    },
+    {
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "git_blob": "49d41f4cc775280fcc8cdba9866950bbadeb7ac5",
+      "sha256": "0236d3e1a77c293b8a2143a31a3150b526735f9ba3a05359352218b529f08075",
+      "bytes": 41331
+    },
+    {
+      "path": "capitulos/09-utilizo-ellen-white-escritos-de-otros-autores.md",
+      "git_blob": "4fd26de6bc3e038d88e2dcabdf5f45bd248bb200",
+      "sha256": "688c150fd20688cdd91d7ceb48b204f0c0932c1d6830fbf3a9826a5e9a369027",
+      "bytes": 25974
+    },
+    {
+      "path": "capitulos/10-que-implica-dependencia-literaria-para-inspiracion.md",
+      "git_blob": "b31739fc26df978a318991997b21969e7e5b3d54",
+      "sha256": "69c43238bedab9d6c0cf468ec06f3a5ca0bdb6df8c67af57b31965174eee2ef5",
+      "bytes": 52183
+    },
+    {
+      "path": "capitulos/11-hasta-que-punto-podemos-atribuir-a-ellen-white-los-libros-publicados-bajo-su-nombre.md",
+      "git_blob": "a51ecc7828c515d76c9130c474e037fca9bf16c1",
+      "sha256": "6dd6c6faf99a414d3eeff28b2b2814cdcb91e6a4ba1794f2f0402c38ad8e9245",
+      "bytes": 28128
+    },
+    {
+      "path": "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+      "git_blob": "58266915a8cdde6b684295c324f23db8e85c2a13",
+      "sha256": "bd4cf496adb9b7dbdd59d20dbe39d27406cc138245feb257966a8a8309d959b8",
+      "bytes": 56973
+    },
+    {
+      "path": "hallazgos/afirmaciones-de-ellen-white-sobre-su-don-y-autoridad.md",
+      "git_blob": "c390ceb118d6e7174de264574e55992fbed50fed",
+      "sha256": "abc525ba314a5bc96bbd6b3d0a7c1febd8022d887eb4af47009f44cbb8e66c8c",
+      "bytes": 20061
+    },
+    {
+      "path": "hallazgos/auditoria-integral-2026-09-29-referencias.json",
+      "git_blob": "0886049314374c1abf386436dcc9ea1dd69efabf",
+      "sha256": "7d22227a27b0600f8665716438d7eef87cf4eb796ded6d583ba8815d03f28019",
+      "bytes": 156607
+    },
+    {
+      "path": "hallazgos/auditoria-integral-2026-09-29.md",
+      "git_blob": "f97e8b9001926bd84382cced82b07dbb52b60178",
+      "sha256": "38aa31df497d8a87b804148fe5ca9d49c233309b8e8f72632d47ea49841b7646",
+      "bytes": 111596
+    },
+    {
+      "path": "hallazgos/capitulo-08-rochester-1852-y-daniels-1883.md",
+      "git_blob": "afa85ea6ebcb3aee99665cc420fd54c28c745cbb",
+      "sha256": "78e803d5bd3d16594ab0507661d677920790603a7d245275c4c30c5efb133668",
+      "bytes": 17308
+    },
+    {
+      "path": "hallazgos/capitulo-09-cronologia-reconocimientos-y-limites.md",
+      "git_blob": "b3816fefb014b0373766bfac294038d120bcca34",
+      "sha256": "5cdae88d948d5fccc5462769cfbc8957a19b1607de92631ad92d83939853f157",
+      "bytes": 8566
+    },
+    {
+      "path": "hallazgos/capitulo-09-hus-wylie-y-ediciones.md",
+      "git_blob": "eb98f146478ac8a0eb3b53362cd17aea40317abd",
+      "sha256": "ec10cfd777f5f3f02bfced6db531a5cdc503074a2ce01d50b85c86af967fe843",
+      "bytes": 6047
+    },
+    {
+      "path": "hallazgos/capitulo-09-pablo-conybeare-howson.md",
+      "git_blob": "6a2b79090c8bcf091a29589e6808041c9a2437c1",
+      "sha256": "ac1d3e7828cc152d508ebe5889e77145b613b1f86d58878437a6cb7564d0d003",
+      "bytes": 6503
+    },
+    {
+      "path": "hallazgos/capitulo-09-veltman-deseado-de-todas-las-gentes.md",
+      "git_blob": "2d422040ec49e029e9a26861156d26cc08ed9fe8",
+      "sha256": "563d24ca0d6fa53113e3b5daf154d47ad61af815cc29edecb98d40747e6eadab",
+      "bytes": 8111
+    },
+    {
+      "path": "hallazgos/capitulo-10-analogias-biblicas-y-controles-de-origen.md",
+      "git_blob": "1334b6a1d65ff4de423dfed8dae1bda312d71f9e",
+      "sha256": "0e9346c80e5388b7edf848850877bb478b4bdf19715471444b3aaca87158b3f0",
+      "bytes": 5027
+    },
+    {
+      "path": "hallazgos/capitulo-10-atribucion-y-practicas-editoriales.md",
+      "git_blob": "61a0dac259122d6491b2751c5fd82e116a94cf9d",
+      "sha256": "9c1eb31dd64cc2a2e8d3436d6e185222d89023a98a8d5a58ef9816655bc54c8d",
+      "bytes": 5549
+    },
+    {
+      "path": "hallazgos/capitulo-10-auditoria-y-registro-de-fuentes.md",
+      "git_blob": "1f563758fe7d83fb3e61425ba5d8a5d126c90569",
+      "sha256": "ae100a708811a2b48a53b51913f1e044c98a4182153cfad8d412583a2b7c4340",
+      "bytes": 9684
+    },
+    {
+      "path": "hallazgos/capitulo-10-declaraciones-y-cronologia-de-inspiracion.md",
+      "git_blob": "c104398cb13860ef00a673a368ecb8b9d12cda9c",
+      "sha256": "9771a4c609ab58bafab43490dfaacfbf7a53d90462928234f0760c28e87716b0",
+      "bytes": 34953
+    },
+    {
+      "path": "hallazgos/capitulo-10-diario-1890-y-krummacher.md",
+      "git_blob": "eb27ab074cea49ee7ea1f2490e4bc49e4664ce6e",
+      "sha256": "dd9b401367f7dfba4298d92e99e564f35ef20b3619885bd6f7b86230aea7e944",
+      "bytes": 8850
+    },
+    {
+      "path": "hallazgos/capitulo-10-fuentes.json",
+      "git_blob": "3afcaaf70df53c4335cfcda3ef64e27d5680f0ff",
+      "sha256": "307e22f157aa6c512608e58ad384e6429c686ccb738689cad1d3b6ca3ac0e606",
+      "bytes": 17534
+    },
+    {
+      "path": "hallazgos/capitulo-10-juicio-1879-y-daniel-march.md",
+      "git_blob": "fc1b7970c365d8eb6385556f9ae281de179f588a",
+      "sha256": "a55b2e6d461e4e31dddf8f1e48695119e868ae3350fb70f9c0de05ee1259e6bf",
+      "bytes": 10083
+    },
+    {
+      "path": "hallazgos/capitulo-10-queensland-1898-y-humphrey.md",
+      "git_blob": "215c4d9f5d8ff876885d46a94af3d010a6d06151",
+      "sha256": "cab3d98837c7ed3f4ebecc1e7df5a211e3b10b4d4e6889b3057ffc024a16aca8",
+      "bytes": 9441
+    },
+    {
+      "path": "hallazgos/capitulo-10-salud-1864-y-negaciones-1867.md",
+      "git_blob": "9b210f1e6a4ccec718ece3de2b25710ef3c5650c",
+      "sha256": "6bdb0cb5b2af346613f5d81ba87dd2eaf1084a1fee7e444b3090077bd830ef44",
+      "bytes": 8700
+    },
+    {
+      "path": "hallazgos/capitulo-11-colaboradores-y-limites-de-atribucion.md",
+      "git_blob": "7569295f5a9f256293f3eccba7c48e7e3cfce2dd",
+      "sha256": "ee8349f8feb80fa94dc5bbadbe46cd97038f9526d533920a16cb7b59eed2fd6b",
+      "bytes": 8068
+    },
+    {
+      "path": "hallazgos/capitulo-11-conflicto-de-los-siglos-y-revisiones.md",
+      "git_blob": "fc022b9028fea3cf3e336f75469f0431288238d9",
+      "sha256": "b751505ae9dba81bc5edea69d6d589c66e92caab3f36502119d8032c44dcbc9a",
+      "bytes": 6239
+    },
+    {
+      "path": "hallazgos/capitulo-11-fannie-bolton-testimonios-y-borradores.md",
+      "git_blob": "315a58f8dfbb590ce676cf9ebbe4f4134806c981",
+      "sha256": "182a5c06c34972697fc8774bbcbaafcc661f3708640dd969222249f20211a1e1",
+      "bytes": 6493
+    },
+    {
+      "path": "hallazgos/capitulo-11-libros-tardios-y-compilaciones.md",
+      "git_blob": "50307c89f2085c9c3b876114326a4653fb4b82f7",
+      "sha256": "dddac5dd874a04fa2586bbe0030f1fa82b8515c987092e5702391bf1def1a0a5",
+      "bytes": 3899
+    },
+    {
+      "path": "hallazgos/capitulo-11-marian-davis-y-deseado-de-todas-las-gentes.md",
+      "git_blob": "cdebcb62f7bbe6585f90bcf1c943362f4df62d6d",
+      "sha256": "f8f61265209fc98c42e39281861ab464a4d674eedbffbfe9b947500956b323fe",
+      "bytes": 7697
+    },
+    {
+      "path": "hallazgos/capitulo-12-amalgamacion-y-astronomia.md",
+      "git_blob": "68363e322a83a2ec170d0da33be3903f8d78905a",
+      "sha256": "762d820e9b03e185d8451e49c78cb56f4415b1a199aa0730f90914579a25a60b",
+      "bytes": 7028
+    },
+    {
+      "path": "hallazgos/capitulo-12-auditoria-y-registro-de-fuentes.md",
+      "git_blob": "7a7e4de1473778a0bed252dc2d651afb13f72b70",
+      "sha256": "0a23a217f0f0a5cc819f0fcb49b5faec63da4079cac41b1a40f6ed54070d12e4",
+      "bytes": 7274
+    },
+    {
+      "path": "hallazgos/capitulo-12-autoridad-y-limites.md",
+      "git_blob": "4977182230b7a82c825b31703feced4f87cd7723",
+      "sha256": "1e7dd28dfe8ee567d4e448a179aa6a7b49cf2848fda0adddd0a16325f80557df",
+      "bytes": 5790
+    },
+    {
+      "path": "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md",
+      "git_blob": "2202a15ce0356e54be93464b9b4990a58bb96e24",
+      "sha256": "2e996b69003669f3db498fcee9c6c5b49e8b4cf669271cad702ca83f5a655318",
+      "bytes": 6946
+    },
+    {
+      "path": "hallazgos/capitulo-12-geologia-y-cronologia.md",
+      "git_blob": "a941abec25734e528616fee7c006e5461146a562",
+      "sha256": "3cad5492954a2ddfb2ce372f127c7e67331e2c433570c55fa8f73737eac57a3c",
+      "bytes": 6142
+    },
+    {
+      "path": "hallazgos/capitulo-12-historia-y-revisiones.md",
+      "git_blob": "8be6900cd44225bf0bf83c816348cfd94aefd4c2",
+      "sha256": "0c9011823ea877465ed632561226320f80a4e68c9cded60f825105e0abd2e22b",
+      "bytes": 11047
+    },
+    {
+      "path": "hallazgos/capitulo-12-inventario-y-protocolo.md",
+      "git_blob": "1b9ca1906899a18eafe822f8b6cfe59e9c535f9d",
+      "sha256": "4f2d164e2c322ff05487380ac9522492ded95278d9b0a88665ed04ef4f48e36d",
+      "bytes": 16336
+    },
+    {
+      "path": "hallazgos/capitulo-12-masturbacion-y-afirmaciones-medicas.md",
+      "git_blob": "c9f4e066ae1cb9df00e31f490aebb0e78cb552dd",
+      "sha256": "947e96684b4a2267bcfb3d90f4d7a475b79cf0ba9f88664db33b8814259309ae",
+      "bytes": 7480
+    },
+    {
+      "path": "hallazgos/capitulo-12-medicamentos-cafe-y-otros-casos.md",
+      "git_blob": "3b1e77da4a31be8961dbb6b1ca65e20c40e324dd",
+      "sha256": "095d1b2471c1a47d89bc0236710907e3c24d92619c94e83fa29cb0d5fad3e3d7",
+      "bytes": 7684
+    },
+    {
+      "path": "hallazgos/capitulo-12-registro-de-fuentes.json",
+      "git_blob": "82f8135a983b63dc68ea7f07ba3883f75785e96e",
+      "sha256": "96fbf34b2aeeb7165930cbaf910ad52c1ec35fdc330dd53030dc7f4f6173d2d5",
+      "bytes": 66930
+    },
+    {
+      "path": "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md",
+      "git_blob": "21811fbc844d03e800872d413977e2eebb397252",
+      "sha256": "f70662715706b98b258a529fda929ce707fe522061626667dd2586d3396207dd",
+      "bytes": 7521
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/1-corintios-14-evaluar-profecias.md",
+      "git_blob": "c1484ad72abfba50a965f3427b80a7dbd32757f8",
+      "sha256": "3b5f2c68e75c0d17af3e06c0fe7d0d3fd3e74fa1454f8e3b9f791ba360008b81",
+      "bytes": 4156
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/1-juan-4-probar-los-espiritus.md",
+      "git_blob": "f3de98022508d24dce324af9b30d900e75125e1d",
+      "sha256": "d20279e4e6756e8704e15db2569245e15de1458e8a59d00286095d8397007c9d",
+      "bytes": 4720
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/1-reyes-13.md",
+      "git_blob": "7e7358da004e4a57731fa2a8d8156ae4c46ec17c",
+      "sha256": "f627342f0b5471e7a4b4b41fc71776afa0dc1160fe924abf3c8c5a679c35ca44",
+      "bytes": 3436
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/1-tesalonicenses-5-examinar-profecias.md",
+      "git_blob": "10c19eba9cfaee382c689446ede5a77bd4e6039e",
+      "sha256": "b575605be784f1dbd3350d0d135274bf3875c7541cf4f6954e0b5e1a998e135f",
+      "bytes": 3435
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/balaam-caso-complejo.md",
+      "git_blob": "99544e5b1a07570e4e199fd8f17e9f945ad6f1bb",
+      "sha256": "a0004bf217a8f06a8e4686d0529278aa924cb7e6a228d1eb8da23865d4ce5622",
+      "bytes": 5394
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/caifas-profecia-involuntaria.md",
+      "git_blob": "9899eaccd79c9edf785d657e239b356fe97e468d",
+      "sha256": "67af0440b8713abe54326f6bcdd96f6dd381962a7ecd1ca581c45f605cfe4fd3",
+      "bytes": 4920
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/continuidad-don-profetico.md",
+      "git_blob": "8d320931b2540d18650b8e99b973346a6cb1284b",
+      "sha256": "8fb5e032565ec7a04a9fb1a1e85fa2948067725b17ebebc0f6cc49f952c691a7",
+      "bytes": 5122
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/deuteronomio-13.md",
+      "git_blob": "9c6f20743e7a1c705252f0b5a43101a2d73a02cd",
+      "sha256": "37e5dc77476664bf4880ad068082233aaae0dcc82c307ac011bfcde69f981ca3",
+      "bytes": 4212
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/deuteronomio-18-medios-de-revelacion.md",
+      "git_blob": "ad264843849fad36a3f9dc3376725e7176092041",
+      "sha256": "48018bf2cba4e5ad8caa17d5c5d92fcb87b625e0aa909d331bdd6a36843b0e0f",
+      "bytes": 5537
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/deuteronomio-18.md",
+      "git_blob": "434213187a4aac93711246ffdcaa6c85819b26c6",
+      "sha256": "e9b01680f4929b2d68f3abbfe282d30fe900bb68ba4458d49b38bbc21a552af1",
+      "bytes": 5649
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/ezequiel-13-falsa-seguridad.md",
+      "git_blob": "ca86b95076b3fed9c1e5d1c4eb3c800463462f95",
+      "sha256": "8cddb596084ada62d4a219ba8cfe36c3bf6367382e907f4d913106b59071b004",
+      "bytes": 4630
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/impresion-guia-iluminacion.md",
+      "git_blob": "e0aaa13ef464ed20e1637ad3ba62fcbd1a2432e4",
+      "sha256": "3300d3f92f62724bdce8103a0523a8c8887ddf061998393eace9c5c11aaf4dde",
+      "bytes": 9020
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/inspiracion-revelacion-profecia.md",
+      "git_blob": "92402d57d6c56261f83426ad59bb00e36997dd77",
+      "sha256": "44751429f37ebc733b2187daac0ac0627bea3fa075581fb8eabb8730dd78af30",
+      "bytes": 20527
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/isaias-8-20-ley-testimonio.md",
+      "git_blob": "dc7d6e8006c9bafc5511b66f2237074339d8aefe",
+      "sha256": "678ca43ef4584666302e0bc29f9149f31b48cb5dfa6db2b840fa5438868eaab5",
+      "bytes": 5143
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/jeremias-23-origen-mensaje.md",
+      "git_blob": "50b99f02c1773b590fd7cbaf452191af830501bd",
+      "sha256": "03891ab88b99ed74b01258f65644ff2bd6b3a18e46baf9ea580d8292805ec749",
+      "bytes": 4755
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/lucas-1-inspiracion-y-fuentes.md",
+      "git_blob": "d738334a345e5287cad6f1ea5cf8d84d29d6e417",
+      "sha256": "52b545311349cebea184326a4a5c84f220a7429a15d0ffea5631d3738d028775",
+      "bytes": 7921
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/mateo-7-frutos.md",
+      "git_blob": "60a8cf70db1fd628a4023a4621d715bde0bdc0fb",
+      "sha256": "1d3350781844c73f50a08572ce0ddb88ed4aa93b894ac540f46b78b2c634951e",
+      "bytes": 4322
+    },
+    {
+      "path": "hallazgos/criterios-biblicos/miqueas-3-dinero-interes.md",
+      "git_blob": "ac0f79a3d6a8bea66df6f742d579d919a4fbd752",
+      "sha256": "bdbb32157e7568dafefd88cb090718cef92316c5e8252f2d0428cd8d5889c2cc",
+      "bytes": 4183
+    },
+    {
+      "path": "hallazgos/prediccion-1856-y-condicionalidad.md",
+      "git_blob": "ddf455fb0883f6006402d5cec883c8f9c620cb97",
+      "sha256": "8d41eaffa1a412127e7164f771c060d9627a14185f8c8c0310b7b5c2a0a90f71",
+      "bytes": 3147
+    },
+    {
+      "path": "hallazgos/remediacion-2026-09-29-referencias.json",
+      "git_blob": "a2ca84c616029282819e63e915e2fa3c942fa93a",
+      "sha256": "770fa9a88252649babc7fb866ff99bd07d83e78d9180d6e863ee35f4f699f0d8",
+      "bytes": 13382
+    },
+    {
+      "path": "hallazgos/remediacion-2026-09-29.md",
+      "git_blob": "faa9c47fd7196f97451a71d8151d1e5b233cc44f",
+      "sha256": "105e4ebfd7baf444570c51d1ed6ae6093bb9930547bc2a64dbbce6df4c9796bd",
+      "bytes": 11694
+    },
+    {
+      "path": "hallazgos/visiones-tempranas-foy-y-fisiologia.md",
+      "git_blob": "a16d050a943b0f50a65c2610385869a0c9632216",
+      "sha256": "bc5c934e6754259e56ae7aced636b9d7c3b40d6bf19d10d88675c691f848125c",
+      "bytes": 5512
+    },
+    {
+      "path": "metodologia/INDICE_MAESTRO.md",
+      "git_blob": "2818e899a0d132f82b3b1ce9547373acaf0edb87",
+      "sha256": "7e672de6ca184f17f5815d5321d95ce9299925096178ca0686f2358aa331a873",
+      "bytes": 4946
+    },
+    {
+      "path": "metodologia/INSTRUCCIONES_PROYECTO.md",
+      "git_blob": "5c454e9870605d0e378d47e8757fe30f00423e1e",
+      "sha256": "6e047a2a637494f5f8601dada188eda2dc394b34ab6239d11c311fca4e4866c4",
+      "bytes": 8771
+    },
+    {
+      "path": "metodologia/MATRIZ_CRITERIOS_BIBLICOS.md",
+      "git_blob": "788c130a1a2bd59d2ff47d093dc2e7a8d7bccd81",
+      "sha256": "a90edeb87ed7f56eb226146755318a252dd18fbf191dc8161131e6f79fbc4339",
+      "bytes": 6277
+    },
+    {
+      "path": "metodologia/PROMPT_WORK_AUDITORIA_CAPITULO_2.md",
+      "git_blob": "dba077c4eed5b531174145cbb876ed1cbc09cd32",
+      "sha256": "1886fc4288c540c7d269d9e279c278e1c3ad06adc01f1a2dc2a2ea26409c7786",
+      "bytes": 7977
+    }
+  ],
+  "consulted": [
+    {
+      "key": "drug1893",
+      "url": "https://m.egwwritings.org/en/book/14058.5478001",
+      "sha256_transcripcion_recuperada": "2ec2a8aa62520515bb1671ea8b0fc2b9dcdf924e684d54224330fca99d2ec669",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "hpmm",
+      "url": "https://m.egwwritings.org/en/book/328.185",
+      "sha256_transcripcion_recuperada": "4362dc74ff460c77205cb2c51f49bd5f7df46711070ab15e8a5a0867ad87756b",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "gov1875",
+      "url": "https://ellenwhiteresearch.com/works/T25/7",
+      "sha256_transcripcion_recuperada": "3d31d84e1737415ed5eef1236a2a50c42173f5eb8acba8348a0255df5eec2734",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "gov1901real",
+      "url": "https://m.egwwritings.org/en/book/14066.9289001",
+      "sha256_transcripcion_recuperada": "b5e4914eed134632b8bf48af6e6203f83d02b73a3316bfd118d06ffa6ebfd176",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "school1872",
+      "url": "https://m.egwwritings.org/en/book/12799.9",
+      "sha256_transcripcion_recuperada": "08806078109c36ae7e56c4ca4cfe3fbcd2db68b5eae004d88ed491415108632e",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "school",
+      "url": "https://m.egwwritings.org/en/book/14069.7729001",
+      "sha256_transcripcion_recuperada": "a272a5a7d59cd729610c839ac2525f9d51756243eff14b41bbd9079b734de4c8",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "milk",
+      "url": "https://m.egwwritings.org/en/book/10657.1",
+      "sha256_transcripcion_recuperada": "57db93697f05cc73109f194837182c84ce005f97b53ca17704741740e0567c73",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "porkreal",
+      "url": "https://ellenwhiteresearch.com/works/1T/38",
+      "sha256_transcripcion_recuperada": "f6faa6bb8f2ae294c10e30705f413ad5f4c478e54de7c4653c87424cf2646eab",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "health1864",
+      "url": "https://ellenwhiteresearch.com/works/4aSG/39",
+      "sha256_transcripcion_recuperada": "a86de3adeecb3112cbe93484fb693f3cea2071dac3c9dcd29cad524dec391712",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "dress",
+      "url": "https://whiteestate.org/legacy/issues-dressref-html/",
+      "sha256_transcripcion_recuperada": "e53a8a28358401f352c496e6c6a03d63cac0c0ea4cb0d7d93a7f6d4ecf1f39b7",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "gc",
+      "url": "https://whiteestate.org/about/issues1/ref-lib/add-docs/gc/gc-inspiration/",
+      "sha256_transcripcion_recuperada": "9c68c75080a3371d0c55c38d659a302c3175a378cf7448c92c0a0bbe5972bcba",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "fish",
+      "url": "https://text.egwwritings.org/read/14061.5546001",
+      "sha256_transcripcion_recuperada": "aed4f0b4475cbbb0b54affaf8fa9382f83fa6f362c358d21ce1691eb2c37fdab",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "squirrel",
+      "url": "https://text.egwwritings.org/read/13961.3109001",
+      "sha256_transcripcion_recuperada": "e356f0f22a96924484f6639c975ca3660da5f514f4265a6bdbe1bf3318b30850",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "tithe1896",
+      "url": "https://text.egwwritings.org/read/821.15339",
+      "sha256_transcripcion_recuperada": "0b1eea254ba7e1b5b57b8887095e5e8d875d1d5d7cbed3de9c2837494e48a143",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "tithe1905",
+      "url": "https://text.egwwritings.org/read/14070.10694001",
+      "sha256_transcripcion_recuperada": "9d753ee6d5a2c11f819d23be8e9e7c7864bf39bb25a1bac20ec9232c33ae3140",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "marriage1900",
+      "url": "https://text.egwwritings.org/read/14065.8296001",
+      "sha256_transcripcion_recuperada": "41a4f67a00a7e97b6affdf4a38fded92674262e5db8cd2b9046272e977e83c14",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "marriage1885",
+      "url": "https://text.egwwritings.org/read/12856.551",
+      "sha256_transcripcion_recuperada": "e1a20cc170682d2491727378561f204dc73775e8e25c3e251fa493e93a27b721",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "marriage1989",
+      "url": "https://text.egwwritings.org/read/122.31",
+      "sha256_transcripcion_recuperada": "ce55a191a521c812fbfb34f5ed8e2fc1c7a02a8f3427dc4130e2a62ba457e2db",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "tithecritic",
+      "url": "https://www.nonegw.org/contra1.shtml",
+      "sha256_transcripcion_recuperada": "315939654fe57651aed56fa04cf3ab5dc200cb8b8b908f49c80bfce7d715b421",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "marriagecritic",
+      "url": "https://www.nonegw.org/egw78.shtml",
+      "sha256_transcripcion_recuperada": "1c1a272b6dbc4b59d061d0650016c1413863c4d01e8c3915a524d4df09b6b43e",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "babelpref",
+      "url": "https://text.egwwritings.org/read/106.2",
+      "sha256_transcripcion_recuperada": "4c559c9901e9750ee5d95f93e59f7f86e61cf2af520e2c27a88638d207b0a5c4",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "babel",
+      "url": "https://text.egwwritings.org/read/106.1007",
+      "sha256_transcripcion_recuperada": "142a4eddba88d72b21ab8c384849c1f783e1ccef129cc31b1cfa43d5e378e37e",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "temperance1869",
+      "url": "https://text.egwwritings.org/amp/read/13786.6",
+      "sha256_transcripcion_recuperada": "86fdb60f67da6887a154fc55093809a113de55120ea3a24a4799e64b49c87de3",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "fishdef",
+      "url": "https://text.egwwritings.org/read/656.2871",
+      "sha256_transcripcion_recuperada": "a9686ce484862f9c88e65b649e2d561357357f7833e71cbb6f2b8f72796861e3",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "dietdef",
+      "url": "https://text.egwwritings.org/read/776.1331",
+      "sha256_transcripcion_recuperada": "e2e389a4ae7d56a65599a6fbe1acf72c179d44dba8aec1b1f4dd839af3ad3060",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "ms115",
+      "url": "https://text.egwwritings.org/read/14068.9286001",
+      "sha256_transcripcion_recuperada": "b9685aace04916a2078163a57f14f78bff36d2f70725605072ec540e4ad8fa77",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "dietcritic",
+      "url": "https://www.nonegw.org/contra6.shtml",
+      "sha256_transcripcion_recuperada": "9c8470faff240e428a5afd0c9b79b42a216e12c2fde00997f79bc4789cd563e6",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "drugs",
+      "url": "https://ellenwhiteresearch.com/works/2SM/28",
+      "sha256_transcripcion_recuperada": "90e2de1972010d37bcc00b086226f99288b90fbf4623b5928a08d9d84b4ffa38",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    },
+    {
+      "key": "remedies",
+      "url": "https://ellenwhiteresearch.com/works/2SM/29",
+      "sha256_transcripcion_recuperada": "07a722d171d9b6d5bccbd9b57db73601a10610f40b1f04ec6477d5b8e0b19f38",
+      "alcance": "Consulta electrónica; autenticidad, unidad, fecha y límites se describen en la ficha. El hash identifica la recuperación, no un autógrafo."
+    }
+  ],
+  "date": "2026-09-30",
+  "methodology": "ellen-white-investigacion-profetica",
+  "baseline": "72 archivos cotejados contra blobs remotos; capítulos 1–12 y documentación metodológica leídos; registros previos conservados como antecedentes, sin repetir toda su investigación.",
+  "referencias_en_entregables": [
+    {
+      "url": "https://archive.org/details/WhiteE.ImportantFactsOfFaith.SpiritualGiftsVol4PartI1864",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-medicamentos-y-excepciones.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://archive.org/details/greatcontrover00whit",
+      "archivos": [
+        "hallazgos/capitulo-13-revisiones-memoria-y-doctrina.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://archive.org/details/greatcontroversy00whit",
+      "archivos": [
+        "hallazgos/capitulo-13-revisiones-memoria-y-doctrina.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH18671008-V30-17.pdf",
+      "archivos": [
+        "hallazgos/capitulo-13-vestimenta-y-edad-escolar.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/1T/38",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-cerdo-y-desarrollo-alimentario.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/2SM/28",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-medicamentos-y-excepciones.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/2SM/29",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-lacteos-huevos-cafe-y-te.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/4aSG/39",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-cerdo-y-desarrollo-alimentario.md",
+        "hallazgos/capitulo-13-medicamentos-y-excepciones.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/CD/22",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-cerdo-y-desarrollo-alimentario.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/MH/23",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-lacteos-huevos-cafe-y-te.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/T25/7",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-diezmo-y-autoridad-institucional.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/10657.1",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-lacteos-huevos-cafe-y-te.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/12799.9",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-vestimenta-y-edad-escolar.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/14058.5478001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-medicamentos-y-excepciones.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/14062.4760010",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/14062.7296001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/14066.9289001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-diezmo-y-autoridad-institucional.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/14069.7729001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-vestimenta-y-edad-escolar.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/14071.9129001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/14074.9768001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/328.185",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-medicamentos-y-excepciones.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/3531",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-revisiones-memoria-y-doctrina.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/690.7",
+      "archivos": [
+        "hallazgos/capitulo-13-diezmo-y-autoridad-institucional.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://next.egwwritings.org/read/58.1619",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-lacteos-huevos-cafe-y-te.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/amp/read/120.1544",
+      "archivos": [
+        "hallazgos/capitulo-13-cerdo-y-desarrollo-alimentario.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/amp/read/13786.6",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-cerdo-y-desarrollo-alimentario.md",
+        "hallazgos/capitulo-13-lacteos-huevos-cafe-y-te.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/106.1007",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/106.2",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-revisiones-memoria-y-doctrina.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/12856.551",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-matrimonio-y-limites-del-inventario.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/13961.3109001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-cerdo-y-desarrollo-alimentario.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/14061.5546001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-cerdo-y-desarrollo-alimentario.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/14065.8296001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-matrimonio-y-limites-del-inventario.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/14068.9286001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-medicamentos-y-excepciones.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/14070.10694001",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-diezmo-y-autoridad-institucional.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/384.3068",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/384.4002",
+      "archivos": [
+        "hallazgos/capitulo-13-lacteos-huevos-cafe-y-te.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/656.2871",
+      "archivos": [
+        "hallazgos/capitulo-13-cerdo-y-desarrollo-alimentario.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/776.1331",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-cerdo-y-desarrollo-alimentario.md",
+        "hallazgos/capitulo-13-lacteos-huevos-cafe-y-te.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/821.15339",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-diezmo-y-autoridad-institucional.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://whiteestate.org/about/issues/vaccinations/",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-medicamentos-y-excepciones.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://whiteestate.org/about/issues1/ref-lib/add-docs/gc-prescott/",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-revisiones-memoria-y-doctrina.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://whiteestate.org/about/issues1/ref-lib/add-docs/gc/gc-inspiration/",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-revisiones-memoria-y-doctrina.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://whiteestate.org/legacy/issues-dressref-html/",
+      "archivos": [
+        "capitulos/13-se-contradijo-ellen-white.md",
+        "hallazgos/capitulo-13-vestimenta-y-edad-escolar.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://www.nonegw.org/contra1.shtml",
+      "archivos": [
+        "hallazgos/capitulo-13-diezmo-y-autoridad-institucional.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://www.nonegw.org/contra6.shtml",
+      "archivos": [
+        "hallazgos/capitulo-13-cerdo-y-desarrollo-alimentario.md",
+        "hallazgos/capitulo-13-lacteos-huevos-cafe-y-te.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    },
+    {
+      "url": "https://www.nonegw.org/egw78.shtml",
+      "archivos": [
+        "hallazgos/capitulo-13-matrimonio-y-limites-del-inventario.md"
+      ],
+      "nota": "El tipo de soporte, consulta y reservas se especifican en las fichas; no todas las URL fueron abiertas nuevamente."
+    }
+  ],
+  "limits": [
+    "Facsímiles de GC, SG4a y ApM: resultados heredados y cotejados con C11/C12; no nuevos autógrafos.",
+    "Reproducciones de cartas y compilaciones: identificar fecha del mensaje separada de fecha de edición.",
+    "No se obtuvo la consulta entrante de Caro, la carta original de las habitaciones ni los autógrafos de las reparaciones editoriales.",
+    "Memorias de quinina y vacunación son testimonios de terceros, no cartas contemporáneas de Ellen.",
+    "El inventario conserva candidatos no desarrollados; no constituye verificación exhaustiva de todos los escritos.",
+    "Se preservaron cinco archivos modificados remotamente durante el trabajo; la exclusión probatoria de la edad de la Tierra no se revirtió."
+  ]
+}
