@@ -60,9 +60,9 @@ La progresión normal es:
 
 ## ¿Cuál es el estado actual?
 
-El repositorio integra los **capítulos 1–10**, el trabajo de Rochester/Daniels del [PR #5](https://github.com/nbertoa/ellen-white-research/pull/5) y la auditoría del [PR #6](https://github.com/nbertoa/ellen-white-research/pull/6). Los capítulos siguen siendo un manuscrito de investigación, con conclusiones provisionales.
+El repositorio integra los **capítulos 1–11**, el trabajo de Rochester/Daniels del [PR #5](https://github.com/nbertoa/ellen-white-research/pull/5) y la auditoría del [PR #6](https://github.com/nbertoa/ellen-white-research/pull/6). Los capítulos siguen siendo un manuscrito de investigación, con conclusiones provisionales.
 
-El [índice maestro provisional](metodologia/INDICE_MAESTRO.md) fija una estructura de **17 capítulos**: los capítulos 1–10 están escritos y los capítulos 11–17 permanecen pendientes. La estructura sólo debería ampliarse si aparece una cuestión capaz de cambiar materialmente la evaluación y que no pueda resolverse dentro de los capítulos previstos.
+El [índice maestro provisional](metodologia/INDICE_MAESTRO.md) fija una estructura de **17 capítulos**: los capítulos 1–11 están escritos y los capítulos 12–17 permanecen pendientes. La estructura sólo debería ampliarse si aparece una cuestión capaz de cambiar materialmente la evaluación y que no pueda resolverse dentro de los capítulos previstos.
 
 La [auditoría integral](hallazgos/auditoria-integral-2026-09-29.md) y su [registro original](hallazgos/auditoria-integral-2026-09-29-referencias.json) se conservan como antecedentes. Las correcciones aplicadas y el estado de **cada P1** están en [remediación](hallazgos/remediacion-2026-09-29.md), con [registro de cotejos](hallazgos/remediacion-2026-09-29-referencias.json). La [matriz vigente](metodologia/MATRIZ_CRITERIOS_BIBLICOS.md) aplica las cautelas de C2.
 
@@ -98,9 +98,12 @@ Capítulos incorporados al repositorio:
 10. **Capítulo 10 — ¿Qué implica su dependencia literaria para sus afirmaciones de inspiración?**
     Compara el origen humano documentado con las declaraciones de White, manteniendo los hechos del capítulo 9. Distingue compatibilidad de fuentes e inspiración, autoridad del mensaje, expresión humana y atribución celestial específica. Examina el juicio de 1879, el diario de 1890, Queensland y la negación de lecturas iniciales sobre salud; conserva los límites de cada caso. [Manuscrito](capitulos/10-que-implica-dependencia-literaria-para-inspiracion.md), [declaraciones y cronología](hallazgos/capitulo-10-declaraciones-y-cronologia-de-inspiracion.md) y [auditoría documental](hallazgos/capitulo-10-auditoria-y-registro-de-fuentes.md).
 
+11. **Capítulo 11 — ¿Hasta qué punto podemos atribuir a Ellen White los libros publicados bajo su nombre?**
+    Reconstruye escritura personal, dictado, copia, montaje, revisión y aprobación, distinguiendo *The Desire of Ages*, *The Great Controversy*, libros tardíos y compilaciones póstumas. Separa la intervención documentada de Davis, Bolton y otros colaboradores de las atribuciones que siguen indeterminadas. [Manuscrito](capitulos/11-hasta-que-punto-podemos-atribuir-a-ellen-white-los-libros-publicados-bajo-su-nombre.md) y [fichas documentales](hallazgos/capitulo-11-colaboradores-y-limites-de-atribucion.md).
+
 El balance provisional sigue abierto. Los fenómenos físicos no identifican la causa de las visiones y las predicciones aportan evidencia mixta: existen advertencias anteriores y concretas que merecen peso real, pero no se ha establecido conocimiento humanamente inaccesible. El anuncio de 1856 incumplido literalmente constituye una dificultad seria; la defensa condicional posterior existe, pero falta demostrar que esa condición perteneciera legítimamente a su sentido original.
 
-La revisión del capítulo 8 mantiene abiertas las verificaciones documentales indicadas en su ficha; sus casos no permiten aún demostrar que alguna información fuera humanamente inaccesible. El capítulo 9 documenta el uso de escritos ajenos. El capítulo 10 encuentra procedimientos compatibles con lo que White reconoció y cruces específicos entre material dependiente e instrucción celestial que conservan dificultades de origen. No demuestra una falsa atribución global ni verifica la explicación favorable de cada pasaje.
+La revisión del capítulo 8 mantiene abiertas las verificaciones documentales indicadas en su ficha; sus casos no permiten aún demostrar que alguna información fuera humanamente inaccesible. El capítulo 9 documenta el uso de escritos ajenos. El capítulo 10 encuentra procedimientos compatibles con lo que White reconoció y cruces específicos entre material dependiente e instrucción celestial que conservan dificultades de origen. No demuestra una falsa atribución global ni verifica la explicación favorable de cada pasaje. El capítulo 11 documenta contribuciones editoriales sustantivas y aprobación de ediciones en vida, pero mantiene separados los libros terminados o compilados tras 1915 y no cuantifica la autoría de cada frase.
 
 ## ¿Cuál es la regla maestra?
 
