@@ -60,9 +60,9 @@ La progresión normal es:
 
 ## ¿Cuál es el estado actual?
 
-El repositorio integra los **capítulos 1–11**, el trabajo de Rochester/Daniels del [PR #5](https://github.com/nbertoa/ellen-white-research/pull/5) y la auditoría del [PR #6](https://github.com/nbertoa/ellen-white-research/pull/6). Los capítulos siguen siendo un manuscrito de investigación, con conclusiones provisionales.
+El repositorio integra los **capítulos 1–12**, el trabajo de Rochester/Daniels del [PR #5](https://github.com/nbertoa/ellen-white-research/pull/5) y la auditoría del [PR #6](https://github.com/nbertoa/ellen-white-research/pull/6). Los capítulos siguen siendo un manuscrito de investigación, con conclusiones provisionales.
 
-El [índice maestro provisional](metodologia/INDICE_MAESTRO.md) fija una estructura de **17 capítulos**: los capítulos 1–11 están escritos y los capítulos 12–17 permanecen pendientes. La estructura sólo debería ampliarse si aparece una cuestión capaz de cambiar materialmente la evaluación y que no pueda resolverse dentro de los capítulos previstos.
+El [índice maestro provisional](metodologia/INDICE_MAESTRO.md) fija una estructura de **17 capítulos**: los capítulos 1–12 están escritos y los capítulos 13–17 permanecen pendientes. La estructura sólo debería ampliarse si aparece una cuestión capaz de cambiar materialmente la evaluación y que no pueda resolverse dentro de los capítulos previstos.
 
 La [auditoría integral](hallazgos/auditoria-integral-2026-09-29.md) y su [registro original](hallazgos/auditoria-integral-2026-09-29-referencias.json) se conservan como antecedentes. Las correcciones aplicadas y el estado de **cada P1** están en [remediación](hallazgos/remediacion-2026-09-29.md), con [registro de cotejos](hallazgos/remediacion-2026-09-29-referencias.json). La [matriz vigente](metodologia/MATRIZ_CRITERIOS_BIBLICOS.md) aplica las cautelas de C2.
 
@@ -101,9 +101,14 @@ Capítulos incorporados al repositorio:
 11. **Capítulo 11 — ¿Hasta qué punto podemos atribuir a Ellen White los libros publicados bajo su nombre?**
     Reconstruye escritura personal, dictado, copia, montaje, revisión y aprobación, distinguiendo *The Desire of Ages*, *The Great Controversy*, libros tardíos y compilaciones póstumas. Separa la intervención documentada de Davis, Bolton y otros colaboradores de las atribuciones que siguen indeterminadas. [Manuscrito](capitulos/11-hasta-que-punto-podemos-atribuir-a-ellen-white-los-libros-publicados-bajo-su-nombre.md) y [fichas documentales](hallazgos/capitulo-11-colaboradores-y-limites-de-atribucion.md).
 
+12. **Capítulo 12 — ¿Cometió Ellen White errores en asuntos de historia, ciencia y salud?**
+    Contrasta revisiones históricas, geología y afirmaciones sanitarias, con inventario simétrico de aciertos, errores y casos ambiguos. Separa exactitud, disponibilidad ordinaria y origen declarado; aplica la matriz al síndrome médico de la masturbación y conserva límites para asistentes, cifras y atribuciones específicas. [Manuscrito completo](capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md), [inventario y fichas](hallazgos/capitulo-12-inventario-y-protocolo.md) y [auditoría](hallazgos/capitulo-12-auditoria-y-registro-de-fuentes.md).
+
 El balance provisional sigue abierto. Los fenómenos físicos no identifican la causa de las visiones y las predicciones aportan evidencia mixta: existen advertencias anteriores y concretas que merecen peso real, pero no se ha establecido conocimiento humanamente inaccesible. El anuncio de 1856 incumplido literalmente constituye una dificultad seria; la defensa condicional posterior existe, pero falta demostrar que esa condición perteneciera legítimamente a su sentido original.
 
 La revisión del capítulo 8 mantiene abiertas las verificaciones documentales indicadas en su ficha; sus casos no permiten aún demostrar que alguna información fuera humanamente inaccesible. El capítulo 9 documenta el uso de escritos ajenos. El capítulo 10 encuentra procedimientos compatibles con lo que White reconoció y cruces específicos entre material dependiente e instrucción celestial que conservan dificultades de origen. No demuestra una falsa atribución global ni verifica la explicación favorable de cada pasaje. El capítulo 11 documenta contribuciones editoriales sustantivas y aprobación de ediciones en vida, pero mantiene separados los libros terminados o compilados tras 1915 y no cuantifica la autoría de cada frase.
+
+El capítulo 12 identifica errores históricos y explicaciones científicas o médicas que no se sostienen, además de consejos sanitarios correctos y normalmente disponibles. No equipara revisiones con fraude ni atribuye toda dificultad a una visión. El caso de ApM p. 18 presenta una dificultad seria por su relación causal y el origen que White declaró; amalgamación y otros expedientes conservan incertidumbres distintas. No se realiza una suma de aciertos y errores ni un veredicto global sobre autenticidad.
 
 ## ¿Cuál es la regla maestra?
 
