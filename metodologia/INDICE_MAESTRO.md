@@ -14,7 +14,7 @@ La estructura puede cambiar si nueva evidencia demuestra que falta una cuestión
 6. **¿Qué podría explicar las visiones de Ellen G. White?** — escrito.
 7. **¿Predijo Ellen White acontecimientos que no podía conocer?** — escrito.
 8. **¿Conoció Ellen White cosas que no podía saber por medios normales?** — escrito.
-9. **¿Utilizó Ellen White escritos de otros autores?** — pendiente.
+9. **¿Utilizó Ellen White escritos de otros autores?** — escrito.
 10. **¿Qué implica su dependencia literaria para sus afirmaciones de inspiración?** — pendiente.
 11. **¿Hasta qué punto podemos atribuir a Ellen White los libros publicados bajo su nombre?** — pendiente. Examinar asistentes literarios, edición, compilación y revisiones.
 12. **¿Cometió Ellen White errores en asuntos de historia, ciencia y salud?** — pendiente.

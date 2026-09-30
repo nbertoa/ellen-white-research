@@ -60,9 +60,9 @@ La progresión normal es:
 
 ## ¿Cuál es el estado actual?
 
-Esta rama integra los **capítulos 1–8**, el trabajo de Rochester/Daniels del [PR #5](https://github.com/nbertoa/ellen-white-research/pull/5) y la auditoría del [PR #6](https://github.com/nbertoa/ellen-white-research/pull/6). Los capítulos siguen siendo un manuscrito de investigación, con conclusiones provisionales.
+El repositorio integra los **capítulos 1–9**, el trabajo de Rochester/Daniels del [PR #5](https://github.com/nbertoa/ellen-white-research/pull/5) y la auditoría del [PR #6](https://github.com/nbertoa/ellen-white-research/pull/6). Los capítulos siguen siendo un manuscrito de investigación, con conclusiones provisionales.
 
-El [índice maestro provisional](metodologia/INDICE_MAESTRO.md) fija una estructura de **17 capítulos**: los capítulos 1–8 están escritos y los capítulos 9–17 permanecen pendientes. La estructura sólo debería ampliarse si aparece una cuestión capaz de cambiar materialmente la evaluación y que no pueda resolverse dentro de los capítulos previstos.
+El [índice maestro provisional](metodologia/INDICE_MAESTRO.md) fija una estructura de **17 capítulos**: los capítulos 1–9 están escritos y los capítulos 10–17 permanecen pendientes. La estructura sólo debería ampliarse si aparece una cuestión capaz de cambiar materialmente la evaluación y que no pueda resolverse dentro de los capítulos previstos.
 
 La [auditoría integral](hallazgos/auditoria-integral-2026-09-29.md) y su [registro original](hallazgos/auditoria-integral-2026-09-29-referencias.json) se conservan como antecedentes. Las correcciones aplicadas y el estado de **cada P1** están en [remediación](hallazgos/remediacion-2026-09-29.md), con [registro de cotejos](hallazgos/remediacion-2026-09-29-referencias.json). La [matriz vigente](metodologia/MATRIZ_CRITERIOS_BIBLICOS.md) aplica las cautelas de C2.
 
@@ -92,11 +92,13 @@ Capítulos incorporados al repositorio:
 8. **Capítulo 8 — ¿Conoció Ellen White cosas que no podía saber por medios normales?** *(integrado y corregido)*
    Examina mensajes personales y posibles vías ordinarias de información. En Rochester distingue el relato publicado en 1884 de las ampliaciones de 1892 y 1909; en E. P. Daniels separa una reprensión errónea de la atribución a una visión que él negó. [Ficha de fuentes y cuestiones abiertas](hallazgos/capitulo-08-rochester-1852-y-daniels-1883.md).
 
+9. **Capítulo 9 — ¿Utilizó Ellen White escritos de otros autores?**
+   Establece el uso documentado de fuentes en los libros sobre Pablo, Hus y la vida de Jesús; delimita el estudio cuantitativo de Veltman, la cronología, los reconocimientos públicos y la intervención editorial. La pregunta sobre inspiración queda para el capítulo 10. [Manuscrito](capitulos/09-utilizo-ellen-white-escritos-de-otros-autores.md) y [fichas de investigación](hallazgos/capitulo-09-cronologia-reconocimientos-y-limites.md).
+
 El balance provisional sigue abierto. Los fenómenos físicos no identifican la causa de las visiones y las predicciones aportan evidencia mixta: existen advertencias anteriores y concretas que merecen peso real, pero no se ha establecido conocimiento humanamente inaccesible. El anuncio de 1856 incumplido literalmente constituye una dificultad seria; la defensa condicional posterior existe, pero falta demostrar que esa condición perteneciera legítimamente a su sentido original.
 
-La revisión del capítulo 8 mantiene abiertas las verificaciones documentales indicadas en su ficha; sus casos no permiten aún demostrar que alguna información fuera humanamente inaccesible.
+La revisión del capítulo 8 mantiene abiertas las verificaciones documentales indicadas en su ficha; sus casos no permiten aún demostrar que alguna información fuera humanamente inaccesible. El capítulo 9 documenta el uso de escritos ajenos sin adelantar la evaluación de su compatibilidad con las afirmaciones de inspiración.
 
 ## ¿Cuál es la regla maestra?
 
 > **No investigar para demostrar que Ellen White fue profeta ni para demostrar que no lo fue. Investigar hasta descubrir qué conclusión explica mejor toda la evidencia disponible y detenerse donde se detenga la evidencia.**
-
