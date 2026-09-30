@@ -1,0 +1,1522 @@
+{
+  "fecha_de_corte": "2026-09-30",
+  "repositorio": "nbertoa/ellen-white-research",
+  "base_commit": "768349c246426ceb836b0114d8b302f18fec71f7",
+  "base_tree": "aae89614291a43573cf30d1ef476e5a81d032bf1",
+  "estado_previo": {
+    "archivos": [
+      {
+        "path": "README.md",
+        "git_blob_sha": "a4784ea9f22639e4280c7df88e3048a8a4967419"
+      },
+      {
+        "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+        "git_blob_sha": "bce8d3dd1438204cb6812af31c751231574bf6cb"
+      },
+      {
+        "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+        "git_blob_sha": "d3404f14199baa8b2f693ee0261ba52f0280af30"
+      },
+      {
+        "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+        "git_blob_sha": "ecac44fe70c6ec420e34e2262e43025e08d69d47"
+      },
+      {
+        "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+        "git_blob_sha": "abeadc5aa73c235a1e9d21c797c0827f566a19d0"
+      },
+      {
+        "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+        "git_blob_sha": "29ef40ab9e69cef1f68f9dab0ec8d0b7b8d02afa"
+      },
+      {
+        "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+        "git_blob_sha": "194c16068aa79de946cd2bbdbb5208244595cf41"
+      },
+      {
+        "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+        "git_blob_sha": "934ac01b464b60af9aceb0dbea8f7eb90828b614"
+      },
+      {
+        "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+        "git_blob_sha": "49d41f4cc775280fcc8cdba9866950bbadeb7ac5"
+      },
+      {
+        "path": "capitulos/09-utilizo-ellen-white-escritos-de-otros-autores.md",
+        "git_blob_sha": "4fd26de6bc3e038d88e2dcabdf5f45bd248bb200"
+      },
+      {
+        "path": "capitulos/10-que-implica-dependencia-literaria-para-inspiracion.md",
+        "git_blob_sha": "b31739fc26df978a318991997b21969e7e5b3d54"
+      },
+      {
+        "path": "capitulos/11-hasta-que-punto-podemos-atribuir-a-ellen-white-los-libros-publicados-bajo-su-nombre.md",
+        "git_blob_sha": "d1c696f748670a5731acbf0526891e689f65f382"
+      },
+      {
+        "path": "hallazgos/afirmaciones-de-ellen-white-sobre-su-don-y-autoridad.md",
+        "git_blob_sha": "c390ceb118d6e7174de264574e55992fbed50fed"
+      },
+      {
+        "path": "hallazgos/auditoria-integral-2026-09-29-referencias.json",
+        "git_blob_sha": "0886049314374c1abf386436dcc9ea1dd69efabf"
+      },
+      {
+        "path": "hallazgos/auditoria-integral-2026-09-29.md",
+        "git_blob_sha": "f97e8b9001926bd84382cced82b07dbb52b60178"
+      },
+      {
+        "path": "hallazgos/capitulo-08-rochester-1852-y-daniels-1883.md",
+        "git_blob_sha": "afa85ea6ebcb3aee99665cc420fd54c28c745cbb"
+      },
+      {
+        "path": "hallazgos/capitulo-09-cronologia-reconocimientos-y-limites.md",
+        "git_blob_sha": "b3816fefb014b0373766bfac294038d120bcca34"
+      },
+      {
+        "path": "hallazgos/capitulo-09-hus-wylie-y-ediciones.md",
+        "git_blob_sha": "eb98f146478ac8a0eb3b53362cd17aea40317abd"
+      },
+      {
+        "path": "hallazgos/capitulo-09-pablo-conybeare-howson.md",
+        "git_blob_sha": "6a2b79090c8bcf091a29589e6808041c9a2437c1"
+      },
+      {
+        "path": "hallazgos/capitulo-09-veltman-deseado-de-todas-las-gentes.md",
+        "git_blob_sha": "2d422040ec49e029e9a26861156d26cc08ed9fe8"
+      },
+      {
+        "path": "hallazgos/capitulo-10-analogias-biblicas-y-controles-de-origen.md",
+        "git_blob_sha": "1334b6a1d65ff4de423dfed8dae1bda312d71f9e"
+      },
+      {
+        "path": "hallazgos/capitulo-10-atribucion-y-practicas-editoriales.md",
+        "git_blob_sha": "61a0dac259122d6491b2751c5fd82e116a94cf9d"
+      },
+      {
+        "path": "hallazgos/capitulo-10-auditoria-y-registro-de-fuentes.md",
+        "git_blob_sha": "1f563758fe7d83fb3e61425ba5d8a5d126c90569"
+      },
+      {
+        "path": "hallazgos/capitulo-10-declaraciones-y-cronologia-de-inspiracion.md",
+        "git_blob_sha": "c104398cb13860ef00a673a368ecb8b9d12cda9c"
+      },
+      {
+        "path": "hallazgos/capitulo-10-diario-1890-y-krummacher.md",
+        "git_blob_sha": "eb27ab074cea49ee7ea1f2490e4bc49e4664ce6e"
+      },
+      {
+        "path": "hallazgos/capitulo-10-fuentes.json",
+        "git_blob_sha": "3afcaaf70df53c4335cfcda3ef64e27d5680f0ff"
+      },
+      {
+        "path": "hallazgos/capitulo-10-juicio-1879-y-daniel-march.md",
+        "git_blob_sha": "fc1b7970c365d8eb6385556f9ae281de179f588a"
+      },
+      {
+        "path": "hallazgos/capitulo-10-queensland-1898-y-humphrey.md",
+        "git_blob_sha": "215c4d9f5d8ff876885d46a94af3d010a6d06151"
+      },
+      {
+        "path": "hallazgos/capitulo-10-salud-1864-y-negaciones-1867.md",
+        "git_blob_sha": "9b210f1e6a4ccec718ece3de2b25710ef3c5650c"
+      },
+      {
+        "path": "hallazgos/capitulo-11-colaboradores-y-limites-de-atribucion.md",
+        "git_blob_sha": "7569295f5a9f256293f3eccba7c48e7e3cfce2dd"
+      },
+      {
+        "path": "hallazgos/capitulo-11-conflicto-de-los-siglos-y-revisiones.md",
+        "git_blob_sha": "8c3f492e2ff4ea9cf03c0a28f1ece1827c151d0e"
+      },
+      {
+        "path": "hallazgos/capitulo-11-fannie-bolton-testimonios-y-borradores.md",
+        "git_blob_sha": "315a58f8dfbb590ce676cf9ebbe4f4134806c981"
+      },
+      {
+        "path": "hallazgos/capitulo-11-libros-tardios-y-compilaciones.md",
+        "git_blob_sha": "50307c89f2085c9c3b876114326a4653fb4b82f7"
+      },
+      {
+        "path": "hallazgos/capitulo-11-marian-davis-y-deseado-de-todas-las-gentes.md",
+        "git_blob_sha": "cdebcb62f7bbe6585f90bcf1c943362f4df62d6d"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/1-corintios-14-evaluar-profecias.md",
+        "git_blob_sha": "c1484ad72abfba50a965f3427b80a7dbd32757f8"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/1-juan-4-probar-los-espiritus.md",
+        "git_blob_sha": "f3de98022508d24dce324af9b30d900e75125e1d"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/1-reyes-13.md",
+        "git_blob_sha": "7e7358da004e4a57731fa2a8d8156ae4c46ec17c"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/1-tesalonicenses-5-examinar-profecias.md",
+        "git_blob_sha": "10c19eba9cfaee382c689446ede5a77bd4e6039e"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/balaam-caso-complejo.md",
+        "git_blob_sha": "99544e5b1a07570e4e199fd8f17e9f945ad6f1bb"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/caifas-profecia-involuntaria.md",
+        "git_blob_sha": "9899eaccd79c9edf785d657e239b356fe97e468d"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/continuidad-don-profetico.md",
+        "git_blob_sha": "8d320931b2540d18650b8e99b973346a6cb1284b"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/deuteronomio-13.md",
+        "git_blob_sha": "9c6f20743e7a1c705252f0b5a43101a2d73a02cd"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/deuteronomio-18-medios-de-revelacion.md",
+        "git_blob_sha": "ad264843849fad36a3f9dc3376725e7176092041"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/deuteronomio-18.md",
+        "git_blob_sha": "434213187a4aac93711246ffdcaa6c85819b26c6"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/ezequiel-13-falsa-seguridad.md",
+        "git_blob_sha": "ca86b95076b3fed9c1e5d1c4eb3c800463462f95"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/impresion-guia-iluminacion.md",
+        "git_blob_sha": "e0aaa13ef464ed20e1637ad3ba62fcbd1a2432e4"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/inspiracion-revelacion-profecia.md",
+        "git_blob_sha": "92402d57d6c56261f83426ad59bb00e36997dd77"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/isaias-8-20-ley-testimonio.md",
+        "git_blob_sha": "dc7d6e8006c9bafc5511b66f2237074339d8aefe"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/jeremias-23-origen-mensaje.md",
+        "git_blob_sha": "50b99f02c1773b590fd7cbaf452191af830501bd"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/lucas-1-inspiracion-y-fuentes.md",
+        "git_blob_sha": "d738334a345e5287cad6f1ea5cf8d84d29d6e417"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/mateo-7-frutos.md",
+        "git_blob_sha": "60a8cf70db1fd628a4023a4621d715bde0bdc0fb"
+      },
+      {
+        "path": "hallazgos/criterios-biblicos/miqueas-3-dinero-interes.md",
+        "git_blob_sha": "ac0f79a3d6a8bea66df6f742d579d919a4fbd752"
+      },
+      {
+        "path": "hallazgos/prediccion-1856-y-condicionalidad.md",
+        "git_blob_sha": "ddf455fb0883f6006402d5cec883c8f9c620cb97"
+      },
+      {
+        "path": "hallazgos/remediacion-2026-09-29-referencias.json",
+        "git_blob_sha": "a2ca84c616029282819e63e915e2fa3c942fa93a"
+      },
+      {
+        "path": "hallazgos/remediacion-2026-09-29.md",
+        "git_blob_sha": "faa9c47fd7196f97451a71d8151d1e5b233cc44f"
+      },
+      {
+        "path": "hallazgos/visiones-tempranas-foy-y-fisiologia.md",
+        "git_blob_sha": "a16d050a943b0f50a65c2610385869a0c9632216"
+      },
+      {
+        "path": "metodologia/INDICE_MAESTRO.md",
+        "git_blob_sha": "06018158481653fd400833f941471042a8f4aa60"
+      },
+      {
+        "path": "metodologia/INSTRUCCIONES_PROYECTO.md",
+        "git_blob_sha": "5c454e9870605d0e378d47e8757fe30f00423e1e"
+      },
+      {
+        "path": "metodologia/MATRIZ_CRITERIOS_BIBLICOS.md",
+        "git_blob_sha": "788c130a1a2bd59d2ff47d093dc2e7a8d7bccd81"
+      },
+      {
+        "path": "metodologia/PROMPT_WORK_AUDITORIA_CAPITULO_2.md",
+        "git_blob_sha": "dba077c4eed5b531174145cbb876ed1cbc09cd32"
+      }
+    ],
+    "markdown_completos_leidos": 57,
+    "json_revisados": 3,
+    "capitulos_leidos": "1-11",
+    "antecedentes": "PR 1-9 integrados; ramas y últimos cien commits; comentarios PR 7-9; C11 en commits directos"
+  },
+  "protocolo": "Se conserva MATRIZ_CRITERIOS_BIBLICOS; contenido, disponibilidad y origen separados; no suma numérica ni veredicto global.",
+  "candidatos": [
+    {
+      "id": "H01",
+      "proposicion_y_localizador": "Valdenses primeros europeos con Escritura en lengua propia: GC 1888, p. 65; 1911 añade «among».",
+      "resultado_delimitado": "E en la prioridad absoluta; corrección real.",
+      "origen_y_expediente": "Inspiración general del libro; [historia](capitulo-12-historia-y-revisiones.md)."
+    },
+    {
+      "id": "H02",
+      "proposicion_y_localizador": "Papa se llama a sí mismo «Lord God the Pope»: GC 1888, p. 50; 1911, «has been styled».",
+      "resultado_delimitado": "A para la autoatribución; revisión de sujeto y responsabilidad.",
+      "origen_y_expediente": "No se identificó revelación individual del título; historia."
+    },
+    {
+      "id": "H03",
+      "proposicion_y_localizador": "Todo lo herético, personas/escritos, fue destruido: GC 1888, p. 61; 1911, «sought to destroy».",
+      "resultado_delimitado": "E si se lee la universalidad literalmente; generalización histórica corregida.",
+      "origen_y_expediente": "Marco histórico general; historia."
+    },
+    {
+      "id": "H04",
+      "proposicion_y_localizador": "Prohibición nacional de Biblia en 1793 y rescisión 3½ años después: GC 1888/1911, pp. 273, 286–287.",
+      "resultado_delimitado": "A en formulaciones aisladas; E para relato de interdicción nacional uniforme y continua.",
+      "origen_y_expediente": "Fuente Russell; revisión parcial, historia."
+    },
+    {
+      "id": "H05",
+      "proposicion_y_localizador": "En diez años perecieron «millions»: GC 1888, p. 284; 1911, «multitudes».",
+      "resultado_delimitado": "D en cifra según alcance; reducción documentada, no cifra alternativa demostrada.",
+      "origen_y_expediente": "Propuesta Prescott §62; historia."
+    },
+    {
+      "id": "H06",
+      "proposicion_y_localizador": "Cuarenta años de advertencia a Jerusalén: GC 1888, p. 30; 1911, «nearly forty».",
+      "resultado_delimitado": "I, redondeo razonable; precisión.",
+      "origen_y_expediente": "Historia, sin revelación de intervalo identificada."
+    },
+    {
+      "id": "H07",
+      "proposicion_y_localizador": "Gregory VII «next»/«also» reclama deponer emperadores: GC p. 57; Prescott §14.",
+      "resultado_delimitado": "I, ajuste de secuencia; no prueba de error central.",
+      "origen_y_expediente": "Historia."
+    },
+    {
+      "id": "H08",
+      "proposicion_y_localizador": "Tyndale: 3.000 ejemplares y otra edición ese año: GC 1888/1911, p. 247.",
+      "resultado_delimitado": "D; 3.000 no queda refutado por contraponer 6.000.",
+      "origen_y_expediente": "McAdams 1977 y ejemplares supervivientes; historia."
+    },
+    {
+      "id": "H09",
+      "proposicion_y_localizador": "Tyndale: «at one time» prisión y «finally» martirio, GC p. 247.",
+      "resultado_delimitado": "N como acusación de dos prisiones: el texto no exige dos.",
+      "origen_y_expediente": "Objeción de lectura, historia."
+    },
+    {
+      "id": "H10",
+      "proposicion_y_localizador": "Hus y Wylie: reconstrucción histórica y coincidencias, cap. 9.",
+      "resultado_delimitado": "Dependencia establecida; no declaración global de falsedad del relato.",
+      "origen_y_expediente": "Análisis de McAdams; historia."
+    },
+    {
+      "id": "H11",
+      "proposicion_y_localizador": "Babel supuestamente anterior al diluvio: SG3 1864, p. 301; contrastar pp. 95–97.",
+      "resultado_delimitado": "Acusación no establecida; enseñanza explícita contraria.",
+      "origen_y_expediente": "Rea, errata atribuida por prefacio posterior; historia."
+    },
+    {
+      "id": "H12",
+      "proposicion_y_localizador": "Dos coronas de espinas en borradores de DA, carta Davis 1895.",
+      "resultado_delimitado": "N como error histórico: silencio evangélico no prueba inexistencia.",
+      "origen_y_expediente": "Atribución editorial incompleta; remisión cap. 11."
+    },
+    {
+      "id": "C01",
+      "proposicion_y_localizador": "Mundo de unos 6.000 años: SG3 1864, pp. 91–95.",
+      "resultado_delimitado": "E según reconstrucción geológica ordinaria; alcance del «mundo» delimitado.",
+      "origen_y_expediente": "«I have been shown» en argumento próximo; [geología](capitulo-12-geologia-y-cronologia.md)."
+    },
+    {
+      "id": "C02",
+      "proposicion_y_localizador": "Semana creadora literal mostrada: SG3 p. 90.",
+      "resultado_delimitado": "Conflicto científico de cronología; milagro en sí no es ensayo empírico.",
+      "origen_y_expediente": "«I was then carried back»; geología, sin examen doctrinal."
+    },
+    {
+      "id": "C03",
+      "proposicion_y_localizador": "Grandes animales extinguidos anteriores: SG3 p. 92.",
+      "resultado_delimitado": "V para existencia/extinción; N para ubicación de todos antes del diluvio.",
+      "origen_y_expediente": "«I was shown»; geología."
+    },
+    {
+      "id": "C04",
+      "proposicion_y_localizador": "Huesos humanos mucho mayores y humanidad primitiva gigantesca: SG3 pp. 92, 84–85.",
+      "resultado_delimitado": "A; no evidencia sólida de población ancestral universal así.",
+      "origen_y_expediente": "Escena visionaria; no se presenta ausencia de hallazgo como refutación total."
+    },
+    {
+      "id": "C05",
+      "proposicion_y_localizador": "Bosques enterrados originaron carbón: SG3 pp. 79–80.",
+      "resultado_delimitado": "I para origen vegetal/enterramiento; E para explicación universal por un diluvio reciente.",
+      "origen_y_expediente": "Marco revelatorio; geología."
+    },
+    {
+      "id": "C06",
+      "proposicion_y_localizador": "Carbón produce petróleo: SG3 p. 79.",
+      "resultado_delimitado": "D si incluye productos de carbón; A como origen general del petróleo natural.",
+      "origen_y_expediente": "Geología; no exigir terminología industrial moderna."
+    },
+    {
+      "id": "C07",
+      "proposicion_y_localizador": "Carbón/aceite, caliza, hierro y agua causan volcanes y terremotos: SG3 pp. 79–83.",
+      "resultado_delimitado": "E como explicación general del volcanismo; V para incendios naturales de carbón.",
+      "origen_y_expediente": "«I saw» próximo, no todos los eslabones marcados individualmente; geología."
+    },
+    {
+      "id": "C08",
+      "proposicion_y_localizador": "Antiguos árboles mayores y más durables que todos los actuales: SG3 pp. 61, 79.",
+      "resultado_delimitado": "D/N para universalidad y durabilidad; no inferir desde un fósil grande toda la proposición.",
+      "origen_y_expediente": "Geología."
+    },
+    {
+      "id": "C09",
+      "proposicion_y_localizador": "«Amalgamation of man and beast»: SG3 pp. 64, 75.",
+      "resultado_delimitado": "D para significado; si híbridos humanos/animales, sin apoyo biológico.",
+      "origen_y_expediente": "[Amalgamación y astronomía](capitulo-12-amalgamacion-y-astronomia.md)."
+    },
+    {
+      "id": "C10",
+      "proposicion_y_localizador": "«Certain races of men» evidencia amalgamación: SG3 p. 75.",
+      "resultado_delimitado": "Referencia racial textual cierta; identificación y mecanismo D.",
+      "origen_y_expediente": "No atribuir automáticamente nombres de Smith a White."
+    },
+    {
+      "id": "C11",
+      "proposicion_y_localizador": "Plantas nocivas como intervención de Satanás: Ms 65, 1899; 2SM p. 288 como localizador posterior.",
+      "resultado_delimitado": "N para agente sobrenatural; no confundir hibridación real con agencia comprobada.",
+      "origen_y_expediente": "Fuera del cuerpo central."
+    },
+    {
+      "id": "C12",
+      "proposicion_y_localizador": "«Stars of our solar system» reflejan luz: Education 1903, p. 14.",
+      "resultado_delimitado": "I, lenguaje popular razonable para planetas; no error demostrado.",
+      "origen_y_expediente": "Analogía educativa, sin marca visionaria particular; amalgamación/astronomía."
+    },
+    {
+      "id": "C13",
+      "proposicion_y_localizador": "Mundos con lunas y visita a Saturno/Júpiter, testimonios 1846/1847 y relatos tardíos.",
+      "resultado_delimitado": "N para mundos no nombrados por White; números en testigos, no inventar totales.",
+      "origen_y_expediente": "No usar conteos modernos como refutación automática; misma ficha."
+    },
+    {
+      "id": "S01",
+      "proposicion_y_localizador": "Tabaco perjudica la salud y crea hábito: SG4a 1864, pp. 128–129; MH 1905, p. 327.",
+      "resultado_delimitado": "V para perjuicio y dependencia; no avala cada explicación nerviosa.",
+      "origen_y_expediente": "Contexto de visión 1863 y antecedente Gunn/RH; [contexto favorable](capitulo-12-salud-contexto-y-casos-favorables.md)."
+    },
+    {
+      "id": "S02",
+      "proposicion_y_localizador": "Alcohol perjudica y esclaviza: SG4a pp. 124–127; MH pp. 330–335.",
+      "resultado_delimitado": "V para riesgos/adicción; no toda consecuencia inevitable para cada dosis.",
+      "origen_y_expediente": "Reforma de temperancia anterior; misma ficha."
+    },
+    {
+      "id": "S03",
+      "proposicion_y_localizador": "Cereales, frutas, verduras y frutos secos dieta favorable: MH p. 296; ApM pp. 20–21.",
+      "resultado_delimitado": "I/V para patrón bien planificado; no exclusiva suficiencia universal.",
+      "origen_y_expediente": "Graham/Coles anteriores; misma ficha."
+    },
+    {
+      "id": "S04",
+      "proposicion_y_localizador": "Movimiento y aire libre frente a sedentarismo: SG4a pp. 145–146; MH pp. 238–240.",
+      "resultado_delimitado": "V, con límites de intensidad y enfermedad.",
+      "origen_y_expediente": "Coles/Dio Lewis anteriores; misma ficha."
+    },
+    {
+      "id": "S05",
+      "proposicion_y_localizador": "Ventilar dormitorios: SG4a pp. 142–144; MH pp. 274–276.",
+      "resultado_delimitado": "V para consejo; mecanismos particulares no todos exactos.",
+      "origen_y_expediente": "Reforma higiénica previa; misma ficha."
+    },
+    {
+      "id": "S06",
+      "proposicion_y_localizador": "Limpieza de cuerpo, ropa y vivienda previene enfermedad: SG4a pp. 140–142.",
+      "resultado_delimitado": "V para higiene; A para reabsorción de desechos cutáneos como explicación general.",
+      "origen_y_expediente": "No confundir buen consejo con correcta fisiología."
+    },
+    {
+      "id": "S07",
+      "proposicion_y_localizador": "Prevención de enfermedades es preferible a negligencia: SG4a p. 140.",
+      "resultado_delimitado": "V, general; no extraordinaria para 1864.",
+      "origen_y_expediente": "Marco «I have been shown»; contexto favorable."
+    },
+    {
+      "id": "S08",
+      "proposicion_y_localizador": "Carne aumenta riesgo de cáncer: Lt 3, 1897; MH p. 313.",
+      "resultado_delimitado": "I para carnes concretas y determinados cánceres; falsa universalización de toda carne.",
+      "origen_y_expediente": "[Carne y cáncer](capitulo-12-carne-cancer-y-enfermedades.md)."
+    },
+    {
+      "id": "S09",
+      "proposicion_y_localizador": "Tuberculosis por alimentos animales infectados: MH p. 313.",
+      "resultado_delimitado": "V como posibilidad zoonótica; no todos los consumos ni incidencia supuesta.",
+      "origen_y_expediente": "Misma ficha."
+    },
+    {
+      "id": "S10",
+      "proposicion_y_localizador": "«Cancerous germs» transmiten cáncer al comer carne: MH p. 313.",
+      "resultado_delimitado": "A, con fuerza, para ruta causal; no validada por oncogenia infecciosa distinta.",
+      "origen_y_expediente": "Inspiración sanitaria general, no visión individual de frase localizada; misma ficha."
+    },
+    {
+      "id": "S11",
+      "proposicion_y_localizador": "Cerdo produce lepra/escrófula/humores cancerosos: SG4a pp. 124, 146.",
+      "resultado_delimitado": "A, atendiendo a nosología histórica; no demostrado para Hansen.",
+      "origen_y_expediente": "Riesgos parasitarios no validan todas esas causas; misma ficha."
+    },
+    {
+      "id": "S12",
+      "proposicion_y_localizador": "Masturbación prepuberal causa enfermedad/muerte y en 30–45 años múltiples enfermedades: ApM pp. 18–19.",
+      "resultado_delimitado": "E para síndrome causal.",
+      "origen_y_expediente": "Atribución directa «I have been shown»; [expediente](capitulo-12-masturbacion-y-afirmaciones-medicas.md)."
+    },
+    {
+      "id": "S13",
+      "proposicion_y_localizador": "Masturbación femenina activa humores cancerosos y causa pérdida de vista/insania: ApM p. 27.",
+      "resultado_delimitado": "E para conjunto causal; términos históricos delimitados.",
+      "origen_y_expediente": "Marco revelatorio cercano, no comillas angelicales; misma ficha."
+    },
+    {
+      "id": "S14",
+      "proposicion_y_localizador": "Desgaste vital por hábito secreto lleva principalmente a «consumption»: ApM p. 28.",
+      "resultado_delimitado": "E como explicación general de tuberculosis/desgaste mortal.",
+      "origen_y_expediente": "Misma ficha; no todo cansancio equivale a tuberculosis."
+    },
+    {
+      "id": "S15",
+      "proposicion_y_localizador": "Compulsión sexual puede arruinar funcionamiento personal: ApM pp. 25–28.",
+      "resultado_delimitado": "V como posibilidad; no rescata patologías orgánicas distintas.",
+      "origen_y_expediente": "Separar moral, pérdida de control y medicina."
+    },
+    {
+      "id": "S16",
+      "proposicion_y_localizador": "Drogas causaron más muertes que todas las demás causas juntas: SG4a p. 133.",
+      "resultado_delimitado": "A; cuantificación no sustentada, no estimación alternativa inventada.",
+      "origen_y_expediente": "«I was shown» directo; [medicamentos](capitulo-12-medicamentos-cafe-y-otros-casos.md)."
+    },
+    {
+      "id": "S17",
+      "proposicion_y_localizador": "«Drugs never cure disease»: SG4a p. 134.",
+      "resultado_delimitado": "E como prohibición factual de eficacia de la clase.",
+      "origen_y_expediente": "Marco próximo + p. 137 «presented before me»; misma ficha."
+    },
+    {
+      "id": "S18",
+      "proposicion_y_localizador": "Estricnina peligrosa, convulsiones/muerte, «No antidote»: SG4a p. 138.",
+      "resultado_delimitado": "V para toxicidad; ausencia de antídoto específico no equivale a imposibilidad de tratamiento.",
+      "origen_y_expediente": "Objeto presentado en visión; misma ficha."
+    },
+    {
+      "id": "S19",
+      "proposicion_y_localizador": "Opio crea dependencia/abstinencia y sobredosis mata: SG4a p. 139.",
+      "resultado_delimitado": "V para esas proposiciones; no todo uso médico carece de beneficio.",
+      "origen_y_expediente": "«I was shown» directo; misma ficha."
+    },
+    {
+      "id": "S20",
+      "proposicion_y_localizador": "Mercurio/calomel pueden destruir salud: SG4a pp. 139–140.",
+      "resultado_delimitado": "V para toxicidad; D para cifras de «millions».",
+      "origen_y_expediente": "Contexto terapéutico del XIX."
+    },
+    {
+      "id": "S21",
+      "proposicion_y_localizador": "Agua calma sed y deshidratación febril: SG4a pp. 136–137.",
+      "resultado_delimitado": "V; no prueba curación universal por hidroterapia.",
+      "origen_y_expediente": "Jackson difundido antes de visión; contexto favorable."
+    },
+    {
+      "id": "S22",
+      "proposicion_y_localizador": "Café/té son venenos lentos comparables a tabaco: SG4a p. 128; MH pp. 326–327.",
+      "resultado_delimitado": "V para estímulo/abstinencia; A para deterioro general inevitable.",
+      "origen_y_expediente": "Diferenciar dosis, embarazo y preparación; medicamentos."
+    },
+    {
+      "id": "S23",
+      "proposicion_y_localizador": "Influencias prenatales de nutrición, salud y alcohol: MH pp. 371–374.",
+      "resultado_delimitado": "I para factores físicos; N/D para transferencia precisa de carácter/apetitos.",
+      "origen_y_expediente": "[Otros límites](capitulo-12-medicamentos-cafe-y-otros-casos.md)."
+    },
+    {
+      "id": "S24",
+      "proposicion_y_localizador": "Lactancia materna y cuidado alimentario infantil: MH pp. 383–385.",
+      "resultado_delimitado": "I/V con excepciones clínicas; no consejo universal sin contexto.",
+      "origen_y_expediente": "Contexto favorable, no exclusividad sobrenatural demostrada."
+    },
+    {
+      "id": "S25",
+      "proposicion_y_localizador": "Pelucas/chignons calientan nervios y causan insania incurable: HR X-1871, pp. 120–121.",
+      "resultado_delimitado": "A; molestias plausibles no demuestran ese desenlace.",
+      "origen_y_expediente": "Origen revelatorio particular no establecido; medicamentos."
+    },
+    {
+      "id": "S26",
+      "proposicion_y_localizador": "Frenología de Jackson describe acertadamente a sus hijos: Lt 6, 1864, localizador 6MR pp. 345–346.",
+      "resultado_delimitado": "Valoración personal; no prueba del sistema frenológico ni revelación.",
+      "origen_y_expediente": "Medicamentos, no caso central."
+    },
+    {
+      "id": "S27",
+      "proposicion_y_localizador": "Dieta/condimentos excitan pasiones: ApM pp. 20–21; MH pp. 325–326.",
+      "resultado_delimitado": "D para relación general; N si no hay dosis/desenlace definido.",
+      "origen_y_expediente": "No deducir causalidad de valoración moral; capítulos 13–15 si procede."
+    },
+    {
+      "id": "O01",
+      "proposicion_y_localizador": "Cuarenta habitaciones frente a treinta y ocho: Ms 107, 1909.",
+      "resultado_delimitado": "Error ordinario reconocido, atribución humana explícita.",
+      "origen_y_expediente": "[Autoridad](capitulo-12-autoridad-y-limites.md)."
+    }
+  ],
+  "referencias": [
+    {
+      "url": "https://archive.org/details/61411880RX2.nlm.nih.gov",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://archive.org/details/E.G.WhiteAnAppealToMothers.TheGreatCauseOfThePhysicalMentalAnd",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-masturbacion-y-afirmaciones-medicas.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://archive.org/details/UriahSmithTheVisionsOfMrs.E.G.White1868",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-amalgamacion-y-astronomia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://archive.org/details/WhiteE.ImportantFactsOfFaith.SpiritualGiftsVol4PartI1864",
+      "citada_en": [
+        "hallazgos/capitulo-12-medicamentos-cafe-y-otros-casos.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://archive.org/details/b24400415",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://archive.org/details/greatcontrover00whit",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-historia-y-revisiones.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://archive.org/details/greatcontroversy00whit",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-historia-y-revisiones.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://archive.org/details/newgymnasticsfor00lewi_0",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://archive.org/details/sexualorganisma00jackgoog",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH18630217-V21-12.pdf",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH18671008-V30-17.pdf",
+      "citada_en": [
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/3SG/6",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-amalgamacion-y-astronomia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/3SG/7",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-amalgamacion-y-astronomia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/3SG/8",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-geologia-y-cronologia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/3SG/9",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-geologia-y-cronologia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/4aSG/39",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md",
+        "hallazgos/capitulo-12-medicamentos-cafe-y-otros-casos.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/ApM/2",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-masturbacion-y-afirmaciones-medicas.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://ellenwhiteresearch.com/works/PC/1",
+      "citada_en": [
+        "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://m.egwwritings.org/en/book/6286.1",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-autoridad-y-limites.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://media2.egwwritings.org/pdf/en_Ed.pdf",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-amalgamacion-y-astronomia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10423495/",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1071473/",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-masturbacion-y-afirmaciones-medicas.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11214846/",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-masturbacion-y-afirmaciones-medicas.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5305012/",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-medicamentos-cafe-y-otros-casos.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5696634/",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-medicamentos-cafe-y-otros-casos.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5775124/",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-masturbacion-y-afirmaciones-medicas.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://pubs.usgs.gov/circ/c1143/html/text.html",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-geologia-y-cronologia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://pubs.usgs.gov/gip/geotime/age.html",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-geologia-y-cronologia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://pubs.usgs.gov/gip/geotime/radiometric.html",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-geologia-y-cronologia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://pubs.usgs.gov/publication/pp108A",
+      "citada_en": [
+        "hallazgos/capitulo-12-geologia-y-cronologia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://text.egwwritings.org/amp/read/14074.9768001",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-autoridad-y-limites.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/106.2",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-historia-y-revisiones.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/14066.10326001",
+      "citada_en": [
+        "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://whiteestate.org/about/issues1/ref-lib/add-docs/gc-prescott/",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-historia-y-revisiones.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://whiteestate.org/issues/EGWPH77.pdf",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-historia-y-revisiones.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://whiteestate.org/legacy/issues-greatcontroversy1911-html/",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://wiki.wlb-stuttgart.de/index.php/Bibeln_Tyndale_NT_1526",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-historia-y-revisiones.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.andrews.edu/library/car/cardigital/Periodicals/Spectrum/1981-1982_Vol_12/4_June_1982.pdf",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-amalgamacion-y-astronomia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.bmj.com/content/353/bmj.i2716",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/psychological-medicine/article/masturbatory-insanity-the-history-of-an-idea-revisited/6AD148436974F5E4313F5F0D091B546A",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-masturbacion-y-afirmaciones-medicas.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/myths",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.cdc.gov/leprosy/hcp/clinical-overview/index.html",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750018.html",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-medicamentos-cafe-y-otros-casos.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.cochrane.org/evidence/CD005967_artesunate-reduces-death-severe-malaria",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-medicamentos-cafe-y-otros-casos.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.ellenwhite.info/books/bk-mh-24.htm",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.ellenwhite.info/books/bk-mh-26.htm",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.loc.gov/loc/lcib/9707/tyndale.html",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-historia-y-revisiones.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.persee.fr/doc/arcpa_0000-0000_1913_num_81_1_38174_t1_0030_0000_2",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-historia-y-revisiones.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.usgs.gov/programs/VHP/about-volcanoes",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-geologia-y-cronologia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.usgs.gov/publications/geologic-history-natural-coal-bed-fires-powder-river-basin-usa",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-geologia-y-cronologia.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.uu.se/en/library/visit-and-contact/exhibitions/codex-argenteus/the-history-of-codex-argenteus",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-historia-y-revisiones.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.who.int/en/news-room/fact-sheets/detail/tobacco",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.who.int/publications/i/item/9789241513043",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    },
+    {
+      "url": "https://www.who.int/publications/i/item/9789241547857",
+      "citada_en": [
+        "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md"
+      ],
+      "alcance": "Consulta y límites documentados en ficha; no asumir lectura integral por mera referencia."
+    }
+  ],
+  "ejemplares_descargados": [
+    {
+      "id": "sg3",
+      "url": "https://media4.egwwritings.org/pdf/en_3SG.pdf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "sg4a",
+      "url": "https://media4.egwwritings.org/pdf/en_4aSG.pdf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "appeal-mothers",
+      "url": "https://media4.egwwritings.org/pdf/en_ApM.pdf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "mh1905",
+      "url": "https://media4.egwwritings.org/pdf/en_MH.pdf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "gc1888",
+      "url": "https://media4.egwwritings.org/pdf/en_GC88.pdf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "gc1911",
+      "url": "https://media4.egwwritings.org/pdf/en_GC.pdf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "prescott",
+      "url": "https://whiteestate.org/about/issues1/ref-lib/add-docs/gc-prescott/",
+      "bytes": 127168,
+      "sha256": "528df8b0acd15717e0dfc48c6057d2debc4f550db1bec4fee73b821207471a37",
+      "status": 200,
+      "ejemplar": "prescott.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "gc-inspiration",
+      "url": "https://whiteestate.org/about/issues1/ref-lib/add-docs/gc/gc-inspiration/",
+      "bytes": 73748,
+      "sha256": "3338efd8ef038261e6f3608298953ecc0772b406f12162323e980c5aad9e83f1",
+      "status": 200,
+      "ejemplar": "gc-inspiration.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "gc-revision",
+      "url": "https://whiteestate.org/legacy/issues-greatcontroversy1911-html/",
+      "bytes": 64762,
+      "sha256": "b91c8c2b1d798d7a96a0ac34476c6dd91b543c3ec8dc15412d4373320994fd48",
+      "status": 200,
+      "ejemplar": "gc-revision.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "ms1071909",
+      "url": "https://m.egwwritings.org/en/book/14074.9768001",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "mcadams1977",
+      "url": "https://whiteestate.org/issues/EGWPH77.pdf",
+      "bytes": 9160561,
+      "sha256": "1ce74f09265c3b8e69a480d17a4ae26c4d8d27ebdedbcca525499a3647237e1e",
+      "status": 200,
+      "ejemplar": "mcadams1977.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "sg3-index",
+      "url": "https://ellenwhiteresearch.com/works/3SG",
+      "bytes": 21424,
+      "sha256": "fc22450d65482f59aa5953e693bd71f2e6d014cacec746e7f5f0dacfe22623f8",
+      "status": 200,
+      "ejemplar": "sg3-index.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "sg4a-health",
+      "url": "https://ellenwhiteresearch.com/works/4aSG/39",
+      "bytes": 88635,
+      "sha256": "0b71a0ba64756820976e58e026f384de1fdafd9822b44aff19fc0f4d81fe2f74",
+      "status": 200,
+      "ejemplar": "sg4a-health.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "appeal-mothers-text",
+      "url": "https://ellenwhiteresearch.com/works/ApM/2",
+      "bytes": 66502,
+      "sha256": "f9f39132249e0a3acc9effefb94b7bfc44a696c1a36403160729da635d6b221c",
+      "status": 200,
+      "ejemplar": "appeal-mothers-text.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "mh-flesh",
+      "url": "https://www.ellenwhite.info/books/bk-mh-24.htm",
+      "bytes": 33778,
+      "sha256": "1a995eae6eb9620c709bdac575bf0ddfd5996da1760ffcb00e0f4096405c2415",
+      "status": 200,
+      "ejemplar": "mh-flesh.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "mh-stimulants",
+      "url": "https://www.ellenwhite.info/books/bk-mh-26.htm",
+      "bytes": 42191,
+      "sha256": "499a2d926657b1984f4d968f01e6b64da268897dd3f39df0cf5068ffd3c29dfe",
+      "status": 200,
+      "ejemplar": "mh-stimulants.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "gc1888-original",
+      "url": "https://archive.org/download/greatcontrover00whit/greatcontrover00whit.pdf",
+      "bytes": 66067434,
+      "sha256": "530f5e175b65b689cb3e41668e95e3e9f2d8fa0336d8086722039f7fc5cceebe",
+      "status": 200,
+      "ejemplar": "gc1888-original.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "gc1911-original",
+      "url": "https://archive.org/download/greatcontroversy00whit/greatcontroversy00whit.pdf",
+      "bytes": 47229948,
+      "sha256": "0d3c1e5241da5785767a2bc07da4795be2836ba39e7ef201e5af7c4c6a738637",
+      "status": 200,
+      "ejemplar": "gc1911-original.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "sg3-flood",
+      "url": "https://m.egwwritings.org/en/book/106.307",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "sg3-preface",
+      "url": "https://sundaylaw.com/spiritual-gifts/3/1/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "id": "sg3-crime",
+      "url": "https://ellenwhiteresearch.com/works/3SG/6",
+      "bytes": 22304,
+      "sha256": "7650282d7e1e2c6f56eb0b36ecedd5ac61ba618d184a64026c3d9ba437d2f7d7",
+      "status": 200,
+      "ejemplar": "sg3-crime.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "sg3-flood-text",
+      "url": "https://ellenwhiteresearch.com/works/3SG/7",
+      "bytes": 34844,
+      "sha256": "ffa701c20cc141fc69762c8529536beb0b9cb99ec65ce996c6e5a3cea2c5c530",
+      "status": 200,
+      "ejemplar": "sg3-flood-text.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "sg3-after-flood",
+      "url": "https://ellenwhiteresearch.com/works/3SG/8",
+      "bytes": 36750,
+      "sha256": "939f8663e3261815b1501574646d17b4e82184ac4fcb0b7ff40ad4974b24c451",
+      "status": 200,
+      "ejemplar": "sg3-after-flood.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "sg3-infidelity",
+      "url": "https://ellenwhiteresearch.com/works/3SG/9",
+      "bytes": 26244,
+      "sha256": "14260e3f566ce5e399ab62f9a7769bde6b9735cb1e058ce023f6aa8cf643b7bf",
+      "status": 200,
+      "ejemplar": "sg3-infidelity.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "sg3-babel",
+      "url": "https://ellenwhiteresearch.com/works/3SG/10",
+      "bytes": 19263,
+      "sha256": "0db049be25f7284e382118fbad688def8828da607dc26fcf21845bff707bb310",
+      "status": 200,
+      "ejemplar": "sg3-babel.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "numbers2008",
+      "url": "https://www.nonegw.org/exhibits/prophetess_of_health_3.pdf",
+      "bytes": 7327872,
+      "sha256": "c1f06a59bf9da6d0ff2f218be111cad1c900e90a85c0b8dd7760e8b6f71aec75",
+      "status": 200,
+      "ejemplar": "numbers2008.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "coles1853",
+      "url": "https://archive.org/download/b24400415/b24400415.pdf",
+      "bytes": 15490434,
+      "sha256": "b83b158a65b8f71766d2c3327bff62a722c9ac1b159d5d017e2eb5467cdf8ac5",
+      "status": 200,
+      "ejemplar": "coles1853.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "graham1839-v2",
+      "url": "https://archive.org/download/61411880RX2.nlm.nih.gov/61411880RX2.nlm.nih.gov.pdf",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "lewis1862",
+      "url": "https://archive.org/download/newgymnasticsfor00lewi_0/newgymnasticsfor00lewi_0.pdf",
+      "bytes": 15000707,
+      "sha256": "8a79a85eee6a88bd8cc685afee5698f789462796bb46e788a385718c85fdb950",
+      "status": 200,
+      "ejemplar": "lewis1862.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "rh18630217",
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH18630217-V21-12.pdf",
+      "bytes": 644447,
+      "sha256": "6ead134f1c83a2b672f6ee8720b3b2cb1efcdca3520de75b378d18b7ec7128c0",
+      "status": 200,
+      "ejemplar": "rh18630217.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "rh18630519",
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH18630519-V21-25.pdf",
+      "bytes": 655509,
+      "sha256": "7e3e4bd28d1b018d103fdbd231d905723731eff95d081e646c6c9102711e799a",
+      "status": 200,
+      "ejemplar": "rh18630519.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "rh18630526",
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH18630526-V21-26.pdf",
+      "bytes": 689458,
+      "sha256": "f603cfad1054e0abb2d76a059c20148feecf0fed7de8e218080f9a53081da1ca",
+      "status": 200,
+      "ejemplar": "rh18630526.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "rh18671008",
+      "url": "https://documents.adventistarchives.org/Periodicals/RH/RH18671008-V30-17.pdf",
+      "bytes": 1320665,
+      "sha256": "845ecb4800ea85d1f3c20e6101ab5a716b0381adfeb308c42722272498f0107f",
+      "status": 200,
+      "ejemplar": "rh18671008.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "usgscoal",
+      "url": "https://pubs.usgs.gov/publication/pp108A",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "coffee2017",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5696634/",
+      "bytes": 326933,
+      "sha256": "f5c1b336706e624162596947de1fce20af8eefaf4edabe00e66d339530d650a5",
+      "status": 200,
+      "ejemplar": "coffee2017.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "issm2024",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11214846/",
+      "bytes": 330744,
+      "sha256": "aa775e5f6b5527c78c321601228828ba75ae3589af228a5de6cadfc49010ccc3",
+      "status": 200,
+      "ejemplar": "issm2024.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "csbd2018",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5775124/",
+      "bytes": 114122,
+      "sha256": "92a6f0df3116947534d124335927eec00e2fdd3c0b64fc83402a60ad855d45e7",
+      "status": 200,
+      "ejemplar": "csbd2018.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "sex-history2023",
+      "url": "https://www.cambridge.org/core/journals/psychological-medicine/article/masturbatory-insanity-the-history-of-an-idea-revisited/6AD148436974F5E4313F5F0D091B546A",
+      "bytes": 897936,
+      "sha256": "6322da261e7fa173004ba0c51aa0316a45b25947fa39ba4af87ae7addccd1b2d",
+      "status": 200,
+      "ejemplar": "sex-history2023.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "sex-history2001",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1071473/",
+      "bytes": 105895,
+      "sha256": "43306254aaa5af9d7e9e2d96a298d462046839f5b7d4033d35890ad6f298f68e",
+      "status": 200,
+      "ejemplar": "sex-history2001.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "french-decree1793",
+      "url": "https://www.persee.fr/doc/arcpa_0000-0000_1913_num_81_1_38174_t1_0030_0000_2",
+      "bytes": 68679,
+      "sha256": "7cbe7e608f90284f948330fdbb748e0640128b6b485e7bf5cfb7bfda86f2035d",
+      "status": 200,
+      "ejemplar": "french-decree1793.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "gothic-bible",
+      "url": "https://www.uu.se/en/library/visit-and-contact/exhibitions/codex-argenteus/the-history-of-codex-argenteus",
+      "bytes": 113430,
+      "sha256": "926692dfc649a95e877229fa05fd9a75dcbf599b014aec16323c03cbbbbfc902",
+      "status": 200,
+      "ejemplar": "gothic-bible.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "graham1839",
+      "url": "https://archive.org/download/61411880RX2.nlm.nih.gov/61411880RX2.pdf",
+      "bytes": 25424249,
+      "sha256": "575bf268b6023492aaaed12f6acdd9f1c12fa0df134f90bde5e10720ba889cf1",
+      "status": 200,
+      "ejemplar": "graham1839.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "jackson1862",
+      "url": "https://archive.org/download/sexualorganisma00jackgoog/sexualorganisma00jackgoog.pdf",
+      "bytes": 9449025,
+      "sha256": "58b56b1c88622e6923dc0be224915d51657eff43fac6dd393dff5005160141b5",
+      "status": 200,
+      "ejemplar": "jackson1862.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "apm-original",
+      "url": "https://archive.org/download/E.G.WhiteAnAppealToMothers.TheGreatCauseOfThePhysicalMentalAnd/White_appealToMothers_chastity_definitionOfUnchastity_1864.pdf",
+      "bytes": 7373302,
+      "sha256": "41d6cf3c1bd3416dc5c9511c9bc2ea1347d2dd67be4665d11eabafad814b2202",
+      "status": 200,
+      "ejemplar": "apm-original.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "sg4a-original",
+      "url": "https://archive.org/download/WhiteE.ImportantFactsOfFaith.SpiritualGiftsVol4PartI1864/White_importantFactsOfFaithLawsOfHealth_spiritualGift_vol4_1864_partI.pdf",
+      "bytes": 41579146,
+      "sha256": "efc908ecae635a8bddef32bea0dcb28269c085f708eb455a5d4dffff0083c0c4",
+      "status": 200,
+      "ejemplar": "sg4a-original.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "smith1868",
+      "url": "https://archive.org/download/UriahSmithTheVisionsOfMrs.E.G.White1868/1868_smith_visionsOfMrs.E.G.White.pdf",
+      "bytes": 16282265,
+      "sha256": "fb82bc2663d40b880d30f4713312694993448054883287873f60583f661c7f03",
+      "status": 200,
+      "ejemplar": "smith1868.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "shigley1982",
+      "url": "https://www.andrews.edu/library/car/cardigital/Periodicals/Spectrum/1981-1982_Vol_12/4_June_1982.pdf",
+      "bytes": 5507453,
+      "sha256": "3e05a49134e3143449a4770cf75543a6ceddfcbd279641636a88631303ddf7b3",
+      "status": 200,
+      "ejemplar": "shigley1982.pdf",
+      "sha256_verificado": true
+    },
+    {
+      "id": "pc1901",
+      "url": "https://ellenwhiteresearch.com/works/PC/1",
+      "bytes": 19801,
+      "sha256": "49386d7dc35e01e861769ab0b342e2006a2ad682bb72d20515a05ae3fe1b0bc6",
+      "status": 200,
+      "ejemplar": "pc1901.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "quinine-history",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5305012/",
+      "bytes": 172381,
+      "sha256": "7a056c5627ba50ea38db60d7c3f3f515042169258aa44e92405f43ff07eead00",
+      "status": 200,
+      "ejemplar": "quinine-history.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "grain2016",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4908315/",
+      "bytes": 365081,
+      "sha256": "cde928dbf8678767afc8ffe3ebc82bdfbea7dca59f551668b983fec2e81b2e08",
+      "status": 200,
+      "ejemplar": "grain2016.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "exercise2023",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10423495/",
+      "bytes": 411284,
+      "sha256": "93604e7059cf4197db10e8f2ca46810a8b7892da11cf501274a5200fd4bafc4d",
+      "status": 200,
+      "ejemplar": "exercise2023.html",
+      "sha256_verificado": true
+    },
+    {
+      "id": "strychnine-cdc",
+      "url": "https://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750018.html",
+      "bytes": 131235,
+      "sha256": "5e79447f39b42dfc031abcee246f30862f51e831929e145de8319bc71df77e06",
+      "status": 200,
+      "ejemplar": "strychnine-cdc.html",
+      "sha256_verificado": true
+    }
+  ],
+  "control_editorial": {
+    "candidatos": 53,
+    "preguntas_de_desarrollo": 28,
+    "palabras_aproximadas_incluidas_notas": 7951,
+    "notas_definidas": 45,
+    "notas_sin_definicion": [],
+    "definiciones_sin_llamada": [],
+    "definiciones_duplicadas": false,
+    "markdown": [
+      {
+        "path": "hallazgos/capitulo-12-amalgamacion-y-astronomia.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      },
+      {
+        "path": "hallazgos/capitulo-12-auditoria-y-registro-de-fuentes.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      },
+      {
+        "path": "hallazgos/capitulo-12-autoridad-y-limites.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      },
+      {
+        "path": "hallazgos/capitulo-12-carne-cancer-y-enfermedades.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      },
+      {
+        "path": "hallazgos/capitulo-12-geologia-y-cronologia.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      },
+      {
+        "path": "hallazgos/capitulo-12-historia-y-revisiones.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      },
+      {
+        "path": "hallazgos/capitulo-12-inventario-y-protocolo.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      },
+      {
+        "path": "hallazgos/capitulo-12-masturbacion-y-afirmaciones-medicas.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      },
+      {
+        "path": "hallazgos/capitulo-12-medicamentos-cafe-y-otros-casos.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      },
+      {
+        "path": "hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      },
+      {
+        "path": "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+        "titulos_no_pregunta": [],
+        "enlaces_relativos_rotos": []
+      }
+    ],
+    "todos_los_controles_aprobados": true
+  },
+  "limites": {
+    "no_autografos": "No se inspeccionaron autógrafos de todos los mensajes ni pruebas de imprenta individuales.",
+    "fecha_carta_83": "Catálogo/encabezamiento 16-VII-1901; fecha interna de reproducción Paulson 15-VII-1901.",
+    "astro": "Education 1903 p.14 separado de EW pp.39-40 y Topsham 1846; antecedente 1849 reportado, no facsímil cotejado.",
+    "acceso_parcial": "Zachar/Kendler: resumen. Numbers PDF: sin extracción completa; no lectura integral declarada. Stutzer/Pfeiffer/Horrobin: argumentos transmitidos por defensa, no libros íntegros cotejados.",
+    "actualizaciones_anteriores": "Sólo continuidad C11 y ficha; sin retractación de resultados anteriores ni alteración de matriz."
+  }
+}
