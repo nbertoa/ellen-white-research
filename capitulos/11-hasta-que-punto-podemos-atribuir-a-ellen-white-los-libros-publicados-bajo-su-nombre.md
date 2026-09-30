@@ -90,6 +90,8 @@ La explicación crítica demuestra que la firma sola oculta grados de colaboraci
 
 Ésta es la respuesta histórica a la pregunta del capítulo: **gran parte del material de origen puede atribuirse a Ellen White; la forma, secuencia y a veces el contenido factual de libros concretos surgieron de una colaboración documentada; la autoría de decisiones puntuales permanece indeterminada; y «escrito por Ellen White» no significa lo mismo en todas las publicaciones bajo su nombre.** La evaluación de errores, contradicciones, enseñanzas y del conjunto de su pretensión queda para los capítulos siguientes.
 
+La evaluación factual que aquí quedó abierta se desarrolla en el [capítulo 12](12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md). Distingue correcciones de contenido, ajustes de precisión y casos todavía discutidos, conservando estos límites de responsabilidad editorial y aprobación.
+
 ## ¿Dónde se pueden comprobar estas fuentes?
 
 [1] [Capítulo 9](09-utilizo-ellen-white-escritos-de-otros-autores.md) y [capítulo 10](10-que-implica-dependencia-literaria-para-inspiracion.md), con sus fichas y el estudio de Fred Veltman. Su muestra de dependencia de fuentes externas no es una medición de manos editoriales.
