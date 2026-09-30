@@ -29,10 +29,11 @@ El criterio permanece: un error sustancial atribuido inequívocamente a revelaci
 | Habitaciones | Discrepancia reconocida | Información humana expresamente delimitada | Ordinario; no falsa visión demostrada. |
 | Prioridad valdense | Error claro | Libro inspirado con fuentes; revelación específica no localizada | Error histórico real; alcance profético limitado por origen incierto. |
 | Francia | Relato jurídico sustancialmente defectuoso | Fuente histórica y revisión; autoridad general | No fraude ni visión individual demostrados. |
-| Cronología geológica | Conflicto fuerte con evidencia física | Argumento con traslado visionario y «shown» | Mayor dificultad; milagro/lectura bíblica no se resuelven por ensayo. |
 | Masturbación, ApM p. 18 | Síndrome causal claramente incorrecto | «I have been shown» introduce esa afirmación | Dificultad seria para ese mensaje; sin compensación numérica. |
 | Medicamentos, SG4a pp. 133–137 | Generalización falsa de eficacia; cuantificación no sustentada | Atribución directa y marco próximo, respectivamente | Delimitar ambas frases; no declararlas igualmente refutadas. |
 | Cáncer por gérmenes de carne, MH p. 313 | Mecanismo aparentemente erróneo | Origen individual no identificado | Dificultad médica; no atribución angelical demostrada. |
+
+La edad de la Tierra se excluye deliberadamente como caso probatorio en este capítulo. Esa exclusión no la clasifica como correcta ni incorrecta y no modifica el estándar aplicado a mecanismos geológicos concretos que sí puedan contrastarse independientemente de una cronología terrestre.
 
 ## ¿Qué nuevas pruebas podrían cambiar el balance?
 
