@@ -1,0 +1,36 @@
+# ¿Qué se comprobó y qué queda pendiente en el capítulo 14?
+
+Fecha de corte 30-IX-2026; base remota `main` `a6e32fd11550704ad421e69f6f550ab3b169eaef`. Antes de escribir se cotejaron los 84 blobs de la base con el árbol reconstruido; se recorrieron README, instrucciones, índice, matriz, C1–C13, fichas de criterios y antecedentes de remediación/auditoría. Las ramas y PR pertinentes muestran integración de C12 por PR #10 y C13 mediante commits `13f2757` y `a6e32fd`, sin PR abierto para C13 en el corte. Las fichas de C13 sobre matrimonio, cerdo, inspiración y revisiones conservaron su delimitación. No se corrigió un capítulo previo: la nueva evidencia no refuta materialmente una conclusión ya formulada allí.
+
+## ¿Cómo se registró la procedencia de las fuentes?
+
+| Documento o familia | Soporte consultado | Uso | Límite de acceso |
+| --- | --- | --- | --- |
+| White, Ms 36 (1890); Ms 76a (1901); Ms 1 (1849); Lt 5 (1849); Lt 3 (1847); Lt 2 (1874); Ms 51 (1899) | Transcripciones archivísticas EGW Writings, enlazadas en las fichas | Texto, fecha de catálogo, destinatario y autoridad reclamada | No se cotejaron todos los autógrafos; fecha del original y primera difusión no se identifican siempre |
+| [*Present Truth* 1, núm. 3 (agosto 1849), p. 21](https://text.egwwritings.org/amp/read/517.17), [facsímil archivístico](https://documents.adventistarchives.org/Periodicals/PT-AR/PT-AR-Part1-03.pdf); *Day-Star* 24-I-1846; RH 11-XI-1890; ST 8-IV-1897; GCB 23-IV-1901 | Transcripción del impreso contemporáneo y localizador de su facsímil; reproducciones digitales de los demás impresos | Primera publicación conocida y redacción en circulación | El facsímil de *Present Truth* quedó localizado, pero no se inspeccionó su imagen por bloqueo de acceso automatizado; no se consultó físicamente el ejemplar ni se cuenta una reimpresión como testigo independiente |
+| *Spiritual Gifts* 1 (1858), pp. 161–162; *Spirit of Prophecy* 4 (1884), p. 266; GC 1888; DA (1898); COL (1900); MH (1905) | Transcripción de ediciones en vida en EGW Writings; fichas C11–C13 documentan edición y atribución | Comparación de textos de White, desarrollo y destinatarios | No se obtuvo facsímil de cada primera edición en este pase; el localizador bibliográfico y el texto digital deben distinguirse |
+| Biblia, Heb 6–10; Dan 7–9; Lev 16; Rom 3–8; Gál 2–5; Ef 2; Stg 2–3; otros textos listados | Unidades textuales bíblicas y vocabulario hebreo/griego cotejados con estudios enlazados en fichas | Proposiciones bíblicas y alternativas | No se ha producido edición crítica propia; una glosa léxica no sustituye análisis de género y argumento |
+| Mackie, *JTS* 62 (2011); Segal/Wadler, *JSJ* 54 (2023); estudio de 1 Cor 7, *JTS* 76 (2025) | Resúmenes académicos de editorial/repositorio institucional | Mapa de lecturas y preguntas | Artículos completos no obtenidos; ninguna conclusión depende de una sección no accesible |
+| Estudios de Hebreos, Levítico, Pablo y Apocalipsis en Scielo, *Biblica*, Sage y repositorios universitarios | Texto abierto o resumen claramente señalado por enlace en cada ficha | Crítica exegética independiente, pluralidad, control de género | No representan consenso unánime; se especifica dónde un resumen no permite más |
+| Rea, *The White Lie* (PDF del usuario, 1982); Douglass, *Messenger of the Lord* (EPUB del usuario, edición 1998/digital 2013) | Archivos aportados, extracción de texto y cotejo de pasajes sobre «shut door», gracia, santuario y perfección | Mapas críticos y defensivos | Libros polémico y defensivo no sustituyen documentos originales; una fuente repetida por ambos no cuenta doble |
+| Douglass, *Profecías dramáticas de Elena de White* (PDF del usuario, ACES 2013) | Archivo aportado, índice y búsqueda temática | Control de pertinencia | Trata episodios predictivos con prioridad para C7, no ofrece prueba exegética independiente decisiva para C14 |
+
+## ¿Qué operaciones permiten repetir el análisis?
+
+Cada expediente C14-01–08 fija White, Biblia, argumento crítico, mejor defensa, debilidades, autoridad y falsación. La [tabla de 36 candidatos](capitulo-14-inventario-y-protocolo.md) antecede a la selección. El [capítulo](../capitulos/14-sus-ensenanzas-contradicen-la-biblia.md) usa notas finales con fuentes primarias y secundarias diferenciadas. Las referencias internas a capítulos anteriores apuntan a los manuscritos vigentes; la matriz no fue alterada después de ver el resultado. No se convierte *The Two Adams*, aunque el archivo digital lo aloje, en un libro de White. *Early Writings* 70–71 conserva la fecha del relato 14-V-1851; la visión de 1849 fue impresa en agosto. La posición sobre la puerta de 1874 se cita como testimonio retrospectivo, no como fuente de significado de 1845.
+
+## ¿Qué hallazgos fueron favorables y cuáles adversos?
+
+La negación explícita de mérito humano en Ms 36 y RH 11-XI-1890 desactiva la acusación particular de «salvación ganada por obras». DA 819 y RH 11-XI-1890 desactivan «sacrificio insuficiente en la cruz». El lenguaje propio de White sobre Azazel no dice que Satanás compre el perdón. La prioridad declarada de la Biblia y la cristología fuerte son controles favorables, **no evidencias independientes de inspiración**.
+
+La visión de 1849 y 1SG 161 son un expediente adverso importante al compararse con Heb 6:19–20, 9:24 y 10:19–22; no se liquida mediante traducir *ta hagia* como un compartimiento u otro. Daniel 8:14 no fija sin inferencias 1844. Fil 1:23, 2 Cor 5:8, Mt 25:46 y Ap 14:11/20:10 exigen respuestas que no proporciona citar únicamente Ecl 9 o «segunda muerte». La nota de Ap 20:10 es especialmente difícil para la extinción final de Satanás. No se cuenta un error exegético discutido como contradicción establecida ni se registra como «compatible demostrado».
+
+## ¿Qué impediría una conclusión más fuerte?
+
+- Un cotejo paleográfico del manuscrito de 1849, la carta de abril y el impreso de agosto podría delimitar el alcance literal/simbólico que White atribuía al desplazamiento celeste. Aunque un autógrafo confirmara las palabras, su interpretación seguiría requiriendo contexto.
+- El texto integral de estudios académicos sólo accesibles como resúmenes, especialmente Hebreos/Daniel, podría modificar el balance de lecturas. No se presentan resúmenes como prueba de un consenso.
+- Los originales sobre celibato de 1860 y Peckham, pendientes desde C13-48/49, son necesarios antes de atribuir un mandato matrimonial universal revelado.
+- El examen de las variantes entre GC 1888 y 1911 en cada párrafo es suficiente para las formulaciones centrales consultadas pero no constituye una colación exhaustiva de todas las páginas doctrinales.
+- No se ha realizado una investigación exhaustiva de todas las frases cristológicas y trinitarias tempranas. El inventario impide inferir de los textos favorables una armonía universal.
+
+Una investigación más completa puede subir o bajar el grado de certeza. Hoy el veredicto del capítulo es **ninguna contradicción establecida en los expedientes examinados**, con **tensión fuerte y posible contradicción** para entrada tras el segundo velo en 1844. Es una conclusión sobre esta prueba, no sobre la autenticidad global, reservada a C17. La observación de prácticas, coerción y efectos queda en C15–16.
