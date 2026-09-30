@@ -62,6 +62,8 @@ La progresión normal es:
 
 Esta rama integra los **capítulos 1–8**, el trabajo de Rochester/Daniels del [PR #5](https://github.com/nbertoa/ellen-white-research/pull/5) y la auditoría del [PR #6](https://github.com/nbertoa/ellen-white-research/pull/6). Los capítulos siguen siendo un manuscrito de investigación, con conclusiones provisionales.
 
+El [índice maestro provisional](metodologia/INDICE_MAESTRO.md) fija una estructura de **17 capítulos**: los capítulos 1–8 están escritos y los capítulos 9–17 permanecen pendientes. La estructura sólo debería ampliarse si aparece una cuestión capaz de cambiar materialmente la evaluación y que no pueda resolverse dentro de los capítulos previstos.
+
 La [auditoría integral](hallazgos/auditoria-integral-2026-09-29.md) y su [registro original](hallazgos/auditoria-integral-2026-09-29-referencias.json) se conservan como antecedentes. Las correcciones aplicadas y el estado de **cada P1** están en [remediación](hallazgos/remediacion-2026-09-29.md), con [registro de cotejos](hallazgos/remediacion-2026-09-29-referencias.json). La [matriz vigente](metodologia/MATRIZ_CRITERIOS_BIBLICOS.md) aplica las cautelas de C2.
 
 Capítulos incorporados al repositorio:
