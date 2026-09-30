@@ -15,7 +15,7 @@ La estructura puede cambiar si nueva evidencia demuestra que falta una cuestión
 7. **¿Predijo Ellen White acontecimientos que no podía conocer?** — escrito.
 8. **¿Conoció Ellen White cosas que no podía saber por medios normales?** — escrito.
 9. **¿Utilizó Ellen White escritos de otros autores?** — escrito.
-10. **¿Qué implica su dependencia literaria para sus afirmaciones de inspiración?** — pendiente.
+10. **¿Qué implica su dependencia literaria para sus afirmaciones de inspiración?** — escrito. [Manuscrito](../capitulos/10-que-implica-dependencia-literaria-para-inspiracion.md): compara origen documentado y origen afirmado, distingue los procedimientos compatibles de los casos de posible falsa atribución y conserva los resultados indeterminados.
 11. **¿Hasta qué punto podemos atribuir a Ellen White los libros publicados bajo su nombre?** — pendiente. Examinar asistentes literarios, edición, compilación y revisiones.
 12. **¿Cometió Ellen White errores en asuntos de historia, ciencia y salud?** — pendiente.
 13. **¿Se contradijo Ellen White?** — pendiente. Distinguir contradicción real, desarrollo, contexto y cambios editoriales.
