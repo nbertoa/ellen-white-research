@@ -210,7 +210,7 @@ Ese detalle limita atribución: no podemos contar el episodio como negativa pers
 
 El 1 de agosto, J. N. Anderson preguntó si era seguro explicar a alumnos que sus libros no eran autoridad final para ciertos datos históricos. Callar lo que entendían verdadero comprometía honestidad y preparaba crisis. G. B. Thompson sostuvo que se había reclamado más de lo que ella reclamaba.[^anderson]
 
-La conversación demuestra capacidad de examen y desacuerdo. Pero acompañada por preocupación sobre consecuencias públicas. Daniells defendió trato cristiano al discrepante y recordó que años antes no habría sido seguro discutir así.[^daniells]
+La conversación demuestra capacidad de examen y desacuerdo, junto con preocupación sobre las consecuencias públicas. Daniells defendió trato cristiano al discrepante y recordó que años antes no habría sido seguro discutir así.[^daniells]
 
 El fruto problemático mejor establecido es ese costo institucional del reconocimiento de límites. Tiene alcance colectivo en enseñanza y circulación de información, aunque no cuantificamos toda la denominación.
 
