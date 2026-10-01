@@ -68,7 +68,7 @@ La [auditoría integral](hallazgos/auditoria-integral-2026-09-29.md) y su [regis
 
 Capítulos incorporados al repositorio:
 
-1. **Capítulo 1 — ¿Qué significa inspiración, iluminación, revelación y don de profecía?**
+1. **Capítulo 1 — ¿Qué significan inspiración, iluminación, revelación, impresión del Espíritu, guía del Espíritu, profecía y don de profecía?**
    Distingue las categorías necesarias para evaluar una pretensión profética sin confundir experiencias religiosas, guía espiritual, revelación y profecía.
 
 2. **Capítulo 2 — ¿Qué credenciales debe reunir un profeta auténtico?**
@@ -115,7 +115,7 @@ Capítulos incorporados al repositorio:
     Evalúa salud, educación, recepción bíblica y devocional, organización misionera y cultura de autoridad, con controles sobre raza, mujeres y familia. Distingue existencia del efecto, participación de White y certeza causal; conserva beneficios, problemas y resultados mixtos sin cerrar el veredicto profético. [Manuscrito completo](capitulos/15-que-frutos-produjo-el-ministerio-de-ellen-white.md), [inventario y matriz](hallazgos/capitulo-15-inventario-y-matriz-de-frutos.md), [educación y financiación](hallazgos/capitulo-15-educacion-y-financiacion.md), [autoridad](hallazgos/capitulo-15-autoridad-dependencia-y-miedo.md), [auditoría](hallazgos/capitulo-15-auditoria-y-registro-documental.md) y [registro documental](hallazgos/capitulo-15-registro-de-fuentes.json).
 
 16. **Capítulo 16 — ¿Qué explicación encaja mejor con toda la evidencia?**
-    Compara origen profético genuino, experiencia sincera no sobrenatural, procedencia mixta y fraude consciente. Pondera sin suma mecánica el anuncio de 1856, el error médico atribuido a una revelación, los casos literarios, las visiones, las predicciones favorables, la conducta y los frutos. Concluye que la pretensión profética queda sin confirmar: la evidencia favorece moderadamente una experiencia religiosa sincera profundamente mediada por procesos humanos frente a una afirmación segura de origen profético, mientras el fraude consciente generalizado recibe todavía menos apoyo. [Manuscrito](capitulos/16-que-explicacion-encaja-mejor-con-toda-la-evidencia.md) y [matriz comparativa y auditoría](hallazgos/capitulo-16-sintesis-y-comparacion-de-hipotesis.md).
+    Compara tres hipótesis causales: origen profético genuino, experiencias humanas interpretadas sinceramente como revelación y fraude consciente. Distingue esas hipótesis de una descripción mixta del corpus, que por sí sola no decide el origen. Pondera sin suma mecánica el anuncio de 1856, el error médico atribuido a una revelación, los casos literarios, las visiones, las predicciones favorables, la conducta y los frutos. Concluye que la pretensión profética queda sin confirmar: la evidencia favorece moderadamente una experiencia religiosa sincera profundamente mediada por procesos humanos frente a una afirmación segura de origen profético, mientras el fraude consciente generalizado recibe todavía menos apoyo. [Manuscrito](capitulos/16-que-explicacion-encaja-mejor-con-toda-la-evidencia.md) y [matriz comparativa y auditoría](hallazgos/capitulo-16-sintesis-y-comparacion-de-hipotesis.md).
 
 El balance global queda formulado en el capítulo 16 como una pretensión profética no confirmada, con inclinación crítica moderada y una explicación humana sincera actualmente mejor apoyada que una afirmación segura de origen sobrenatural. Los fenómenos físicos no identifican la causa de las visiones y las predicciones aportan evidencia mixta: existen advertencias anteriores y concretas que merecen peso real, pero no se ha establecido conocimiento humanamente inaccesible. El anuncio de 1856 incumplido literalmente constituye una dificultad seria; la defensa condicional posterior existe, pero falta demostrar que esa condición perteneciera legítimamente a su sentido original. La pretensión profética queda sin confirmar, no refutada en cada aspecto; tampoco se demuestra fraude consciente.
 
@@ -128,3 +128,7 @@ El capítulo 13 documenta cambios y correcciones, descarta incompatibilidades qu
 ## ¿Cuál es la regla maestra?
 
 > **No investigar para demostrar que Ellen White fue profeta ni para demostrar que no lo fue. Investigar hasta descubrir qué conclusión explica mejor toda la evidencia disponible y detenerse donde se detenga la evidencia.**
+
+## ¿Qué cubrió la auditoría final de octubre de 2026?
+
+Los dieciséis capítulos están escritos y recibieron lectura editorial integral. La [auditoría final](hallazgos/auditoria-final-libro-2026-10.md) registra las correcciones y límites; su [cobertura individual de 407 notas](hallazgos/auditoria-final-libro-2026-10-cobertura.md) distingue cotejos documentales, bibliográficos y pendientes. No equivale a una certificación de todos los originales.

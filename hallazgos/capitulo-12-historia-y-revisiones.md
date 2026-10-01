@@ -2,7 +2,7 @@
 
 ## ¿Qué documentos y ediciones se cotejaron?
 
-Se descargaron los facsímiles de [GC 1888](https://archive.org/details/greatcontrover00whit) y [GC 1911](https://archive.org/details/greatcontroversy00whit), se extrajo su texto y se inspeccionaron visualmente páginas decisivas. Se contrastó la [carta de W. W. Prescott a W. C. White, 26-IV-1910](https://whiteestate.org/about/issues1/ref-lib/add-docs/gc-prescott/). Esa página mezcla la carta original con respuestas y cotejos preparados después: «Response» no es automáticamente texto de Prescott. Los paratextos de facsímiles tampoco son declaraciones de White en 1864.
+Se descargaron los facsímiles de [GC 1888](https://archive.org/details/greatcontrover00whit) y [revisión de GC de 1911, reimpresión con sello de 1944](https://archive.org/details/greatcontroversy00whit), se extrajo su texto y se inspeccionaron visualmente páginas decisivas. Se contrastó la [carta de W. W. Prescott a W. C. White, 26-IV-1910](https://whiteestate.org/about/issues1/ref-lib/add-docs/gc-prescott/). Esa página mezcla la carta original con respuestas y cotejos preparados después: «Response» no es automáticamente texto de Prescott. Los paratextos de facsímiles tampoco son declaraciones de White en 1864.
 
 Primera publicación localizada para las formulaciones comparadas: 1888; algunos relatos tienen antecedentes en 1884, pero no se atribuye a éstos una formulación exacta sin colación. Destinatario: lectores de historia religiosa, no una carta privada. Responsable de versiones: libro publicado bajo White y aprobación general expresa de revisión en 1911; autor material de cada frase no determinado. La [ficha del capítulo 11](capitulo-11-conflicto-de-los-siglos-y-revisiones.md) documenta Steward, Crisler, Robinson, Prescott, W. C. White y cartas 56/57 de julio de 1911.
 
@@ -56,3 +56,7 @@ Rea, capítulo 4, usa una frase de SG3 p. 301 como candidato. En el propio SG3, 
 El prefacio de 1888, pp. g–h, combina escenas conocidas por iluminación con empleo de historiadores para presentar acontecimientos. No promete revelación particular de toda fecha o cifra. W. C. White explicó en 1911 que su madre no había reclamado inspiración verbal ni ser autoridad en detalles históricos; esto es testimonio del hijo, no frase equivalente de ella. White sí aprobó la revisión y atribuyó conducción divina al libro. No usar al hijo para anular una atribución específica de la madre, si apareciera.
 
 Resultado profético: errores históricos reales y revisiones reales; cadena editorial documentada, responsabilidad por frase limitada. Estas constataciones no autorizan llamar fraude a la revisión ni atribuir automáticamente cada error a una visión. Una anotación autógrafa que dijera «esta prioridad/este decreto me fue mostrado» cambiaría materialmente su peso.
+
+## ¿Cuándo se documenta la defensa de errata en Babel?
+
+El cotejo final localizó la explicación de coma y «and» en Uriah Smith, *The Visions of Mrs. E. G. White* (1868), p. 105, además de inspección visual de pp. 102–105 y [reproducción oficial](https://m.egwwritings.org/en/book/1420.410). La defensa antecede a la corrección de 1870 reproducida en el prefacio posterior. No demuestra quién produjo la anomalía: sigue sin cotejarse el manuscrito de imprenta. La remisión de Nichol a RH de 1866 no se certificó contra ese impreso y no adelanta aquí la fecha comprobada.

@@ -1,6 +1,6 @@
 # ¿Cuándo una revisión o un recuerdo distinto constituye contradicción?
 
-Fecha de corte: 30-IX-2026. C13-34 a C13-45. C11 controla responsabilidad editorial; C12 exactitud histórica. Aquí se examina la relación lógica entre las proposiciones. No se reabre C14.
+Fecha de corte: 30-IX-2026. C13-34 a C13-45. C11 controla responsabilidad editorial; C12 exactitud histórica. Aquí se examina la relación lógica entre las proposiciones. No se reabre el antiguo expediente doctrinal.
 
 ## ¿Qué afirmaciones revisadas se niegan realmente entre sí?
 
@@ -42,10 +42,14 @@ Fuentes primarias y cotejos completos: [GC 1888](https://archive.org/details/gre
 
 ## ¿Qué cambios doctrinales pertenecen a este capítulo?
 
-**C13-44, puerta cerrada:** A, creencia temprana de que no habría más conversiones; B, reconocimiento posterior y explicación de Lt 2, 1874. C4 ya distinguió creencia personal de atribución a visión y examinó Lt 3, 13-VII-1847 y omisiones de 1851. **Resultado:** cambio de creencia establecido; dos revelaciones específicas «nadie puede convertirse / alguien puede» no establecidas con referentes equivalentes. El análisis bíblico queda para C14; no se reinvestiga aquí todo el santuario.
+**C13-44, puerta cerrada:** A, creencia temprana de que no habría más conversiones; B, reconocimiento posterior y explicación de Lt 2, 1874. C4 ya distinguió creencia personal de atribución a visión y examinó Lt 3, 13-VII-1847 y omisiones de 1851. **Resultado:** cambio de creencia establecido; dos revelaciones específicas «nadie puede convertirse / alguien puede» no establecidas con referentes equivalentes. El análisis bíblico de ese expediente doctrinal queda fuera del alcance activo; no se reinvestiga aquí todo el santuario.
 
 **C13-45, 1856 frente a demora condicional:** A, No. 2 (1856), p. 22, ángel clasifica a asistentes, algunos vivos al retorno; B, No. 16 (1868), p. 98, demora y condiciones, luego Ms 4, 1883. Textos completos en [C7 y ficha](prediccion-1856-y-condicionalidad.md). **Resultado:** no cumplió la lectura literal original, dificultad seria ya establecida; B no equivale automáticamente a «ningún asistente vivirá», por lo que no se fabrica un segundo oráculo contrario. La legitimidad original de condiciones sigue sin demostrar; la coherencia de dos frases no cancela incumplimiento. Peso de origen específico elevado para A, conservado sin sumar otra acusación artificial.
 
 ## ¿Qué casos se registran sin cerrarse aquí?
 
-Otros candidatos doctrinales —día/hora del retorno, alcance de expiación, humanidad/divinidad de Cristo, seguridad frente a sensaciones en la cruz, clasificación de psicología/mesmerismo— requieren unidades A/B completas propias. Un mapa de C14 no satisface ese trabajo. No se los declara «resueltos» porque la doctrina adventista tenga una respuesta, ni «contradicciones» porque un crítico contraste White con un versículo. El [inventario](capitulo-13-inventario-y-protocolo.md) señala el estado y qué falta.
+Otros candidatos doctrinales —día/hora del retorno, alcance de expiación, humanidad/divinidad de Cristo, seguridad frente a sensaciones en la cruz, clasificación de psicología/mesmerismo— requieren unidades A/B completas propias. Un mapa del antiguo capítulo doctrinal no satisface ese trabajo. No se los declara «resueltos» porque la doctrina adventista tenga una respuesta, ni «contradicciones» porque un crítico contraste White con un versículo. El [inventario](capitulo-13-inventario-y-protocolo.md) señala el estado y qué falta.
+
+## ¿Cuándo se documenta la defensa de errata en Babel?
+
+El cotejo final localizó la explicación de coma y «and» en Uriah Smith, *The Visions of Mrs. E. G. White* (1868), p. 105, además de inspección visual de pp. 102–105 y [reproducción oficial](https://m.egwwritings.org/en/book/1420.410). La defensa antecede a la corrección de 1870 reproducida en el prefacio posterior. No demuestra quién produjo la anomalía: sigue sin cotejarse el manuscrito de imprenta. La remisión de Nichol a RH de 1866 no se certificó contra ese impreso y no adelanta aquí la fecha comprobada.

@@ -22,17 +22,17 @@ Fuente primaria: Ellen G. Harmon, Lt 1, 1845, Portland, 20 de diciembre de 1845;
 
 ### ¿Negó una función profética en 1904?
 
-**Establecido:** el registro conservado de su intervención del 2 de octubre de 1904 contiene una negación verbalmente más amplia que “no reclamo el título”.
+**Establecido:** el informe de Cornell sobre su intervención del 2 de octubre de 1904, reproducido por la biografía institucional, contiene una negación verbalmente más amplia que “no reclamo el título”.
 
 **Establecido:** en 1905 y 1906 explicó que no reclamaba el título de profetisa, pero afirmó que su comisión incluía “la obra de un profeta”.
 
 **Probable:** las explicaciones posteriores expresan la distinción que quería formular en 1904.
 
-**Indeterminado:** el soporte y momento de transcripción de Ms 140, 1905, y si la precisión posterior reproduce exactamente lo que entendieron sus oyentes o corrige una formulación oral desafortunada. El registro conservado no autentica por sí solo cada palabra oral de 1904.
+**Indeterminado:** el soporte original y momento de redacción del informe de Cornell (DF 108a, transmitido en mayo de 1906), y si la precisión posterior reproduce exactamente lo que entendieron sus oyentes o corrige una formulación oral desafortunada. El registro conservado no autentica por sí solo cada palabra oral de 1904.
 
 Fuentes primarias:
 
-- Ms 140, 1905, registro de la intervención del 2 de octubre de 1904 en Battle Creek.
+- Informe de W. E. Cornell, DF 108a, transmitido por Daniells a W. C. White el 23-V-1906; reproducción de Arthur L. White, [5BIO 354.4 y 355.3](https://text.egwwritings.org/amp/read/675.2617). Original no inspeccionado; Ms 140, 1905 no es el soporte de esta frase.
 - Lt 55, 1905, a O. A. Olsen, 30 de enero de 1905.
 - Ms 63, 1906, “A Messenger”, 26 de mayo de 1906; *Review and Herald*, 26 de julio de 1906.
 - Lt 244, 1906, a los ancianos de Battle Creek, 17 de julio de 1906, párr. 18.
@@ -209,7 +209,7 @@ Estas no son lagunas que puedan llenarse con la fórmula “inspiración de pens
 ## ¿Cuáles son las fuentes primarias decisivas?
 
 - Lt 1, 1845 / *The Day-Star*, 24 de enero de 1846.
-- Ms 140, 1905, sobre la intervención del 2 de octubre de 1904.
+- Informe Cornell, DF 108a, transmitido el 23-V-1906, sobre la intervención del 2-X-1904; acceso mediante la biografía de Arthur L. White.
 - Lt 55, 1905; Ms 63, 1906; Lt 244, 1906.
 - *Testimony for the Battle Creek Church* (1882), pp. 47-49.
 - *Testimony for the Church—No. 33* (1889), luego 5T 663-691.

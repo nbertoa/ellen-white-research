@@ -58,5 +58,5 @@ Un autógrafo, copia con instrucciones de puntuación o prueba corregida de la p
 
 ## ¿Qué se reserva para capítulos posteriores?
 
-La comparación incluye una diferencia sobre cómo hablar del sufrimiento de la Deidad. Se conserva como localizador en Ms 153, párr. 21, y Humphrey, introducción, sin evaluar aquí la doctrina ni usarla como prueba de error. La autoría y amplitud de la intervención editorial pertenecen al capítulo 11; la comparación doctrinal al 14.
+La comparación incluye una diferencia sobre cómo hablar del sufrimiento de la Deidad. Se conserva como localizador en Ms 153, párr. 21, y Humphrey, introducción, sin evaluar aquí la doctrina ni usarla como prueba de error. La autoría y amplitud de la intervención editorial pertenecen al capítulo 11; la comparación doctrinal quedó fuera del manuscrito activo. El capítulo 14 vigente estudia conducta.
 

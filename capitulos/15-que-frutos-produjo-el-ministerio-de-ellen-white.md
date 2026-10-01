@@ -1,4 +1,4 @@
-# ¿Qué frutos produjo el ministerio de Ellen White?
+# Capítulo 15 — ¿Qué frutos produjo el ministerio de Ellen White?
 
 ## ¿Qué debemos mirar después de examinar sus mensajes y su conducta?
 
@@ -88,7 +88,7 @@ La pregunta más útil es qué ocurrió al aplicar el modelo, especialmente cuan
 
 ## ¿La educación mediante trabajo funcionó sin correcciones?
 
-No. Una resolución publicada a comienzos de 1896 dispuso abandonar el plan industrial entonces vigente en Avondale y preparar otra organización escolar. Al mismo tiempo conservó trabajo manual como sostén y educación, subordinado a la formación de trabajadores para la misión.[^industrial]
+No. Durante la preparación de la escuela, una resolución publicada a comienzos de 1896 dispuso abandonar el plan industrial entonces vigente en Avondale y preparar otra organización escolar. Al mismo tiempo conservó trabajo manual como sostén y educación, subordinado a la formación de trabajadores para la misión.[^industrial]
 
 Esto distingue principio y aplicación. Se podía defender trabajo práctico y revisar una forma concreta de organizarlo. La resolución no demuestra que toda educación manual fuera un fracaso, ni que White hubiera diseñado personalmente el plan descartado. Sí impide presentar el proceso como un modelo terminado que sólo necesitaba obediencia.
 
@@ -188,9 +188,9 @@ No hace falta importar cada discusión contemporánea sobre ordenación. El resp
 
 El resultado debe medirse en quienes reciben orientación, no solamente en el lugar de su autora.
 
-## ¿Qué problema de autoridad tiene un soporte histórico más fuerte?
+## ¿Qué evidencia existe sobre los efectos de su autoridad?
 
-La dificultad para corregir publicaciones y explicar libremente límites de inspiración. Disponemos de documentos cercanos, producidos por colaboradores y docentes que seguían comprometidos con el movimiento.
+Los documentos de colaboradores y docentes muestran dificultades para corregir publicaciones y explicar libremente los límites de inspiración. Sus autores seguían comprometidos con el movimiento.
 
 En abril de 1915, W. W. Prescott escribió a W. C. White sobre errores en libros autorizados, impresiones equivocadas acerca de escritos de su madre y escaso esfuerzo por corregirlas. Le preocupaba que evitar conmoción tuviera prioridad sobre información fiable. Describió el costo personal de esa situación.[^prescott]
 
@@ -210,7 +210,7 @@ Ese detalle limita atribución: no podemos contar el episodio como negativa pers
 
 El 1 de agosto, J. N. Anderson preguntó si era seguro explicar a alumnos que sus libros no eran autoridad final para ciertos datos históricos. Callar lo que entendían verdadero comprometía honestidad y preparaba crisis. G. B. Thompson sostuvo que se había reclamado más de lo que ella reclamaba.[^anderson]
 
-La conversación demuestra capacidad de examen y desacuerdo. Pero acompañada por preocupación sobre consecuencias públicas. Daniells defendió trato cristiano al discrepante y recordó que años antes no habría sido seguro discutir así.[^daniells]
+La conversación demuestra capacidad de examen y desacuerdo, junto con preocupación sobre las consecuencias públicas. Daniells defendió trato cristiano al discrepante y recordó que años antes no habría sido seguro discutir así.[^daniells]
 
 El fruto problemático mejor establecido es ese costo institucional del reconocimiento de límites. Tiene alcance colectivo en enseñanza y circulación de información, aunque no cuantificamos toda la denominación.
 

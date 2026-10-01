@@ -137,7 +137,7 @@ Estas dos afirmaciones pueden mantenerse juntas. Está **establecido** que Ellen
 
 Lo que queda **indeterminado** es algo más específico: si el contenido de la primera visión pretendía enseñar que, desde el 22 de octubre, absolutamente toda persona que no hubiera participado del movimiento quedaba sin posibilidad de conversión. El texto no formula esa proposición con esa precisión. Tampoco sería correcto sostener que las primeras visiones no tuvieron relación con la puerta cerrada: la documentación de 1846 y 1847 muestra que sí la tuvieron.
 
-Esta distinción será importante cuando estudiemos el desarrollo doctrinal posterior. Por ahora basta con fijar el escenario que conduce a Atkinson, donde varias de esas ideas aparecieron ante observadores externos.
+Esta distinción permite describir el desarrollo de sus afirmaciones sin resolver aquí la controversia doctrinal. Por ahora basta con fijar el escenario que conduce a Atkinson, donde varias de esas ideas aparecieron ante observadores externos.
 
 ## 10. ¿Por qué arrestaron a Israel Dammon durante la reunión de Atkinson?
 
@@ -339,7 +339,7 @@ Finalmente, el fraude consciente es lógicamente posible. Sin embargo, para conv
 
 Las conclusiones de este capítulo no dependen de que los documentos actuales sean los únicos que puedan existir. Un registro contemporáneo de diciembre de 1844 escrito por una de las mujeres presentes podría fijar con mucha mayor seguridad la fecha, el lugar y las circunstancias de la primera visión. Una versión temprana incompatible con el relato conocido reduciría, en cambio, nuestra confianza en la reconstrucción actual.
 
-La interpretación de Atkinson debería revisarse si apareciera la transcripción judicial completa o el expediente de la apelación. Una explicación médica ganaría mucho peso con registros clínicos contemporáneos que describieran signos específicos y repetidos. Una hipótesis de fraude se fortalecería con evidencia directa de preparación o engaño. Y la hipótesis de conocimiento extraordinario ganaría peso si se conservaran mensajes concretos registrados antes de su comprobación y confirmados después por fuentes verdaderamente independientes.
+La interpretación de Atkinson debería revisarse si apareciera la transcripción judicial completa o el expediente de la apelación. Una explicación médica ganaría mucho peso con registros clínicos contemporáneos que describieran signos específicos y repetidos. Una hipótesis de fraude se fortalecería con evidencia directa de preparación o engaño, o con indicios independientes que convergieran sólidamente en un engaño deliberado. Y la hipótesis de conocimiento extraordinario ganaría peso si se conservaran mensajes concretos registrados antes de su comprobación y confirmados después por fuentes verdaderamente independientes.
 
 Mientras esa evidencia no aparezca, el grado de certeza debe permanecer exactamente donde permiten los documentos disponibles.
 
@@ -355,7 +355,7 @@ El juicio de Dammon confirma algo distinto y muy valioso: para febrero de 1845 o
 
 El relato publicado de la primera visión tampoco permaneció textualmente intacto. Las primeras reimpresiones fueron muy estables; después hubo omisiones, reformulaciones y una separación en más de una visión. El núcleo narrativo sobrevivió en la transmisión escrita conocida; esa estabilidad no corrobora por sí sola la experiencia. Los paralelos Foy/2 Esdras requieren examinar mediación y acceso. Algunos pasajes doctrinalmente sensibles y detalles autobiográficos cambiaron o aparecieron más tarde. En varios casos no podemos demostrar quién decidió una revisión ni con qué intención.
 
-Respecto del origen de las experiencias, la evidencia de este capítulo permite menos de lo que suelen afirmar ambos extremos. **No hemos encontrado evidencia temprana directa que demuest fraude deliberado**, pero tampoco podemos demostrar históricamente el estado interior de sinceridad de Ellen. La sinceridad es una explicación plausible; no es todavía una conclusión que este capítulo pueda probar. Del mismo modo, una causa neurológica, disociativa o social específica es posible, pero ninguna ha sido establecida con evidencia clínica contemporánea.
+Respecto del origen de las experiencias, la evidencia de este capítulo permite menos de lo que suelen afirmar ambos extremos. **No hemos encontrado evidencia temprana directa que demuestre fraude deliberado**, pero tampoco podemos demostrar históricamente el estado interior de sinceridad de Ellen. La sinceridad es una explicación plausible; no es todavía una conclusión que este capítulo pueda probar. Del mismo modo, una causa neurológica, disociativa o social específica es posible, pero ninguna ha sido establecida con evidencia clínica contemporánea.
 
 La conclusión más precisa es entonces limitada: **está históricamente documentado que Ellen afirmó tener visiones y que, para febrero de 1845, otras personas describían estados y mensajes públicos asociados con ellas**. Esas experiencias surgieron dentro de la crisis millerita, adquirieron rápidamente autoridad para algunos creyentes y contribuyeron a resolver disputas dentro de pequeños grupos adventistas. Que su causa última fuera únicamente humana, sobrenatural o una combinación que la investigación histórica no puede aislar sigue **indeterminado**.
 
@@ -417,7 +417,7 @@ Eso no convierte el capítulo en un empate. Hemos reducido considerablemente lo 
 
 [^26]: Testimonios de William C. Crosby, Loton Lambert, James Ayer hijo, Job Moody, Jacob Mason, Joel Doore, George Woodbury, Joseph Moulton y Benjamin Smith en *Piscataquis Farmer*, 7 de marzo de 1845, pp. 1–2. Moulton describió el arresto y la resistencia; Smith explicó que ciudadanos de Atkinson le habían pedido intervenir para detener las reuniones porque temían que Dammon y otros se convirtieran en una carga para el pueblo. Para localizar las declaraciones en una transcripción anotada, véase [“Another Look at Israel Damman’s Trial”](https://whiteestate.org/legacy/issues-israel_damman-html/). La interpretación de ese ensayo es defensiva; aquí se usa como índice y se contrasta con el periódico.
 
-[^27]: Ellen G. White, *Spiritual Gifts*, vol. 2 (1860), pp. 40–42; declaración del agente Joseph Moulton en *Piscataquis Farmer*, 7 de marzo de 1845. Los dos relatos se colocan en paralelo en “Another Look at Israel Damman’s Trial”.
+[^27]: Ellen G. White, *Spiritual Gifts*, vol. 2 (1860), pp. 40–42; declaración del agente Joseph Moulton en *Piscataquis Farmer*, 7 de marzo de 1845. Los dos relatos se colocan en paralelo en “Another Look at Israel Damman’s Trial”. El recuerdo de 1860 sitúa el arresto en el «primer día de la semana», mientras la crónica de 1845 describe la reunión nocturna del sábado 15 al domingo 16 de febrero. La extensión pasada la medianoche impide resolver la diferencia imponiendo una hora que los documentos no fijan con seguridad.
 
 [^28]: Carta anónima citada por James White en *A Word to the “Little Flock”* (1847), pp. 22–23. El autor distinguía entre deshonestidad y “religious reveries”; James respondió inmediatamente después.
 
