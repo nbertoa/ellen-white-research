@@ -56,3 +56,7 @@ El capítulo 16 no cuenta argumentos a favor y en contra. Pregunta:
 > **¿Qué explicación encaja mejor con toda la evidencia disponible?**
 
 Una evidencia decisiva puede pesar más que numerosos casos ambiguos. La conclusión deberá conservar exactamente el grado de certeza permitido por la evidencia.
+
+## ¿Qué revisión recibió el conjunto de los dieciséis capítulos?
+
+La [auditoría final de octubre de 2026](../hallazgos/auditoria-final-libro-2026-10.md) registra dos lecturas completas, correcciones y límites documentales. La [cobertura de las 407 notas](../hallazgos/auditoria-final-libro-2026-10-cobertura.md) distingue contenido cotejado, bibliografía y pendientes; no certifica la inspección de todos los originales.

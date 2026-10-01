@@ -128,3 +128,7 @@ El capítulo 13 documenta cambios y correcciones, descarta incompatibilidades qu
 ## ¿Cuál es la regla maestra?
 
 > **No investigar para demostrar que Ellen White fue profeta ni para demostrar que no lo fue. Investigar hasta descubrir qué conclusión explica mejor toda la evidencia disponible y detenerse donde se detenga la evidencia.**
+
+## ¿Qué cubrió la auditoría final de octubre de 2026?
+
+Los dieciséis capítulos están escritos y recibieron lectura editorial integral. La [auditoría final](hallazgos/auditoria-final-libro-2026-10.md) registra las correcciones y límites; su [cobertura individual de 407 notas](hallazgos/auditoria-final-libro-2026-10-cobertura.md) distingue cotejos documentales, bibliográficos y pendientes. No equivale a una certificación de todos los originales.
