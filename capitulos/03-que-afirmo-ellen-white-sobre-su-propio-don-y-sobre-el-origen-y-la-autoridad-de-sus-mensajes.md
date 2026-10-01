@@ -10,7 +10,7 @@ Con esas distinciones podemos preguntar qué afirmó realmente Ellen White.
 
 ## 1. ¿Atribuyó desde el comienzo sus visiones a Dios?
 
-La evidencia permite responder algo más preciso: **a más tardar el 20 de diciembre de 1845, Ellen Harmon atribuía a Dios su primera visión**.
+La evidencia permite responder algo más preciso: **a más tardar el 20 de diciembre de 1845, Ellen Harmon —su apellido antes de casarse— atribuía a Dios su primera visión**.
 
 Ese día escribió desde Portland a Enoch Jacobs, director de *The Day-Star*. Comenzó diciendo que Dios le había mostrado en “santa visión” el viaje del pueblo adventista hacia la Santa Ciudad y anunció un breve relato de lo que Dios le había revelado. Jacobs publicó la carta el 24 de enero de 1846.[^1]
 
@@ -22,7 +22,7 @@ Por tanto, queda **establecido** que la atribución divina ya aparece en diciemb
 
 ## 2. ¿Negó Ellen White ser profetisa?
 
-En una reunión pública celebrada en Battle Creek el 2 de octubre de 1904, el registro conservado le atribuye esta declaración: “No soy, como dije ayer, profeta”; a continuación afirmó que no pretendía ser dirigente y que sólo pretendía ser mensajera de Dios.[^2] La propia frase indica que reiteraba algo dicho el sábado anterior. Lo documentado aquí es la formulación del registro conservado, catalogado como Ms 140, 1905; falta identificar su soporte, fecha de transcripción y relación con el acto de 1904. No autenticamos por ese código cada palabra oral. Leída por sí sola, puede entenderse como una negación de la condición de profeta, no sólo de un título. Esa dificultad no debe desaparecer mediante una paráfrasis más cómoda.
+En una reunión pública celebrada en Battle Creek el 2 de octubre de 1904, el registro conservado le atribuye esta declaración: “No soy, como dije ayer, profeta”; a continuación afirmó que no pretendía ser dirigente y que sólo pretendía ser mensajera de Dios.[^2] La propia frase indica que reiteraba algo dicho el sábado anterior. Lo documentado aquí es la formulación del registro conservado, catalogado como Ms 140, 1905. «Ms» identifica un manuscrito en el archivo. Falta establecer su soporte, fecha de transcripción y relación con el acto de 1904; el código no garantiza por sí solo cada palabra pronunciada. Leída por sí sola, puede entenderse como una negación de la condición de profeta, no sólo de un título. Esa dificultad no debe desaparecer mediante una paráfrasis más cómoda.
 
 Sin embargo, sus explicaciones posteriores son explícitas. El 30 de enero de 1905 escribió a O. A. Olsen que nunca había asumido el título de profetisa, aunque otros la llamaran así, porque consideraba que su trabajo incluía más funciones. Prefería “mensajera del Señor”.[^3] En mayo de 1906 añadió que, si había hablado de manera que permitía otra interpretación, lo que pretendía decir era: “No reclamo el título de profeta o profetisa”.[^4] Y en julio escribió a los dirigentes de Battle Creek que su comisión abarcaba “la obra de un profeta”, pero no terminaba allí.[^5]
 
@@ -56,7 +56,7 @@ Queda **establecido** que, cuando identificaba un testimonio como enviado por Di
 
 No. En 1909 trazó una distinción explícita entre lo sagrado y lo común.
 
-La ocasión fue un dato equivocado sobre el número de habitaciones del Paradise Valley Sanitarium. Explicó que no lo había recibido por revelación: había preguntado a personas que suponía informadas y había expresado una opinión humana. Añadió que debía escribir cartas comunes, transmitir información recibida de otros y conversar sobre asuntos ordinarios; esas palabras e informaciones no eran dadas bajo la inspiración especial del Espíritu de Dios.[^8]
+La ocasión fue un dato equivocado sobre el número de habitaciones del sanatorio Paradise Valley. Explicó que no lo había recibido por revelación: había preguntado a personas que suponía informadas y había expresado una opinión humana. Añadió que debía escribir cartas comunes, transmitir información recibida de otros y conversar sobre asuntos ordinarios; esas palabras e informaciones no eran dadas bajo la inspiración especial del Espíritu de Dios.[^8]
 
 En contraste, sostuvo que, cuando el Espíritu le revelaba asuntos relativos a la obra, las instituciones o el corazón de las personas, el mensaje debía ser recibido como luz de Dios.[^8] No estaba renunciando a la autoridad de los testimonios, sino rechazando la mezcla indiscriminada de dos clases de material.
 
@@ -77,7 +77,7 @@ Su explicación distingue cuatro elementos:
 3. la aplicación posterior de esos principios a un caso no visto de manera individual;
 4. información humana que daba ocasión o contexto al consejo.
 
-La distinción queda **establecida** como parte de su autocomprensión. No demuestra que la primera revelación ocurriera ni permite reclasificar después cualquier mensaje problemático como aplicación humana. Obliga a examinar qué origen atribuyó al contenido concreto de cada caso.
+La distinción queda **establecida** como parte de la explicación que dio de su propia labor. No demuestra que la primera revelación ocurriera ni permite reclasificar después cualquier mensaje problemático como aplicación humana. Obliga a examinar qué origen atribuyó al contenido concreto de cada caso.
 
 ## 7. ¿Afirmó que Dios le dictaba las palabras exactas?
 
@@ -99,17 +99,17 @@ Negó la infalibilidad personal. En una carta del 9 de junio de 1895 a su sobrin
 
 El contexto importa. No estaba retirando un testimonio concreto ni definiendo una lista de errores permitidos en los mensajes. Estaba contrastando la falibilidad humana con la seguridad de Dios y su palabra. En una carta privada de 1876 también había reconocido errores en su vida y negado perfección de carácter, pero eso se refería a su persona, no a la exactitud de una revelación particular.[^15]
 
-Por tanto, queda **establecido** que negó infalibilidad personal, reconoció errores de conducta y admitió al menos un dato ordinario equivocado. Estos textos no delimitan exhaustivamente errores de memoria o juicio en mensajes revelados. No queda establecido que admitiera la posibilidad de error en aquello que presentaba de manera inequívoca como revelación de Dios. Esa cuestión permanece **indeterminada**. La negación de infalibilidad no funciona como inmunidad ante un error concretamente atribuido a revelación, y no puede resolverse ni con el lema “nunca reclamó infalibilidad” ni con la autoridad que atribuyó a los testimonios.
+Por tanto, queda **establecido** que negó infalibilidad personal, reconoció errores de conducta y admitió al menos un dato ordinario equivocado. Estos textos no aclaran por completo qué lugar podrían tener los errores de memoria o juicio en mensajes que ella presentaba como revelados. No queda establecido que admitiera la posibilidad de error en aquello que presentaba de manera inequívoca como revelación de Dios. Esa cuestión permanece **indeterminada**. La negación de infalibilidad no funciona como inmunidad ante un error concretamente atribuido a revelación, y no puede resolverse ni con el lema “nunca reclamó infalibilidad” ni con la autoridad que atribuyó a los testimonios.
 
 ## 9. ¿Qué lugar atribuyó a la Biblia?
 
 Presentó la Biblia como la norma doctrinal pública y como el criterio para probar toda enseñanza y experiencia.
 
-En esa misma introducción reconoció que condensó historia y utilizó palabras de historiadores cuando ofrecían una presentación conveniente; salvo algunas excepciones, no dio crédito específico. Añadió que hizo un uso similar de obras publicadas sobre reformadores de su propia época.[^22] Es una declaración de método literario, no una absolución ni una acusación automática. Obliga a preguntar **qué parte provenía de lectura y qué parte fue presentada concretamente como revelación**. La magnitud, exactitud y atribución de cada préstamo requieren cotejos propios.
+En la introducción de *The Great Controversy* de 1888 reconoció que resumió relatos históricos y utilizó palabras de historiadores cuando ofrecían una presentación conveniente; salvo algunas excepciones, no dio crédito específico. Añadió que hizo un uso similar de obras publicadas sobre reformadores de su propia época.[^22] Es una declaración de método literario, no una absolución ni una acusación automática. Obliga a preguntar **qué parte provenía de lectura y qué parte fue presentada concretamente como revelación**. La magnitud, exactitud y atribución de cada préstamo requieren cotejos propios.
 
-En la introducción de *The Great Controversy* de 1888 llamó a las Escrituras una revelación autoritativa e infalible de la voluntad de Dios, el revelador de doctrinas y la prueba de la experiencia. Añadió que la actividad continua del Espíritu no volvía innecesaria la Biblia y que el Espíritu nunca fue dado para sustituirla: la Palabra debía probar toda enseñanza y experiencia. La edición de 1911 mantuvo esta estructura y el reconocimiento de historiadores, con una formulación que cambia algunos detalles; no se ha hecho aquí una colación integral de ambas obras.[^16][^22]
+En esa introducción también llamó a las Escrituras una revelación autoritativa e infalible de la voluntad de Dios, el revelador de doctrinas y la prueba de la experiencia. Añadió que la actividad continua del Espíritu no volvía innecesaria la Biblia y que el Espíritu nunca fue dado para sustituirla: la Palabra debía probar toda enseñanza y experiencia. La edición de 1911 mantuvo esta estructura y el reconocimiento de historiadores, con una formulación que cambia algunos detalles; no se han comparado aquí ambas obras completas, pasaje por pasaje.[^16][^22]
 
-En 1889 explicó que los testimonios escritos no debían dar una nueva regla de verdad, sino llamar la atención a principios bíblicos ya revelados, hacerlos vívidos y aplicarlos. Su propósito declarado era exaltar la Escritura, no disminuirla.[^17] Y en 1894 aconsejó a un ministro que en el trabajo público no citara a “Sister White” como autoridad para probar una posición: debía presentar la evidencia desde la Palabra de Dios.[^18]
+En 1889 explicó que los testimonios escritos no debían dar una nueva regla de verdad, sino llamar la atención a principios bíblicos ya revelados, recordarlos de manera viva y aplicarlos. Su propósito declarado era exaltar la Escritura, no disminuirla.[^17] Y en 1894 aconsejó a un ministro que en el trabajo público no citara a “Sister White” como autoridad para probar una posición: debía presentar la evidencia desde la Palabra de Dios.[^18]
 
 Pero esa supremacía bíblica no convertía los testimonios en sugerencias opcionales. Cuando identificaba uno como mensaje enviado por Dios, sostenía que rechazarlo era rechazar al remitente divino. Su estructura era jerárquica: la Biblia servía como regla doctrinal y prueba; los testimonios dependían de ella y reclamaban autoridad como advertencias, correcciones y aplicaciones divinas para destinatarios concretos o para la comunidad.
 
@@ -131,7 +131,7 @@ La objeción más fuerte no es que Ellen White afirmara que cada palabra privada
 
 Walter Rea reunió correctamente varias de esas afirmaciones fuertes antes de contrastarlas con supuesta dependencia de fuentes humanas.[^21] Pero la existencia de una fuente humana no demuestra por sí sola una falsa atribución de origen. Como estableció el capítulo 2, primero hay que identificar el material, probar la dependencia y preguntar qué afirmó ella sobre el origen de ese contenido concreto. A la inversa, su reconocimiento de lenguaje humano tampoco permite explicar como “simple ayuda editorial” cualquier caso que resulte problemático.
 
-La pregunta falsable para capítulos posteriores es precisa: **¿existen contenidos cuyo origen humano pueda demostrarse y que Ellen White presentara inequívocamente como recibidos de manera directa en visión o revelación?** Si la respuesta fuera afirmativa en casos claros y sustantivos, afectaría el criterio de falsa atribución de origen. Este capítulo fija la pretensión; no adelanta el veredicto.
+La pregunta que podremos poner a prueba en los capítulos posteriores es precisa: **¿existen contenidos cuyo origen humano pueda demostrarse y que Ellen White presentara inequívocamente como recibidos de manera directa en visión o revelación?** Si la respuesta fuera afirmativa en casos claros y sustantivos, afectaría el criterio de falsa atribución de origen. Este capítulo fija la pretensión; no adelanta el veredicto.
 
 ## 12. ¿Qué queda realmente demostrado?
 
