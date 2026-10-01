@@ -72,7 +72,7 @@ Esto impide decir que su práctica fue una abstinencia uniforme e ininterrumpida
 
 La pregunta sobre si describió siempre esa trayectoria con suficiente precisión requiere comparar afirmaciones autobiográficas sobre el mismo período. Una negación inequívoca de consumo entre 1863 y 1894, enfrentada con un relato auténtico de consumo propio dentro de ese intervalo, sería un par más fuerte que una norma general enfrentada con una comida. No debemos completar esa negación con palabras que ella no escribió.
 
-El juicio sobre su conducta, su ejemplo y posibles excepciones para sí misma corresponde al capítulo 14. Acá queda establecido el cambio de práctica y de rigor doméstico. Sigue abierta la auditoría de algunas generalizaciones autobiográficas.
+El juicio sobre su conducta, su ejemplo y posibles excepciones para sí misma corresponde al capítulo 14. Aquí queda establecido el cambio de práctica y de rigor doméstico. Sigue abierta la auditoría de algunas generalizaciones autobiográficas.
 
 Dentro de la carta de 1896 aparece otro par que parece especialmente sencillo de acusar.
 
@@ -84,7 +84,7 @@ Ese contexto muestra que usa «carne» como categoría alimentaria distinta de �
 
 La referencia más amplia a «carne de animales muertos» es menos precisa. Merece atención si se compara con una condena explícita del pescado. Pero no autoriza a hacer que el término siguiente signifique todos los productos animales mientras se omite la frase que define su uso local.
 
-Este falso positivo enseña algo útil: una contradicción exige equivalencia de significado, no sólo equivalencia en el diccionario que preferimos utilizar. Tampoco la resolución de este párrafo demuestra que toda formulación posterior sobre alimentos animales tenga idéntico alcance.
+Esta aparente contradicción enseña algo útil: una contradicción exige equivalencia de significado, no sólo equivalencia en el diccionario que preferimos utilizar. Tampoco la resolución de este párrafo demuestra que toda formulación posterior sobre alimentos animales tenga idéntico alcance.
 
 Las restricciones sobre leche, manteca y huevos requieren un examen más amplio que esa diferencia de vocabulario.
 
@@ -118,7 +118,7 @@ Los huevos ofrecen una excepción igualmente explícita, pero una explicación r
 
 En el discurso de 1869 White relacionó alimentos como manteca, huevos y carne con la excitación de las pasiones de los hijos. En 1901 aconsejó a Kress emplear huevos de gallinas sanas como recurso para su debilidad. No podemos borrar ninguna de las dos declaraciones.[^14]
 
-En la misma carta explicó que las advertencias previas habían sido dadas a familias cuyos niños estaban entregados a prácticas de autolesión sexual, mientras que huevos de aves bien cuidadas podían servir como recurso terapéutico. La distinción de destinatario y finalidad es explícita. El niño al que atribuye un problema y el adulto debilitado no son el mismo paciente.
+En la misma carta explicó que las advertencias previas habían sido dadas a familias cuyos niños practicaban lo que ella llamaba «abuso de sí», mientras que huevos de aves bien cuidadas podían servir como recurso terapéutico. La distinción de destinatario y finalidad es explícita. El niño al que atribuye un problema y el adulto debilitado no son el mismo paciente.
 
 Sin embargo, la explicación de 1901 es posterior a la advertencia general de 1869. No debe trasladarse hacia atrás como si todas las primeras advertencias hubieran incluido claramente esas condiciones. Puede ser una explicación de la intención anterior, una precisión posterior o una modificación de la aplicación. Lo establecido es que permitió una excepción y explicó por qué.
 
@@ -230,7 +230,7 @@ No son dos revelaciones que ordenan hacer X y no-X. Es una afirmación sobre ori
 
 Los otros expedientes de C10 —el juicio de 1879 y Queensland— conservan sus propias reservas. La dependencia no demuestra automáticamente que no hubo experiencia. Una experiencia alegada tampoco demuestra que el lenguaje dependiente llegó de manera independiente. En Queensland, cambiar el lugar de unas comillas no resuelve todos los paralelos.[^30]
 
-Una defensa debe poder perder frente a un origen realmente descrito de forma falsa. La crítica debe poder perder si se documenta una práctica de expresión o edición compatible con el alcance preciso de la declaración. Lo que no permite el expediente es un cierre universal en ninguna de las dos direcciones.
+Una defensa debe admitir que la refute una descripción de origen demostrablemente falsa. La crítica debe admitir que la refute una práctica de expresión o edición compatible con el alcance preciso de la declaración. Lo que no permite el expediente es un cierre universal en ninguna de las dos direcciones.
 
 ¿Las revisiones de sus libros ofrecen una contradicción más claramente demostrable?
 
@@ -320,7 +320,7 @@ En 1875 White afirmó que el juicio de la Conferencia General tenía la mayor au
 
 En 1901 criticó una administración estrecha que reclamaba actuar como voz de Dios y concentraba responsabilidad en dos o tres hombres. Pidió reorganización y participación mayor. En 1909 volvió a reconocer autoridad a representantes de la iglesia de todo el mundo reunidos en Conferencia General, frente al dominio de unos pocos.[^42]
 
-Existen diferencias documentadas de tiempo y funcionamiento institucional. Eso favorece una explicación contextual: un órgano colectivo y un pequeño grupo que ejerce poder regio no son necesariamente el mismo referente práctico.
+Existen diferencias documentadas de tiempo y funcionamiento institucional. Eso favorece una explicación contextual: un órgano colectivo y un pequeño grupo que concentra el poder no son necesariamente el mismo referente práctico.
 
 La formulación de 1875, sin embargo, es amplia. No debemos agregarle todas las condiciones de 1909 como si ya estuvieran escritas allí. Para resolver un conflicto concreto harían falta decisiones y actas que permitan identificar qué clase de autoridad estaba ejerciéndose en cada momento.
 
@@ -364,9 +364,9 @@ Persisten dificultades que este examen no pudo resolver satisfactoriamente: la c
 
 En los pares examinados no quedó establecido un caso claro de dos revelaciones específicas que ordenen simultáneamente X y no-X al mismo destinatario bajo las mismas condiciones. Esa conclusión es delimitada. No demuestra coherencia exhaustiva de todos sus escritos ni origen divino de sus mensajes.
 
-Los errores factuales y la predicción de 1856 conservan su peso propio. Las condiciones posteriores no demostraron pertenecer al significado original de aquella promesa, y la ausencia de un segundo oráculo que la niegue no elimina su incumplimiento literal.[^48]
+Los errores factuales y la predicción de 1856 conservan su peso propio. No se demostró que las condiciones formuladas después pertenecieran al significado original de aquella promesa, y la ausencia de un segundo oráculo que la niegue no elimina su incumplimiento literal.[^48]
 
-Hasta aquí preguntamos si sus declaraciones pueden coexistir entre sí. La pregunta siguiente es diferente y debe tener su propia investigación: **¿concuerdan con la Biblia los mensajes que Ellen White presentó como procedentes de Dios?**
+Hasta aquí preguntamos si sus declaraciones pueden coexistir entre sí. El capítulo siguiente examina otra clase de evidencia: **¿qué revela su vida y conducta sobre su pretensión profética?** La comparación doctrinal exhaustiva con la Biblia quedó fuera del manuscrito activo; esa decisión de alcance no declara correctas ni incorrectas las doctrinas discutidas.
 
 [^1]: [Inventario, protocolo y continuidad con C1–C12](../hallazgos/capitulo-13-inventario-y-protocolo.md); [matriz vigente](../metodologia/MATRIZ_CRITERIOS_BIBLICOS.md). Base remota del trabajo: `48a960c158fb107e384d239797ed990ae7ffbd40`. La [auditoría](../hallazgos/capitulo-13-auditoria-y-registro-de-fuentes.md) distingue consulta nueva, resultados heredados y documentación no obtenida.
 [^2]: [Protocolo y categorías](../hallazgos/capitulo-13-inventario-y-protocolo.md). Contradicción lógica, cambio, precisión y error factual se clasifican separadamente de establecido/probable/posible/indeterminado.
