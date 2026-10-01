@@ -1,6 +1,6 @@
 # ¿Qué muestran los candidatos sobre matrimonio y qué no podemos decidir todavía?
 
-Fecha de corte: 30-IX-2026. C13-46 a C13-62. Se conserva la frontera con C14–C17. Esta ficha no llama «resuelto» a un caso cuyo par original no se obtuvo.
+Fecha de corte: 30-IX-2026. C13-46 a C13-62. Se conserva la frontera con conducta (C14), frutos (C15) y síntesis (C16); la comparación doctrinal exhaustiva quedó fuera del manuscrito activo. Esta ficha no llama «resuelto» a un caso cuyo par original no se obtuvo.
 
 ## ¿Menos matrimonios equivale a una prohibición universal?
 

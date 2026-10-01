@@ -118,7 +118,7 @@ Los huevos ofrecen una excepción igualmente explícita, pero una explicación r
 
 En el discurso de 1869 White relacionó alimentos como manteca, huevos y carne con la excitación de las pasiones de los hijos. En 1901 aconsejó a Kress emplear huevos de gallinas sanas como recurso para su debilidad. No podemos borrar ninguna de las dos declaraciones.[^14]
 
-En la misma carta explicó que las advertencias previas habían sido dadas a familias cuyos niños estaban entregados a prácticas de autolesión sexual, mientras que huevos de aves bien cuidadas podían servir como recurso terapéutico. La distinción de destinatario y finalidad es explícita. El niño al que atribuye un problema y el adulto debilitado no son el mismo paciente.
+En la misma carta explicó que las advertencias previas habían sido dadas a familias cuyos niños practicaban lo que ella llamaba «abuso de sí mismos», mientras que huevos de aves bien cuidadas podían servir como recurso terapéutico. La distinción de destinatario y finalidad es explícita. El niño al que atribuye un problema y el adulto debilitado no son el mismo paciente.
 
 Sin embargo, la explicación de 1901 es posterior a la advertencia general de 1869. No debe trasladarse hacia atrás como si todas las primeras advertencias hubieran incluido claramente esas condiciones. Puede ser una explicación de la intención anterior, una precisión posterior o una modificación de la aplicación. Lo establecido es que permitió una excepción y explicó por qué.
 
@@ -362,7 +362,7 @@ Algunas acusaciones importantes desaparecen al recuperar el contexto: el cerdo d
 
 Persisten dificultades que este examen no pudo resolver satisfactoriamente: la comparación de eficacia frente al «nunca curan»; el alcance de la negación de junio de 1897 frente a material dependiente presentado como recibido; y la relación entre la regla pública del diezmo y las asignaciones aprobadas por comisión especial. Son **posibles contradicciones**, con razones y documentos faltantes identificados. No son ya armonía demostrada. Tampoco alcanzan todavía para afirmar incompatibilidad inequívoca bajo condiciones equivalentes.
 
-En los pares examinados no quedó establecido un caso claro de dos revelaciones específicas que ordenen simultáneamente X y no-X al mismo destinatario bajo las mismas condiciones. Esa conclusión es delimitada. No demuestra coherencia exhaustiva de todos sus escritos ni origen divino de sus mensajes.
+En los pares examinados no quedó establecido un caso claro de dos revelaciones específicas que ordenen simultáneamente X y no-X al mismo destinatario bajo las mismas condiciones. Esa conclusión es delimitada: el mismo destinatario y período importan para órdenes particulares, pero dos afirmaciones universales pueden ser incompatibles sin esa coincidencia. En tal caso debe compararse su alcance, como se hizo con los medicamentos. No demuestra coherencia exhaustiva de todos sus escritos ni origen divino de sus mensajes.
 
 Los errores factuales y la predicción de 1856 conservan su peso propio. Las condiciones posteriores no demostraron pertenecer al significado original de aquella promesa, y la ausencia de un segundo oráculo que la niegue no elimina su incumplimiento literal.[^48]
 

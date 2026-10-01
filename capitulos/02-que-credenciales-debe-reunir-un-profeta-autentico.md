@@ -51,7 +51,7 @@ Jonás 3 lo muestra en un relato. Jonás anuncia que Nínive será destruida en 
 
 Por tanto, “no ocurrió” no equivale siempre a “Dios no lo dijo”. Pero la condicionalidad debe surgir del género, del contexto, de una condición declarada o de un principio reconocible antes del desenlace. No puede inventarse sólo después de que el anuncio falle, porque así Deuteronomio 18 perdería toda capacidad de prueba.
 
-## 6. ¿Cómo distinguiremos una profecía condicional de una explicación de emergencia?
+## 6. ¿Cómo evaluaremos si una condición pertenecía al anuncio original?
 
 La pregunta debe resolverse antes de juzgar el resultado. Buscaremos, en este orden:
 
@@ -341,5 +341,5 @@ Las obras exegéticas y voces léxicas sin página específica en las notas cons
 [^15]: Ezequiel 13:1-23. Véanse Daniel I. Block, *The Book of Ezekiel, Chapters 1–24*, NICOT (Eerdmans, 1997), comentario a Ezequiel 13; y Rosanne Liebermann, “For-Profit Prophets? Ezekiel 13:17-23 and the Threat of Female Intermediaries”, *Hebrew Studies* 61 (2020): 213-234. Los detalles rituales de 13:17-23 y el sentido de varios términos siguen discutidos.
 [^16]: Miqueas 3:5-12; 1 Samuel 9:7-9; 2 Reyes 5:15-16. Véanse Francis I. Andersen y David Noel Freedman, *Micah*, Anchor Yale Bible 24E (Yale University Press, 2000), comentario a Miqueas 3; y HALOT, voz קסם.
 [^17]: Números 22-24; 31:16; Deuteronomio 23:4-5; Josué 13:22; 2 Pedro 2:15; Judas 11; Apocalipsis 2:14. Véanse Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Numbers 22–24”, *Religions* 14.8 (2023): 967, https://doi.org/10.3390/rel14080967; y Hans Ausloos, “A Star Was Born: About the Bifocal Reception History of Balaam”, *Scriptura* 116.2 (2017): 1-14, https://doi.org/10.7833/116-2-1311.
-[^18]: Juan 11:47-53. Véase Craig S. Keener, *The Gospel of John: A Commentary*, vol. 1 (Hendrickson, 2003), comentario a 11:49-52.
+[^18]: Juan 11:47-53. Véase Craig S. Keener, *The Gospel of John: A Commentary*, vol. 2 (Hendrickson, 2003), comentario a 11:49-52.
 

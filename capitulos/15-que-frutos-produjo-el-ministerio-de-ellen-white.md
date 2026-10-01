@@ -88,7 +88,7 @@ La pregunta más útil es qué ocurrió al aplicar el modelo, especialmente cuan
 
 ## ¿La educación mediante trabajo funcionó sin correcciones?
 
-No. Una resolución publicada a comienzos de 1896 dispuso abandonar el plan industrial entonces vigente en Avondale y preparar otra organización escolar. Al mismo tiempo conservó trabajo manual como sostén y educación, subordinado a la formación de trabajadores para la misión.[^industrial]
+No. Durante la preparación de la escuela, una resolución publicada a comienzos de 1896 dispuso abandonar el plan industrial entonces vigente en Avondale y preparar otra organización escolar. Al mismo tiempo conservó trabajo manual como sostén y educación, subordinado a la formación de trabajadores para la misión.[^industrial]
 
 Esto distingue principio y aplicación. Se podía defender trabajo práctico y revisar una forma concreta de organizarlo. La resolución no demuestra que toda educación manual fuera un fracaso, ni que White hubiera diseñado personalmente el plan descartado. Sí impide presentar el proceso como un modelo terminado que sólo necesitaba obediencia.
 
@@ -188,9 +188,9 @@ No hace falta importar cada discusión contemporánea sobre ordenación. El resp
 
 El resultado debe medirse en quienes reciben orientación, no solamente en el lugar de su autora.
 
-## ¿Qué problema de autoridad tiene un soporte histórico más fuerte?
+## ¿Qué evidencia existe sobre los efectos de su autoridad?
 
-La dificultad para corregir publicaciones y explicar libremente límites de inspiración. Disponemos de documentos cercanos, producidos por colaboradores y docentes que seguían comprometidos con el movimiento.
+Los documentos de colaboradores y docentes muestran dificultades para corregir publicaciones y explicar libremente los límites de inspiración. Sus autores seguían comprometidos con el movimiento.
 
 En abril de 1915, W. W. Prescott escribió a W. C. White sobre errores en libros autorizados, impresiones equivocadas acerca de escritos de su madre y escaso esfuerzo por corregirlas. Le preocupaba que evitar conmoción tuviera prioridad sobre información fiable. Describió el costo personal de esa situación.[^prescott]
 
