@@ -160,7 +160,7 @@ Walter Rea destaca correctamente esa fuerza en *The White Lie*, cap. 3, pp. 52-5
 
 ## ¿Cuál es la mejor respuesta disponible a esa objeción?
 
-El uso de fuentes humanas no refuta automáticamente inspiración. El capítulo 2 ya estableció, a partir de Lucas 1:1-4, que investigación y fuente humana pueden coexistir con una pretensión inspirada. Además, White negó el dictado verbal, reconoció información común y sostuvo que no todo consejo requería una visión específica nueva.
+El uso de fuentes humanas no refuta automáticamente inspiración. El capítulo 1, §§9 y 26, y el capítulo 2, §17, establecieron, a partir de Lucas 1:1-4, que investigación y fuente humana pueden coexistir con una pretensión inspirada. Además, White negó el dictado verbal, reconoció información común y sostuvo que no todo consejo requería una visión específica nueva.
 
 La respuesta sólo es válida si se mantiene falsable. En cada caso debe determinarse:
 
