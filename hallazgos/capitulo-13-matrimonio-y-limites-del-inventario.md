@@ -1,6 +1,6 @@
 # ¿Qué muestran los candidatos sobre matrimonio y qué no podemos decidir todavía?
 
-Fecha de corte: 30-IX-2026. C13-46 a C13-62. Se conserva la frontera con C14–C17. Esta ficha no llama «resuelto» a un caso cuyo par original no se obtuvo.
+Fecha de corte: 30-IX-2026. C13-46 a C13-62. Se conserva la frontera con C14–C16 y con la investigación doctrinal separada, fuera del manuscrito activo. Esta ficha no llama «resuelto» a un caso cuyo par original no se obtuvo.
 
 ## ¿Menos matrimonios equivale a una prohibición universal?
 
@@ -12,7 +12,7 @@ Fecha de corte: 30-IX-2026. C13-46 a C13-62. Se conserva la frontera con C14–C
 
 **Resultado C13-46:** aparente contradicción universal resuelta por referente y clase de afirmación, certeza establecida. Persistencia de advertencias específicas y precisión posterior, no autorización nueva de todo enlace antes prohibido. **C13-47:** tensión entre «sólo aconsejar» y autoridad vinculante de prohibiciones concretas: posible diferencia semántica entre coerción comunitaria y consejo de deber divino, no demostrada suficientemente para cierre. No suavizar A como simple preferencia. No aceptar que la admisión de excepciones sea añadida por apologistas: B ya las incorpora.
 
-**Falsación:** una norma original que prohíba toda boda incluso entre creyentes aptos en 1885, o una carta B que niegue haber prohibido ese mismo enlace, cambiaría C13-46. Un registro institucional de sanción exigida por White frente al mismo matrimonio ayudaría a evaluar *only advised* en C13-47. La comparación con 1 Timoteo o con la boda propia en 1846 corresponde respectivamente a C14 y C15.
+**Falsación:** una norma original que prohíba toda boda incluso entre creyentes aptos en 1885, o una carta B que niegue haber prohibido ese mismo enlace, cambiaría C13-46. Un registro institucional de sanción exigida por White frente al mismo matrimonio ayudaría a evaluar *only advised* en C13-47. La comparación con 1 Timoteo corresponde a una investigación doctrinal separada; la comparación con la boda propia en 1846 corresponde a C14.
 
 ## ¿Qué hacemos con el celibato y Peckham?
 
@@ -26,8 +26,8 @@ Fecha de corte: 30-IX-2026. C13-46 a C13-62. Se conserva la frontera con C14–C
 | --- | --- | --- |
 | C13-50, sexualidad | Condena de exceso conyugal / elogio del matrimonio, 2T pp. 380–382; MH pp. 356–363 | La felicidad matrimonial no afirma la bondad de un mismo exceso. Desarrollo compatible en esa comparación; efectos fisiológicos ya tratados en C12. Para nueva contradicción se necesita acto y condiciones definidos. |
 | C13-51, psicología | 1T pp. 296–297, mesmerismo «good in their place» / condenas y principios verdaderos de psicología, 2MCP pp. 698–700 | *Satan utiliza X* no equivale a *todo X es intrínsecamente malo*. Unidades originales y cronología terminológica pendientes para una afirmación más fuerte; indeterminado. Douglass, cap. 43, es mapa. |
-| C13-52, expiación | 1858, 1SG p. 161 / GC pp. 420–422, alcance de obra final | Debe fijarse significado de sacrificio, aplicación e intercesión. Sin ese expediente no cerrar como oposición doctrinal. Indeterminado; relación bíblica reservada C14. |
-| C13-53, Cristo | Predicción de resurrección / DA p. 753, no ver a través de tumba durante agonía | Estado experimentado en un momento no niega automáticamente información dicha antes. Falta par interno íntegro específico; indeterminado para acusación más amplia. No contrastar sólo con Evangelios (C14). |
+| C13-52, expiación | 1858, 1SG p. 161 / GC pp. 420–422, alcance de obra final | Debe fijarse significado de sacrificio, aplicación e intercesión. Sin ese expediente no cerrar como oposición doctrinal. Indeterminado; relación bíblica reservada para una investigación doctrinal separada. |
+| C13-53, Cristo | Predicción de resurrección / DA p. 753, no ver a través de tumba durante agonía | Estado experimentado en un momento no niega automáticamente información dicha antes. Falta par interno íntegro específico; indeterminado para acusación más amplia. No sustituir el par interno por un contraste sólo con los Evangelios; la comparación doctrinal quedó fuera del manuscrito activo. |
 | C13-54, día y hora | Voz divina anuncia tiempo, EW pp. 15, 34 / mensajes contra cálculo de fecha, 1SM pp. 188–189 | Destinatario, escenario futuro y cálculo presente diferentes a comprobar. No convertir voz escatológica en mandato de fijar fecha ministerial; expediente íntegro pendiente. |
 | C13-55, amalgamación | SG3 pp. 64, 75 / omisión en obras posteriores | Omisión no afirma no-X. Cambio editorial establecido, retractación indeterminada; C12 conserva incertidumbre semántica. |
 | C13-56, cáncer/carne | SG4a / MH p. 313 y Lt 83, 1901 | Nuevas razones de peligro no niegan automáticamente las antiguas. Desarrollo compatible respecto del par de razones; causalidad ya evaluada C12. |
@@ -36,7 +36,7 @@ Fecha de corte: 30-IX-2026. C13-46 a C13-62. Se conserva la frontera con C14–C
 | C13-59, recuerdos | Versiones Rochester 1884/1892/1909 | Autor Loughborough, no White; cambios de precisión establecidos, no auto contradicción de Ellen. |
 | C13-60, pescado/huevo institucional | Exclusión de carne en sanatorios / transición y pacientes con limitaciones, CD cap. 22 y Lt 37, 1901 | Regla para mesa no equivale a prohibición de todo remedio individual. Diferencia contextual documentada; ampliar a toda institución requiere sus documentos. |
 | C13-61, recreación | Juegos peligrosos / “I do not condemn the simple exercise of playing ball”, Lt 17a, 2-X-1893, párr. 10 | Intensidad, fin y gasto están expresos en B; no condena todo movimiento corporal. Para declaración universal adversa falta A equivalente; indeterminado para el par global. |
-| C13-62, dinero/prestaciones | Ayuda familiar / austeridad y responsabilidad, Lt 128, 1896; otros gastos | Gastar no niega una norma y no demuestra fuente de fondos. Conducta y motivación a C15, no cierre por sospecha. |
+| C13-62, dinero/prestaciones | Ayuda familiar / austeridad y responsabilidad, Lt 128, 1896; otros gastos | Gastar no niega una norma y no demuestra fuente de fondos. Conducta y motivación a C14, no cierre por sospecha. |
 
 ## ¿Por qué conservar expedientes abiertos en un trabajo terminado?
 
