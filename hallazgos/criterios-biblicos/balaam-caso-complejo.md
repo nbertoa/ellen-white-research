@@ -113,8 +113,8 @@ Habría que demostrar que Números 23:5 no atribuye realmente a YHWH el contenid
 
 ### ¿Qué fuentes académicas son útiles?
 
-- Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Num 22–24”, *Religions* 14 (2023).
-- Hans Ausloos, “A Star Was Born... About the Bifocal Reception History of Balaam”, *Scriptura* 116 (2017).
+- Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Num 22–24”, *Religions* 14.8 (2023), artículo 967, https://doi.org/10.3390/rel14080967.
+- Hans Ausloos, “A Star Was Born... About the Bifocal Reception History of Balaam”, *Scriptura* 116.2 (2017): 1–14, https://doi.org/10.7833/116-2-1311.
 
 ## ¿Qué falta investigar?
 
