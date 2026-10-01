@@ -21,7 +21,7 @@ La estructura puede cambiar si nueva evidencia demuestra que falta una cuestión
 13. **¿Se contradijo Ellen White?** — escrito. [Manuscrito](../capitulos/13-se-contradijo-ellen-white.md). Distingue contradicción lógica, cambios de posición y aplicación, excepciones y correcciones; mantiene posibles incompatibilidades y límites documentales. [Inventario y expedientes](../hallazgos/capitulo-13-inventario-y-protocolo.md).
 14. **¿Qué revela su vida y conducta sobre su pretensión profética?** — escrito. [Manuscrito](../capitulos/14-que-revela-su-vida-y-conducta-sobre-su-pretension-profetica.md): dinero, deudas, diezmo, familia, asistentes, críticos, autoridad y autobiografía. [Inventario y expedientes](../hallazgos/capitulo-14-conducta-inventario-y-criterios.md); las antiguas fichas doctrinales se conservan aparte.
 15. **¿Qué frutos produjo el ministerio de Ellen White?** — escrito: [manuscrito](../capitulos/15-que-frutos-produjo-el-ministerio-de-ellen-white.md). Evalúa efectos espirituales, morales, prácticos e institucionales: salud, educación, recepción devocional, misión/organización y autoridad; distingue existencia, participación y causalidad. Conserva frutos favorables, problemáticos y mixtos, con límites sociales y documentales, sin confundir crecimiento con autenticidad ni anticipar el balance final. [Inventario y matriz](../hallazgos/capitulo-15-inventario-y-matriz-de-frutos.md), [auditoría](../hallazgos/capitulo-15-auditoria-y-registro-documental.md).
-16. **¿Qué explicación encaja mejor con toda la evidencia?** — pendiente. Síntesis final sin puntuación numérica ni suma mecánica de casos.
+16. **¿Qué explicación encaja mejor con toda la evidencia?** — escrito: [manuscrito](../capitulos/16-que-explicacion-encaja-mejor-con-toda-la-evidencia.md). Compara cuatro hipótesis sin puntuación numérica, pondera los casos más discriminantes y deja la causa sobrenatural sin demostrar; el balance es mixto e indeterminado, con la pretensión profética sin confirmar. [Matriz y auditoría de síntesis](../hallazgos/capitulo-16-sintesis-y-comparacion-de-hipotesis.md).
 
 ## ¿Por qué se retiró del libro la comparación doctrinal exhaustiva con la Biblia?
 
@@ -49,9 +49,9 @@ Sólo cuando aparezca una cuestión que:
 
 La estructura no pretende abarcar todo lo que puede investigarse sobre Ellen White. Pretende contener lo necesario para responder con rigor la pregunta central del libro.
 
-## ¿Qué regla controla el capítulo final?
+## ¿Qué regla controla esta conclusión?
 
-El capítulo 16 no contará argumentos a favor y en contra. Preguntará:
+El capítulo 16 no cuenta argumentos a favor y en contra. Pregunta:
 
 > **¿Qué explicación encaja mejor con toda la evidencia disponible?**
 
