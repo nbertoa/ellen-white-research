@@ -2,7 +2,7 @@
 
 Antes de evaluar a cualquier persona que afirme recibir mensajes de Dios necesitamos fijar primero el criterio. Si definiéramos la prueba después de conocer sus aciertos, dificultades y explicaciones, podríamos adaptarla al resultado que preferimos.
 
-La Biblia no entrega una lista única ni un procedimiento infalible. Reúne leyes, relatos, advertencias y normas comunitarias nacidas en contextos diferentes. Algunos textos ayudan a rechazar una palabra; otros indican cómo examinarla; otros sólo impiden sacar conclusiones demasiado rápidas. Por eso no construiremos una suma de puntos, sino una matriz que distinga evidencias de diferente clase y peso.
+La Biblia no entrega una lista única ni un procedimiento infalible. Reúne leyes, relatos, advertencias y normas comunitarias nacidas en contextos diferentes. Algunos textos ayudan a rechazar una palabra; otros indican cómo examinarla; otros sólo impiden sacar conclusiones demasiado rápidas. Por eso no construiremos una suma de puntos, sino una matriz, es decir, un esquema que distinga evidencias de diferente clase y peso.
 
 ## 1. ¿Podemos reducir la autenticidad profética a una sola prueba?
 
@@ -21,7 +21,7 @@ El Nuevo Testamento distingue el apostolado de la profecía. Agabo es llamado pr
 
 Lo discutido es si debía continuar después de aquella generación. Ningún texto vincula expresamente el fin de la profecía con la muerte del último apóstol o con el cierre del canon. En 1 Corintios 13:8-12, las profecías cesan cuando llega “lo perfecto”; la visión “cara a cara” y el conocimiento pleno favorecen una lectura orientada a la consumación futura, pero la expresión no identifica por sí sola una fecha indiscutible.
 
-El argumento cesacionista más fuerte no depende de una frase sobre el canon, sino de una inferencia teológica. Efesios 2:20 presenta a apóstoles y profetas como fundamento de la iglesia, y Efesios 3:5 los relaciona con la revelación del misterio. Si toda profecía cristiana perteneciera necesariamente a esa función fundacional, una continuación posterior sería difícil. La respuesta continuacionista señala que 1 Corintios describe muchas profecías congregacionales y que Efesios 4:11-13 vuelve a incluir profetas entre los dones para edificar a la iglesia. Ninguno de esos datos decide sin discusión si toda profecía cumplía la misma función.[^1]
+El argumento cesacionista —que sostiene el cese de estos dones— más fuerte no depende de una frase sobre el canon, sino de una inferencia teológica. Efesios 2:20 presenta a apóstoles y profetas como fundamento de la iglesia, y Efesios 3:5 los relaciona con la revelación del misterio. Si toda profecía cristiana perteneciera necesariamente a esa función fundacional, una continuación posterior sería difícil. La respuesta continuacionista —que admite su continuidad— señala que 1 Corintios describe muchas profecías congregacionales y que Efesios 4:11-13 vuelve a incluir profetas entre los dones para edificar a la iglesia. Ninguno de esos datos decide sin discusión si toda profecía cumplía la misma función.[^1]
 
 El resultado es limitado: el Nuevo Testamento demuestra que hubo profetas no apostólicos durante el período apostólico, pero no declara de forma explícita qué ocurriría en todos los siglos posteriores. Por eso la fecha de una pretensión profética no la autentica ni la descalifica por sí sola. Rechazarla sólo por ser posterior exige adoptar previamente una interpretación cesacionista discutida; aceptarla sólo porque el texto no anuncia su cese sería igualmente excesivo.
 
@@ -101,7 +101,7 @@ Este criterio no autoriza a etiquetar como “oculto” todo fenómeno que no co
 
 ## 11. ¿Qué prueba agrega 1 Juan 4?
 
-1 Juan 4:1 ordena no creer a todo espíritu, porque muchos falsos profetas han salido al mundo. El criterio inmediato es cristológico: confesar a Jesucristo venido en carne. El mínimo textual seguro es que una supuesta revelación cristiana no puede negar la realidad de Jesucristo encarnado. La reconstrucción exacta de los adversarios —docetismo, separación entre Jesús y el Cristo u otra posición— sigue discutida.[^9]
+1 Juan 4:1 ordena no creer a todo espíritu, porque muchos falsos profetas han salido al mundo. El criterio inmediato se refiere a quién es Cristo: confesar a Jesucristo venido en carne. El mínimo textual seguro es que una supuesta revelación cristiana no puede negar la realidad de Jesucristo encarnado. Sigue discutida la posición exacta de los adversarios: si negaban la humanidad real de Jesús —lo que se conoce como docetismo—, separaban a Jesús del Cristo o sostenían otra idea.[^9]
 
 El pasaje tampoco presenta una contraseña verbal. En 4:6, el contraste entre verdad y error incluye escuchar el testimonio del “nosotros” apostólico; 2 Juan 7-9 relaciona la misma confesión con permanecer en la enseñanza de Cristo. Por eso la prueba afecta al contenido real, no a repetir una fórmula correcta.
 
@@ -121,7 +121,7 @@ El pasaje dice qué hacer, pero no enumera todos los criterios. Para eso debemos
 
 El foco inmediato está en el mensaje. El texto no explica si la evaluación separaba revelación auténtica de falsa, contenido de aplicación o mensaje divino de interpretación humana. Tampoco demuestra por sí solo una teoría completa sobre profecía falible. Sí demuestra que pronunciar una profecía dentro de una comunidad que reconoce el don no la vuelve automáticamente incuestionable.
 
-Esto impide dos errores: usar el reconocimiento general de una persona para autenticar cada frase, y usar una dificultad en una frase para evitar estudiar qué ocurre con el resto de su ministerio. La comunidad debe poder examinar tanto la afirmación concreta como el patrón completo. Una opinión ordinaria equivocada no equivale a un mensaje falsamente atribuido a Dios. Un error sustantivo en un mensaje inequívocamente revelado sí es evidencia adversa contra esa atribución y puede comprometer gravemente el ministerio, según su importancia y el patrón documental. Negar infalibilidad personal no lo vuelve inmune. La gravedad debe justificarse por el contenido y la pretensión concretos, sin exigir una suma de errores ni decidir de antemano que uno solo refuta todo.
+Esto impide dos errores: usar el reconocimiento general de una persona para autenticar cada frase, y usar una dificultad en una frase para evitar estudiar qué ocurre con el resto de su ministerio. La comunidad debe poder examinar tanto la afirmación concreta como el patrón completo. Una opinión ordinaria equivocada no equivale a un mensaje falsamente atribuido a Dios. Un error sustancial en un mensaje presentado inequívocamente como revelado sí es evidencia adversa contra esa atribución y puede comprometer gravemente el ministerio, según su importancia y el patrón documental. Negar la infalibilidad personal del mensajero no lo vuelve inmune a esta evaluación. La gravedad debe justificarse por el contenido y la pretensión concretos, sin exigir una suma de errores ni decidir de antemano que uno solo refuta todo.
 
 ## 14. ¿La experiencia profética elimina el autocontrol?
 
@@ -149,7 +149,7 @@ La dificultad pendiente es que el carácter tampoco decide por sí solo el orige
 
 ## 17. ¿Por qué importa el origen real del mensaje?
 
-Jeremías 23:16-32 denuncia a quienes ofrecen visiones nacidas de su propio “corazón” —en este contexto, su mente o interioridad—, afirman sueños que Dios no les dio y usan la fórmula “YHWH dice” sin haber sido enviados. El contraste central no es entre imaginación y estilo literario, sino entre una palabra procedente de Dios y una idea humana falsamente investida de autoridad divina.[^14]
+Jeremías 23:16-32 denuncia a quienes ofrecen visiones nacidas de su propio “corazón” —en este contexto, su mente o interioridad—, afirman sueños que Dios no les dio y usan la fórmula “YHWH dice” sin haber sido enviados. El contraste central no es entre imaginación y estilo literario, sino entre una palabra procedente de Dios y una idea humana a la que se atribuye falsamente autoridad divina.[^14]
 
 El versículo 30 acusa además a profetas que “roban” palabras unos de otros. No sabemos con seguridad si copiaban a profetas auténticos, se imitaban entre ellos o se apropiaban de fórmulas ajenas para fabricar consenso. Por eso el pasaje no puede utilizarse como una prohibición general de dependencia literaria.
 
@@ -208,7 +208,7 @@ La evidencia bíblica permite identificar varios problemas de gran peso:
 
 Puede contar a favor:
 
-- una predicción específica, improbable y documentada antes del hecho;
+- una predicción cumplida, específica, improbable y documentada antes del hecho;
 - conocimiento verificable difícil de obtener por vías normales;
 - coherencia sostenida con la revelación bíblica;
 - disposición a permitir el examen de los mensajes;
@@ -236,7 +236,7 @@ No prueban autenticidad por sí solos:
 - testimonios admirados pero tardíos o dependientes entre sí;
 - recibir dinero o rechazarlo.
 
-Algunos pueden ser evidencia relevante. La distinción es que ninguno identifica por sí mismo la causa de la experiencia ni autentica un ministerio completo. El error inverso también debe evitarse: un fenómeno inusual no demuestra falsedad sólo por ser inusual, y una explicación natural posible no demuestra que esa explicación ocurrió.
+Algunos pueden ser evidencia relevante. La distinción es que ninguno identifica por sí mismo la causa de la experiencia ni autentica un ministerio completo. El error inverso también debe evitarse: un fenómeno inusual no demuestra falsedad sólo por ser inusual, y una explicación natural posible no demuestra que eso haya sido lo que ocurrió.
 
 ## 25. ¿Cómo evaluaremos una predicción?
 
@@ -310,7 +310,7 @@ Una conclusión cambiará cuando aparezca mejor evidencia, no cuando resulte có
 | **Reglas de evaluación** | Fijar texto y fechas; distinguir condición de explicación retrospectiva; examinar contenido, origen, frutos y medios; separar testigos independientes; comparar hipótesis; evaluar cada afirmación y luego la trayectoria | Impiden convertir el cumplimiento, el fracaso, la utilidad o la rareza en conclusiones automáticas. |
 | **Regla de ponderación** | Valorar claridad, documentación, independencia, especificidad, alternativas y alcance | Una evidencia fuerte puede pesar más que muchas débiles. No habrá puntuación ni compensación mecánica. |
 
-Esta matriz es provisional sólo en el sentido correcto: podrá corregirse si una mejor exégesis demuestra que interpretamos mal un texto. No se modificará simplemente para proteger o atacar a la persona evaluada.
+Esta matriz es provisional en un sentido preciso: podrá corregirse si un mejor análisis bíblico demuestra que interpretamos mal un texto. No se modificará simplemente para proteger o atacar a la persona evaluada.
 
 ## 31. ¿Qué debemos establecer al pasar de los criterios a un caso concreto?
 
@@ -340,6 +340,6 @@ Las obras exegéticas y voces léxicas sin página específica en las notas cons
 [^14]: Jeremías 23:16-32. Véanse Lundbom, *Jeremiah 21–36*, y McKane, *Jeremiah*, vol. 2, comentarios a Jeremías 23. El verbo “robar” de 23:30 es גנב; el objeto son “mis palabras”, pero el mecanismo preciso de apropiación no se explica.
 [^15]: Ezequiel 13:1-23. Véanse Daniel I. Block, *The Book of Ezekiel, Chapters 1–24*, NICOT (Eerdmans, 1997), comentario a Ezequiel 13; y Rosanne Liebermann, “For-Profit Prophets? Ezekiel 13:17-23 and the Threat of Female Intermediaries”, *Hebrew Studies* 61 (2020): 213-234. Los detalles rituales de 13:17-23 y el sentido de varios términos siguen discutidos.
 [^16]: Miqueas 3:5-12; 1 Samuel 9:7-9; 2 Reyes 5:15-16. Véanse Francis I. Andersen y David Noel Freedman, *Micah*, Anchor Yale Bible 24E (Yale University Press, 2000), comentario a Miqueas 3; y HALOT, voz קסם.
-[^17]: Números 22-24; 31:16; Deuteronomio 23:4-5; Josué 13:22; 2 Pedro 2:15; Judas 11; Apocalipsis 2:14. Véanse Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Numbers 22–24”, *Religions* 14.9 (2023): 1104, https://doi.org/10.3390/rel14091104; y Hans Ausloos, “A Star Was Born: About the Bifocal Reception History of Balaam”, *Scriptura* 116.2 (2017): 1-14, https://doi.org/10.7833/116-2-1311.
-[^18]: Juan 11:47-53. Véase Craig S. Keener, *The Gospel of John: A Commentary*, vol. 1 (Hendrickson, 2003), comentario a 11:49-52.
+[^17]: Números 22-24; 31:16; Deuteronomio 23:4-5; Josué 13:22; 2 Pedro 2:15; Judas 11; Apocalipsis 2:14. Véanse Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Num 22–24”, *Religions* 14.8 (2023), artículo 967, https://doi.org/10.3390/rel14080967; y Hans Ausloos, “A Star Was Born: About the Bifocal Reception History of Balaam”, *Scriptura* 116.2 (2017): 1-14, https://doi.org/10.7833/116-2-1311.
+[^18]: Juan 11:47-53. Véase Craig S. Keener, *The Gospel of John: A Commentary*, vol. 2 (Hendrickson, 2003), comentario a 11:49-52.
 
