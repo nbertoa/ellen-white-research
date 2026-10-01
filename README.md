@@ -68,7 +68,7 @@ La [auditoría integral](hallazgos/auditoria-integral-2026-09-29.md) y su [regis
 
 Capítulos incorporados al repositorio:
 
-1. **Capítulo 1 — ¿Qué significa inspiración, iluminación, revelación y don de profecía?**
+1. **Capítulo 1 — ¿Qué significan inspiración, iluminación, revelación, impresión del Espíritu, guía del Espíritu, profecía y don de profecía?**
    Distingue las categorías necesarias para evaluar una pretensión profética sin confundir experiencias religiosas, guía espiritual, revelación y profecía.
 
 2. **Capítulo 2 — ¿Qué credenciales debe reunir un profeta auténtico?**

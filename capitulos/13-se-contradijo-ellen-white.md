@@ -366,7 +366,7 @@ En los pares examinados no quedó establecido un caso claro de dos revelaciones 
 
 Los errores factuales y la predicción de 1856 conservan su peso propio. Las condiciones posteriores no demostraron pertenecer al significado original de aquella promesa, y la ausencia de un segundo oráculo que la niegue no elimina su incumplimiento literal.[^48]
 
-Hasta aquí preguntamos si sus declaraciones pueden coexistir entre sí. La pregunta siguiente es diferente y debe tener su propia investigación: **¿concuerdan con la Biblia los mensajes que Ellen White presentó como procedentes de Dios?**
+Hasta aquí preguntamos si sus declaraciones pueden coexistir entre sí. La comparación doctrinal exhaustiva con la Biblia queda fuera del alcance de este libro, sin darse por resuelta. La pregunta siguiente es diferente: **¿qué revela su vida y conducta sobre su pretensión profética?**
 
 [^1]: [Inventario, protocolo y continuidad con C1–C12](../hallazgos/capitulo-13-inventario-y-protocolo.md); [matriz vigente](../metodologia/MATRIZ_CRITERIOS_BIBLICOS.md). Base remota del trabajo: `48a960c158fb107e384d239797ed990ae7ffbd40`. La [auditoría](../hallazgos/capitulo-13-auditoria-y-registro-de-fuentes.md) distingue consulta nueva, resultados heredados y documentación no obtenida.
 [^2]: [Protocolo y categorías](../hallazgos/capitulo-13-inventario-y-protocolo.md). Contradicción lógica, cambio, precisión y error factual se clasifican separadamente de establecido/probable/posible/indeterminado.

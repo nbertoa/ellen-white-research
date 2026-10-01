@@ -137,7 +137,7 @@ Estas dos afirmaciones pueden mantenerse juntas. Está **establecido** que Ellen
 
 Lo que queda **indeterminado** es algo más específico: si el contenido de la primera visión pretendía enseñar que, desde el 22 de octubre, absolutamente toda persona que no hubiera participado del movimiento quedaba sin posibilidad de conversión. El texto no formula esa proposición con esa precisión. Tampoco sería correcto sostener que las primeras visiones no tuvieron relación con la puerta cerrada: la documentación de 1846 y 1847 muestra que sí la tuvieron.
 
-Esta distinción será importante cuando estudiemos el desarrollo doctrinal posterior. Por ahora basta con fijar el escenario que conduce a Atkinson, donde varias de esas ideas aparecieron ante observadores externos.
+Esta distinción permite describir el desarrollo de sus afirmaciones sin resolver aquí la controversia doctrinal. Por ahora basta con fijar el escenario que conduce a Atkinson, donde varias de esas ideas aparecieron ante observadores externos.
 
 ## 10. ¿Por qué arrestaron a Israel Dammon durante la reunión de Atkinson?
 
@@ -355,7 +355,7 @@ El juicio de Dammon confirma algo distinto y muy valioso: para febrero de 1845 o
 
 El relato publicado de la primera visión tampoco permaneció textualmente intacto. Las primeras reimpresiones fueron muy estables; después hubo omisiones, reformulaciones y una separación en más de una visión. El núcleo narrativo sobrevivió en la transmisión escrita conocida; esa estabilidad no corrobora por sí sola la experiencia. Los paralelos Foy/2 Esdras requieren examinar mediación y acceso. Algunos pasajes doctrinalmente sensibles y detalles autobiográficos cambiaron o aparecieron más tarde. En varios casos no podemos demostrar quién decidió una revisión ni con qué intención.
 
-Respecto del origen de las experiencias, la evidencia de este capítulo permite menos de lo que suelen afirmar ambos extremos. **No hemos encontrado evidencia temprana directa que demuest fraude deliberado**, pero tampoco podemos demostrar históricamente el estado interior de sinceridad de Ellen. La sinceridad es una explicación plausible; no es todavía una conclusión que este capítulo pueda probar. Del mismo modo, una causa neurológica, disociativa o social específica es posible, pero ninguna ha sido establecida con evidencia clínica contemporánea.
+Respecto del origen de las experiencias, la evidencia de este capítulo permite menos de lo que suelen afirmar ambos extremos. **No hemos encontrado evidencia temprana directa que demuestre fraude deliberado**, pero tampoco podemos demostrar históricamente el estado interior de sinceridad de Ellen. La sinceridad es una explicación plausible; no es todavía una conclusión que este capítulo pueda probar. Del mismo modo, una causa neurológica, disociativa o social específica es posible, pero ninguna ha sido establecida con evidencia clínica contemporánea.
 
 La conclusión más precisa es entonces limitada: **está históricamente documentado que Ellen afirmó tener visiones y que, para febrero de 1845, otras personas describían estados y mensajes públicos asociados con ellas**. Esas experiencias surgieron dentro de la crisis millerita, adquirieron rápidamente autoridad para algunos creyentes y contribuyeron a resolver disputas dentro de pequeños grupos adventistas. Que su causa última fuera únicamente humana, sobrenatural o una combinación que la investigación histórica no puede aislar sigue **indeterminado**.
 

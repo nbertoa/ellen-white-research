@@ -22,7 +22,7 @@ Resultado A para «más muertos que todas las demás causas juntas». No se enco
 
 *Selected Messages*, libro 2 (1958), pp. 279–286, reúne instrucciones, comentarios de editores y recuerdos. Su nota sobre quinina transmite una respuesta de White a un médico mediante memoria posterior; no es manuscrito contemporáneo con fecha verificable de la conversación. Muestra tradición favorable a uso excepcional y permite rechazar «White prohibió sin excepción todo medicamento durante toda su vida». No borra automáticamente la generalización impresa de 1864 ni prueba que su lector original debiera entender esa excepción.
 
-No se establece aquí un catálogo de contradicciones. Para el capítulo 13 quedan el desarrollo de recomendaciones y su compatibilidad. Para el 16, consecuencias clínicas o muertes imputadas a seguir consejos: no se atribuyen víctimas a White sin expedientes que demuestren diagnóstico, tratamiento, influencia y causalidad.
+No se establece aquí un catálogo de contradicciones. Para el capítulo 13 quedan el desarrollo de recomendaciones y su compatibilidad. Para el 15, consecuencias clínicas o muertes imputadas a seguir consejos: no se atribuyen víctimas a White sin expedientes que demuestren diagnóstico, tratamiento, influencia y causalidad.
 
 Falsación: evidencia contemporánea que limite inequívocamente «drugs» a preparados sin eficacia; documento de White anterior/cercano que incorpore excepciones al enunciado; estudio que refute el efecto curativo del contraejemplo; manuscrito que atribuya adiciones a otro autor. Para la comparación de muertes se necesita ámbito y cuantificación, no sólo noticias de intoxicaciones reales.
 

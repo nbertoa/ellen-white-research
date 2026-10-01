@@ -6,7 +6,7 @@ La estructura puede cambiar si nueva evidencia demuestra que falta una cuestión
 
 ## ¿Cuál es el índice maestro provisional?
 
-1. **¿Qué significa inspiración, iluminación, revelación y don de profecía?** — escrito.
+1. **¿Qué significan inspiración, iluminación, revelación, impresión del Espíritu, guía del Espíritu, profecía y don de profecía?** — escrito.
 2. **¿Qué credenciales debe reunir un profeta auténtico?** — escrito.
 3. **¿Qué afirmó Ellen White sobre su propio don y sobre el origen y la autoridad de sus mensajes?** — escrito.
 4. **¿Qué ocurrió realmente en las primeras visiones de Ellen G. White?** — escrito.

@@ -1,4 +1,4 @@
-# ¿Qué frutos produjo el ministerio de Ellen White?
+# Capítulo 15 — ¿Qué frutos produjo el ministerio de Ellen White?
 
 ## ¿Qué debemos mirar después de examinar sus mensajes y su conducta?
 

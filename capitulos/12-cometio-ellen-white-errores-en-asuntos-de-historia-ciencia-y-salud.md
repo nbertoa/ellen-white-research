@@ -109,7 +109,7 @@ En ciencia, además, la posibilidad de un milagro no se decide mediante un exper
 
 Su explicación contiene partes diferentes. Dice que grandes bosques fueron enterrados, que dieron origen al carbón y que éste produjo aceite. Después afirma que carbón y aceite arden bajo tierra, calientan rocas, queman caliza y funden hierro; agua y fuego interactúan y causan terremotos, volcanes y emisiones ígneas.[^17]
 
-El origen vegetal del carbón es correcto en términos generales. También existen incendios naturales subterráneos de carbón y rocas alteradas por su calor. Estos hechos merecen reconocerse. No prueban que todos los depósitos procedan de un solo diluvio reciente ni que el mecanismo descrito explique los volcanes.[^18]
+El origen vegetal del carbón es correcto en términos generales. También existen incendios naturales subterráneos de carbón y rocas alteradas por su calor. Estos hechos merecen reconocerse. No prueban que el mecanismo descrito explique los volcanes. La edad de la Tierra y la cronología geológica no se utilizan aquí como evidencia a favor ni en contra de White.[^18]
 
 La mejor defensa invoca incendios que producen materiales semejantes a escoria o lava. La semejanza no identifica la causa. La combustión de un manto de carbón y la formación y ascenso de magma son fenómenos diferentes. Del mismo modo, formar un mineral de hierro no demuestra que se haya fundido una mena de hierro.
 
@@ -123,7 +123,7 @@ No. Que existieron animales muy grandes hoy extinguidos es verdadero. Un acierto
 
 White también habló de seres humanos y árboles antiguos mucho mayores, y de una humanidad que fue disminuyendo en tamaño. El registro conocido no sostiene una población humana ancestral universal de gigantes como la descrita. Sin embargo, no podemos convertir cada ausencia de fósil en prueba concluyente de que jamás existió un individuo grande. Debemos distinguir población, excepcionalidad y escala del relato.[^20]
 
-Algunas palabras admiten lectura popular. Llamar «petrificación» al endurecimiento de material vegetal no es lo mismo que distinguir técnicamente carbón de madera sustituida por minerales. La imprecisión existe, pero tiene menos peso que atribuir un origen reciente uniforme a una secuencia geológica larga.
+Algunas palabras admiten lectura popular. Llamar «petrificación» al endurecimiento de material vegetal no es lo mismo que distinguir técnicamente carbón de madera sustituida por minerales. La imprecisión existe, pero tiene menos peso que proponer un mecanismo físico incorrecto para el volcanismo. Esa comparación no requiere decidir la edad de la Tierra.
 
 Por eso el caso central no será una colección de términos imperfectos. Será la explicación comprobable que esos términos transmiten. Las afirmaciones más vagas sobre tamaño, durabilidad o criaturas no identificadas permanecen discutidas o insuficientemente verificables.
 
@@ -137,7 +137,7 @@ La referencia a «ciertas razas» está realmente en el texto. Los nombres de pu
 
 Si se interpreta como híbridos humanos y animales, la afirmación no cuenta con apoyo biológico sólido. Si se interpreta como cruces entre poblaciones humanas y entre animales, algunas mezclas son posibles, pero todavía habría que identificar cuáles explicarían las especies y razas mencionadas. La vaguedad no confirma esa explicación alternativa; impide resolverla por completo.
 
-## 13. ¿La interpretación incómoda fue inventada por críticos posteriores?
+## 13. ¿Cuándo apareció la interpretación de cruces entre seres humanos y animales?
 
 No. Smith, defensor adventista, la utilizó en 1868. Su respuesta relacionó la mezcla humano/animal con pueblos que describió mediante categorías raciales desacreditadas. Eso muestra que la lectura existió cerca de la publicación original y dentro de la defensa, no sólo en una lista crítica moderna.[^22]
 
