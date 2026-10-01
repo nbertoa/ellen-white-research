@@ -47,7 +47,7 @@ Abreviaturas de fichas: **M** [medicamentos](capitulo-13-medicamentos-y-excepcio
 | 12 | Lt 37, 1901: sin manteca en mesa / poco para Kress en pan frío | Aparente contradicción resuelta en la misma carta; establecido | L |
 | 13 | Renuncia personal a leche 1874 / no prohibirla para todos 1901 | Cambio personal y diferencia contextual; establecido para las proposiciones | L |
 | 14 | Queso: nunca, 1868 / impropio, 1905 | Persistencia compatible, establecido; no reversión normativa | L |
-| 15 | Queso consumido / «once or twice» recordado en 1901 | Recuento autobiográfico pendiente; indeterminado, conducta a C15 | L |
+| 15 | Queso consumido / «once or twice» recordado en 1901 | Recuento autobiográfico pendiente; indeterminado, conducta a C14 | L |
 | 16 | Té condenado / uso clínico e infusión de trébol, Lt 12, 1888 | Excepción y referente distintos explícitos; establecido en reproducción | L |
 | 17 | Café condenado / excepción en propia declaración, Lt 20, 1882 | Aparente contradicción resuelta por salvedad; establecido en reproducción | L |
 | 18 | American costume rechazado / vestido moderado promovido, 1863–1867 | Referentes distintos; aparente contradicción resuelta, establecido | V |
@@ -94,7 +94,7 @@ Abreviaturas de fichas: **M** [medicamentos](capitulo-13-medicamentos-y-excepcio
 | 59 | Rochester versiones ampliadas | Autor Loughborough: no auto contradicción de White | F |
 | 60 | Mesa institucional / alimentación clínica individual | Diferencia contextual documentada; no todos los reglamentos comparados | F |
 | 61 | Juegos condenados / ejercicio de pelota no condenado, 1893 | B tiene condiciones; A universal equivalente pendiente | F |
-| 62 | Austeridad / ayuda y gastos particulares | Norma/acto distintos; conducta e intereses a C15 | F |
+| 62 | Austeridad / ayuda y gastos particulares | Norma/acto distintos; conducta e intereses a C14 | F |
 
 ## ¿Cómo se seleccionaron los expedientes centrales?
 
@@ -114,4 +114,4 @@ No se pudo establecer en los pares centrales un caso inequívoco de **dos revela
 
 ## ¿Qué preguntas quedan para los capítulos siguientes?
 
-C14: ajuste con Biblia, matrimonio/celibato, doctrina y reglas alimentarias. C15: correspondencia entre práctica y normas, autobiografía comparada con registros de consumo, compras, intereses y administración de fondos. C16: efectos de políticas e instituciones y frutos. C17: evaluación global con todos los criterios. No se añaden acá conclusiones sobre fraude, carácter o autenticidad global mediante una suma de casos.
+Fuera del manuscrito activo: comparación doctrinal exhaustiva con la Biblia, matrimonio/celibato y reglas alimentarias. C14: correspondencia entre práctica y normas, autobiografía comparada con registros de consumo, compras, intereses y administración de fondos. C15: efectos de políticas e instituciones y frutos. C16: evaluación global con todos los criterios. No se añaden acá conclusiones sobre fraude, carácter o autenticidad global mediante una suma de casos.
