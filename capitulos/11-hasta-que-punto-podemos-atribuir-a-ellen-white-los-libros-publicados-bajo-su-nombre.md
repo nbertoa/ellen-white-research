@@ -124,7 +124,7 @@ La evaluación factual que aquí quedó abierta se desarrolla en el [capítulo 1
 
 [^15]: Walter T. Rea, *The White Lie*, cap. 11 (obra crítica proporcionada en el proyecto); Herbert E. Douglass, *Messenger of the Lord*, sección sobre Fannie Bolton (obra favorable proporcionada). Las proposiciones de ambos se cotejan con las cartas y versiones indicadas aquí.
 
-[^16]: [«The Evolution of The Great Controversy»](https://whiteestate.org/about/issues1/ref-lib/add-docs/gc/) y [capítulo 9](09-utilizo-ellen-white-escritos-de-otros-autores.md). El primero es un dossier retrospectivo que describe manuscritos supervivientes; la cronología de ediciones se comprueba además con sus portadas y prólogos.
+[^16]: [«The Great Controversy: Handwritten Manuscript Portion for the 1884 Edition»](https://whiteestate.org/about/issues1/ref-lib/add-docs/gc/) y [capítulo 9](09-utilizo-ellen-white-escritos-de-otros-autores.md). El primero es una presentación institucional de manuscritos supervivientes y un índice de documentos; la cronología de ediciones se comprueba además con sus portadas y prólogos.
 
 [^17]: W. W. Prescott a W. C. White, 26 de abril de 1910, y cotejos de [«Prescott's Suggestions»](https://whiteestate.org/about/issues1/ref-lib/add-docs/gc-prescott/); W. C. White, informe de 30 de octubre de 1911, con comunicaciones del 24–25 de julio, en [«The 1911 Edition of The Great Controversy»](https://whiteestate.org/legacy/issues-greatcontroversy1911-html/). La [reconstrucción posterior de la oficina](https://whiteestate.org/legacy/vault-gcch23bio-html/) distingue el trabajo de Steward, Crisler y Robinson.
 
