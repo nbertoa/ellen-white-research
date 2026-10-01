@@ -24,7 +24,7 @@ Cruces entre ciertas especies animales y entre poblaciones humanas son reales. E
 
 Si se adopta la interpretación distributiva, persisten preguntas sobre cuáles eran las «confused species», qué cruces específicos se proponen y qué razas constituyen la prueba. Sin identificación no puede comprobarse toda la proposición. Resultado D para significado y mecanismo originales; no veredicto científico uniforme sobre una frase ambigua. El marco de SG3 es visionario, pero no se halló relato separado que explique qué mostró exactamente Dios acerca de ese mecanismo.
 
-Falsación: manuscrito, carta o explicación contemporánea de White que resuelva el referente; demostración biológica del mecanismo concreto; edición anterior con puntuación/entidades distintas. Una paráfrasis actual favorable o desfavorable no sustituye ese documento. La conducta racial y consecuencias de esta recepción corresponden a capítulos 15–16.
+Falsación: manuscrito, carta o explicación contemporánea de White que resuelva el referente; demostración biológica del mecanismo concreto; edición anterior con puntuación/entidades distintas. Una paráfrasis actual favorable o desfavorable no sustituye ese documento. La conducta racial y consecuencias de esta recepción corresponden a capítulos 14–15.
 
 ## ¿Qué afirmó White sobre estrellas y lunas?
 
