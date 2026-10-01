@@ -1,6 +1,6 @@
 # Capítulo 4 — ¿Qué ocurrió realmente en las primeras visiones de Ellen G. White?
 
-Las primeras visiones de Ellen Harmon —todavía no se había casado con James White— suelen narrarse como una historia ya resuelta. En una versión, una adolescente enferma recibió de Dios una respuesta providencial para un movimiento derrotado. En otra, una joven vulnerable transformó trances religiosos en autoridad profética. Las dos narraciones comienzan demasiado tarde: primero interpretan el origen y después seleccionan los hechos.
+Las primeras visiones de Ellen Harmon —todavía no se había casado con James White— suelen narrarse como una historia ya resuelta. En una versión, una adolescente enferma recibió de Dios una respuesta providencial para un movimiento derrotado. En otra, una joven vulnerable transformó trances religiosos en autoridad profética. Las dos narraciones invierten el orden de la investigación: primero interpretan el origen y después seleccionan los hechos.
 
 Aquí seguiremos el orden contrario. Antes de preguntar de dónde provenían aquellas experiencias, hay que averiguar qué documentos existen, cuándo fueron escritos, qué observó cada testigo y cuánto cambió el relato con el paso del tiempo. Esto exige mantener separadas tres afirmaciones:
 
@@ -42,7 +42,7 @@ Para saber qué respuesta ofrecía, necesitamos leer el relato más antiguo, no 
 
 ## 3. ¿Qué decía realmente el relato más antiguo de la primera visión?
 
-El testimonio escrito más antiguo en primera persona es la carta de Ellen a Enoch Jacobs del 20 de diciembre de 1845, publicada el 24 de enero de 1846. El manuscrito original no se conserva; lo que tenemos es el texto impreso en *The Day-Star*. Por esa razón no podemos saber si Jacobs o el tipógrafo corrigieron ortografía, puntuación o alguna expresión.[^11]
+El testimonio escrito más antiguo en primera persona es la carta de Ellen a Enoch Jacobs del 20 de diciembre de 1845, publicada el 24 de enero de 1846. No se ha localizado aquí el manuscrito original; lo que tenemos es el texto impreso en *The Day-Star*. Por esa razón no podemos saber si Jacobs o el tipógrafo corrigieron ortografía, puntuación o alguna expresión.[^11]
 
 Ellen presentó el texto como un “breve bosquejo”. Contó que estaba orando en un altar familiar cuando se sintió elevada por encima del mundo oscuro. Al buscar al pueblo adventista, vio un sendero elevado y estrecho que conducía a la Ciudad Santa. Detrás de los viajeros brillaba una luz que un ángel identificaba con el clamor de medianoche. Mientras miraban a Jesús y conservaban aquella luz, podían avanzar. Quienes negaban que Dios los hubiera guiado perdían la luz, tropezaban y caían al mundo oscuro.[^3]
 
@@ -137,17 +137,17 @@ Estas dos afirmaciones pueden mantenerse juntas. Está **establecido** que Ellen
 
 Lo que queda **indeterminado** es algo más específico: si el contenido de la primera visión pretendía enseñar que, desde el 22 de octubre, absolutamente toda persona que no hubiera participado del movimiento quedaba sin posibilidad de conversión. El texto no formula esa proposición con esa precisión. Tampoco sería correcto sostener que las primeras visiones no tuvieron relación con la puerta cerrada: la documentación de 1846 y 1847 muestra que sí la tuvieron.
 
-Esta distinción será importante cuando estudiemos el desarrollo doctrinal posterior. Por ahora basta con fijar el escenario que conduce a Atkinson, donde varias de esas ideas aparecieron ante observadores externos.
+Esta distinción permite separar lo que una visión decía de las creencias que la rodeaban. Por ahora basta con fijar el escenario que conduce a Atkinson, donde varias de esas ideas aparecieron ante observadores externos.
 
 ## 10. ¿Por qué arrestaron a Israel Dammon durante la reunión de Atkinson?
 
 El arresto no ocurrió porque Ellen hubiera tenido una visión ni porque un tribunal estuviera investigando si sus experiencias eran verdaderas. De hecho, Ellen no fue acusada. El detenido fue Israel Dammon, que presidía aquellas reuniones.
 
-Para entonces el grupo llevaba alrededor de dos semanas reuniéndose en Atkinson. Algunos vecinos veían esas reuniones con creciente preocupación. El selectman Benjamin Smith declaró después que ciudadanos del pueblo le habían pedido que interviniera y pusiera fin a los encuentros porque Dammon y otros estaban viviendo a costa de ciertos habitantes y temían que terminaran convirtiéndose en una carga económica para el municipio.[^26] Otros testigos dijeron que Dammon aconsejaba abandonar el trabajo porque esperaban inminentemente el fin del mundo. La acusación formal reflejó sobre todo ese problema: lo describía como una persona ociosa y vagabunda, que iba de un lugar a otro pidiendo, descuidaba su ocupación y no proveía adecuadamente para sí mismo y su familia.[^23]
+Para entonces el grupo llevaba alrededor de dos semanas reuniéndose en Atkinson. Algunos vecinos veían esas reuniones con creciente preocupación. El funcionario municipal (*selectman*) Benjamin Smith declaró después que ciudadanos del pueblo le habían pedido que interviniera y pusiera fin a los encuentros porque Dammon y otros estaban viviendo a costa de ciertos habitantes y temían que terminaran convirtiéndose en una carga económica para el municipio.[^26] Otros testigos dijeron que Dammon aconsejaba abandonar el trabajo porque esperaban inminentemente el fin del mundo. La acusación formal reflejó sobre todo ese problema: lo describía como una persona ociosa y vagabunda, que iba de un lugar a otro pidiendo, descuidaba su ocupación y no proveía adecuadamente para sí mismo y su familia.[^23]
 
 La reunión del sábado 15 de febrero agravó el conflicto. Testigos hostiles la describieron como extremadamente ruidosa y desordenada; los partidarios discutieron varios de esos detalles, pero nadie negó que fuera una reunión intensa y que Dammon la dirigiera. El ayudante del sheriff Joseph Moulton llegó para arrestarlo mientras el encuentro todavía estaba en curso. Según su declaración, encontró la puerta cerrada, tuvo que forzar la entrada y, cuando intentó sacar a Dammon, varios hombres y mujeres ofrecieron tanta resistencia que necesitó pedir refuerzos dos veces antes de conseguir llevárselo.[^26]
 
-Por eso la secuencia correcta no es “Ellen tuvo una visión y entonces la llevaron a juicio”. Fue otra: **había conflictos locales alrededor de las reuniones y del modo de vida de Dammon → se presentó una denuncia contra él → los agentes fueron a detenerlo durante la reunión → hubo resistencia al arresto → dos días después comenzó el juicio**. Ellen aparece en el expediente porque estaba presente y los testigos, al describir lo que sucedía dentro de la casa, hablaron también de sus trances y mensajes.
+Por eso la secuencia correcta no es “Ellen tuvo una visión y entonces la llevaron a juicio”. Fue otra: **había conflictos locales alrededor de las reuniones y del modo de vida de Dammon → se presentó una denuncia contra él → los agentes fueron a detenerlo durante la reunión → hubo resistencia al arresto → dos días después comenzó el juicio**. Ellen aparece en el informe del juicio porque estaba presente y los testigos, al describir lo que sucedía dentro de la casa, hablaron también de sus trances y mensajes.
 
 Esto explica por qué ese juicio resulta tan valioso para nuestra investigación pese a no tener como objeto a Ellen: produjo testimonios contemporáneos sobre ella de personas favorables y hostiles que, de otro modo, probablemente nunca habrían quedado registrados.
 
@@ -179,7 +179,7 @@ Los testimonios no deben sumarse como si todos fueran observaciones independient
 
 Testigos tanto favorables como hostiles atribuyeron a Ellen mensajes urgentes relacionados con el bautismo y con la posibilidad de perderse. Algunos los resumieron con la expresión “ir al infierno”.[^26] No sabemos si esa fue la frase exacta de Ellen, una paráfrasis de los testigos o la manera del reportero de condensar advertencias religiosas. La coincidencia entre lados opuestos hace difícil descartar por completo que comunicara advertencias severas; la falta de transcripción literal impide reconstruir sus palabras.
 
-También es esencial no trasladar a Ellen todas las conductas narradas en la reunión. El informe habla de gritos, abrazos, besos religiosos, lavamiento o beso de pies, personas que gateaban y una controversia sobre quién entró en un dormitorio con Dorinda Baker. Ningún testigo dice que Ellen gateara, besara pies o participara en el episodio del dormitorio. Ella estaba dentro de aquel ambiente extático y ejercía una función importante, pero eso no la convierte en autora de cada acto de los demás.
+También es esencial no trasladar a Ellen todas las conductas narradas en la reunión. El informe habla de gritos, abrazos, besos religiosos, lavamiento o beso de pies, personas que gateaban y una controversia sobre quién entró en un dormitorio con Dorinda Baker. Ningún testigo citado en el informe dice que Ellen gateara, besara pies o participara en el episodio del dormitorio. Ella estaba dentro de aquel ambiente extático y ejercía una función importante, pero eso no la convierte en autora de cada acto de los demás.
 
 ¿Qué sobrevive cuando se separan observación e interpretación?
 
@@ -189,7 +189,7 @@ El informe permite **establecer** que Ellen Harmon estuvo en la reunión de Atki
 
 También permite establecer que las primeras visiones públicas no ocurrieron siempre en reuniones silenciosas como la que Ellen describiría en 1851 para su primera experiencia. En Atkinson estaban insertas en un encuentro largo, ruidoso, corporalmente expresivo y cargado de expectativa inmediata. Ocultar ese entorno empobrece la historia.
 
-Pero el juicio no conserva mediciones de respiración, pulso, fuerza muscular o respuesta pupilar. Nadie realizó un examen médico. El informe tampoco transcribe el contenido completo de las visiones ni ofrece un método para comprobar los “casos” personales que algunos consideraban acertados. No documenta la visión de diciembre de manera directa. Y el uso de palabras como “trance”, “insensible” o “visión” describe lo que testigos creían estar viendo; no identifica la causa neurológica, psicológica o sobrenatural.
+Pero el juicio no conserva mediciones de respiración, pulso, fuerza muscular o respuesta pupilar. El informe no registra un examen médico ni transcribe el contenido completo de las visiones ni ofrece un método para comprobar los “casos” personales que algunos consideraban acertados. No documenta la visión de diciembre de manera directa. Y el uso de palabras como “trance”, “insensible” o “visión” describe lo que testigos creían estar viendo; no identifica la causa neurológica, psicológica o sobrenatural.
 
 Así, Atkinson confirma que Ellen entraba públicamente en estados que ella y su círculo interpretaban como visiones. También respalda una versión limitada de nuestra segunda proposición: otros observaron estados y conductas que les parecían inusuales. No decide la tercera, porque los mismos hechos visibles fueron interpretados de modo opuesto por personas presentes.
 
@@ -205,7 +205,7 @@ En *Spiritual Gifts*, volumen 2, publicado en 1860, Ellen recordó el viaje a At
 
 Los relatos concuerdan en que sacar a Dammon fue difícil y exigió varios intentos. No concuerdan en la causa. El testimonio del agente es contemporáneo y fue dado bajo juramento; para reconstruir las acciones externas merece más peso. La descripción sobrenatural de Ellen expresa cómo ella recordó e interpretó el episodio quince años después. No hace falta acusarla de mentir para reconocer la diferencia: la memoria religiosa puede conservar un hecho real y atribuirle una causalidad que un observador externo no comparte.
 
-El relato de 1860 también destaca la misión de Ellen contra el fanatismo y omite las acusaciones específicas acerca de sus prolongados trances y de los mensajes urgentes de bautismo. El informe periodístico, por el contrario, conserva testimonios abiertamente hostiles y dedica mucho espacio a las conductas más llamativas de la reunión. Ninguna fuente es una cámara neutral. Sin embargo, cuando una memoria de 1860 y un registro judicial de 1845 divergen acerca de un detalle observable, el documento contemporáneo debe ocupar el primer lugar, salvo evidencia concreta que lo contradiga.
+El relato de 1860 también destaca la misión de Ellen contra el fanatismo y omite las acusaciones específicas acerca de sus prolongados trances y de los mensajes urgentes de bautismo. El informe periodístico, por el contrario, conserva testimonios abiertamente hostiles y dedica mucho espacio a las conductas más llamativas de la reunión. Ninguna fuente es una cámara neutral. Sin embargo, cuando una memoria de 1860 y el informe periodístico del juicio de 1845 divergen acerca de un detalle observable, el documento contemporáneo debe ocupar el primer lugar, salvo evidencia concreta que lo contradiga.
 
 Esta comparación ofrece una regla para toda la investigación: los relatos autobiográficos posteriores ayudan a entender cómo Ellen recordaba su historia, pero no deben retroceder en el tiempo como si hubieran sido escritos en 1844.
 
@@ -243,7 +243,7 @@ La historia textual puede resumirse sin asumir que toda corrección es corrupci�
 
 Las reimpresiones son descendientes de un relato, no corroboraciones independientes de la experiencia. James y Ellen compartían círculo y contenido; sus documentos tienen autores y fechas distintos, pero su independencia informativa debe evaluarse por afirmación.
 
-Las tres primeras formas extensas —*The Day-Star*, la hoja de 1846 y *A Word to the “Little Flock”*— son muy próximas entre sí. Sus cambios se concentran en gramática, ortografía, destinatario y algunos matices. Eso hace posible reconstruir con bastante confianza el relato que circulaba en 1846, aunque el manuscrito original esté perdido.
+Las tres primeras formas extensas —*The Day-Star*, la hoja de 1846 y *A Word to the “Little Flock”*— son muy próximas entre sí. Sus cambios se concentran en gramática, ortografía, destinatario y algunos matices. Eso hace posible reconstruir con bastante confianza el relato que circulaba en 1846, aunque el manuscrito original no se haya localizado.
 
 Los cambios de 1851 y 1860 son más importantes. ¿Cuánto alteran la historia?
 
@@ -280,7 +280,7 @@ Los defensores señalan que James todavía enseñaba públicamente una forma de 
 
 Lo demostrado es más limitado: hubo revisiones editoriales documentables; algunas afectaron pasajes teológicamente sensibles; el mensaje narrativo principal sobrevivió; y el texto final de *Early Writings* no reproduce todo lo que leyó un suscriptor de *The Day-Star* en 1846. No siempre sabemos quién decidió cada cambio ni por qué. El motivo exacto de las omisiones importantes queda **indeterminado** mientras no aparezca documentación editorial que lo explique.
 
-Hay además paralelos que afectan su posible independencia. Foy describe un ángel que alza la mano, toma la puerta y la abre sobre bisagras «glittering». White presenta a Jesús alzando el brazo, tomando la puerta y abriéndola sobre bisagras «golden» en la forma temprana; en 1851 aparecen como «glittering». El paralelo de acciones y vocabulario está documentado; el cambio posterior acerca una expresión a Foy. No demuestra por sí solo quién decidió la revisión ni dependencia, plagio o fraude.[^34]
+Hay además paralelos que afectan su posible independencia. Foy describe un ángel que alza la mano, toma la puerta y la abre sobre bisagras «glittering» —relucientes—. White presenta a Jesús alzando el brazo, tomando la puerta y abriéndola sobre bisagras «golden» —doradas— en la forma temprana; en 1851 aparecen como «glittering». El paralelo de acciones y vocabulario está documentado; el cambio posterior acerca una expresión a Foy. No demuestra por sí solo quién decidió la revisión ni dependencia, plagio o fraude.[^34]
 
 La cronología impide conclusiones automáticas:
 
@@ -309,7 +309,7 @@ En Atkinson, testigos de ambos lados dijeron que Ellen permanecía acostada, mir
 
 En 1847 Joseph Bates dijo haber observado varias visiones con atención para detectar engaño o influencia mesmérica. Su conclusión favorable muestra que los episodios eran visibles y podían ser examinados informalmente. No dejó en ese texto mediciones fisiológicas.[^29]
 
-Una carta atribuida a James White a los Hastings, fechada el 26 de agosto de 1848, narra una visión reciente en Hannibal: afirma hora y media sin respirar y manipulación de una Biblia. La transcripción moderna remite a Record Book 1, pp. 18–20; no se ha determinado la fecha de copia ni autenticado el autógrafo. Mejora la proximidad temporal del testimonio, pero no establece una medición ni apnea continua y no describe la primera visión.[^36]
+Una carta atribuida a James White a los Hastings, fechada el 26 de agosto de 1848, narra una visión reciente en Hannibal: afirma hora y media sin respirar y manipulación de una Biblia. La transcripción moderna remite a Record Book 1, pp. 18–20; no se ha determinado la fecha de copia ni autenticado el autógrafo. Mejora la proximidad temporal del testimonio, pero no establece una medición ni una ausencia continua de respiración y no describe la primera visión.[^36]
 
 La conocida descripción de ausencia de respiración, rigidez de músculos y articulaciones, movimientos imposibles de impedir y oscuridad temporal al salir de visión fue publicada por James White en 1868 como resumen de veintitrés años de experiencias.[^32] Puede ser evidencia sobre la memoria y observación acumulada de James, pero no documenta de forma contemporánea la visión de diciembre de 1844 ni identifica en qué episodios se realizó cada prueba. Relatos aún más gráficos —médicos, velas frente a la boca, Biblias pesadas sostenidas durante largo tiempo— deben evaluarse caso por caso y no retrotraerse automáticamente a la primera visión.
 
@@ -333,7 +333,7 @@ La sugestión y el refuerzo social también pudieron influir. Atkinson documenta
 
 Finalmente, el fraude consciente es lógicamente posible. Sin embargo, para convertirlo en conclusión histórica harían falta indicios de preparación deliberada, confesiones, información obtenida en secreto, contradicciones fabricadas o una exposición contemporánea. Los documentos tempranos examinados aquí no proporcionan esa clase de evidencia. Incluso el objetor de 1847 que rechazaba la inspiración dijo no sospechar deshonestidad.[^28]
 
-¿Y una causa divina? La historia puede comprobar que Ellen la afirmó, que otros la creyeron y que esa convicción tuvo consecuencias. No dispone de un procedimiento histórico capaz de identificar directamente a Dios como causa. Eso no refuta la posibilidad teológica; significa que, para evaluarla, necesitaremos otros criterios: contenido de los mensajes, predicciones, conocimiento difícil de obtener por medios normales, coherencia y el conjunto de su ministerio.
+¿Y una causa divina? La historia puede comprobar que Ellen afirmó ese origen, que otros la creyeron y que esa convicción tuvo consecuencias. No dispone de un procedimiento histórico capaz de identificar directamente a Dios como causa. Eso no refuta la posibilidad teológica; significa que, para evaluarla, necesitaremos otros criterios: contenido de los mensajes, predicciones, conocimiento difícil de obtener por medios normales, coherencia y el conjunto de su ministerio.
 
 ## 21. ¿Qué podría hacer cambiar estas conclusiones?
 
@@ -359,7 +359,7 @@ Respecto del origen de las experiencias, la evidencia de este capítulo permite 
 
 La conclusión más precisa es entonces limitada: **está históricamente documentado que Ellen afirmó tener visiones y que, para febrero de 1845, otras personas describían estados y mensajes públicos asociados con ellas**. Esas experiencias surgieron dentro de la crisis millerita, adquirieron rápidamente autoridad para algunos creyentes y contribuyeron a resolver disputas dentro de pequeños grupos adventistas. Que su causa última fuera únicamente humana, sobrenatural o una combinación que la investigación histórica no puede aislar sigue **indeterminado**.
 
-Eso no convierte el capítulo en un empate. Hemos reducido considerablemente lo que puede y no puede afirmarse. El siguiente paso será evaluar evidencias que sí puedan discriminar mejor entre explicaciones: qué mensajes produjo ese ministerio, qué predijo, qué parecía conocer y cómo respondió cuando sus afirmaciones podían contrastarse con hechos externos.
+Eso no convierte el capítulo en un empate. Hemos reducido considerablemente lo que puede y no puede afirmarse. El capítulo siguiente examinará los testimonios sobre lo que ocurría físicamente durante las visiones. Después compararemos sus posibles explicaciones y estudiaremos qué mensajes produjo ese ministerio, qué predijo, qué parecía conocer y cómo respondió cuando sus afirmaciones podían contrastarse con hechos externos.
 
 ## 23. ¿Dónde pueden verificarse las afirmaciones principales?
 
@@ -371,7 +371,7 @@ Eso no convierte el capítulo en un empate. Hemos reducido considerablemente lo 
 
 [^3]: Ellen G. Harmon a Enoch Jacobs, Portland, Maine, 20 de diciembre de 1845, publicada como “Letter From Sister Harmon” en *The Day-Star*, 24 de enero de 1846, pp. 31–32; catalogada como Lt 1, 1845 en [*Letters and Manuscripts, vol. 1*](https://text.egwwritings.org/read/13961.20000015). La edición anotada advierte que es el primer relato publicado conocido y que combina la primera visión con la posterior visión de la tierra nueva.
 
-[^4]: James White, *A Word to the “Little Flock”* (Gorham, Maine, 30 de mayo de 1847), pp. 22–23. [Facsímil digital](https://www.aplib.org/files/ebooks/pdf/James%20White%20-%20A%20Word%20to%20the%20Little%20Flock.pdf). Ellen G. White, *A Sketch of the Christian Experience and Views of Ellen G. White* (Saratoga Springs, Nueva York: James White, 1851), p. 5.
+[^4]: James White, *A Word to the “Little Flock”* (Gorham, Maine, 30 de mayo de 1847), pp. 22–23. [Reproducción textual con añadidos posteriores](https://www.aplib.org/files/ebooks/pdf/James%20White%20-%20A%20Word%20to%20the%20Little%20Flock.pdf); no se utiliza como facsímil de la primera impresión. Ellen G. White, *A Sketch of the Christian Experience and Views of Ellen G. White* (Saratoga Springs, Nueva York: James White, 1851), p. 5.
 
 [^5]: Ellen G. White a Joseph Bates, Lt 3, 1847, 13 de julio de 1847. Ellen distinguió allí la visión del “clamor de medianoche”, recibida en diciembre de 1844, de la visión del Novio de febrero de 1845. [Texto documental](https://m.egwwritings.org/en/book/711.90).
 
@@ -381,7 +381,7 @@ Eso no convierte el capítulo en un empate. Hemos reducido considerablemente lo 
 
 [^8]: William E. Foy, *The Christian Experience of William E. Foy Together With the Two Visions He Received in the Months of January and February 1842* (Portland, Maine: J. and C. H. Pearson, 1845). [Texto de la edición de 1845](https://text.egwwritings.org/read/1116.2). La publicación documenta que experiencias visionarias circulaban en el mismo ambiente religioso antes del ministerio público de Ellen Harmon. La afirmación de Ellen, hecha décadas después, de que había oído a Foy antes de su propia primera visión procede de recuerdos tardíos y no se usa aquí para demostrar dependencia.
 
-[^9]: “Conference of Adventists at New York, Commencing May 6th, 1845”, *Advent Herald*, 21 de mayo de 1845, p. 118. Allí, después de aprobar por unanimidad las decisiones de Albany, se resolvió no confiar en nuevos mensajes, visiones, sueños, lenguas, milagros u otras manifestaciones que no concordaran con la Palabra de Dios. [Reproducción documental](https://text.egwwritings.org/read/653.1764).
+[^9]: “Conference of Adventists at New York, Commencing May 6th, 1845”, *Advent Herald*, 21 de mayo de 1845, p. 118. Allí, después de aprobar por unanimidad las decisiones de Albany, se resolvió no confiar en nuevos mensajes, visiones, sueños, lenguas, milagros u otras manifestaciones que no concordaran con la Palabra de Dios. [Reproducción documental posterior](https://text.egwwritings.org/read/653.1764). El ejemplar original del periódico no se ha cotejado; la fecha, la página y el texto se conservan según esta reproducción.
 
 [^10]: Ellen G. White, *A Sketch of the Christian Experience and Views* (1851), pp. 3–5; *Spiritual Gifts*, vol. 2 (Battle Creek, Michigan: James White, 1860), pp. 7–30. Son autobiografías retrospectivas, no expedientes clínicos de 1844.
 
@@ -429,9 +429,9 @@ Eso no convierte el capítulo en un empate. Hemos reducido considerablemente lo 
 
 [^32]: James White, *Life Incidents, in Connection With the Great Advent Movement* (Battle Creek, Michigan: Seventh-day Adventist Publishing Association, 1868), pp. 272–273.
 
-[^33]: Walter T. Rea, *The White Lie* (Turlock, California: M & R Publications, 1982), caps. 3 y 11, localiza las críticas basadas en Foy, la lesión infantil, la histeria y la epilepsia, pero a menudo adopta sus conclusiones sin la cautela diagnóstica necesaria. La mejor respuesta adventista se resume en Herbert E. Douglass, *Messenger of the Lord* (1998), pp. 62–63, que cita “Did Ellen White Have Complex-Partial Seizures?”, *Ministry*, agosto de 1984, y Donald I. Peterson, *Visions or Seizures?* (Boise, Idaho: Pacific Press, 1988), pp. 26–27. Ni Rea ni Douglass sustituye el expediente primario inexistente.
+[^33]: Walter T. Rea, *The White Lie* (Turlock, California: M & R Publications, 1982), caps. 3 y 11, localiza las críticas basadas en Foy, la lesión infantil, la histeria y la epilepsia, pero a menudo adopta sus conclusiones sin la cautela diagnóstica necesaria. La mejor respuesta adventista se resume en Herbert E. Douglass, *Messenger of the Lord* (1998), pp. 62–63, que cita el informe del Comité de Salud de Ellen G. White, “Did Ellen White Have Complex Partial Seizures? A Committee Report”, *Ministry*, agosto de 1984, p. 25 ([número de la revista](https://cdn.ministrymagazine.org/issues/1984/issues/MIN1984-08.pdf)), y Donald I. Peterson, *Visions or Seizures?* (Boise, Idaho: Pacific Press, 1988), pp. 26–27. Ni Rea ni Douglass sustituyen los registros clínicos contemporáneos que faltan.
 
-[^34]: Foy (1845), escena de la puerta en [edición textual moderna del folleto](https://documents.adventistarchives.org/Books/WFoy1845.pdf), no facsímil tipográfico; White, *A Word to the “Little Flock”* (1847), p. 15; *Experience and Views* (1851), p. 11. [Graybill, *Ministry*, febrero de 1994, pp. 11–13](https://www.ministrymagazine.org/archive/1994/02/visions-and-revisions?mode=app), colación secundaria cotejada. Las formas de 1847 y 1851 se cotejan además en sus reproducciones textuales; falta cotejo integral de las primeras impresiones y del autógrafo perdido.
+[^34]: Foy (1845), escena de la puerta en [edición textual moderna del folleto](https://documents.adventistarchives.org/Books/WFoy1845.pdf), no facsímil tipográfico; White, *A Word to the “Little Flock”* (1847), p. 15; *Experience and Views* (1851), p. 11. [Graybill, *Ministry*, febrero de 1994, pp. 11–13](https://www.ministrymagazine.org/archive/1994/02/visions-and-revisions?mode=app), colación secundaria cotejada. Las formas de 1847 y 1851 se cotejan además en sus reproducciones textuales; falta cotejo integral de las primeras impresiones y del autógrafo no localizado.
 
 [^35]: *A Word to the “Little Flock”* (1847), pp. 13 y 17, notas añadidas por James; referencia a 2 Esdras 2:19, entre otras. La [edición electrónica completa con prefacio/apéndice de 1944](https://m.egwwritings.org/en/book/1998.2) distingue las capas. No es una nueva atestación independiente de 1844 ni una prueba del acceso de Ellen en una fecha precisa.
 
