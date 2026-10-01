@@ -85,7 +85,7 @@ Habría que demostrar que Juan pretende presentar a Caifás como profeta autént
 ### ¿Qué fuentes secundarias son útiles?
 
 - Raymond E. Brown, *The Gospel According to John I–XII*, Anchor Bible 29 (Doubleday, 1966), comentario a Juan 11:49-52.
-- Craig S. Keener, *The Gospel of John: A Commentary*, vol. 1 (Hendrickson, 2003), comentario a Juan 11:49-52.
+- Craig S. Keener, *The Gospel of John: A Commentary*, vol. 2 (Hendrickson, 2003), comentario a Juan 11:49-52.
 - J. Ramsey Michaels, *The Gospel of John*, NICNT (Eerdmans, 2010), comentario a Juan 11:49-52.
 
 ## ¿Qué falta investigar?
