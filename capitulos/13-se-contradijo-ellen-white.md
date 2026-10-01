@@ -72,7 +72,7 @@ Esto impide decir que su práctica fue una abstinencia uniforme e ininterrumpida
 
 La pregunta sobre si describió siempre esa trayectoria con suficiente precisión requiere comparar afirmaciones autobiográficas sobre el mismo período. Una negación inequívoca de consumo entre 1863 y 1894, enfrentada con un relato auténtico de consumo propio dentro de ese intervalo, sería un par más fuerte que una norma general enfrentada con una comida. No debemos completar esa negación con palabras que ella no escribió.
 
-El juicio sobre su conducta, su ejemplo y posibles excepciones para sí misma corresponde al capítulo 15. Acá queda establecido el cambio de práctica y de rigor doméstico. Sigue abierta la auditoría de algunas generalizaciones autobiográficas.
+El juicio sobre su conducta, su ejemplo y posibles excepciones para sí misma corresponde al capítulo 14. Acá queda establecido el cambio de práctica y de rigor doméstico. Sigue abierta la auditoría de algunas generalizaciones autobiográficas.
 
 Dentro de la carta de 1896 aparece otro par que parece especialmente sencillo de acusar.
 
@@ -132,7 +132,7 @@ Una contradicción más fuerte requeriría que hubiera prohibido esos mismos hue
 
 No muestran una sola evolución. En 1868 White escribió que el queso nunca debía introducirse en el estómago. En 1905 todavía lo llamó enteramente inadecuado como alimento. Hay continuidad normativa en esos textos, no una autorización general posterior del queso.[^15]
 
-Sus relatos de haberlo probado o comido merecen comparación con declaraciones autobiográficas como «una o dos veces». Para decidir contradicción factual necesitamos establecer qué ocasiones y período cubre el recuento. La existencia de consumo plantea conducta y ejemplo; no afirma automáticamente que consideraba saludable aquello que había condenado. Esa investigación debe continuar en el capítulo 15 sin transformar extractos dispersos en un recuento completo ya comprobado.
+Sus relatos de haberlo probado o comido merecen comparación con declaraciones autobiográficas como «una o dos veces». Para decidir contradicción factual necesitamos establecer qué ocasiones y período cubre el recuento. La existencia de consumo plantea conducta y ejemplo; no afirma automáticamente que consideraba saludable aquello que había condenado. Esa investigación debe continuar en el capítulo 14 sin transformar extractos dispersos en un recuento completo ya comprobado.
 
 En café y té encontramos salvedades dentro de las propias declaraciones de abstinencia. Una carta de 1882 admite café usado durante una enfermedad; otra de 1888 distingue el té como bebida del recurso ocasional frente a vómitos graves. También diferencia té e infusión de trébol rojo.[^16]
 
@@ -312,7 +312,7 @@ Pero esa defensa todavía debe explicar las hermanas aprobadas y justificar su e
 
 El resultado es una excepción establecida y una **posible contradicción normativa**, pendiente de delimitar el alcance y los antecedentes. Es uno de los casos de mayor importancia aquí porque ambas instrucciones tienen autoridad religiosa significativa. No contamos todavía con dos órdenes específicas para la misma situación que se excluyan inequívocamente.
 
-La evaluación de secreto, intereses y conducta queda para C15. Esa reserva no elimina la dificultad normativa que sí pertenece a este capítulo.
+La evaluación de secreto, intereses y conducta queda para C14. Esa reserva no elimina la dificultad normativa que sí pertenece a este capítulo.
 
 ## 25. ¿Reconocer autoridad institucional y luego denunciarla es contradictorio?
 
@@ -338,7 +338,7 @@ Así, negar una prohibición de matrimonio como institución puede coexistir con
 
 Permanece una tensión más precisa: ¿cómo se relaciona «sólo aconsejamos» con una prohibición presentada como vinculante desde el cielo? Puede distinguir consejo sin coerción institucional de obligación religiosa que se cree divina, pero no tenemos que dar esa explicación por probada sin examinar cómo se ejerció la autoridad sobre personas concretas.
 
-Las alegaciones sobre un texto retirado de celibato y una instrucción a Sophronia Peckham necesitan documentos completos e historia de transmisión. Se registran como pendientes, no como falsedades descartadas ni contradicciones comprobadas. Su comparación con la Biblia pertenece a C14; sus efectos y aplicación personal corresponden a los capítulos siguientes.[^45]
+Las alegaciones sobre un texto retirado de celibato y una instrucción a Sophronia Peckham necesitan documentos completos e historia de transmisión. Se registran como pendientes, no como falsedades descartadas ni contradicciones comprobadas. Su comparación bíblica exhaustiva quedó fuera del manuscrito activo; sus efectos pertenecen al capítulo 15 y su aplicación personal se estudia en el capítulo 14.[^45]
 
 ¿Qué peso conserva cada dificultad después de estas distinciones?
 
