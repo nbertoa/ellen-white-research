@@ -21,10 +21,10 @@ No se trasplantaron automáticamente treinta commits de revisión editorial a la
 |---|---|---|
 | **A. Origen profético genuino** | White recibió mensajes de Dios, comunicados mediante expresión, fuentes, memoria, colaboradores y edición humanos. | El incumplimiento literal de 1856, errores factuales atribuidos a revelación, tensiones de origen y límites de las pruebas favorables. |
 | **B. Experiencias sinceras, sin origen sobrenatural** | White creyó genuinamente recibir mensajes; el contenido surgió de procesos humanos, cultura religiosa, información, memoria y elaboración. | Las experiencias públicas, los casos favorables y la información cuya vía ordinaria no ha podido reconstruirse. |
-| **C. Proceso mixto y procedencia desigual** | Hubo experiencias sinceras y procesos humanos documentados de información, lectura, memoria, interpretación y edición; el origen no se identifica uniformemente. | La variedad de casos sin imponer una causa única. No afirma que una revelación sobrenatural haya quedado probada. |
+| **C. Proceso mixto y procedencia desigual** | Marco descriptivo: hubo experiencias vividas como visiones y procesos humanos documentados de información, lectura, memoria, interpretación y edición. | Describe la formación heterogénea del corpus, pero no compite por sí solo como explicación de la causa última. |
 | **D. Fraude consciente sustancial** | White sabía que sus mensajes no eran divinos y usó deliberadamente esa afirmación para ganar dinero, autoridad o control. | La falta de evidencia directa de fabricación consciente, sus prácticas de trabajo y los usos de recursos que no favorecieron simplemente su enriquecimiento. |
 
-La C es una descripción cautelosa del expediente documental, no una afirmación de que algunas revelaciones sobrenaturales sí ocurrieron. No debe confundirse con una versión suavizada de D ni con prueba de B.
+La C es una descripción cautelosa del expediente documental, no una hipótesis causal equivalente a A, B o D. Puede coexistir con A o B; por eso la comparación causal final debe decidir entre origen profético, experiencia sincera no sobrenatural y fraude consciente, sin usar C como categoría capaz de absorber cualquier resultado.
 
 ## ¿Qué hechos y evaluaciones tienen mayor seguridad?
 
@@ -107,8 +107,10 @@ Una causa médica concreta para todas las visiones requeriría evidencia clínic
 
 ## ¿Cuál es la conclusión provisional?
 
-La evidencia favorece una descripción de **experiencias religiosas sinceras, mediadas por procesos humanos diversos y de origen documental desigual**. Ese modelo mixto es la mejor forma actual de explicar el conjunto sin atribuir a cada caso una causa uniforme. No establece una contribución sobrenatural en alguna visión; tampoco demuestra una explicación natural completa de cada episodio.
+Como descripción documental, el corpus muestra **experiencias religiosas vividas como visiones y una mediación humana diversa**: información ordinaria, fuentes, memoria, asistentes, edición y correcciones. Ese marco mixto está mejor establecido que cualquier reparto uniforme del origen de cada frase, pero no responde por sí solo a la causa última.
 
-El material examinado no justifica afirmar como establecido que Ellen White fue una profeta auténtica. La predicción de 1856 y el error médico de 1864 constituyen dificultades sustanciales para esa identificación, y los casos favorables no establecen con claridad conocimiento sobrenatural. Sin embargo, la evidencia tampoco demuestra un fraude consciente global ni una impostura principalmente económica. **Veredicto global: mixto e indeterminado; la pretensión profética queda sin confirmar, con una inclinación crítica moderada respecto de una afirmación segura de autenticidad.**
+Entre las hipótesis causales, la evidencia favorece **moderadamente una experiencia religiosa sincera sin comunicación sobrenatural demostrada**. Esta explicación da cuenta de los estados visionarios y de la convicción personal, y al mismo tiempo explica con menos supuestos adicionales el incumplimiento literal de 1856, el error médico de 1864 y la incorporación documentada de material humano. La hipótesis profética sigue siendo posible, pero los casos positivos examinados no alcanzan para confirmarla y los casos adversos requieren explicaciones adicionales que no quedaron demostradas. El fraude consciente global o principalmente lucrativo tiene todavía menos apoyo documental.
+
+Por tanto, el material examinado no permite afirmar con suficiente fundamento que Ellen White reúna credenciales demostradas para ser considerada una profeta auténtica. Tampoco demuestra que fuera una impostora o falsa profetisa en todos los sentidos. **Veredicto global: pretensión profética no confirmada, con inclinación crítica moderada; explicación humana sincera actualmente mejor apoyada que origen profético demostrado o fraude consciente generalizado.**
 
 El juicio podría cambiar con evidencia primaria nueva. Esta clasificación registra el límite actual del proyecto y no cierra la pregunta por principio.
