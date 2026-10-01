@@ -19,10 +19,17 @@ La estructura puede cambiar si nueva evidencia demuestra que falta una cuestión
 11. **¿Hasta qué punto podemos atribuir a Ellen White los libros publicados bajo su nombre?** — escrito. [Manuscrito](../capitulos/11-hasta-que-punto-podemos-atribuir-a-ellen-white-los-libros-publicados-bajo-su-nombre.md): distingue escritura personal, trabajo de asistentes, montaje, revisiones aprobadas y compilaciones póstumas; conserva atribuciones indeterminadas.
 12. **¿Cometió Ellen White errores en asuntos de historia, ciencia y salud?** — escrito. [Manuscrito completo](../capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md): inventario y contraste de aciertos, errores y casos ambiguos; separa exactitud, disponibilidad ordinaria, responsabilidad editorial y origen declarado, aplicando la matriz sin concluir sobre todo el ministerio. [Fichas e inventario](../hallazgos/capitulo-12-inventario-y-protocolo.md) y [auditoría](../hallazgos/capitulo-12-auditoria-y-registro-de-fuentes.md).
 13. **¿Se contradijo Ellen White?** — escrito. [Manuscrito](../capitulos/13-se-contradijo-ellen-white.md). Distingue contradicción lógica, cambios de posición y aplicación, excepciones y correcciones; mantiene posibles incompatibilidades y límites documentales. [Inventario y expedientes](../hallazgos/capitulo-13-inventario-y-protocolo.md).
-14. **¿Sus enseñanzas contradicen la Biblia?** — escrito. [Manuscrito completo](../capitulos/14-sus-ensenanzas-contradicen-la-biblia.md): aplica el criterio bíblico fijado, distingue compatibilidad, interpretación disputada y contradicción demostrada, y conserva una tensión fuerte sobre el acceso celestial de Cristo y la visión de 1844. [Inventario](../hallazgos/capitulo-14-inventario-y-protocolo.md), [expedientes y auditoría](../hallazgos/capitulo-14-auditoria-y-fuentes.md).
-15. **¿Qué revela su vida y conducta sobre su pretensión profética?** — pendiente. Examinar carácter, conducta, intereses personales, dinero e influencia sin tratar imperfección o éxito como pruebas automáticas.
-16. **¿Qué frutos produjo el ministerio de Ellen White?** — pendiente. Evaluar efectos espirituales y prácticos, tanto favorables como problemáticos, sin confundir popularidad o crecimiento institucional con autenticidad profética.
-17. **¿Qué explicación encaja mejor con toda la evidencia?** — pendiente. Síntesis final sin puntuación numérica ni suma mecánica de casos.
+14. **¿Qué revela su vida y conducta sobre su pretensión profética?** — pendiente. Examinar carácter, conducta, intereses personales, dinero e influencia sin tratar imperfección o éxito como pruebas automáticas.
+15. **¿Qué frutos produjo el ministerio de Ellen White?** — pendiente. Evaluar efectos espirituales y prácticos, tanto favorables como problemáticos, sin confundir popularidad o crecimiento institucional con autenticidad profética.
+16. **¿Qué explicación encaja mejor con toda la evidencia?** — pendiente. Síntesis final sin puntuación numérica ni suma mecánica de casos.
+
+## ¿Por qué se retiró del libro la comparación doctrinal exhaustiva con la Biblia?
+
+El criterio bíblico fijado en los capítulos metodológicos permanece vigente: una enseñanza presentada como revelación que contradiga una enseñanza bíblica suficientemente clara constituiría evidencia seria contra ese mensaje.
+
+Sin embargo, el capítulo provisional **«¿Sus enseñanzas contradicen la Biblia?»** fue retirado del manuscrito activo. La auditoría mostró que los casos potencialmente decisivos —1844 y santuario, sábado, estado de los muertos, castigo final, Azazel y otros— requieren resolver controversias exegéticas extensas que no pueden tratarse responsablemente como apartados breves dentro de este libro. Resolverlas exigiría una investigación doctrinal independiente.
+
+La retirada **no declara correctas ni incorrectas** esas doctrinas y no elimina el criterio bíblico. La investigación ya realizada se conserva en `hallazgos/capitulo-14-*` como antecedente para un proyecto doctrinal separado. Si apareciera una contradicción bíblica simple, inequívoca y suficientemente documentada que no requiriera resolver una controversia exegética mayor, podría incorporarse como evidencia donde corresponda.
 
 ## ¿Por qué se separan la dependencia literaria y su significado?
 
@@ -44,7 +51,7 @@ La estructura no pretende abarcar todo lo que puede investigarse sobre Ellen Whi
 
 ## ¿Qué regla controla el capítulo final?
 
-El capítulo 17 no contará argumentos a favor y en contra. Preguntará:
+El capítulo 16 no contará argumentos a favor y en contra. Preguntará:
 
 > **¿Qué explicación encaja mejor con toda la evidencia disponible?**
 
