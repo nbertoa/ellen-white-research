@@ -24,7 +24,7 @@ Y otras identifican una **función o identidad reconocible**: profeta.
 
 “Inspiración” agrega otra dificultad. En el uso cristiano moderno puede significar desde una idea creativa hasta una doctrina técnica acerca del origen de la Escritura. Por eso la frase “esa persona fue inspirada” es demasiado ambigua para resolver nuestra pregunta.
 
-La primera regla del libro será, entonces, sencilla: **no convertir una afirmación en otra que reclama más sin evidencia adicional**.
+La primera regla del libro será, entonces, sencilla: **no atribuir a una afirmación un alcance mayor sin evidencia adicional**.
 
 Una impresión puede resultar acertada sin ser revelación. Una persona puede ser guiada por Dios sin ser profeta. Un escrito puede ser considerado inspirado sin que su autor sea identificado como profeta. Una persona puede profetizar en una ocasión sin que eso autentique todo lo que diga después.
 
@@ -44,7 +44,7 @@ Como descripción de una experiencia, la frase puede ser útil. Como prueba de o
 
 Una impresión puede coincidir con una dirección real de Dios. También puede surgir de memoria, intuición, temor, deseo, empatía, expectativa, razonamiento inconsciente o una combinación de factores que la persona no distingue en el momento. La intensidad subjetiva no identifica por sí sola la causa.
 
-Ezequiel 13 ofrece una cautela importante. Allí aparecen personas que hablan desde su propio interior y, sin embargo, atribuyen su mensaje a YHWH. El texto no nos permite reconstruir con seguridad cuánto había de fraude consciente y cuánto de convicción equivocada. Pero sí impide una conclusión: **sentir con certeza que algo viene de Dios no demuestra que venga de Dios**.[^1]
+Ezequiel 13 ofrece una cautela importante. Allí aparecen personas que hablan desde su propio interior y, sin embargo, atribuyen su mensaje a YHWH, el nombre hebreo de Dios. El texto no nos permite reconstruir con seguridad cuánto había de fraude consciente y cuánto de convicción equivocada. Pero sí impide una conclusión: **sentir con certeza que algo viene de Dios no demuestra que venga de Dios**.[^1]
 
 Por eso, en este libro usaremos “impresión” para describir una percepción subjetiva de dirección espiritual. Si alguien eleva esa impresión a “Dios me dijo que tú debes hacer esto”, la naturaleza de la afirmación cambia. Ya no estamos evaluando sólo una experiencia privada, sino una pretensión de autoridad divina sobre otra persona.
 
@@ -52,7 +52,7 @@ Por eso, en este libro usaremos “impresión” para describir una percepción 
 
 El lenguaje sí es bíblico, pero su alcance es más amplio que la profecía.
 
-Romanos 8:14 habla de quienes son “guiados por el Espíritu de Dios” dentro de una sección sobre vida según el Espíritu, adopción y transformación. Gálatas 5:18 habla de ser “guiados por el Espíritu” en contraste con vivir bajo el dominio de la carne. En ambos pasajes el énfasis inmediato es moral y existencial: pertenecer a Dios y vivir bajo la acción de su Espíritu. No están definiendo una técnica para recibir información secreta.[^2]
+Romanos 8:14 habla de quienes son “guiados por el Espíritu de Dios” dentro de una sección sobre vida según el Espíritu, adopción y transformación. Gálatas 5:18 habla de ser “guiados por el Espíritu” en contraste con vivir bajo el dominio de la carne. En ambos pasajes el énfasis inmediato está en la conducta y la pertenencia a Dios: vivir bajo la acción de su Espíritu. No están definiendo una técnica para recibir información secreta.[^2]
 
 Hechos muestra otra dimensión. En Hechos 16:6-10, Pablo y sus compañeros son impedidos de predicar en determinadas regiones, luego Pablo recibe una visión nocturna y finalmente el grupo “concluye” que Dios los llamaba a Macedonia. El relato junta dirección divina, experiencia visionaria y discernimiento humano sin tratarlos como palabras idénticas.[^3]
 
@@ -70,7 +70,7 @@ La Biblia utiliza imágenes de luz y entendimiento. Efesios 1:17-18, por ejemplo
 
 A partir de textos como éstos, distintas tradiciones cristianas desarrollaron doctrinas de iluminación. Pero no todas han usado el término de la misma manera. En la historia de la filosofía y de la teología, “iluminación divina” llegó a designar teorías bastante más amplias sobre la asistencia de Dios al conocimiento humano, especialmente en Agustín y la tradición medieval.[^4]
 
-Por eso no diremos: “La Biblia define iluminación como...”. Sería atribuirle una taxonomía posterior.
+Por eso no diremos: “La Biblia define iluminación como...”. Sería atribuirle una clasificación elaborada después.
 
 Para este libro usaremos una convención más limitada:
 
@@ -96,7 +96,7 @@ El texto central es 2 Timoteo 3:16: “Toda Escritura” es *theopneustos*.
 
 El adjetivo se aplica directamente a la **Escritura**, no a una clase de personas. Puede traducirse “inspirada por Dios” o “soplada por Dios”. Su fuerza básica es atribuir la Escritura a la acción de Dios; la etimología del compuesto no permite reconstruir por sí sola cómo se produjo cada escrito.[^5]
 
-El contexto inmediato también impone un límite. En el versículo anterior, Timoteo conoce desde niño “las Sagradas Escrituras”; la referencia apunta, como mínimo, a las Escrituras judías que había recibido. 2 Timoteo 3:16 no enumera por adelantado los libros que formarían el canon cristiano completo. La aplicación posterior del texto a todo el canon pertenece a una conclusión canónica y teológica más amplia, no al significado de la palabra *theopneustos* por sí sola.
+El contexto inmediato también impone un límite. En el versículo anterior, Timoteo conoce desde niño “las Sagradas Escrituras”; la referencia apunta, como mínimo, a las Escrituras judías que había recibido. 2 Timoteo 3:16 no enumera por adelantado los libros que formarían el canon cristiano completo, es decir, el conjunto reconocido como Escritura. La aplicación posterior del texto a todo el canon pertenece a una conclusión canónica y teológica más amplia, no al significado de la palabra *theopneustos* por sí sola.
 
 Esto corrige dos exageraciones opuestas.
 
@@ -146,7 +146,7 @@ Lucas 1:1-4 es especialmente importante porque el autor explica algo de su méto
 
 No afirma: “todo lo que sigue me fue dictado en una visión”.
 
-Dentro del cristianismo que reconoce Lucas como Escritura, este prólogo crea un límite muy fuerte para cualquier teoría que declare incompatibles **inspiración** y **medios humanos de composición**. El verbo de 1:3 puede expresar seguir de cerca o investigar; no nos dice por sí solo qué fuentes literarias concretas usó. Pero el dato básico no depende de resolver el problema sinóptico: el autor reconoce relatos anteriores, tradición recibida, examen cuidadoso y ordenamiento propio.[^8]
+Dentro del cristianismo que reconoce Lucas como Escritura, este prólogo crea un límite muy fuerte para cualquier teoría que declare incompatibles **inspiración** y **medios humanos de composición**. El verbo de 1:3 puede expresar seguir de cerca o investigar; no nos dice por sí solo qué fuentes literarias concretas usó. Pero el dato básico no depende de resolver el problema sinóptico —la relación literaria entre Mateo, Marcos y Lucas—: el autor reconoce relatos anteriores, tradición recibida, examen cuidadoso y ordenamiento propio.[^8]
 
 Por tanto:
 
@@ -209,7 +209,7 @@ No todos los especialistas formulan la relación exactamente igual, pero esta di
 
 No como nuestra clasificación principal.
 
-La Biblia no organiza sus afirmaciones sobre revelación mediante esa pareja técnica. La teología posterior ha desarrollado varias taxonomías —por ejemplo, revelación general y especial, natural y sobrenatural, canónica y no canónica, pública y privada—, y no todas clasifican exactamente lo mismo.[^12]
+La Biblia no organiza sus afirmaciones sobre revelación mediante esa pareja técnica. La teología posterior ha desarrollado varias clasificaciones —por ejemplo, revelación general y especial, natural y sobrenatural, canónica y no canónica, pública y privada—, y no todas clasifican exactamente lo mismo.[^12]
 
 Para este estudio será más seguro preguntar primero:
 
@@ -220,11 +220,11 @@ Para este estudio será más seguro preguntar primero:
 - ¿qué autoridad reclama el texto?
 - ¿fue incorporada a Escritura canónica?
 
-Estas preguntas describen primero la afirmación y su alcance, sin imponer de antemano una taxonomía teológica posterior.
+Estas preguntas describen primero la afirmación y su alcance, sin imponer de antemano una clasificación teológica posterior.
 
 ## 15. ¿Qué es una visión?
 
-“Visión” describe ante todo una **forma de experiencia o percepción reportada**.
+“Visión” describe ante todo una **forma de experiencia o percepción relatada**.
 
 La Biblia utiliza varios términos que se superponen sin formar una escala uniforme. El hebreo *ḥāzôn* suele designar una visión profética; *marʾeh* puede referirse a visión, apariencia o lo visto; y el griego *horama* puede nombrar una visión o escena contemplada. El vocabulario identifica una forma de experiencia dentro del relato, no certifica por sí solo quién la causó.[^13]
 
@@ -285,7 +285,7 @@ Tampoco exige que el hablante comprenda plenamente lo que ocurre, porque Juan ll
 
 ## 19. ¿Qué diferencia hay entre una profecía y una pretensión profética?
 
-La diferencia es metodológicamente decisiva.
+La diferencia es decisiva para evaluar la evidencia.
 
 Si alguien dice:
 
@@ -476,7 +476,7 @@ Para el resto de este libro trabajaremos con estas definiciones, siempre abierta
 |---|---|---|
 | **Impresión** | Percepción subjetiva de que una idea, impulso o dirección podría proceder de Dios | Que Dios haya hablado o que otra persona deba obedecer |
 | **Guía del Espíritu** | Acción divina de dirección en sentido amplio, incluida la vida moral y, en algunos relatos, decisiones concretas | Que la persona sea profeta o haya recibido nueva información |
-| **Iluminación** | Convención teológica para ayuda divina en comprender o aplicar verdad disponible | Que se haya recibido una revelación nueva |
+| **Iluminación** | Convención teológica para la ayuda divina que permite comprender o aplicar una verdad disponible | Que se haya recibido una revelación nueva |
 | **Inspiración** | En sentido estricto, categoría teológica sobre el origen divino de la Escritura y la acción de Dios mediante autores humanos | Un único mecanismo universal, ausencia de fuentes, omnisciencia del autor o inspiración de cada pensamiento privado |
 | **Revelación** | Acto por el cual Dios se manifiesta o da a conocer algo que permanecía oculto para el receptor | Que lo revelado haya sido comunicado proféticamente o que la persona tenga una función profética reconocida |
 | **Visión o sueño** | Medio o forma de experiencia que puede estar asociado con una pretensión revelatoria | Que la experiencia proceda de Dios |
@@ -509,7 +509,7 @@ Pero todavía no sabemos cómo reconocerla.
 
 ## 32. ¿Qué pregunta sigue?
 
-Si ya sabemos qué significa realmente poseer el don de profecía, queda una dificultad más básica antes de evaluar cualquier caso concreto:
+Una vez aclarado qué entenderemos por don de profecía, queda otra dificultad antes de evaluar cualquier caso concreto:
 
 > **¿Qué credenciales debería reunir una persona para que podamos considerar auténtico ese don?**
 
@@ -520,19 +520,19 @@ Las obras exegéticas y voces léxicas sin página específica en las notas cons
 [^1]: Ezequiel 13:1-16, especialmente 13:2-7. Véase Daniel I. Block, *The Book of Ezekiel, Chapters 1–24*, NICOT (Eerdmans, 1997), comentario a Ezequiel 13. El texto permite afirmar que la convicción del mensajero no prueba el origen del mensaje; no permite reconstruir con certeza el estado psicológico de cada falso profeta.
 [^2]: Romanos 8:5-17; Gálatas 5:13-25. En ambos contextos, “ser guiado” por el Espíritu aparece dentro de una discusión sobre identidad, conducta y transformación, no como definición de revelación profética.
 [^3]: Hechos 16:6-10. La secuencia distingue prohibición del Espíritu, visión y conclusión comunitaria sobre la dirección que debían tomar; el propio relato no explica el mecanismo de las prohibiciones.
-[^4]: Efesios 1:17-18; Lucas 24:45; 1 Corintios 2:10-16. Para la amplitud histórica del concepto, véase Robert Pasnau, “Divine Illumination”, *Stanford Encyclopedia of Philosophy*, que muestra que la doctrina de iluminación tuvo sentidos epistemológicos mucho más amplios que el uso moderno centrado en comprender la Escritura.
+[^4]: Efesios 1:17-18; Lucas 24:45; 1 Corintios 2:10-16. Para la amplitud histórica del concepto, véase Robert Pasnau, [“Divine Illumination”](https://plato.stanford.edu/entries/illumination/), *Stanford Encyclopedia of Philosophy*, revisión del 22 de mayo de 2024, §§1 y 3–7, que muestra que la doctrina de iluminación tuvo sentidos epistemológicos mucho más amplios que el uso moderno centrado en comprender la Escritura.
 [^5]: 2 Timoteo 3:14-17. Véanse Walter Bauer et al., *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*, 3.ª ed. (University of Chicago Press, 2000), voz θεόπνευστος; Philip H. Towner, *The Letters to Timothy and Titus*, NICNT (Eerdmans, 2006), comentario a 3:16; William D. Mounce, *Pastoral Epistles*, WBC 46 (Thomas Nelson, 2000), comentario a 3:16; y Jeremy Begbie, “Who Is This God? Biblical Inspiration Revisited”, *Tyndale Bulletin* 43.2 (1992): 259–282, especialmente **p. 260**, [facsímil del artículo](https://www.tyndalebulletin.org/article/30483.pdf), sobre procedencia frente a mecanismo. Begbie discute teología trinitaria; no debe usarse como prueba de consenso sobre cada modelo. La construcción griega permite discutir si los adjetivos son predicativos o atributivos, pero ninguna opción define el mecanismo de composición.
 [^6]: 2 Pedro 1:19-21. Véanse Richard J. Bauckham, *Jude, 2 Peter*, WBC 50 (Word Books, 1983), y Gene L. Green, *Jude and 2 Peter*, BECNT (Baker Academic, 2008), comentarios a 1:20-21. *Pheromenoi* es participio pasivo de *pherō*. La relación entre *epilysis* en 1:20 y el origen o interpretación de la profecía sigue discutida; 1:21 inclina el argumento hacia su procedencia sin resolver todos los detalles del proceso.
 [^7]: Éxodo 34:27; Jeremías 36:2-4; Apocalipsis 2–3; 2 Pedro 1:20-21; Lucas 1:1-4. Como ejemplos adventistas de una doctrina de alta autoridad bíblica que no identifica inspiración con dictado mecánico, véanse General Conference of Seventh-day Adventists, “The Holy Scriptures” (declaración oficial, 29 de junio de 1995), https://gc.adventist.org/official-statements/the-holy-scriptures/; y Gerhard Pfandl, “Some Thoughts on the Inspiration of the Bible”, Biblical Research Institute, https://adventistbiblicalresearch.org/articles/some-thoughts-on-the-inspiration-of-the-bible. La declaración describe el mensaje de Dios como transmitido por escritores humanos; Pfandl distingue dictado de otros modelos. Se citan para documentar una posición adventista, no como autoridad exegética final.
 [^8]: Lucas 1:1-4. *Parakoloutheō* puede significar seguir de cerca o investigar; *akribōs* añade la idea de cuidado o precisión. Véanse BDAG, voces παρακολουθέω y ἀκριβῶς; Loveday Alexander, *The Preface to Luke’s Gospel: Literary Convention and Social Context in Luke 1.1–4 and Acts 1.1*, SNTSMS 78 (Cambridge University Press, 1993); y Sean A. Adams, “Luke’s Preface and Its Relationship to Greek Historiography: A Response to Loveday Alexander”, *Journal of Greco-Roman Christianity and Judaism* 3 (2006): 177–191, especialmente **pp. 190–191**, [texto del artículo en la revista](https://www.jgrchj.net/volume3/JGRChJ3-9_Adams.pdf). La conclusión de Adams favorece paralelos historiográficos frente a la clasificación de Alexander; citar ambos registra una discusión, no consenso. La clasificación literaria exacta del prólogo se discute; el argumento depende de lo que éste declara, no de asignarlo a un único género ni de resolver el problema sinóptico.
 [^9]: 2 Samuel 7:1-17. Véanse A. A. Anderson, *2 Samuel*, WBC 11 (Word Books, 1989), y P. Kyle McCarter Jr., *II Samuel*, Anchor Bible 9 (Doubleday, 1984), comentarios al pasaje. El relato no prueba una teoría de “profecía falible”: la primera respuesta no se introduce como “palabra de YHWH”.
-[^10]: Véanse BDAG, voces ἀποκαλύπτω y ἀποκάλυψις; y Mats Wahlberg, “Divine Revelation”, *Stanford Encyclopedia of Philosophy*, secciones 1–1.2, https://plato.stanford.edu/entries/divine-revelation/. La literatura distingue entre el acto y el contenido de revelar, y entre revelación manifestacional y proposicional; esa discusión impide reducir la categoría a datos nuevos.
-[^11]: Mateo 16:17; Gálatas 2:2; 1 Corintios 14:26-32. Richard M. Blaylock, “Towards a Definition of New Testament Prophecy”, *Themelios* 44.1 (2019): 41-60, vincula en Pablo revelación recibida y comunicación profética. Es una propuesta argumentada, no un consenso académico ni una definición aplicable sin matices a toda la Biblia.
+[^10]: Véanse BDAG, voces ἀποκαλύπτω y ἀποκάλυψις; y Mats Wahlberg, “Divine Revelation”, *Stanford Encyclopedia of Philosophy*, revisión del 26 de junio de 2024, secciones 1–1.2, https://plato.stanford.edu/entries/divine-revelation/. La literatura distingue entre el acto y el contenido de revelar, y entre revelación manifestacional y proposicional; esa discusión impide reducir la categoría a datos nuevos.
+[^11]: Mateo 16:17; Gálatas 2:2; 1 Corintios 14:26-32. Richard M. Blaylock, [“Towards a Definition of New Testament Prophecy”](https://www.thegospelcoalition.org/themelios/article/towards-a-definition-of-new-testament-prophecy/), *Themelios* 44.1 (2019): 41-60, especialmente §2.2, pp. 50–51, vincula en Pablo revelación recibida y comunicación profética. Es una propuesta argumentada, no un consenso académico ni una definición aplicable sin matices a toda la Biblia.
 [^12]: Para las diferencias entre audiencia, medio y estatuto de una revelación y para taxonomías como general/especial y natural/sobrenatural, véase Wahlberg, “Divine Revelation”, sección 1.1. “Pública/privada” y “canónica/no canónica” clasifican dimensiones distintas y no forman el glosario técnico de los textos bíblicos.
 [^13]: Números 12:6; Jeremías 23:16-32; Ezequiel 13:1-9. Véanse Ludwig Koehler, Walter Baumgartner y Johann Jakob Stamm, *The Hebrew and Aramaic Lexicon of the Old Testament* (Brill, 1994-2000), voces חָזוֹן y מַרְאֶה; y BDAG, voz ὅραμα. Los términos tienen usos superpuestos y el contexto decide si el relato autentica o rechaza el origen reclamado.
 [^14]: 1 Pedro 1:10-12; Daniel 8:27; Juan 11:49-52; 1 Corintios 14:29. Sobre la evaluación de profecías en 1 Corintios 14 y el debate respecto de lo que implica, véanse Anthony C. Thiselton, *The First Epistle to the Corinthians*, NIGTC (Eerdmans, 2000), y Gordon D. Fee, *The First Epistle to the Corinthians*, ed. rev., NICNT (Eerdmans, 2014), comentarios a 14:29-33.
 [^15]: 1 Corintios 14:1-6, 24-33; Juan 11:47-53. Para distintos intentos de definir la actividad profética, véanse David E. Aune, *Prophecy in Early Christianity and the Ancient Mediterranean World* (Eerdmans, 1983); Christopher Forbes, *Prophecy and Inspired Speech in Early Christianity and Its Hellenistic Environment*, WUNT II/75 (Mohr Siebeck, 1995); y Blaylock, “Towards a Definition”. El carácter inteligible es claro en la regulación paulina de la asamblea, pero no debe convertirse sin argumento en toda la definición transhistórica de profecía.
-[^16]: Números 22-24; 31:16; Josué 13:22; Juan 11:49-52. Véanse Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Numbers 22–24”, *Religions* 14.9 (2023): 1104; Hans Ausloos, “A Star Was Born: About the Bifocal Reception History of Balaam”, *Scriptura* 116.2 (2017): 1-14; y Craig S. Keener, *The Gospel of John: A Commentary*, vol. 1 (Hendrickson, 2003), comentario a Juan 11:49-52.
+[^16]: Números 22-24; 31:16; Josué 13:22; Juan 11:49-52. Véanse Anna Elise Zernecke, “Balaam’s God(s): Divine Designations in Num 22–24”, *Religions* 14.8 (2023), artículo 967, [DOI](https://doi.org/10.3390/rel14080967); Hans Ausloos, “A Star Was Born: About the Bifocal Reception History of Balaam”, *Scriptura* 116.2 (2017): 1-14, [DOI](https://doi.org/10.7833/116-2-1311); y Craig S. Keener, *The Gospel of John: A Commentary*, vol. 2 (Hendrickson, 2003), comentario a Juan 11:49-52.
 [^17]: Éxodo 7:1; Deuteronomio 18:18; Jeremías 1:7-9. Véanse HALOT, voz נָבִיא; BDAG, voz προφήτης; y Aune, *Prophecy in Early Christianity*. “Portavoz” recoge una dimensión textual importante, pero no agota la diversidad histórica de funciones ni establece por sí solo la autenticidad de quien recibe el título.
 [^18]: Romanos 12:6; 1 Corintios 12:7-11, 28-30; 14:1, 29-32. La relación exacta entre “todos podéis profetizar” (14:31) y “¿son todos profetas?” (12:29) es discutida. Véanse Thiselton y Fee, comentarios a esos pasajes; Pablo no proporciona un umbral temporal que convierta una manifestación en “ministerio permanente”.
 [^19]: 1 Tesalonicenses 5:19-22; 1 Corintios 14:29. Para posiciones distintas sobre evaluación y autoridad, véanse Thiselton y Fee, comentarios a 1 Corintios 14; Wayne Grudem, *The Gift of Prophecy in the New Testament and Today*, ed. rev. (Crossway, 2000); y Blaylock, “Towards a Definition”. Estos autores no concuerdan en si la profecía congregacional podía mezclar revelación y formulación humana falible.
