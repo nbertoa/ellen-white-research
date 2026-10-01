@@ -86,7 +86,7 @@ El caso pesa como dificultad histórica real. Su peso como error de una revelaci
 
 ## 8. ¿Las cifras y los relatos de la Reforma producen otros errores seguros?
 
-No todos. En el pasaje francés que hablaba de diez años, «millones» pasó a «multitudes». La reducción del compromiso cuantitativo está documentada. Pero los muertos judiciales del Terror no agotan las guerras, la represión y otros conflictos del periodo. No podemos declarar falsa la cifra sólo por compararla con un recuento de guillotinados. Falta establecer el universo de víctimas que la frase incluye.[^12]
+No todos. En el pasaje francés que hablaba de diez años, «millones» pasó a «multitudes». La reducción de la magnitud afirmada está documentada. Pero los muertos judiciales del Terror no agotan las guerras, la represión y otros conflictos del periodo. No podemos declarar falsa la cifra sólo por compararla con un recuento de guillotinados. Falta establecer el universo de víctimas que la frase incluye.[^12]
 
 Algo parecido ocurre con Tyndale. Una crítica histórica contrapone seis mil ejemplares del Nuevo Testamento a los tres mil mencionados por White. Sin embargo, el catálogo de una biblioteca que conserva la edición completa de Worms admite una tirada de quizá tres mil. El número no queda refutado por elegir otra estimación. La diferencia entre el intento incompleto de Colonia y la edición completa de Worms sí está documentada; la secuencia exacta de una segunda edición requiere más control bibliográfico.[^13]
 
@@ -123,7 +123,7 @@ No. Que existieron animales muy grandes hoy extinguidos es verdadero. Un acierto
 
 White también habló de seres humanos y árboles antiguos mucho mayores, y de una humanidad que fue disminuyendo en tamaño. El registro conocido no sostiene una población humana ancestral universal de gigantes como la descrita. Sin embargo, no podemos convertir cada ausencia de fósil en prueba concluyente de que jamás existió un individuo grande. Debemos distinguir población, excepcionalidad y escala del relato.[^20]
 
-Algunas palabras admiten lectura popular. Llamar «petrificación» al endurecimiento de material vegetal no es lo mismo que distinguir técnicamente carbón de madera sustituida por minerales. La imprecisión existe, pero tiene menos peso que atribuir un origen reciente uniforme a una secuencia geológica larga.
+Algunas palabras admiten lectura popular. Llamar «petrificación» al endurecimiento de material vegetal no es lo mismo que distinguir técnicamente carbón de madera sustituida por minerales. La imprecisión existe, pero tiene menos peso que atribuir un mismo origen reciente a una secuencia geológica larga.
 
 Por eso el caso central no será una colección de términos imperfectos. Será la explicación comprobable que esos términos transmiten. Las afirmaciones más vagas sobre tamaño, durabilidad o criaturas no identificadas permanecen discutidas o insuficientemente verificables.
 
@@ -141,9 +141,9 @@ Si se interpreta como híbridos humanos y animales, la afirmación no cuenta con
 
 No. Smith, defensor adventista, la utilizó en 1868. Su respuesta relacionó la mezcla humano/animal con pueblos que describió mediante categorías raciales desacreditadas. Eso muestra que la lectura existió cerca de la publicación original y dentro de la defensa, no sólo en una lista crítica moderna.[^22]
 
-Pero Smith no es White. La recomendación de su libro por James White no demuestra que Ellen aprobara cada argumento ni que ésa fuera necesariamente su intención. Una recepción temprana pesa como evidencia interpretativa; no equivale a una explicación autógrafa de la autora.
+Pero Smith no es White. La recomendación de su libro por James White no demuestra que Ellen aprobara cada argumento ni que ésa fuera necesariamente su intención. Una recepción temprana pesa como evidencia interpretativa; no equivale a una explicación escrita por la propia autora.
 
-La defensa distributiva, desarrollada posteriormente, merece consideración porque la gramática permite examinarla. No debe presentarse como significado original demostrado sólo porque evita la dificultad. Su fecha tardía no la vuelve falsa, pero obliga a buscar evidencia adicional.
+La defensa distributiva —mezclas dentro del grupo humano y dentro del animal—, desarrollada posteriormente, merece consideración porque la gramática permite examinarla. No debe presentarse como significado original demostrado sólo porque evita la dificultad. Su fecha tardía no la vuelve falsa, pero obliga a buscar evidencia adicional.
 
 Las frases no fueron incluidas en narraciones ampliadas posteriores. Una omisión tampoco equivale a retractación ni prueba por qué se omitieron. Sin una explicación de White que identifique el mecanismo, el expediente permanece ambiguo. Una carta contemporánea o un manuscrito que resolviera los referentes cambiaría mucho la evaluación. Mientras falte, no convertiremos la ambigüedad en absolución ni en condena científica inequívoca.
 
@@ -203,7 +203,7 @@ Pero esas reservas no eliminan el contenido causal. El texto atribuye enfermedad
 
 ## 19. ¿La medicina actual confirma esas consecuencias?
 
-No confirma ese síndrome orgánico general. La historia de la medicina permite reconocerlo como una creencia antigua, extendida antes de White, acerca de masturbación, debilitamiento y enfermedad mental. No era un descubrimiento singular suyo.[^30]
+No confirma ese conjunto general de enfermedades físicas y mentales. La historia de la medicina permite reconocerlo como una creencia antigua, extendida antes de White, acerca de masturbación, debilitamiento y enfermedad mental. No era un descubrimiento singular suyo.[^30]
 
 Ese contexto tampoco debe caricaturizarse. Algunos médicos buscaban tratar lo que consideraban una enfermedad, no sólo castigar una conducta. Comprender su intención y sus categorías ayuda a leer el texto; no confirma la relación causal que proponían.
 
@@ -211,7 +211,7 @@ La medicina sexual actual distingue una práctica de los problemas que pueden ac
 
 El problema no consiste en exigirle el nombre de un microorganismo todavía desconocido. Consiste en que una explicación causal general del deterioro orgánico resulta equivocada. Que una persona enferma también se masturbara no demuestra por qué enfermó; que estuviera agotada tampoco identifica la causa de un tumor o de una infección.
 
-El vocabulario médico antiguo requiere cuidado. «Humor canceroso» no es automáticamente un diagnóstico histológico moderno. Esa cautela impide atribuirle más precisión de la que tenía; no vuelve correcto que el hábito activara una enfermedad destructiva latente mediante pérdida de fuerza vital.
+El vocabulario médico antiguo requiere cuidado. «Humor canceroso» no equivale automáticamente a un diagnóstico moderno basado en examinar tejidos. Esa cautela impide atribuirle más precisión de la que tenía; no vuelve correcto que el hábito activara una enfermedad destructiva latente mediante pérdida de fuerza vital.
 
 La conclusión alcanza al síndrome causal descrito, no a toda observación sobre exceso, compulsión o cansancio. El texto mezcla preocupaciones que pueden tener un fundamento con relaciones médicas sustancialmente incorrectas.
 
@@ -269,11 +269,11 @@ Otro pasaje de *The Ministry of Healing* afirma que las personas comen carne lle
 
 La frase reúne relaciones distintas. Una puede ser razonablemente correcta como posibilidad, otra demasiado amplia y otra aparentemente errónea. Un párrafo no tiene que recibir una sola clasificación. El consejo práctico de evitar alimento infectado tampoco resuelve qué mecanismo atribuyó a una enfermedad particular.
 
-## 25. ¿Los virus relacionados con cáncer vindican la frase sobre gérmenes de carne?
+## 25. ¿Los virus relacionados con cáncer confirman la frase sobre gérmenes de carne?
 
 No por sí solos. Algunos agentes infecciosos pueden favorecer determinados cánceres. Eso impide ridiculizar la palabra «gérmenes» como si ninguna infección pudiera intervenir en un tumor. Pero transmitir un agente que aumenta riesgo y transmitir el cáncer de un animal al comer su carne no son la misma proposición.[^42]
 
-La frase de White fija una ruta: se ingiere carne con esos gérmenes y «así» se comunican las enfermedades. La existencia de virus oncogénicos humanos o de carcinógenos en ciertos alimentos no demuestra esa cadena. Tampoco las estadísticas sobre carne procesada identifican un germen canceroso de animales como explicación.
+La frase de White fija una ruta: se ingiere carne con esos gérmenes y «así» se comunican las enfermedades. La existencia de virus humanos que favorecen el cáncer o de sustancias cancerígenas en ciertos alimentos no demuestra esa cadena. Tampoco las estadísticas sobre carne procesada identifican un germen canceroso de animales como explicación.
 
 Podría proponerse que «germ» significa semilla o principio de enfermedad en un sentido amplio. Esa posibilidad evita exigir una terminología microbiológica exacta; todavía tiene que explicar la transmisión concreta. La defensa reduce una dificultad verbal y conserva otra causal.
 
@@ -283,9 +283,9 @@ La clasificación más prudente es aparentemente errónea, con evidencia fuerte 
 
 Hay que aplicar el mismo procedimiento, aunque el resultado cambie. White describió café y té como estimulantes, habló de malestar al dejarlos y los llamó venenos lentos semejantes al tabaco, aunque de menor efecto. Estímulo y abstinencia tienen fundamento; deterioro general por cualquier consumo es otra afirmación.[^43]
 
-Una revisión de metaanálisis sobre café encuentra numerosas asociaciones favorables, limitaciones para establecer causalidad y excepciones importantes, entre ellas embarazo. No demuestra que todos deban tomarlo. Sí vuelve inadecuado sostener una degeneración inevitable para todo consumo habitual. Tampoco sus resultados pueden trasladarse automáticamente al té.[^44]
+Una revisión de metaanálisis —síntesis de varios estudios— sobre café encuentra numerosas asociaciones favorables, limitaciones para establecer causalidad y excepciones importantes, entre ellas embarazo. No demuestra que todos deban tomarlo. Sí vuelve inadecuado sostener una degeneración inevitable para todo consumo habitual. Tampoco sus resultados pueden trasladarse automáticamente al té.[^44]
 
-Otros casos requieren más reservas. Que el cerdo mal tratado pueda transmitir parásitos no prueba que cause lepra, escrófula y humores cancerosos como se afirmaba. Hay que identificar qué enfermedad significaban esos términos. Que un peinado pesado cause dolor o irritación no demuestra el mecanismo de insania irreversible atribuido a ciertas pelucas. Y valorar una descripción de los hijos hecha por Jackson no equivale a afirmar por revelación que todo el sistema frenológico fuera verdadero.[^45]
+Otros casos requieren más reservas. Que el cerdo mal tratado pueda transmitir parásitos no prueba que cause lepra, escrófula y humores cancerosos como se afirmaba. Hay que identificar qué enfermedad significaban esos términos. Que un peinado pesado cause dolor o irritación no demuestra el mecanismo de enfermedad mental irreversible atribuido a ciertas pelucas. Y valorar una descripción de los hijos hecha por Jackson no equivale a afirmar por revelación que todo el sistema frenológico fuera verdadero.[^45]
 
 Estos ejemplos permanecen en el inventario con sus límites. No reciben el peso de una afirmación causal clara introducida como información mostrada. Conservarlos evita seleccionar sólo lo favorable o sólo lo desfavorable; desarrollarlos todos con igual extensión convertiría el capítulo en una colección de curiosidades.
 
