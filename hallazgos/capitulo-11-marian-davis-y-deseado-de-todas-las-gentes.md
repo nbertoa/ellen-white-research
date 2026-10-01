@@ -40,4 +40,4 @@ Un borrador de capítulo original firmado por Davis, con ideas nuevas que luego 
 
 ## ¿Qué asunto queda para otro capítulo?
 
-La exactitud del episodio de la coronación y los pasajes de fuentes externas pertenecen a los capítulos 12 y 9–10 respectivamente. La página del «chivo expiatorio» [analizada por Timm](https://whiteestate.org/legacy/issues-scapegoat-asp/) sirve aquí como límite de atribución; su enseñanza se reserva para el capítulo 14.
+La exactitud del episodio de la coronación y los pasajes de fuentes externas pertenecen a los capítulos 12 y 9–10 respectivamente. La página del «chivo expiatorio» [analizada por Timm](https://whiteestate.org/legacy/issues-scapegoat-asp/) sirve aquí como límite de atribución; su evaluación doctrinal quedó fuera del manuscrito activo según el índice vigente.
