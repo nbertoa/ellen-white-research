@@ -40,7 +40,7 @@ En el manuscrito «Objections to the Bible», catalogado en 1886 sin fecha exact
 
 En 1906, David Paulson le expresó la creencia de que cada palabra pronunciada o escrita por ella, en público o en privado y bajo cualquier circunstancia, tenía la misma inspiración que los Diez Mandamientos. White respondió que nunca había hecho esa afirmación. En la misma carta reafirmó sus mensajes y reprodujo declaraciones anteriores sobre su origen divino. Rechazar la formulación de Paulson no significaba retirar su pretensión de revelación.[^7]
 
-El modelo documentado combina recepción divina, expresión humana y autoridad religiosa. No es un dictado universal. Esa conclusión, sin embargo, todavía no determina el sentido de cada «me fue mostrado» o «mi guía dijo».
+El modelo que ella describió combina una recepción atribuida a Dios, expresión humana y autoridad religiosa. No es un dictado universal. Esa conclusión todavía no determina el sentido de cada «me fue mostrado» o «mi guía dijo».
 
 ## 4. ¿Qué autoridad atribuía a cartas, artículos y libros?
 
@@ -78,7 +78,7 @@ Hay, sin embargo, una diferencia entre dos explicaciones. Una dice que White com
 
 Las dependencias sobre Pablo y la vida de Jesús tampoco quedan desmentidas por llamar al proceso «inspiración de pensamiento». Las fuentes pudieron proporcionar formulaciones, detalles, ideas y orden, no sólo palabras intercambiables. Aun así, para demostrar falsa atribución debemos encontrar una afirmación de origen que corresponda a esos elementos concretos.
 
-Los documentos examinados no permiten afirmar que todo lo que White tomó en esos libros había sido presentado por ella como información nueva, recibida sin medios humanos. Tampoco permiten probar que cada préstamo era una expresión de algo revelado antes. La compatibilidad de un procedimiento y la prueba de una revelación efectiva son conclusiones distintas.
+Los documentos examinados no permiten afirmar que todo lo que White tomó en esos libros había sido presentado por ella como información nueva, recibida sin medios humanos. Tampoco permiten probar que cada préstamo era una expresión de algo revelado antes. Que un procedimiento sea compatible con inspiración y que haya ocurrido una revelación son conclusiones distintas.
 
 ## 7. ¿Qué ocurre cuando una advertencia atribuida a Dios utiliza una exhortación anterior?
 
@@ -112,7 +112,7 @@ Por tanto, hay una dificultad real de atribución y una **posible** presentació
 
 Sí. En la entrada del 21 de noviembre de 1890, conservada en dos variantes del manuscrito, White cuenta que se durmió después de orar y que fue enseñada por Dios. Su guía le ordena hablar las palabras dadas por el Señor. La instrucción continúa: aunque los motivos permanezcan ocultos, debe decir las palabras que el guía le da.[^16]
 
-Dentro de ese discurso aparece una explicación: Dios sabe mejor que nosotros qué necesitan sus hijos y nunca los conduce de una manera distinta de la que ellos escogerían si pudieran ver como él. También se dice que los caminos de Dios son misteriosos porque los motivos permanecen ocultos.
+Dentro de ese discurso aparece una explicación: Dios sabe mejor que nosotros qué necesitan sus hijos y nunca los conduce de una manera distinta de la que ellos escogerían si pudieran ver lo que él ve. También se dice que los caminos de Dios son misteriosos porque los motivos permanecen ocultos.
 
 La combinación procede de una exposición de Friedrich Wilhelm Krummacher en *Elijah the Tishbite*. La edición inglesa de Robert Carter de 1847, páginas 20–21, permite comprobarla antes del diario de White. No todas las traducciones inglesas emplean las mismas palabras; por eso hay que identificar la edición en vez de comparar títulos sin más. White reorganiza y adapta el pasaje, y continúa con lenguaje sobre avanzar por fe.[^16]
 
@@ -134,7 +134,7 @@ El antecedente literario no fue escrito por John Harris, autor de *The Great Tea
 
 Rea interpretó el caso como palabras de Humphrey puestas en boca del Maestro celestial. La cuestión es si todo el pasaje dependiente pertenecía al discurso atribuido al Maestro. El artículo de 1899 no encierra ese discurso completo entre comillas. Las comillas de la versión de *Testimonies* discutida en 1981 hacían parecer que la atribución continuaba durante tres párrafos. Los investigadores del White Estate dijeron que se habían añadido editorialmente y propusieron terminar el discurso antes.[^18]
 
-Hay un dato comprobable y una interpretación. Podemos comprobar en el impreso de 1899 la ausencia de esas comillas delimitadoras y en la transcripción de las notas la ausencia de una señal inequívoca del cierre. La propuesta de dónde cerrar el discurso es una interpretación; no es una instrucción autógrafa recuperada. Según el informe de 1981, el manuscrito de puño y letra se había perdido y se conservaba una copia mecanografiada.
+Hay un dato comprobable y una interpretación. Podemos comprobar en el impreso de 1899 la ausencia de esas comillas delimitadoras y en la transcripción de las notas la ausencia de una señal inequívoca del cierre. La propuesta de dónde cerrar el discurso es una interpretación; no es una instrucción recuperada en un manuscrito de su propia mano. Según el informe de 1981, el manuscrito de puño y letra se había perdido y se conservaba una copia mecanografiada.
 
 Además, Ron Graybill corrigió su primera explicación pocas semanas después: había dependencia también en la recomendación del primer párrafo y en la secuencia bíblica del segundo. Por eso no puede sostenerse que todo el material relacionado con Humphrey quede fuera del discurso solamente moviendo una comilla.[^18]
 
@@ -168,7 +168,7 @@ La negación de 1867 es específica y verificable: un registro de lectura anteri
 
 ## 13. ¿Su explicación permaneció igual durante toda su vida?
 
-Hay continuidad, mayor explicitud y tensiones que no deben confundirse.
+Hay continuidad, explicaciones cada vez más explícitas y tensiones que no deben confundirse.
 
 La continuidad más clara está en la pretensión de recibir mensajes de Dios y en la necesidad de expresarlos por medios humanos. La explicación de memoria de 1860 y la respuesta de 1867 ya distinguen experiencia y descripción; el manuscrito catalogado en 1886 desarrolla una explicación de inspiración que no elimina la persona. La admisión pública de historiadores en 1888 precede a Rea por muchas décadas. No sería correcto presentar toda esa explicación como una invención adventista de 1981.
 
@@ -221,7 +221,7 @@ En 1879 y 1890 hay dependencia textual y atribución celestial del mismo tramo. 
 
 El paso todavía no demostrado es que el origen celestial afirmado fuera falso. Un antecedente literario establece una vía humana de composición; no reconstruye por sí solo toda la experiencia ni excluye que una enseñanza conocida reapareciera en ella. Para probar una falsa atribución con mayor fuerza harían falta, por ejemplo, borradores que mostraran la conversión de una extracción en un relato de revelación, una negación específica contradicha por registros de lectura, o instrucciones que permitieran saber qué pretendía presentar como palabras recibidas.
 
-La explicación favorable también debe poder perder. Una nota previa a la lectura, suficientemente cercana en contenido y fechada de manera independiente, favorecería una enseñanza anterior a la fuente. Una instrucción de White que distinguiera en el pasaje la voz recibida y la formulación prestada aclararía su intención. En cambio, una admisión de que no hubo la experiencia narrada, o evidencia de haber negado una lectura que sabía haber realizado, la contradiría seriamente.
+La explicación favorable también debe admitir pruebas que puedan refutarla. Una nota previa a la lectura, suficientemente cercana en contenido y fechada de manera independiente, favorecería una enseñanza anterior a la fuente. Una instrucción de White que distinguiera en el pasaje la voz recibida y la formulación prestada aclararía su intención. En cambio, una admisión de que no hubo la experiencia narrada, o evidencia de haber negado una lectura que sabía haber realizado, la contradiría seriamente.
 
 Si nunca pretendió afirmar que cada formulación era recibida directamente, esperaríamos encontrar distinciones entre la experiencia y su redacción. Existen algunas: 1867, 1888 y 1904. Si distinguía conscientemente los dos procesos en los casos difíciles, esperaríamos una señal documental que permitiera aplicarlo allí. Esa señal no se ha localizado para el juicio y el diario. Su ausencia conserva la pregunta; no certifica ninguna de las reconstrucciones.
 
