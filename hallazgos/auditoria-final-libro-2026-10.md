@@ -112,7 +112,7 @@ No cambió la hipótesis preferida, su confianza moderada ni la falta de confirm
 
 Sí se corrigieron afirmaciones locales: atribución documental de la declaración oral, fecha impresa de Seeley, carácter tardío de un ejemplar, independencia de la historia de Paradise Valley y alcance de estudios médicos. Se documentan porque modifican la precisión o el respaldo de una frase. No deben ocultarse bajo «sólo estilo».
 
-Las precisiones lógicas de H1/H2/H3, la descripción mixta y la evidencia circunstancial mejoran la comparación sin cambiar su resultado. La revisión independiente del manuscrito y del diff coincidió en esta clasificación. La integración remota queda sujeta al control final del informe y la cobertura; este documento no declara por sí mismo una integración realizada.
+Las precisiones lógicas de H1/H2/H3, la descripción mixta y la evidencia circunstancial mejoran la comparación sin cambiar su resultado. La revisión independiente del manuscrito y del diff coincidió en esta clasificación. La auditoría quedó integrada en `main` el 1 de octubre de 2026. El commit de integración `0b00f81faf1409e2229e462c304b71f09d71f2c0` incorporó el árbol auditado `3c2aec456c0573c53e3b6409846c6ac35ca2fd42`. Esta constatación registra el estado del repositorio después del merge; no añade evidencia histórica ni altera la conclusión del libro.
 
 ## ¿Qué documentos faltantes podrían cambiar el balance?
 
@@ -142,5 +142,19 @@ La interpretación exacta de expresiones ambiguas, la proporción de responsabil
 - Revisión de diff y espacios con `git diff --check`.
 - Lectura final íntegra, seguida de comprobación de los ajustes tardíos y de sus notas.
 - Separación del checkout histórico; no se modificaron otros proyectos ni se trasladaron indiscriminadamente sus cambios.
+
+## ¿Qué confirmó la verificación posterior a la integración?
+
+Después del merge se volvió a comprobar el contenido efectivamente presente en `main`, no sólo el informe de la rama de auditoría:
+
+- están presentes los **16 capítulos**, con **333 encabezados**, todos formulados como preguntas;
+- existen **407 definiciones de notas** y las **407** tienen un registro correspondiente en la cobertura estructurada;
+- los **407 textos de nota auditados coinciden exactamente** con las definiciones presentes en el árbol integrado;
+- la cobertura conserva **363** registros como `verificada_contra_documento` y **44** como `verificada_solo_bibliograficamente`, sin presentar ninguno como certificación integral de todas sus fuentes;
+- no se detectaron llamadas a notas sin definición, definiciones huérfanas, identificadores duplicados, marcadores `TODO`/`FIXME`/`TBD` ni enlaces relativos rotos en los capítulos, README o índice maestro;
+- no había solicitudes de integración ni incidencias abiertas al momento de este control;
+- la rama histórica `revision-integral-2026-10-01` no debe integrarse en bloque: fue anterior a los capítulos 15–16 y conserva variantes luego superadas por la auditoría final. Sus correcciones relevantes fueron consideradas durante el cierre; su divergencia de historial no constituye por sí sola trabajo pendiente.
+
+Esta verificación es de **integridad editorial y consistencia del repositorio**. No amplía el alcance documental declarado arriba ni convierte los cotejos parciales en autenticación de originales.
 
 La siguiente revisión documental debe partir del registro individual y de los documentos potencialmente decisivos, no repetir una comprobación superficial de enlaces ni afirmar que las 407 notas equivalen a 407 fuentes primarias verificadas.
