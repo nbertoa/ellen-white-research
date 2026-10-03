@@ -2,7 +2,7 @@
 
 Antes de evaluar a cualquier persona que afirme recibir mensajes de Dios necesitamos fijar primero el criterio. Si definiéramos la prueba después de conocer sus aciertos, dificultades y explicaciones, podríamos adaptarla al resultado que preferimos.
 
-La Biblia no entrega una lista única ni un procedimiento infalible. Reúne leyes, relatos, advertencias y normas comunitarias nacidas en contextos diferentes. Algunos textos ayudan a rechazar una palabra; otros indican cómo examinarla; otros sólo impiden sacar conclusiones demasiado rápidas. Por eso no construiremos una suma de puntos, sino una matriz que distinga evidencias de diferente clase y peso.
+La Biblia no entrega una lista única ni un procedimiento infalible. Reúne leyes, relatos, advertencias y normas comunitarias nacidas en contextos diferentes. Algunos textos ayudan a rechazar una palabra; otros indican cómo examinarla; otros sólo impiden sacar conclusiones demasiado rápidas. Por eso no construiremos una suma de puntos, sino un conjunto de criterios que distinga evidencias de diferente clase y peso.
 
 ## 1. ¿Podemos reducir la autenticidad profética a una sola prueba?
 
@@ -19,9 +19,9 @@ Una respuesta favorable a la primera no resuelve automáticamente la segunda. Un
 
 El Nuevo Testamento distingue el apostolado de la profecía. Agabo es llamado profeta; las hijas de Felipe profetizan; en Antioquía hay “profetas y maestros”; y 1 Corintios regula la profecía dentro de una congregación. Por tanto, el don no estuvo limitado a los Doce ni a quienes escribieron libros bíblicos.
 
-Lo discutido es si debía continuar después de aquella generación. Ningún texto vincula expresamente el fin de la profecía con la muerte del último apóstol o con el cierre del canon. En 1 Corintios 13:8-12, las profecías cesan cuando llega “lo perfecto”; la visión “cara a cara” y el conocimiento pleno favorecen una lectura orientada a la consumación futura, pero la expresión no identifica por sí sola una fecha indiscutible.
+Lo discutido es si debía continuar después de aquella generación. Ningún texto vincula expresamente el fin de la profecía con la muerte del último apóstol o con el cierre del canon. En 1 Corintios 13:8-12, las profecías cesan cuando llega “lo perfecto”; la visión “cara a cara” y el conocimiento pleno favorecen una lectura orientada al cumplimiento final de la esperanza cristiana, pero la expresión no identifica por sí sola una fecha indiscutible.
 
-El argumento cesacionista más fuerte no depende de una frase sobre el canon, sino de una inferencia teológica. Efesios 2:20 presenta a apóstoles y profetas como fundamento de la iglesia, y Efesios 3:5 los relaciona con la revelación del misterio. Si toda profecía cristiana perteneciera necesariamente a esa función fundacional, una continuación posterior sería difícil. La respuesta continuacionista señala que 1 Corintios describe muchas profecías congregacionales y que Efesios 4:11-13 vuelve a incluir profetas entre los dones para edificar a la iglesia. Ninguno de esos datos decide sin discusión si toda profecía cumplía la misma función.[^1]
+Quienes sostienen que el don cesó después de la etapa apostólica se llaman cesacionistas. Su argumento más fuerte no es una frase sobre el canon, sino una conclusión que extraen de varios textos. Efesios 2:20 presenta a apóstoles y profetas como fundamento de la iglesia, y Efesios 3:5 los relaciona con la revelación del misterio. Si toda profecía cristiana perteneciera necesariamente a esa función fundacional, una continuación posterior sería difícil. Quienes sostienen que el don puede continuar, los continuacionistas, señalan que 1 Corintios describe muchas profecías congregacionales y que Efesios 4:11-13 vuelve a incluir profetas entre los dones para edificar a la iglesia. Ninguno de esos datos decide sin discusión si toda profecía cumplía la misma función.[^1]
 
 El resultado es limitado: el Nuevo Testamento demuestra que hubo profetas no apostólicos durante el período apostólico, pero no declara de forma explícita qué ocurriría en todos los siglos posteriores. Por eso la fecha de una pretensión profética no la autentica ni la descalifica por sí sola. Rechazarla sólo por ser posterior exige adoptar previamente una interpretación cesacionista discutida; aceptarla sólo porque el texto no anuncia su cese sería igualmente excesivo.
 
@@ -33,7 +33,7 @@ El pasaje no explica si el hecho extraordinario fue sobrenatural, si fue produci
 
 Mateo 24:24 refuerza el límite dentro del Nuevo Testamento al advertir que falsos mesías y falsos profetas pueden presentar “grandes señales y prodigios”. El texto no dice que todas las señales sean falsas o ilusorias; dice que su poder de impresionar no basta para identificar la fuente.
 
-Este criterio es fuerte, pero específico. Deuteronomio 13 no dice que cualquier desacuerdo doctrinal convierta a alguien en falso profeta. Habla de abandonar a YHWH para servir a otros dioses, es decir, de una ruptura fundamental de la lealtad del pacto. Fallar esta prueba descalifica seriamente; aprobarla no prueba inspiración. Muchas personas fieles a Dios no son profetas.
+Este criterio es fuerte, pero específico. Deuteronomio 13 no dice que cualquier desacuerdo doctrinal convierta a alguien en falso profeta. Habla de abandonar a YHWH para servir a otros dioses, es decir, de un abandono de Dios, a quien el pueblo había prometido fidelidad. Fallar esta prueba descalifica seriamente; aprobarla no prueba inspiración. Muchas personas fieles a Dios no son profetas.
 
 ## 4. ¿Qué demuestra una predicción que no se cumple?
 
@@ -41,7 +41,7 @@ Deuteronomio 18:20-22 responde a una pregunta que el propio pueblo podría hacer
 
 El texto evalúa una afirmación concreta atribuida a Dios. No ofrece un porcentaje aceptable de errores ni permite que muchos aciertos vuelvan verdadera una palabra fallida. Dentro de su marco, atribuir a YHWH una palabra que él no mandó es grave. El criterio se aplica con especial claridad a una predicción concreta, comprobable y no condicionada.[^3]
 
-Sin embargo, el pasaje no convierte toda demora, metáfora, esperanza, advertencia o expectativa religiosa en una predicción fallida. Antes de aplicarlo hay que fijar qué se dijo, cuándo se dijo, qué resultado permitiría considerarlo cumplido y si el mensaje contenía o presuponía condiciones. De lo contrario, podríamos declarar fracaso donde el texto nunca hizo una predicción verificable, o declarar éxito interpretando después una frase suficientemente vaga.
+Sin embargo, el pasaje no convierte toda demora, metáfora, esperanza, advertencia o expectativa religiosa en una predicción fallida. Antes de aplicarlo hay que fijar qué se dijo, cuándo se dijo, qué resultado permitiría considerarlo cumplido y si el mensaje expresaba condiciones o daba a entender que las había. De lo contrario, podríamos declarar fracaso donde el texto nunca hizo una predicción verificable, o declarar éxito interpretando después una frase suficientemente vaga.
 
 ## 5. ¿Puede no ocurrir una profecía auténtica?
 
@@ -49,7 +49,7 @@ Sí, cuando el anuncio es condicional. Jeremías 18:7-10 lo formula de manera ex
 
 Jonás 3 lo muestra en un relato. Jonás anuncia que Nínive será destruida en cuarenta días; la frase conservada no expresa un “si”. La ciudad se arrepiente y el narrador afirma que Dios no ejecutó el mal anunciado. Jonás no queda presentado como falso profeta. Jeremías 26:17-19 ofrece otro caso: Miqueas había anunciado la ruina de Sion, pero la respuesta de Ezequías hizo que el desastre no se ejecutara entonces.[^4]
 
-Por tanto, “no ocurrió” no equivale siempre a “Dios no lo dijo”. Pero la condicionalidad debe surgir del género, del contexto, de una condición declarada o de un principio reconocible antes del desenlace. No puede inventarse sólo después de que el anuncio falle, porque así Deuteronomio 18 perdería toda capacidad de prueba.
+Por tanto, “no ocurrió” no equivale siempre a “Dios no lo dijo”. Pero la condición debe poder reconocerse por el tipo de mensaje, su contexto, una condición declarada o un principio reconocible antes del desenlace. No puede inventarse sólo después de que el anuncio falle, porque así Deuteronomio 18 perdería toda capacidad de prueba.
 
 ## 6. ¿Cómo evaluaremos si una condición pertenecía al anuncio original?
 
@@ -61,7 +61,7 @@ La pregunta debe resolverse antes de juzgar el resultado. Buscaremos, en este or
 - evidencia anterior al desenlace de que el mensajero entendía el resultado como modificable;
 - una respuesta humana que el propio relato relaciona con el cambio del resultado.
 
-Una interpretación formulada antes del agotamiento definitivo del plazo, pero décadas después del anuncio, tiene menos fuerza para fijar su significado original que una condición contemporánea comunicada a los destinatarios. Debe identificarse **qué condición, cuándo fue conocida, qué conducta la activaría y qué resultado la refutaría**. Una teología general de demora documenta una defensa; no prueba automáticamente que esa condición estuviera incluida en toda promesa anterior.
+Una interpretación formulada antes de que se agotara definitivamente el plazo, pero décadas después del anuncio, tiene menos fuerza para fijar su significado original que una condición contemporánea comunicada a los destinatarios. Debe identificarse **qué condición, cuándo fue conocida, qué conducta la activaría y qué resultado la refutaría**. Una explicación religiosa general de la demora documenta una defensa. No prueba que esa condición estuviera incluida en toda promesa anterior.
 
 Cuanto menos apoyo exista antes del desenlace, más débil será la defensa condicional. Tampoco todo lenguaje condicional inmuniza una predicción: si se formula de modo que cualquier resultado pueda presentarse como cumplimiento, su valor probatorio será escaso.
 
@@ -85,13 +85,13 @@ El caso añade otra cautela. El anciano mentiroso recibe después una palabra qu
 
 Isaías 8:19-20 contrapone la consulta a médiums y espíritus de muertos con la orientación que procede de Dios. La traducción tradicional dice: “¡A la ley y al testimonio!”. El hebreo usa *torah*, que puede significar ley, instrucción o enseñanza, y *teʿudah*, testimonio o atestación. La misma pareja aparece en 8:16, donde el testimonio y la enseñanza se preservan entre los discípulos de Isaías.
 
-La sintaxis de 8:19-20 es difícil y las traducciones no conectan todas las frases del mismo modo. Además, Isaías no podía referirse históricamente a un canon cristiano de sesenta y seis libros. Por eso el pasaje no debe convertirse, por sí solo, en el eslogan “todo profeta posterior debe coincidir con nuestra interpretación de toda la Biblia”.[^7]
+La construcción de las frases de 8:19-20 es difícil y las traducciones no conectan todas las frases del mismo modo. Además, Isaías no podía referirse históricamente a un canon cristiano de sesenta y seis libros. Por eso el pasaje no debe convertirse, por sí solo, en el eslogan “todo profeta posterior debe coincidir con nuestra interpretación de toda la Biblia”.[^7]
 
 Lo que el contexto sí permite afirmar es más modesto: una pretensión de orientación sobrenatural no desplaza la instrucción y el testimonio divinos ya recibidos. Este principio coincide con Deuteronomio 13 y con 1 Reyes 13, pero su aplicación exige demostrar primero qué enseñanza bíblica está realmente establecida. Una contradicción clara tiene mucho peso; una disputa entre interpretaciones denominacionales no puede presentarse como contradicción sin argumentarla.
 
 ## 10. ¿Importa el medio por el que se obtiene el supuesto conocimiento?
 
-Sí. Deuteronomio 18:9-14 prohíbe prácticas como la adivinación, la hechicería, los encantamientos, la consulta a médiums y la búsqueda de información entre los muertos. Inmediatamente después presenta al profeta que Dios levantará y cuyas palabras pondrá en su boca. En la forma final del pasaje, ambas secciones responden al mismo problema: ¿cómo buscará Israel orientación que pretende venir del mundo divino?[^8]
+Sí. Deuteronomio 18:9-14 prohíbe prácticas como la adivinación, la hechicería, los encantamientos, la consulta a médiums y la búsqueda de información entre los muertos. Inmediatamente después presenta al profeta que Dios levantará y cuyas palabras pondrá en su boca. Tal como se conserva el pasaje, ambas secciones responden al mismo problema: ¿cómo buscará Israel orientación que pretende venir del mundo divino?[^8]
 
 No todos los términos hebreos de la lista pueden distinguirse con precisión, ni la frontera social entre profecía y adivinación fue siempre tan sencilla en el antiguo Cercano Oriente como sugiere una clasificación moderna. Pero la valoración del texto es inequívoca: Israel no debía validar cualquier método sólo porque produjera información correcta o llamativa.
 
@@ -101,11 +101,11 @@ Este criterio no autoriza a etiquetar como “oculto” todo fenómeno que no co
 
 ## 11. ¿Qué prueba agrega 1 Juan 4?
 
-1 Juan 4:1 ordena no creer a todo espíritu, porque muchos falsos profetas han salido al mundo. El criterio inmediato es cristológico: confesar a Jesucristo venido en carne. El mínimo textual seguro es que una supuesta revelación cristiana no puede negar la realidad de Jesucristo encarnado. La reconstrucción exacta de los adversarios —docetismo, separación entre Jesús y el Cristo u otra posición— sigue discutida.[^9]
+1 Juan 4:1 ordena no creer a todo espíritu, porque muchos falsos profetas han salido al mundo. El criterio inmediato se refiere a lo que se afirma sobre Cristo: confesar a Jesucristo venido en carne. El mínimo textual seguro es que una supuesta revelación cristiana no puede negar la realidad de Jesucristo encarnado. Se discute qué negaban exactamente sus adversarios: la humanidad real de Jesús, la unión entre Jesús y el Cristo u otra cosa.[^9]
 
 El pasaje tampoco presenta una contraseña verbal. En 4:6, el contraste entre verdad y error incluye escuchar el testimonio del “nosotros” apostólico; 2 Juan 7-9 relaciona la misma confesión con permanecer en la enseñanza de Cristo. Por eso la prueba afecta al contenido real, no a repetir una fórmula correcta.
 
-Es un criterio necesario y excluyente dentro del cristianismo, no una prueba positiva suficiente. Una persona puede confesar una cristología correcta sin recibir ninguna revelación. Pero una pretensión profética cristiana que contradiga de forma clara el testimonio apostólico acerca de Jesús queda seriamente comprometida.
+Dentro del cristianismo, fallar esta prueba es motivo de rechazo; superarla no basta para demostrar un don profético. Una persona puede confesar una enseñanza correcta sobre Cristo sin recibir ninguna revelación. Pero una pretensión profética cristiana que contradiga de forma clara el testimonio apostólico acerca de Jesús queda seriamente comprometida.
 
 ## 12. ¿Qué actitud exige el Nuevo Testamento ante una profecía?
 
@@ -117,11 +117,11 @@ El pasaje dice qué hacer, pero no enumera todos los criterios. Para eso debemos
 
 ## 13. ¿Quién debe evaluar lo que dice un profeta?
 
-1 Corintios 14:29 dispone que hablen dos o tres profetas y que “los otros” evalúen. El verbo *diakrinō* puede expresar distinguir, discernir o pesar. No hay consenso sobre quiénes son “los otros”: probablemente los demás profetas, quizá quienes poseen discernimiento espiritual o, en una lectura más amplia, la comunidad competente. Lo indiscutible es la acción: lo dicho no queda fuera de examen.[^11]
+1 Corintios 14:29 dispone que hablen dos o tres profetas y que “los otros” evalúen. El verbo *diakrinō* puede expresar distinguir, discernir o pesar. No hay acuerdo sobre quiénes son “los otros”: probablemente los demás profetas, quizá quienes poseen discernimiento espiritual o, en una lectura más amplia, la comunidad competente. Lo indiscutible es la acción: lo dicho no queda fuera de examen.[^11]
 
 El foco inmediato está en el mensaje. El texto no explica si la evaluación separaba revelación auténtica de falsa, contenido de aplicación o mensaje divino de interpretación humana. Tampoco demuestra por sí solo una teoría completa sobre profecía falible. Sí demuestra que pronunciar una profecía dentro de una comunidad que reconoce el don no la vuelve automáticamente incuestionable.
 
-Esto impide dos errores: usar el reconocimiento general de una persona para autenticar cada frase, y usar una dificultad en una frase para evitar estudiar qué ocurre con el resto de su ministerio. La comunidad debe poder examinar tanto la afirmación concreta como el patrón completo. Una opinión ordinaria equivocada no equivale a un mensaje falsamente atribuido a Dios. Un error sustantivo en un mensaje inequívocamente revelado sí es evidencia adversa contra esa atribución y puede comprometer gravemente el ministerio, según su importancia y el patrón documental. Negar infalibilidad personal no lo vuelve inmune. La gravedad debe justificarse por el contenido y la pretensión concretos, sin exigir una suma de errores ni decidir de antemano que uno solo refuta todo.
+Esto impide dos errores: usar el reconocimiento general de una persona para autenticar cada frase, y usar una dificultad en una frase para evitar estudiar qué ocurre con el resto de su ministerio. La comunidad debe poder examinar tanto la afirmación concreta como el patrón completo. Una opinión ordinaria equivocada no equivale a un mensaje falsamente atribuido a Dios. Un error importante en un mensaje presentado sin ambigüedad como revelado sí cuenta contra esa atribución. Puede comprometer gravemente el ministerio, según la importancia del error y lo que muestre el conjunto de documentos. Negar infalibilidad personal no lo vuelve inmune. La gravedad debe justificarse por el contenido y la pretensión concretos, sin exigir una suma de errores ni decidir de antemano que uno solo refuta todo.
 
 ## 14. ¿La experiencia profética elimina el autocontrol?
 
@@ -149,7 +149,7 @@ La dificultad pendiente es que el carácter tampoco decide por sí solo el orige
 
 ## 17. ¿Por qué importa el origen real del mensaje?
 
-Jeremías 23:16-32 denuncia a quienes ofrecen visiones nacidas de su propio “corazón” —en este contexto, su mente o interioridad—, afirman sueños que Dios no les dio y usan la fórmula “YHWH dice” sin haber sido enviados. El contraste central no es entre imaginación y estilo literario, sino entre una palabra procedente de Dios y una idea humana falsamente investida de autoridad divina.[^14]
+Jeremías 23:16-32 denuncia a quienes ofrecen visiones nacidas de su propio “corazón” —en este contexto, su mente o mundo interior—, afirman sueños que Dios no les dio y usan la fórmula “YHWH dice” sin haber sido enviados. El contraste central no es entre imaginación y estilo literario, sino entre una palabra procedente de Dios y una idea humana presentada falsamente con autoridad divina.[^14]
 
 El versículo 30 acusa además a profetas que “roban” palabras unos de otros. No sabemos con seguridad si copiaban a profetas auténticos, se imitaban entre ellos o se apropiaban de fórmulas ajenas para fabricar consenso. Por eso el pasaje no puede utilizarse como una prohibición general de dependencia literaria.
 
@@ -177,7 +177,7 @@ No por sí solos. Miqueas 3:5-12 denuncia a profetas que anuncian paz cuando tie
 
 Otros relatos impiden una regla simplista. En 1 Samuel 9, Saúl y su siervo consideran llevar un presente al hombre de Dios sin que el narrador condene el gesto. En 2 Reyes 5, Eliseo rechaza el regalo de Naamán. Ni aceptar sustento prueba falsedad ni rechazarlo prueba autenticidad.
 
-La pregunta adecuada es causal: ¿el dinero, el poder, la reputación, la presión institucional o la conveniencia cambiaron el contenido presentado como palabra de Dios? Demostrar esa relación sería evidencia negativa seria. Señalar que una persona recibió ingresos, vendió libros o dirigió una institución, sin demostrar influencia sobre sus mensajes, no alcanza.
+Hay que preguntar qué influyó en el mensaje: ¿el dinero, el poder, la reputación, la presión institucional o la conveniencia cambiaron el contenido presentado como palabra de Dios? Demostrar esa relación sería evidencia negativa seria. Señalar que una persona recibió ingresos, vendió libros o dirigió una institución, sin demostrar influencia sobre sus mensajes, no alcanza.
 
 ## 21. ¿Una palabra verdadera autentica a quien la pronuncia?
 
@@ -216,7 +216,7 @@ Puede contar a favor:
 - efectos morales característicos que conducen a la verdad, la justicia y el arrepentimiento;
 - experiencias extraordinarias con documentación temprana e independiente.
 
-Ninguno de esos elementos es autosuficiente. Una predicción puede acertarse por información disponible, inferencia, azar, ambigüedad o cumplimiento inducido. El conocimiento privado puede circular por vías olvidadas. Los buenos frutos no convierten a una persona en profeta. Una experiencia extraordinaria puede ser real sin que conozcamos su causa.
+Ninguno de esos elementos es autosuficiente. Una predicción puede acertarse por información disponible, inferencia, azar, ambigüedad o un resultado provocado por quienes conocían el anuncio. El conocimiento privado puede llegar por contactos que después nadie recuerda. Los buenos frutos no convierten a una persona en profeta. Una experiencia extraordinaria puede ser real sin que conozcamos su causa.
 
 La evidencia favorece una hipótesis cuando las explicaciones ordinarias han sido examinadas y resultan insuficientes, no cuando simplemente se las omite. Aun entonces, “difícil de explicar” no equivale lógicamente a “revelado por Dios”.
 
@@ -247,7 +247,7 @@ Primero fijaremos la afirmación y sólo después compararemos el resultado. Par
 3. ¿El registro es anterior al supuesto cumplimiento?
 4. ¿Qué evento concreto anticipaba y qué plazo establecía?
 5. ¿Qué resultados la habrían refutado?
-6. ¿Era explícita o contextualmente condicional?
+6. ¿Expresaba una condición o el contexto permitía reconocerla?
 7. ¿Cuánta información pública permitía anticipar el resultado?
 8. ¿Otros contemporáneos esperaban algo parecido?
 9. ¿El cumplimiento dependió de quienes conocían la predicción?
@@ -260,7 +260,7 @@ Las primeras obligaciones —distinguir palabra presuntuosa, señal cumplida y a
 
 Preguntaremos qué afirmó exactamente el mensajero sobre el origen de cada material. Después distinguiremos entre visión, sueño, impresión, interpretación bíblica, investigación, memoria, fuente literaria, edición y consejo prudencial.
 
-La comparación con la Biblia también debe ser controlada. Antes de declarar contradicción habrá que fijar el sentido más probable de ambos textos, su género, destinatario y contexto. Una contradicción lógica clara no se resuelve apelando a una armonización imaginable sin evidencia. Pero una diferencia de énfasis, un desarrollo de comprensión o una disputa entre interpretaciones no debe llamarse contradicción sólo porque produzca incomodidad.
+La comparación con la Biblia también debe ser controlada. Antes de declarar contradicción habrá que fijar el sentido más probable de ambos textos, su género, destinatario y contexto. Una contradicción lógica clara no se resuelve apelando a una explicación que haga compatibles los textos pero carezca de evidencia. Pero una diferencia de énfasis, un desarrollo de comprensión o una disputa entre interpretaciones no debe llamarse contradicción sólo porque produzca incomodidad.
 
 En el origen del material la regla será simétrica: no asumiremos revelación porque ignoremos una fuente humana, ni asumiremos engaño porque aparezca una fuente. El problema decisivo será si la explicación ofrecida por el mensajero coincide con la evidencia documental.
 
@@ -280,7 +280,7 @@ Una falla aislada y un patrón persistente no pesan igual. La ocultación, la re
 
 Separaremos lo que la persona relató de lo que observó cada testigo. Daremos más peso a documentos contemporáneos que a recuerdos escritos décadas después y comprobaremos si varios relatos son independientes o repiten una misma fuente.
 
-Después compararemos hipótesis: experiencia religiosa, proceso psicológico o neurológico, fraude, error de memoria, elaboración posterior y revelación. No realizaremos diagnósticos retrospectivos cuando falten datos clínicos. Una hipótesis natural debe explicar los detalles, no sólo ser concebible. Una hipótesis sobrenatural tampoco gana por descarte mientras queden huecos: debe mostrar poder explicativo positivo y coherencia con los demás criterios.
+Después compararemos hipótesis: experiencia religiosa, proceso psicológico o neurológico, fraude, error de memoria, elaboración posterior y revelación. No realizaremos diagnósticos retrospectivos cuando falten datos clínicos. Una hipótesis natural debe explicar los detalles, no sólo ser concebible. Una explicación sobrenatural tampoco gana sólo porque falten datos para las otras. Necesita evidencia propia a su favor y debe concordar con los demás criterios.
 
 Los fenómenos físicos podrán aumentar el interés documental de un caso. No demostrarán por sí solos quién causó la experiencia ni si el contenido fue verdadero.
 
@@ -310,7 +310,7 @@ Una conclusión cambiará cuando aparezca mejor evidencia, no cuando resulte có
 | **Reglas de evaluación** | Fijar texto y fechas; distinguir condición de explicación retrospectiva; examinar contenido, origen, frutos y medios; separar testigos independientes; comparar hipótesis; evaluar cada afirmación y luego la trayectoria | Impiden convertir el cumplimiento, el fracaso, la utilidad o la rareza en conclusiones automáticas. |
 | **Regla de ponderación** | Valorar claridad, documentación, independencia, especificidad, alternativas y alcance | Una evidencia fuerte puede pesar más que muchas débiles. No habrá puntuación ni compensación mecánica. |
 
-Esta matriz es provisional sólo en el sentido correcto: podrá corregirse si una mejor exégesis demuestra que interpretamos mal un texto. No se modificará simplemente para proteger o atacar a la persona evaluada.
+Esta matriz es provisional sólo en el sentido correcto: podrá corregirse si una interpretación bíblica mejor fundamentada demuestra que interpretamos mal un texto. No se modificará simplemente para proteger o atacar a la persona evaluada.
 
 ## 31. ¿Qué debemos establecer al pasar de los criterios a un caso concreto?
 

@@ -1,12 +1,12 @@
 # Capítulo 3 — ¿Qué afirmó Ellen G. White sobre su propio don y sobre el origen y la autoridad de sus mensajes?
 
-Antes de preguntar si Ellen G. White fue realmente una profeta, necesitamos fijar qué afirmó ella. No sería justo evaluar una pretensión más fuerte que la que hizo ni rebajarla después para protegerla de una dificultad.
+Antes de preguntar si Ellen G. White fue realmente una profeta, necesitamos precisar qué afirmó ella. No sería justo evaluar una pretensión más fuerte que la que hizo ni rebajarla después para protegerla de una dificultad.
 
-La tarea de este capítulo es limitada. No intentaremos decidir todavía si sus visiones procedían de Dios, si sus mensajes eran correctos ni si sus explicaciones sobre el origen de esos mensajes resisten la investigación histórica. Primero reconstruiremos la pretensión que después deberá ser sometida a prueba.
+La tarea de este capítulo es limitada. No intentaremos decidir todavía si sus visiones procedían de Dios, si sus mensajes eran correctos ni si los documentos confirman el origen que ella les atribuía. Primero reconstruiremos la pretensión que después deberá ser sometida a prueba.
 
 Para hacerlo hay que conservar varias distinciones. Una experiencia religiosa no es necesariamente una revelación. Recibir una revelación no implica que Dios haya dictado cada palabra. Rechazar un título no equivale siempre a negar la función asociada con él. Y colocar la Biblia por encima de otro mensaje religioso no convierte automáticamente ese mensaje en una opinión prescindible.
 
-Con esas distinciones podemos preguntar qué afirmó realmente Ellen White.
+Con esas distinciones podemos examinar sus palabras.
 
 ## 1. ¿Atribuyó desde el comienzo sus visiones a Dios?
 
@@ -14,7 +14,7 @@ La evidencia permite responder algo más preciso: **a más tardar el 20 de dicie
 
 Ese día escribió desde Portland a Enoch Jacobs, director de *The Day-Star*. Comenzó diciendo que Dios le había mostrado en “santa visión” el viaje del pueblo adventista hacia la Santa Ciudad y anunció un breve relato de lo que Dios le había revelado. Jacobs publicó la carta el 24 de enero de 1846.[^1]
 
-Este es el relato en primera persona más temprano de aquella visión cuyo texto se conoce y también el primero que se conoce publicado. El texto se conserva por su publicación; esta afirmación no supone que sobreviva el autógrafo de la carta ni que ella nunca hubiera contado o escrito antes la experiencia de otra manera.
+Este es el relato en primera persona más temprano de aquella visión cuyo texto se conoce y también el primero que se conoce publicado. El texto se conserva por su publicación; esta afirmación no supone que se conserve la carta original escrita de su mano ni que ella nunca hubiera contado o escrito antes la experiencia de otra manera.
 
 El documento establece cómo interpretaba públicamente la experiencia en esa fecha. No la presentó como un sueño ordinario, una imaginación edificante ni sólo una conclusión bíblica, sino como algo mostrado y revelado por Dios. Documentos posteriores repitieron esa atribución.
 
@@ -24,7 +24,7 @@ Por tanto, queda **establecido** que la atribución divina ya aparece en diciemb
 
 En una reunión pública celebrada en Battle Creek el 2 de octubre de 1904, un informe atribuido a W. E. Cornell le atribuye esta declaración: “No soy, como dije ayer, profeta”; a continuación afirmó que no pretendía ser dirigente y que sólo pretendía ser mensajera de Dios.[^2] La propia frase indica que reiteraba algo dicho el sábado anterior. La formulación llega por una reproducción biográfica de un informe transmitido en mayo de 1906. No se ha inspeccionado el original ni fijado cuándo Cornell registró las palabras. Leída por sí sola, puede entenderse como una negación de la condición de profeta, no sólo de un título. Esa dificultad no debe desaparecer mediante una paráfrasis más cómoda.
 
-Sin embargo, sus explicaciones posteriores son explícitas. El 30 de enero de 1905 escribió a O. A. Olsen que nunca había asumido el título de profetisa, aunque otros la llamaran así, porque consideraba que su trabajo incluía más funciones. Prefería “mensajera del Señor”.[^3] En mayo de 1906 añadió que, si había hablado de manera que permitía otra interpretación, lo que pretendía decir era: “No reclamo el título de profeta o profetisa”.[^4] Y en julio escribió a los dirigentes de Battle Creek que su comisión abarcaba “la obra de un profeta”, pero no terminaba allí.[^5]
+Sin embargo, sus explicaciones posteriores son explícitas. El 30 de enero de 1905 escribió a O. A. Olsen que nunca había asumido el título de profetisa, aunque otros la llamaran así, porque consideraba que su trabajo incluía más funciones. Prefería “mensajera del Señor”.[^3] En mayo de 1906 añadió que, si había hablado de manera que permitía otra interpretación, lo que pretendía decir era: “No reclamo el título de profeta o profetisa”.[^4] Y en julio escribió a los dirigentes de Battle Creek que su encargo abarcaba “la obra de un profeta”, pero no terminaba allí.[^5]
 
 El conjunto documental permite dos conclusiones a la vez. Queda **establecido** que en 1905 y 1906 no negó una función profética: la afirmó. También queda **establecido** que la formulación pública conservada de 1904 era más amplia y podía comunicar una negación. Es **probable** que los textos posteriores expresen la distinción que ella quería hacer entre título y función; no pueden convertir retrospectivamente la frase de 1904 en una declaración inequívoca.
 
@@ -32,7 +32,7 @@ No hay que escoger entre borrar la tensión y convertirla en contradicción defi
 
 ## 3. ¿Qué quiso decir al llamarse “mensajera”?
 
-“Mensajera” cumplía dos funciones relacionadas: era su título preferido y describía una comisión que consideraba más amplia que el trabajo de un profeta.
+“Mensajera” cumplía dos funciones relacionadas: era su título preferido y describía un encargo que consideraba más amplio que el trabajo de un profeta.
 
 En la carta de 1905 no se llamó mensajera para reducirse a maestra religiosa común. Dijo estar encargada por el Señor de llevar mensajes a su pueblo, dar a conocer lo que Dios le revelaba y escribir las instrucciones recibidas.[^3] En 1906 volvió a relacionar el término con visiones, reprensión, consejo, escritura y otras tareas prácticas.[^4]
 
@@ -42,15 +42,15 @@ Saber que reclamó una comisión divina conduce a una cuestión más exigente: �
 
 ## 4. ¿Qué autoridad atribuyó a los testimonios?
 
-Atribuyó una autoridad muy fuerte a las comunicaciones que identificaba como testimonios o instrucciones enviadas por Dios.
+Atribuyó una autoridad muy fuerte a lo que llamaba testimonios: comunicaciones que presentaba como instrucciones enviadas por Dios.
 
 En *Testimony for the Battle Creek Church* (1882) respondió a quienes reducían sus comunicaciones a opiniones personales. El caso inmediato era una carta escrita desde Colorado acerca de una reunión campestre. Aunque el documento tenía forma de carta, sostuvo que el Espíritu de Dios la había impulsado para presentar cosas que le habían sido mostradas. Luego amplió la explicación: en las cartas y testimonios de esa labor presentaba lo que el Señor le había presentado, y los artículos religiosos a los que se refería no contenían meramente ideas propias, sino cosas abiertas ante ella en visión.[^6]
 
 En el mismo folleto afirmó que Dios estaba hablando “por medio del barro” y comparó el esfuerzo por debilitar la confianza en los testimonios enviados por Dios con la rebelión de Coré, Datán y Abiram.[^6] En 1889 volvió a sostener que rechazar el testimonio que había sido comisionada a transmitir era rechazar al Señor que, según ella, enviaba el mensaje.[^7]
 
-El referente inmediato de estas afirmaciones no es cada nota doméstica o cada dato que escribió durante setenta años. Son una carta concreta y la clase de cartas, testimonios y artículos religiosos que relacionaba con su comisión. Restringirlas a “consejos pastorales útiles” debilitaría el texto; extenderlas automáticamente a cada línea salida de su pluma lo sobrepasaría.
+Estas afirmaciones no se refieren de manera inmediata a cada nota doméstica o cada dato que escribió durante setenta años. Se refieren a una carta concreta y a la clase de cartas, testimonios y artículos religiosos que relacionaba con su comisión. Restringirlas a “consejos pastorales útiles” debilitaría el texto; extenderlas automáticamente a cada línea salida de su pluma lo sobrepasaría.
 
-Queda **establecido** que, cuando identificaba un testimonio como enviado por Dios, reclamaba para él autoridad derivada de ese origen y esperaba obediencia. Queda **indeterminado** el límite exacto de esa categoría en cada documento. Esa frontera importa porque ella misma admitió que no todo lo que decía o escribía pertenecía a esa categoría.
+Queda **establecido** que, cuando identificaba un testimonio como enviado por Dios, afirmaba que debía obedecerse por proceder de Dios. Queda **indeterminado** el límite exacto de esa categoría en cada documento. Esa frontera importa porque ella misma admitió que no todo lo que decía o escribía pertenecía a esa categoría.
 
 ## 5. ¿Afirmó que todo lo que escribía o decía estaba inspirado?
 
@@ -60,7 +60,7 @@ La ocasión fue un dato equivocado sobre el número de habitaciones del Paradise
 
 En contraste, sostuvo que, cuando el Espíritu le revelaba asuntos relativos a la obra, las instituciones o el corazón de las personas, el mensaje debía ser recibido como luz de Dios.[^8] No estaba renunciando a la autoridad de los testimonios, sino rechazando la mezcla indiscriminada de dos clases de material.
 
-Queda **establecido** que no atribuyó inspiración especial a todo dato, conversación, opinión o carta cotidiana. También queda **establecido** que conservó una categoría de mensajes sagrados con pretensión divina. Es **indeterminado** cómo debe clasificarse cada texto mixto cuando contiene información humana, memoria, razonamiento y una advertencia que ella atribuía a Dios. Su distinción existe, pero no proporciona por sí sola una etiqueta inequívoca para cada frase.
+Queda **establecido** que no atribuyó inspiración especial a todo dato, conversación, opinión o carta cotidiana. También queda **establecido** que conservó una categoría de mensajes sagrados con pretensión divina. Sigue **indeterminado** cómo clasificar cada escrito que mezcla información humana, memoria, razonamiento y una advertencia que ella atribuía a Dios. Su distinción existe, pero no proporciona por sí sola una etiqueta inequívoca para cada frase.
 
 ## 6. ¿Necesitaba una visión nueva para cada consejo?
 
@@ -77,7 +77,7 @@ Su explicación distingue cuatro elementos:
 3. la aplicación posterior de esos principios a un caso no visto de manera individual;
 4. información humana que daba ocasión o contexto al consejo.
 
-La distinción queda **establecida** como parte de su autocomprensión. No demuestra que la primera revelación ocurriera ni permite reclasificar después cualquier mensaje problemático como aplicación humana. Obliga a examinar qué origen atribuyó al contenido concreto de cada caso.
+La distinción queda **establecida** como parte de la forma en que entendía su trabajo. No demuestra que la primera revelación ocurriera ni permite reclasificar después cualquier mensaje problemático como aplicación humana. Obliga a examinar qué origen atribuyó al contenido concreto de cada caso.
 
 ## 7. ¿Afirmó que Dios le dictaba las palabras exactas?
 
@@ -91,7 +91,7 @@ En un manuscrito de 1886, referido directamente a la Biblia, había explicado qu
 
 También reconoció trabajo editorial. En 1906 recordó que James White corregía errores gramaticales y eliminaba repeticiones, y que ayudantes copiaban manuscritos y preparaban artículos. A la vez negó que estuvieran autorizados a añadir ideas propias o cambiar el sentido.[^13] La existencia de revisión humana, por tanto, no contradice la forma en que ella describía su proceso; tampoco demuestra que toda revisión conservara siempre el sentido ni resuelve el futuro estudio de sus fuentes.
 
-Queda **establecido** que negó la inspiración especial de cada palabra pronunciada o escrita en cualquier circunstancia y que admitió formulación y corrección humanas. Es **probable** describir su posición general como inspiración del mensaje o del pensamiento antes que dictado de palabras, siempre que no convirtamos esa etiqueta posterior en una precisión mayor que sus documentos.
+Queda **establecido** que negó la inspiración especial de cada palabra pronunciada o escrita en cualquier circunstancia y que admitió formulación y corrección humanas. Es **probable** describir su posición general como inspiración del mensaje o del pensamiento, en lugar de un dictado de palabras, siempre que no convirtamos esa etiqueta posterior en una precisión mayor que sus documentos.
 
 ## 8. ¿Afirmó ser infalible?
 
@@ -99,7 +99,7 @@ Negó la infalibilidad personal. En una carta del 9 de junio de 1895 a su sobrin
 
 El contexto importa. No estaba retirando un testimonio concreto ni definiendo una lista de errores permitidos en los mensajes. Estaba contrastando la falibilidad humana con la seguridad de Dios y su palabra. En una carta privada de 1876 también había reconocido errores en su vida y negado perfección de carácter, pero eso se refería a su persona, no a la exactitud de una revelación particular.[^15]
 
-Por tanto, queda **establecido** que negó infalibilidad personal, reconoció errores de conducta y admitió al menos un dato ordinario equivocado. Estos textos no delimitan exhaustivamente errores de memoria o juicio en mensajes revelados. No queda establecido que admitiera la posibilidad de error en aquello que presentaba de manera inequívoca como revelación de Dios. Esa cuestión permanece **indeterminada**. La negación de infalibilidad no funciona como inmunidad ante un error concretamente atribuido a revelación, y no puede resolverse ni con el lema “nunca reclamó infalibilidad” ni con la autoridad que atribuyó a los testimonios.
+Por tanto, queda **establecido** que negó infalibilidad personal, reconoció errores de conducta y admitió al menos un dato ordinario equivocado. Estos textos no aclaran si admitía errores de memoria o juicio en mensajes revelados. No queda establecido que admitiera la posibilidad de error en aquello que presentaba de manera inequívoca como revelación de Dios. Esa cuestión permanece **indeterminada**. La negación de infalibilidad no funciona como inmunidad ante un error concretamente atribuido a revelación, y no puede resolverse ni con el lema “nunca reclamó infalibilidad” ni con la autoridad que atribuyó a los testimonios.
 
 ## 9. ¿Qué lugar atribuyó a la Biblia?
 
@@ -107,7 +107,7 @@ Presentó la Biblia como la norma doctrinal pública y como el criterio para pro
 
 En la introducción de *The Great Controversy* de 1888 reconoció que condensó historia y utilizó palabras de historiadores cuando ofrecían una presentación conveniente; salvo algunas excepciones, no dio crédito específico. Añadió que hizo un uso similar de obras publicadas sobre reformadores de su propia época.[^22] Es una declaración de método literario, no una absolución ni una acusación automática. Obliga a preguntar **qué parte provenía de lectura y qué parte fue presentada concretamente como revelación**. La magnitud, exactitud y atribución de cada préstamo requieren cotejos propios.
 
-En la introducción de *The Great Controversy* de 1888 llamó a las Escrituras una revelación autoritativa e infalible de la voluntad de Dios, el revelador de doctrinas y la prueba de la experiencia. Añadió que la actividad continua del Espíritu no volvía innecesaria la Biblia y que el Espíritu nunca fue dado para sustituirla: la Palabra debía probar toda enseñanza y experiencia. La edición de 1911 mantuvo esta estructura y el reconocimiento de historiadores, con una formulación que cambia algunos detalles; no se ha hecho aquí una colación integral de ambas obras.[^16][^22]
+En la introducción de *The Great Controversy* de 1888 afirmó que las Escrituras revelan la voluntad de Dios con autoridad y sin error, dan a conocer las doctrinas y permiten examinar la experiencia. Añadió que la actividad continua del Espíritu no volvía innecesaria la Biblia y que el Espíritu nunca fue dado para sustituirla: la Palabra debía probar toda enseñanza y experiencia. La edición de 1911 mantuvo esta estructura y el reconocimiento de historiadores, con una formulación que cambia algunos detalles; no se ha hecho aquí una comparación completa, línea por línea, de ambas obras.[^16][^22]
 
 En 1889 explicó que los testimonios escritos no debían dar una nueva regla de verdad, sino llamar la atención a principios bíblicos ya revelados, hacerlos vívidos y aplicarlos. Su propósito declarado era exaltar la Escritura, no disminuirla.[^17] Y en 1894 aconsejó a un ministro que en el trabajo público no citara a “Sister White” como autoridad para probar una posición: debía presentar la evidencia desde la Palabra de Dios.[^18]
 
@@ -121,7 +121,7 @@ El contexto inmediato permite una respuesta más precisa de lo que sugiere la ci
 
 Ellen White redactó en Elmshaven, el 6 de diciembre de 1902, una carta abierta publicada en *Review and Herald* los días 20 y 27 de enero de 1903. Promovía la circulación de *Christ's Object Lessons*, *Patriarchs and Prophets*, *The Great Controversy* y *The Desire of Ages*. Declaró que ella no era el origen de esos libros, que contenían la instrucción que Dios le había dado y que debían llevar al lector al Salvador. Después lamentó la poca atención prestada a la Biblia y escribió que el Señor había dado una “luz menor” para conducir a hombres y mujeres a la “luz mayor”; enseguida volvió a hablar de “los libros que contienen esta luz”.[^19]
 
-El referente gramatical e histórico **más probable** de “luz menor” son los libros de Ellen White que el artículo acaba de nombrar y quiere distribuir. El referente **más probable** de “luz mayor” es la Biblia, mencionada inmediatamente antes como desatendida. Cristo es el destino al que esos libros debían conducir, pero no es el antecedente más cercano ni la mejor explicación del contraste en esa oración.
+Por la frase y su contexto, “luz menor” se refiere **probablemente** a los libros de Ellen White que el artículo acaba de nombrar y quiere distribuir. “Luz mayor” se refiere **probablemente** a la Biblia, mencionada inmediatamente antes como desatendida. Cristo es el destino al que esos libros debían conducir, pero no es lo mencionado más cerca de la frase ni lo que mejor explica ese contraste.
 
 Herbert E. Douglass contempla dos lecturas: en el contexto más amplio identifica a Cristo con la luz mayor, y desde otra perspectiva acepta el contraste entre los escritos de White y la Biblia. Aquí se prefiere la segunda por el antecedente inmediato de la oración, sin ocultar la alternativa.[^20] La metáfora expresa una función subordinada y orientadora, no una renuncia al origen divino que ella atribuía a sus libros. Tampoco define por sí sola todos los límites de su autoridad. Conviene conservar como **probable**, y no como definición exhaustiva, la conclusión que permite el contexto.
 
@@ -131,7 +131,7 @@ La objeción más fuerte no es que Ellen White afirmara que cada palabra privada
 
 Walter Rea reunió correctamente varias de esas afirmaciones fuertes antes de contrastarlas con supuesta dependencia de fuentes humanas.[^21] Pero la existencia de una fuente humana no demuestra por sí sola una falsa atribución de origen. Como estableció el capítulo 2, primero hay que identificar el material, probar la dependencia y preguntar qué afirmó ella sobre el origen de ese contenido concreto. A la inversa, su reconocimiento de lenguaje humano tampoco permite explicar como “simple ayuda editorial” cualquier caso que resulte problemático.
 
-La pregunta falsable para capítulos posteriores es precisa: **¿existen contenidos cuyo origen humano pueda demostrarse y que Ellen White presentara inequívocamente como recibidos de manera directa en visión o revelación?** Si la respuesta fuera afirmativa en casos claros y sustantivos, afectaría el criterio de falsa atribución de origen. Este capítulo fija la pretensión; no adelanta el veredicto.
+La pregunta que los documentos permitirán poner a prueba es precisa: **¿existen contenidos cuyo origen humano pueda demostrarse y que Ellen White presentara inequívocamente como recibidos de manera directa en visión o revelación?** Si la respuesta fuera afirmativa en casos claros y sustantivos, afectaría el criterio de falsa atribución de origen. Este capítulo fija la pretensión; no adelanta el veredicto.
 
 ## 12. ¿Qué queda realmente demostrado?
 

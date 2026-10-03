@@ -2,17 +2,17 @@
 
 Sí, hay afirmaciones de Ellen White que resultan históricamente incorrectas y otras que no se sostienen como explicaciones científicas o médicas. También hay consejos de salud acertados, descripciones razonables en lenguaje popular y acusaciones de error que no pueden demostrarse. La evidencia no permite dar a todos esos casos el mismo tratamiento.
 
-Pero identificar un error todavía deja una pregunta decisiva: ¿de dónde decía White que procedía esa información? No pesa igual una cifra recibida de otra persona, una generalización tomada de un historiador y una relación causal presentada específicamente como algo que le fue mostrado. Este capítulo examina ambas cosas: el contenido y su origen declarado.
+Pero identificar un error todavía deja una pregunta decisiva: ¿de dónde decía White que procedía esa información? No pesa igual una cifra recibida de otra persona, una generalización tomada de un historiador y una relación de causa y efecto presentada específicamente como algo que le fue mostrado. Este capítulo examina ambas cosas: el contenido y su origen declarado.
 
-Los capítulos anteriores nos dejaron varios controles. Utilizar fuentes humanas no equivale a equivocarse. Una narración dependiente puede ser exacta y una narración original puede contener errores. Una revisión puede corregir un dato sin demostrar engaño. Y un libro publicado bajo el nombre de White puede haber recibido contribuciones de asistentes cuyo alcance debemos investigar, sin atribuirles cualquier dificultad por conjetura.
+Los capítulos anteriores nos dejaron varios controles. Utilizar fuentes humanas no equivale a equivocarse. Un relato tomado de otro autor puede ser exacto y uno original puede contener errores. Una revisión puede corregir un dato sin demostrar engaño. Y un libro publicado bajo el nombre de White puede haber recibido contribuciones de asistentes cuyo alcance debemos investigar, sin atribuirles cualquier dificultad por conjetura.
 
-Con esos controles, la pregunta no es si dijo cosas que hoy nos resultan extrañas. Es cuáles de sus afirmaciones podemos comprobar suficientemente y qué importancia tiene cada resultado para su pretensión profética.
+Con esos controles, la pregunta no es si dijo cosas que hoy nos resultan extrañas. Es cuáles de sus afirmaciones podemos comprobar suficientemente y qué importancia tiene cada resultado para su afirmación de ser profeta.
 
 ## 1. ¿Qué tendría que ocurrir para que pudiéramos hablar de un error?
 
 Necesitamos una afirmación identificable y evidencia independiente que permita evaluarla. Si White dice que un pueblo fue el primero en traducir las Escrituras, podemos buscar traducciones anteriores. Si atribuye una enfermedad a una práctica, podemos investigar esa relación causal. Si habla de una escena futura o de un agente sobrenatural sin consecuencias verificables, la comprobación es mucho más limitada.
 
-También debemos establecer qué significa realmente la frase. Una persona puede decir «el sol salió» sin estar defendiendo una astronomía geocéntrica. «Veneno lento» puede describir razonablemente el daño del tabaco aunque no sea una definición farmacológica. Pero «esta práctica provoca estas enfermedades» contiene una afirmación médica, aunque esté escrita para madres y no para especialistas.
+También debemos establecer qué significa realmente la frase. Una persona puede decir «el sol salió» sin estar defendiendo una astronomía en la que todo gira alrededor de la Tierra. «Veneno lento» puede describir razonablemente el daño del tabaco aunque no sea una definición técnica de cómo actúa una sustancia en el cuerpo. Pero «esta práctica provoca estas enfermedades» contiene una afirmación médica, aunque esté escrita para madres y no para especialistas.
 
 Distinguiremos afirmaciones verdaderas, aproximadamente correctas pero imprecisas, discutidas, no verificables, aparentemente erróneas y claramente erróneas. La diferencia importa. Una afirmación discutida no se vuelve falsa porque una crítica la repita; una afirmación falsa tampoco se vuelve indemostrable por la sola posibilidad de una interpretación alternativa.
 
@@ -32,17 +32,17 @@ Aquí tenemos una discrepancia ordinaria reconocida y una explicación de proced
 
 No encontramos una promesa inequívoca de ese alcance. El prefacio de *The Great Controversy* combina dos elementos: White atribuye su conocimiento de grandes escenas a iluminación divina y reconoce que utilizó historiadores para presentar acontecimientos. Una misma obra podía contener, según su explicación, escenas que consideraba mostradas y datos organizados con fuentes humanas.[^4]
 
-Eso vuelve insuficientes dos atajos. Uno sería afirmar que cualquier error de un historiador empleado por White prueba una falsa visión. Otro sería afirmar que, por haber empleado historiadores, ninguna afirmación histórica del libro pudo reclamar autoridad revelada.
+Eso vuelve insuficientes dos atajos. Uno sería afirmar que cualquier error de un historiador utilizado por White prueba una falsa visión. Otro sería afirmar que, por haber empleado historiadores, ninguna afirmación histórica del libro pudo reclamar autoridad revelada.
 
 Debemos buscar el vínculo particular. ¿Dice que vio esa cifra, esa prioridad o ese decreto? ¿O emplea información histórica para desarrollar una interpretación religiosa más amplia? A veces podremos responder; otras veces la documentación dejará el origen individual indeterminado.
 
-La investigación del capítulo 11 mostró además un proceso editorial real. En la revisión de 1911 participaron investigadores y asistentes; White expresó aprobación de los cambios. Esa aprobación permite atribuirle responsabilidad por la edición publicada, pero no identificar sin más quién escribió inicialmente cada frase. La comparación de versiones nos dirá qué cambió; la cadena documental, cuánto sabemos de su responsabilidad.
+La investigación del capítulo 11 mostró además un proceso editorial real. En la revisión de 1911 participaron investigadores y asistentes; White expresó aprobación de los cambios. Esa aprobación permite atribuirle responsabilidad por la edición publicada, pero no identificar sin más quién escribió inicialmente cada frase. La comparación de versiones nos dirá qué cambió; los documentos del proceso, cuánto sabemos de su responsabilidad.
 
 ## 4. ¿Hay alguna afirmación histórica claramente incorrecta que después se corrigiera?
 
 Sí. En 1888, *The Great Controversy* decía que los valdenses fueron los primeros de todos los pueblos europeos en obtener una traducción de las Sagradas Escrituras. En 1911 pasó a decir que estuvieron «entre los primeros».[^5]
 
-La diferencia cambia la afirmación. La versión antigua atribuía una prioridad absoluta; la nueva la abandona. Existía una traducción gótica asociada a Wulfila en el siglo IV, mucho antes del movimiento valdense medieval. El *Codex argenteus* conservado en Uppsala contiene evangelios de esa traducción; el códice se copió aproximadamente a principios del siglo VI. La fecha del ejemplar y la de la traducción son diferentes, pero ambas bastan para mostrar el problema de la prioridad valdense.[^6]
+La diferencia cambia la afirmación. La versión antigua decía que los valdenses habían sido los primeros sin excepción; la nueva abandona esa afirmación. Existía una traducción gótica asociada a Wulfila en el siglo IV, mucho antes del movimiento valdense medieval. El *Codex argenteus* conservado en Uppsala contiene evangelios de esa traducción; el códice se copió aproximadamente a principios del siglo VI. La fecha del ejemplar y la de la traducción son diferentes, pero ambas bastan para mostrar el problema de la prioridad valdense.[^6]
 
 W. W. Prescott señaló precisamente la traducción gótica cuando propuso corregir el pasaje en 1910. Aquí conocemos una vía humana concreta para la corrección: una objeción histórica, investigación editorial y nueva redacción. No fue sólo modernizar una palabra desagradable.
 
@@ -54,29 +54,29 @@ Una explicación contemporánea que restringiera claramente el sentido de «prim
 
 No. Algunas corrigieron el contenido; otras mejoraron precisión o estilo. Dos cambios muestran por qué hay que mirar cada caso.
 
-En 1888 se afirmaba que el papa se llamaba a sí mismo «Señor Dios el Papa». En 1911 se dijo que había sido llamado así. No es lo mismo adoptar personalmente un título que recibirlo en palabras de otro autor. La investigación editorial no había hallado apoyo suficiente para la autoatribución. La nueva frase reduce ese problema, aunque no convierte el título en una denominación papal oficial.[^7]
+En 1888 se afirmaba que el papa se llamaba a sí mismo «Señor Dios el Papa». En 1911 se dijo que había sido llamado así. No es lo mismo adoptar personalmente un título que recibirlo en palabras de otro autor. La investigación editorial no había hallado apoyo suficiente para la autoatribución. La nueva frase reduce ese problema, aunque no convierte el título en uno usado oficialmente por el papado.[^7]
 
-Otro pasaje decía que todo lo considerado herético, personas o escritos, había sido destruido. La revisión dijo que la Iglesia había procurado destruirlo. Una intención represiva y una destrucción completa son proposiciones diferentes. La supervivencia de escritos contradice la universalidad literal de la primera. La segunda conserva el reproche histórico sin afirmar éxito total.[^8]
+Otro pasaje decía que todo lo considerado herético, personas o escritos, había sido destruido. La revisión dijo que la Iglesia había procurado destruirlo. Intentar destruir algo y conseguirlo por completo son afirmaciones diferentes. Que hayan sobrevivido escritos contradice la afirmación literal de que se destruyó todo. La segunda conserva el reproche histórico sin afirmar éxito total.[^8]
 
 En cambio, «cuarenta años» entre la advertencia sobre Jerusalén y su destrucción pasó a «casi cuarenta». Esa diferencia puede ser un redondeo razonable que se vuelve más preciso, no un error sustancial. Sustituir *Romish* por *Roman* responde principalmente al lenguaje y su recepción.
 
-Que varias modificaciones aparezcan en la misma edición no les da el mismo significado. La categoría debe surgir de la proposición que cambió y del motivo documentado, no de una regla que convierta cualquier revisión en confesión o que las declare todas mejoras editoriales sin importancia.
+Que varias modificaciones aparezcan en la misma edición no les da el mismo significado. La clasificación debe surgir de qué afirmación cambió y del motivo documentado, no de una regla que convierta cualquier revisión en confesión o que las declare todas mejoras editoriales sin importancia.
 
 ## 6. ¿Qué ocurre con el relato de la Revolución Francesa?
 
-Es un caso más difícil porque la revisión no resuelve todo. La descristianización fue real: hubo cierres de iglesias, destrucción de objetos religiosos, quemas de Biblias y violencia contra el culto. La dificultad está en convertir esa campaña en una secuencia jurídica nacional precisa.
+Es un caso más difícil porque la revisión no resuelve todo. La campaña contra la religión cristiana fue real: hubo cierres de iglesias, destrucción de objetos religiosos, quemas de Biblias y violencia contra el culto. La dificultad está en convertir esa campaña en una secuencia precisa de leyes para todo el país.
 
 La edición de 1888 decía que la Asamblea nacional había prohibido la Palabra de Dios. También narraba un decreto de 1793 que prohibía la Biblia y una resolución que lo rescindió tres años y medio después. En 1911 la primera afirmación cambió a abolición del culto a la Deidad; la segunda habló de decretos que abolieron la religión cristiana y dejaron de lado la Biblia, conservando el intervalo.[^9]
 
-Prescott y quienes revisaban el texto no habían podido encontrar el decreto nacional de prohibición bíblica tal como se describía. Una búsqueda sin resultado no demuestra por sí sola que jamás existió ningún instrumento parecido. Pero tenemos además un documento positivo: el 6 de diciembre de 1793 la Convención aprobó un decreto contra medidas que vulneraran la libertad de cultos.[^10]
+Prescott y quienes revisaban el texto no habían podido encontrar el decreto nacional de prohibición bíblica tal como se describía. Una búsqueda sin resultado no demuestra por sí sola que jamás existió ninguna disposición legal parecida. Pero tenemos además un documento positivo: el 6 de diciembre de 1793 la Convención aprobó un decreto contra medidas que vulneraran la libertad de cultos.[^10]
 
 Ese decreto conservaba excepciones y medidas represivas. No prueba una libertad religiosa plena y efectiva. Sí impide narrar sin explicación una prohibición nacional uniforme que sólo se habría levantado tres años y medio después. La tolerancia formal de diciembre y las persecuciones reales pueden coexistir; el relato debe reconocer ambas.
 
-Por eso hay un núcleo histórico verdadero y una reconstrucción jurídica sustancialmente defectuosa. No basta decir que hubo Biblias quemadas para demostrar el decreto. Y reemplazar «Biblia» por «culto» modifica el problema sin aportar automáticamente el instrumento que falta.
+Por eso hay hechos históricos verdaderos y una reconstrucción de las leyes con errores importantes. No basta decir que hubo Biblias quemadas para demostrar el decreto. Y reemplazar «Biblia» por «culto» modifica el problema sin aportar automáticamente el instrumento que falta.
 
 ## 7. ¿Podría proceder ese problema de una fuente humana?
 
-Sí. El relato utiliza la historia de William Russell, y la investigación editorial volvió sobre esa fuente para examinar la supuesta prohibición. La cadena documentable incluye el historiador, el texto publicado por White y una revisión que conserva parte de la secuencia.[^11]
+Sí. El relato utiliza la historia de William Russell, y la investigación editorial volvió sobre esa fuente para examinar la supuesta prohibición. Los documentos permiten seguir el relato desde el historiador hasta el texto publicado por White y una revisión que conserva parte de la secuencia.[^11]
 
 Eso ofrece una explicación humana posible del error. No demuestra por sí solo que White leyera directamente cada fuente que terminó citada, ni determina quién incorporó cada frase. Tampoco permite afirmar que el error deja de existir porque ya estuviera en un historiador.
 
@@ -86,7 +86,7 @@ El caso pesa como dificultad histórica real. Su peso como error de una revelaci
 
 ## 8. ¿Las cifras y los relatos de la Reforma producen otros errores seguros?
 
-No todos. En el pasaje francés que hablaba de diez años, «millones» pasó a «multitudes». La reducción del compromiso cuantitativo está documentada. Pero los muertos judiciales del Terror no agotan las guerras, la represión y otros conflictos del periodo. No podemos declarar falsa la cifra sólo por compararla con un recuento de guillotinados. Falta establecer el universo de víctimas que la frase incluye.[^12]
+No todos. En el pasaje francés que hablaba de diez años, «millones» pasó a «multitudes». Está documentado que la revisión dejó de afirmar una cantidad tan precisa. Pero los muertos judiciales del Terror no agotan las guerras, la represión y otros conflictos del periodo. No podemos declarar falsa la cifra sólo por compararla con un recuento de guillotinados. Falta establecer qué víctimas abarca la frase.[^12]
 
 Algo parecido ocurre con Tyndale. Una crítica histórica contrapone seis mil ejemplares del Nuevo Testamento a los tres mil mencionados por White. Sin embargo, el catálogo de una biblioteca que conserva la edición completa de Worms admite una tirada de quizá tres mil. El número no queda refutado por elegir otra estimación. La diferencia entre el intento incompleto de Colonia y la edición completa de Worms sí está documentada; la secuencia exacta de una segunda edición requiere más control bibliográfico.[^13]
 
@@ -96,11 +96,11 @@ También debe descartarse una acusación demasiado rápida sobre Babel. Una fras
 
 ## 9. ¿Qué cambia al pasar de historia a ciencia?
 
-La exigencia de identificar la afirmación sigue siendo la misma. Lo que cambia es la evidencia con la que la contrastamos. Un decreto se busca en documentos; una explicación del volcanismo se contrasta con geología; una relación causal médica requiere evidencia clínica y conocimiento de mecanismos.
+La exigencia de identificar la afirmación sigue siendo la misma. Lo que cambia es la evidencia con la que la contrastamos. Un decreto se busca en documentos; una explicación del volcanismo se contrasta con geología; para saber si algo causa una enfermedad hacen falta estudios médicos y entender cómo se produciría ese daño.
 
 También necesitamos dos cronologías. Una indica qué se publicó antes o después de White. La otra, cuándo se alcanzó una evidencia suficientemente fuerte. Que una afirmación fuera común en 1864 puede explicar su aparición, pero no hacerla verdadera. Que una advertencia fuera acertada antes de la aceptación general tampoco demuestra que nadie pudiera conocerla normalmente.
 
-No pediremos a un texto popular que use todas las palabras actuales. Sí examinaremos si sus diferencias alteran lo que afirma. Una referencia a roca endurecida no requiere precisión de un tratado mineralógico; un mecanismo que dice qué causa volcanes es una proposición más exigente.
+No pediremos a un texto popular que use todas las palabras actuales. Sí examinaremos si sus diferencias alteran lo que afirma. Una referencia a roca endurecida no requiere precisión de un tratado mineralógico; afirmar qué causa los volcanes exige una prueba más precisa.
 
 En ciencia, además, la posibilidad de un milagro no se decide mediante un experimento ordinario. Pero una explicación que reclama describir fenómenos físicos deja consecuencias evaluables. No debemos convertirla en inmune a toda evidencia precisamente cuando esa evidencia crea una dificultad.
 
@@ -111,11 +111,11 @@ Su explicación contiene partes diferentes. Dice que grandes bosques fueron ente
 
 El origen vegetal del carbón es correcto en términos generales. También existen incendios naturales subterráneos de carbón y rocas alteradas por su calor. Estos hechos merecen reconocerse. No prueban que el mecanismo descrito explique los volcanes. La edad de la Tierra y la cronología geológica no se utilizan aquí como evidencia a favor ni en contra de White.[^18]
 
-La mejor defensa invoca incendios que producen materiales semejantes a escoria o lava. La semejanza no identifica la causa. La combustión de un manto de carbón y la formación y ascenso de magma son fenómenos diferentes. Del mismo modo, formar un mineral de hierro no demuestra que se haya fundido una mena de hierro.
+La mejor defensa invoca incendios que producen materiales semejantes a escoria o lava. La semejanza no identifica la causa. La combustión de un manto de carbón y la formación y ascenso de magma, roca fundida del interior terrestre, son fenómenos diferentes. Del mismo modo, que se forme un mineral de hierro no demuestra que se haya fundido la roca de la que se extrae ese metal.
 
 La explicación general del volcanismo mediante carbón, aceite, caliza y agua resulta científicamente incorrecta. Si White hubiera descrito sólo un incendio local identificable, la evaluación sería distinta. Pero el pasaje habla de montañas ardientes y fenómenos terrestres amplios; no se limita claramente a ese caso.[^19]
 
-El marco es revelatorio y contiene una escena introducida con «vi». No queda delimitado de manera individual qué parte de cada mecanismo químico fue vista y cuál fue formulada o inferida. Ese límite de atribución debe conservarse sin ocultar el problema físico.
+El relato se presenta como revelación y contiene una escena introducida con «vi». No podemos distinguir con precisión qué parte de cada explicación química decía haber visto y cuál pudo haber elaborado o deducido después. Ese límite de atribución debe conservarse sin ocultar el problema físico.
 
 ## 11. ¿Podemos llamar errores a todos sus comentarios sobre fósiles y seres antiguos?
 
@@ -133,7 +133,7 @@ En 1864 escribió sobre «amalgamation of man and beast», que habría deformado
 
 No sería correcto afirmar que sólo hablaba de corrupción moral: el segundo pasaje menciona especies y consecuencias físicas. Tampoco sería correcto traducir automáticamente «of man and beast» como una afirmación inequívoca de cruces entre seres humanos y animales. La construcción admite esa lectura, pero también una mezcla dentro de cada grupo.
 
-La referencia a «ciertas razas» está realmente en el texto. Los nombres de pueblos concretos que a veces se le atribuyen proceden de la explicación de Uriah Smith, no de esas frases de White. Debemos conservar esa diferencia, aunque resulte incómoda.
+El texto sí menciona «ciertas razas». Los nombres de pueblos concretos que a veces se le atribuyen proceden de la explicación de Uriah Smith, no de esas frases de White. Debemos conservar esa diferencia, aunque resulte incómoda.
 
 Si se interpreta como híbridos humanos y animales, la afirmación no cuenta con apoyo biológico sólido. Si se interpreta como cruces entre poblaciones humanas y entre animales, algunas mezclas son posibles, pero todavía habría que identificar cuáles explicarían las especies y razas mencionadas. La vaguedad no confirma esa explicación alternativa; impide resolverla por completo.
 
@@ -141,9 +141,9 @@ Si se interpreta como híbridos humanos y animales, la afirmación no cuenta con
 
 Ya en 1868, Smith, defensor adventista, la utilizó. Su respuesta relacionó la mezcla humano/animal con pueblos que describió mediante categorías raciales desacreditadas. Eso muestra que la lectura existió cerca de la publicación original y dentro de la defensa, no sólo en una lista crítica moderna.[^22]
 
-Pero Smith no es White. La recomendación de su libro por James White no demuestra que Ellen aprobara cada argumento ni que ésa fuera necesariamente su intención. Una recepción temprana pesa como evidencia interpretativa; no equivale a una explicación autógrafa de la autora.
+Pero Smith no es White. La recomendación de su libro por James White no demuestra que Ellen aprobara cada argumento ni que ésa fuera necesariamente su intención. Una interpretación cercana a la publicación ayuda a entender cómo se leyó el texto; no equivale a una explicación escrita por la propia autora.
 
-La defensa distributiva, desarrollada posteriormente, merece consideración porque la gramática permite examinarla. No debe presentarse como significado original demostrado sólo porque evita la dificultad. Su fecha tardía no la vuelve falsa, pero obliga a buscar evidencia adicional.
+La defensa posterior de que hablaba de mezclas dentro de cada grupo merece consideración porque la gramática permite examinarla. No debe presentarse como significado original demostrado sólo porque evita la dificultad. Su fecha tardía no la vuelve falsa, pero obliga a buscar evidencia adicional.
 
 Las frases no fueron incluidas en narraciones ampliadas posteriores. Una omisión tampoco equivale a retractación ni prueba por qué se omitieron. Sin una explicación de White que identifique el mecanismo, el expediente permanece ambiguo. Una carta contemporánea o un manuscrito que resolviera los referentes cambiaría mucho la evaluación. Mientras falte, no convertiremos la ambigüedad en absolución ni en condena científica inequívoca.
 
@@ -177,13 +177,13 @@ Es importante conservar esos límites. Un patrón alimentario favorable no signi
 
 White también protestó contra negar agua a personas con fiebre y contra tratamientos indiscriminados peligrosos. Hay un fundamento humano y clínico en esas advertencias. Algunas recomendaciones sobre embarazo y cuidado infantil contienen igualmente núcleos razonables. No debemos descartar una instrucción verdadera porque aparezca cerca de otra equivocada.
 
-La evaluación simétrica reconoce el acierto y después pregunta cuánto demuestra. Ese segundo paso nos lleva al problema de la anterioridad y de la información ordinaria.
+Aplicar el mismo criterio a todos los casos exige reconocer el acierto y después preguntar cuánto demuestra. Ese segundo paso nos lleva al problema de la anterioridad y de la información ordinaria.
 
 ## 17. ¿Esos aciertos prueban que se adelantó sobrenaturalmente a la medicina?
 
 No. Pueden preceder a una aceptación general posterior y seguir siendo conocimientos normalmente disponibles. Advertir contra el tabaco antes del consenso epidemiológico del siglo XX es valioso; no demuestra que nadie hubiera advertido su daño antes de White. Graham, Coles y otros reformadores ya difundían ejercicio, dieta y crítica a estimulantes.
 
-Debe distinguirse además una predicción específica de una coincidencia amplia. Recomendar alimentos vegetales y luego encontrar un estudio favorable sobre cereales integrales no significa haber anticipado su resultado cuantitativo. Decir que un hábito perjudica la salud no equivale a identificar un mecanismo, una dosis y una enfermedad que nadie podía conocer.
+Debe distinguirse además una predicción específica de una coincidencia amplia. Recomendar alimentos vegetales y luego encontrar un estudio favorable sobre cereales integrales no significa haber anticipado las cifras de sus resultados. Decir que un hábito perjudica la salud no equivale a identificar un mecanismo, una dosis y una enfermedad que nadie podía conocer.
 
 Los mejores candidatos merecen el mismo control del capítulo 8: texto anterior, precisión, información disponible y alternativas. La combinación de consejos puede haber sido útil y haber tenido influencia real, pero utilidad e inaccesibilidad humana son preguntas diferentes.
 
@@ -199,27 +199,27 @@ Dijo que los niños que lo practicaban antes de la pubertad sufrirían consecuen
 
 Hay reservas que debemos conservar. No dijo que todos los jóvenes débiles fueran culpables de esos hábitos. Tampoco que cada persona padecería todas las enfermedades enumeradas. La intensidad y duración aparecen en su argumento. Criticarla como si hubiera afirmado que una sola ocasión necesariamente produce todas esas consecuencias sería incorrecto.
 
-Pero esas reservas no eliminan el contenido causal. El texto atribuye enfermedades y muerte a una práctica mediante desgaste de fuerzas vitales. Ésa es la proposición que debe contrastarse, separada de la ética sexual del lector.
+Pero esas reservas no eliminan el contenido causal. El texto atribuye enfermedades y muerte a una práctica mediante desgaste de fuerzas vitales. Ésa es la afirmación que debe contrastarse, separada de la ética sexual del lector.
 
 ## 19. ¿La medicina actual confirma esas consecuencias?
 
-No confirma ese síndrome orgánico general. La historia de la medicina permite reconocerlo como una creencia antigua, extendida antes de White, acerca de masturbación, debilitamiento y enfermedad mental. No era un descubrimiento singular suyo.[^30]
+No confirma que la práctica cause ese conjunto de enfermedades del cuerpo. La historia de la medicina muestra que la idea de que la masturbación debilitaba el cuerpo y causaba enfermedad mental estaba extendida antes de White. No era un descubrimiento singular suyo.[^30]
 
 Ese contexto tampoco debe caricaturizarse. Algunos médicos buscaban tratar lo que consideraban una enfermedad, no sólo castigar una conducta. Comprender su intención y sus categorías ayuda a leer el texto; no confirma la relación causal que proponían.
 
-La medicina sexual actual distingue una práctica de los problemas que pueden acompañar una conducta compulsiva. Puede haber pérdida de control, descuido, lesiones, angustia o deterioro de funcionamiento. Eso no convierte la práctica en causa del conjunto de tuberculosis, cáncer, daño renal y enfermedad mental descrito en el folleto. Tampoco la desaprobación moral basta para diagnosticar un trastorno.[^31]
+La medicina sexual actual distingue una práctica de los problemas que pueden acompañar una conducta compulsiva. Puede haber pérdida de control, descuido, lesiones, angustia o dificultades importantes en la vida diaria. Eso no convierte la práctica en causa del conjunto de tuberculosis, cáncer, daño renal y enfermedad mental descrito en el folleto. Tampoco la desaprobación moral basta para diagnosticar un trastorno.[^31]
 
 El problema no consiste en exigirle el nombre de un microorganismo todavía desconocido. Consiste en que una explicación causal general del deterioro orgánico resulta equivocada. Que una persona enferma también se masturbara no demuestra por qué enfermó; que estuviera agotada tampoco identifica la causa de un tumor o de una infección.
 
-El vocabulario médico antiguo requiere cuidado. «Humor canceroso» no es automáticamente un diagnóstico histológico moderno. Esa cautela impide atribuirle más precisión de la que tenía; no vuelve correcto que el hábito activara una enfermedad destructiva latente mediante pérdida de fuerza vital.
+El vocabulario médico antiguo requiere cuidado. «Humor canceroso» no equivale sin más a un cáncer diagnosticado hoy mediante el examen de tejidos. Esa cautela impide atribuirle más precisión de la que tenía; no vuelve correcto que el hábito activara una enfermedad destructiva latente mediante pérdida de fuerza vital.
 
-La conclusión alcanza al síndrome causal descrito, no a toda observación sobre exceso, compulsión o cansancio. El texto mezcla preocupaciones que pueden tener un fundamento con relaciones médicas sustancialmente incorrectas.
+La conclusión se refiere al conjunto de enfermedades descrito y a la causa que se les atribuye, no a toda observación sobre exceso, compulsión o cansancio. El texto mezcla preocupaciones que pueden tener un fundamento con relaciones médicas sustancialmente incorrectas.
 
 ## 20. ¿La defensa basada en exceso, fantasías o zinc resuelve el problema?
 
 Sólo parcialmente. Una defensa seria recuerda que White hablaba de hábitos persistentes, pensamiento e incapacidad de control. Eso corrige lecturas caricaturescas. Pero no permite convertir una lista de enfermedades físicas en una simple advertencia sobre descuidar responsabilidades.
 
-Douglass también recurre a la posible pérdida de zinc y a explicaciones posteriores de conducta sexual. Una posibilidad fisiológica no demuestra la cadena clínica. No se encontró evidencia robusta de que la pérdida de zinc por masturbación produzca el síndrome descrito. Y una explicación basada en pérdida seminal masculina no resuelve por sí sola lo afirmado sobre mujeres.[^32]
+Douglass también recurre a la posible pérdida de zinc y a explicaciones posteriores de conducta sexual. Que esa pérdida sea posible en el cuerpo no demuestra que produzca las enfermedades descritas. No se encontró evidencia robusta de que la pérdida de zinc por masturbación produzca el síndrome descrito. Y una explicación basada en pérdida seminal masculina no resuelve por sí sola lo afirmado sobre mujeres.[^32]
 
 La defensa puede mostrar que no todo el párrafo carece de sentido: el exceso que impide dormir, trabajar o cuidarse puede ser perjudicial. Pero ésa no es una confirmación de tuberculosis, daño renal o humores cancerosos por el mecanismo propuesto.
 
@@ -233,7 +233,7 @@ Eso da al caso mayor peso que una opinión doméstica sin pretensión de revelac
 
 No se encontró un manuscrito que muestre que un asistente añadió la lista de enfermedades. Su intervención es una posibilidad general del proceso editorial, no una explicación documentada de este caso.
 
-Estamos, por tanto, ante una de las dificultades más fuertes del capítulo: una relación factual sustancialmente incorrecta presentada como algo mostrado. La matriz del libro no permite neutralizarla mediante una declaración general de falibilidad personal. El problema pesa seriamente contra ese mensaje; la evaluación completa del ministerio queda para el capítulo final.
+Estamos, por tanto, ante una de las dificultades más fuertes del capítulo: una afirmación de causa y efecto sustancialmente incorrecta presentada como algo mostrado. La matriz del libro no permite neutralizarla mediante una declaración general de falibilidad personal. El problema pesa seriamente contra ese mensaje; la evaluación completa del ministerio queda para el capítulo final.
 
 ## 22. ¿Qué afirmó sobre medicamentos y qué contexto debemos conservar?
 
@@ -243,9 +243,9 @@ Incluso «no hay antídoto», en su descripción de estricnina, no es por sí so
 
 También formuló afirmaciones más amplias. Dijo que se le había mostrado que el consumo de medicamentos había causado más muertes que todas las demás causas juntas. Y sostuvo que los medicamentos nunca curan, sino que cambian la forma y ubicación de la enfermedad.[^35]
 
-La primera contiene una magnitud no sustentada por el expediente histórico examinado. No disponemos de una contabilidad completa que permita reemplazarla por otra cifra segura; la clasificamos como aparentemente errónea y no como comparación numérica demostrada por nosotros. La violencia de algunos tratamientos no basta para confirmar «más que todo lo demás».
+La primera atribuye una cantidad de muertes que la documentación histórica examinada no respalda. No disponemos de una contabilidad completa que permita reemplazarla por otra cifra segura; la clasificamos como aparentemente errónea y no como comparación numérica demostrada por nosotros. La violencia de algunos tratamientos no basta para confirmar «más que todo lo demás».
 
-La segunda niega una eficacia de clase. Su contexto puede restringirla a medicación dañina e indiscriminada, pero necesita justificar esa restricción frente a palabras tan generales y a sustancias reales de la época. No podemos salvarla introduciendo automáticamente todas las excepciones de una medicina posterior.
+La segunda niega que esos medicamentos puedan curar. Su contexto puede restringirla a medicación dañina e indiscriminada, pero necesita justificar esa restricción frente a palabras tan generales y a sustancias reales de la época. No podemos salvarla introduciendo automáticamente todas las excepciones de una medicina posterior.
 
 ## 23. ¿Había medicamentos eficaces en su propio tiempo?
 
@@ -265,15 +265,15 @@ La pregunta necesita dividirse. Hay evidencia fuerte de que la carne procesada a
 
 White formuló advertencias generales sobre carne, tumores y cáncer. Podemos reconocer una coincidencia parcial con conocimientos actuales sin atribuirle el detalle de una clasificación que no escribió. Tampoco era una idea sin antecedentes: Coles ya relacionaba carne y cáncer en 1853.[^40]
 
-Otro pasaje de *The Ministry of Healing* afirma que las personas comen carne llena de gérmenes tuberculosos y cancerosos, y que de ese modo se comunican tuberculosis, cáncer y otras enfermedades. La tuberculosis zoonótica por productos animales infectados es un riesgo real. No confirma automáticamente lo dicho sobre cáncer.[^41]
+Otro pasaje de *The Ministry of Healing* afirma que las personas comen carne llena de gérmenes tuberculosos y cancerosos, y que de ese modo se comunican tuberculosis, cáncer y otras enfermedades. El contagio de tuberculosis por productos de animales infectados es un riesgo real. No confirma automáticamente lo dicho sobre cáncer.[^41]
 
 La frase reúne relaciones distintas. Una puede ser razonablemente correcta como posibilidad, otra demasiado amplia y otra aparentemente errónea. Un párrafo no tiene que recibir una sola clasificación. El consejo práctico de evitar alimento infectado tampoco resuelve qué mecanismo atribuyó a una enfermedad particular.
 
 ## 25. ¿Los virus relacionados con cáncer confirman la frase sobre gérmenes de carne?
 
-No por sí solos. Algunos agentes infecciosos pueden favorecer determinados cánceres. Eso impide ridiculizar la palabra «gérmenes» como si ninguna infección pudiera intervenir en un tumor. Pero transmitir un agente que aumenta riesgo y transmitir el cáncer de un animal al comer su carne no son la misma proposición.[^42]
+No por sí solos. Algunos agentes infecciosos pueden favorecer determinados cánceres. Eso impide ridiculizar la palabra «gérmenes» como si ninguna infección pudiera intervenir en un tumor. Pero transmitir un agente que aumenta riesgo y transmitir el cáncer de un animal al comer su carne no son la misma afirmación.[^42]
 
-La frase de White fija una ruta: se ingiere carne con esos gérmenes y «así» se comunican las enfermedades. La existencia de virus oncogénicos humanos o de carcinógenos en ciertos alimentos no demuestra esa cadena. Tampoco las estadísticas sobre carne procesada identifican un germen canceroso de animales como explicación.
+La frase de White fija una vía de contagio: se ingiere carne con esos gérmenes y «así» se comunican las enfermedades. La existencia de virus humanos que favorecen el cáncer, o de sustancias cancerígenas en ciertos alimentos, no demuestra esa vía de contagio. Tampoco las estadísticas sobre carne procesada identifican un germen canceroso de animales como explicación.
 
 Podría proponerse que «germ» significa semilla o principio de enfermedad en un sentido amplio. Esa posibilidad evita exigir una terminología microbiológica exacta; todavía tiene que explicar la transmisión concreta. La defensa reduce una dificultad verbal y conserva otra causal.
 
@@ -283,15 +283,15 @@ La clasificación más prudente es aparentemente errónea, con evidencia fuerte 
 
 Hay que aplicar el mismo procedimiento, aunque el resultado cambie. White describió café y té como estimulantes, habló de malestar al dejarlos y los llamó venenos lentos semejantes al tabaco, aunque de menor efecto. Estímulo y abstinencia tienen fundamento; deterioro general por cualquier consumo es otra afirmación.[^43]
 
-Una revisión de metaanálisis sobre café encuentra numerosas asociaciones favorables, limitaciones para establecer causalidad y excepciones importantes, entre ellas embarazo. No demuestra que todos deban tomarlo. Sí vuelve inadecuado sostener una degeneración inevitable para todo consumo habitual. Tampoco sus resultados pueden trasladarse automáticamente al té.[^44]
+Una revisión que reúne análisis de muchos estudios sobre café encuentra numerosas asociaciones favorables, limitaciones para establecer causalidad y excepciones importantes, entre ellas embarazo. No demuestra que todos deban tomarlo. Sí vuelve inadecuado sostener una degeneración inevitable para todo consumo habitual. Tampoco sus resultados pueden trasladarse automáticamente al té.[^44]
 
-Otros casos requieren más reservas. Que el cerdo mal tratado pueda transmitir parásitos no prueba que cause lepra, escrófula y humores cancerosos como se afirmaba. Hay que identificar qué enfermedad significaban esos términos. Que un peinado pesado cause dolor o irritación no demuestra el mecanismo de insania irreversible atribuido a ciertas pelucas. Y valorar una descripción de los hijos hecha por Jackson no equivale a afirmar por revelación que todo el sistema frenológico fuera verdadero.[^45]
+Otros casos requieren más reservas. Que el cerdo mal tratado pueda transmitir parásitos no prueba que cause lepra, escrófula y humores cancerosos como se afirmaba. Hay que identificar qué enfermedad significaban esos términos. Que un peinado pesado cause dolor o irritación no demuestra que ciertas pelucas causaran una enfermedad mental irreversible por el mecanismo descrito. Y valorar una descripción de los hijos hecha por Jackson no equivale a afirmar por revelación que toda la frenología, que pretendía conocer el carácter por la forma del cráneo, fuera verdadera.[^45]
 
 Estos ejemplos permanecen en el inventario con sus límites. No reciben el peso de una afirmación causal clara introducida como información mostrada. Conservarlos evita seleccionar sólo lo favorable o sólo lo desfavorable; desarrollarlos todos con igual extensión convertiría el capítulo en una colección de curiosidades.
 
 ## 27. ¿Qué permite concluir el conjunto sin forzar una respuesta uniforme?
 
-Permite afirmar que White publicó errores históricos, y que algunas revisiones corrigieron contenido. La prioridad valdense es un caso claro; la secuencia jurídica francesa conserva problemas incluso después de revisarse. Otras modificaciones son precisión, estilo o reducción de una cifra todavía discutida.
+Permite afirmar que White publicó errores históricos, y que algunas revisiones corrigieron contenido. La prioridad atribuida a los valdenses es un caso claro; la secuencia de leyes francesas conserva problemas incluso después de revisarse. Otras modificaciones son precisión, estilo o reducción de una cifra todavía discutida.
 
 Permite reconocer un conflicto fuerte entre determinadas explicaciones geológicas y la evidencia científica. También obliga a dejar ambigua la amalgamación y a no fabricar un error astronómico con testimonios mezclados. Parte del lenguaje popular es razonable; algunas explicaciones generales son incorrectas.
 

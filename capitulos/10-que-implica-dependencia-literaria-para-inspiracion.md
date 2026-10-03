@@ -4,25 +4,25 @@ El capítulo anterior estableció que Ellen White utilizó escritos de otros aut
 
 Nada de esto debe hacerse más fuerte o más débil para facilitar la respuesta de este capítulo. Tampoco debemos convertir el 31,4 % de unidades dependientes en la muestra de Veltman en un porcentaje de palabras copiadas o de todos los escritos de White.
 
-Ahora la pregunta cambia. Si una frase, una explicación o una secuencia tiene un antecedente humano, ¿coincide ese origen con el que White afirmó que tenía? Podemos encontrar una respuesta distinta para una narración histórica, una exhortación religiosa y unas palabras presentadas como pronunciadas por un mensajero celestial.
+Ahora la pregunta cambia. Si una frase, una explicación o una secuencia ya aparece en una obra anterior, ¿coincide ese origen con el que White afirmó que tenía? Podemos encontrar una respuesta distinta para una narración histórica, una exhortación religiosa y unas palabras presentadas como pronunciadas por un mensajero celestial.
 
 ## 1. ¿Qué tendría que demostrarse para que hubiera una contradicción?
 
 Tendrían que encontrarse dos afirmaciones que no puedan ser verdaderas al mismo tiempo. Utilizar un historiador y afirmar que Dios orientó el mensaje general de un libro no son, por sí solas, afirmaciones incompatibles. Utilizar un historiador y afirmar que ese mismo dato se recibió sin ninguna información humana previa sería una cuestión diferente.
 
-Hay que precisar qué se atribuye a Dios. Puede ser una experiencia, una enseñanza, el recuerdo de una escena, la elección de palabras o la información necesaria para ordenar una narración. También hay que precisar qué sabemos del origen humano: una frase anterior permite identificar un antecedente literario; no siempre permite saber cuándo se leyó, quién la incorporó o si la autora decía haber recibido antes una enseñanza semejante.
+Hay que precisar qué se atribuye a Dios. Puede ser una experiencia, una enseñanza, el recuerdo de una escena, la elección de palabras o la información necesaria para ordenar una narración. También hay que precisar qué sabemos del origen humano: encontrar una frase en una obra anterior permite identificar una posible fuente. No siempre permite saber cuándo se leyó, quién la incorporó o si la autora decía haber recibido antes una enseñanza semejante.
 
-La prueba más exigente une tres elementos: un contenido que depende de una fuente humana, una declaración sobre el origen de **ese mismo contenido** y una incompatibilidad real entre ambos. Si además queremos afirmar que hubo una mentira consciente, necesitamos evidencia sobre conocimiento e intención. Una contradicción documental y una intención de engañar no son la misma conclusión.
+La prueba más exigente une tres elementos: un contenido que depende de una fuente humana, una declaración sobre el origen de **ese mismo contenido** y una incompatibilidad real entre ambos. Si además queremos afirmar que hubo una mentira consciente, necesitamos pruebas de qué sabía y qué quiso hacer. Una contradicción documental y una intención de engañar no son la misma conclusión.
 
-La matriz bíblica del proyecto permite esta investigación. Jeremías 23 advierte contra presentar como palabra divina lo que procede del propio corazón. Pero esa advertencia no convierte toda intervención humana en falsa profecía. El problema es atribuir falsamente el origen, no simplemente descubrir un libro sobre el escritorio.[^2]
+La matriz bíblica del proyecto permite esta investigación. Jeremías 23 advierte contra presentar como palabra divina lo que procede del propio corazón. Pero esa advertencia no convierte toda intervención humana en falsa profecía. El problema es presentar falsamente como recibido de Dios algo que tuvo otro origen; descubrir un libro sobre el escritorio no basta.[^2]
 
 ## 2. ¿Puede un escrito considerado inspirado utilizar fuentes humanas?
 
-Dentro de la premisa cristiana del proyecto, sí. Lucas comienza diciendo que otros habían compuesto relatos, que hubo transmisión de testigos y que él investigó cuidadosamente antes de escribir un relato ordenado. Lucas 1:1–4 no presenta investigación y fe como alternativas excluyentes. El texto considerado inspirado informa de un trabajo humano real.[^3]
+Sí, si partimos, como hace este libro, del reconocimiento cristiano de la Biblia como inspirada. Lucas comienza diciendo que otros habían compuesto relatos, que hubo transmisión de testigos y que él investigó cuidadosamente antes de escribir un relato ordenado. Lucas 1:1–4 no presenta investigación y fe como alternativas excluyentes. El texto considerado inspirado informa de un trabajo humano real.[^3]
 
 Otros libros bíblicos mencionan fuentes. Primera de Reyes remite a registros sobre Salomón y a las crónicas de los reyes de Israel y Judá. Segunda de Crónicas nombra relatos asociados con Natán, Ahías e Iddo. No conservamos todos esos documentos, de modo que no podemos medir cuánto tomaron los autores; sí podemos ver que reconocían materiales anteriores.[^3]
 
-Los evangelios sinópticos comparten relatos, frases y órdenes de exposición. La curación del paralítico en Marcos 2, Mateo 9 y Lucas 5 permite observar semejanzas y diferencias sin resolver aquí todas las discusiones sobre cuál evangelio utilizó cuál. Judas 14–15 reproduce una tradición que también aparece en 1 Enoc 1:9. Esto muestra que un autor bíblico podía incorporar material anterior; no demuestra que validara todo el libro del que procedía ni que hubiera visto personalmente la escena citada.[^4]
+Mateo, Marcos y Lucas, llamados evangelios sinópticos por sus semejanzas, comparten relatos, frases y orden de exposición. La curación del paralítico en Marcos 2, Mateo 9 y Lucas 5 permite observar semejanzas y diferencias sin resolver aquí todas las discusiones sobre cuál evangelio utilizó cuál. Judas 14–15 reproduce una tradición que también aparece en 1 Enoc 1:9. Esto muestra que un autor bíblico podía incorporar material anterior; no demuestra que validara todo el libro del que procedía ni que hubiera visto personalmente la escena citada.[^4]
 
 Estas analogías tienen un límite. Lucas declara que investigó. Reyes remite a fuentes. Ninguno de esos ejemplos demuestra que sea correcto describir como una voz o una visión específica una información obtenida de otra manera. La comparación bíblica abre la posibilidad de inspiración con fuentes; no certifica cualquier descripción del proceso.
 
@@ -34,19 +34,19 @@ No. Pero tampoco describió todos sus escritos como reflexiones religiosas perso
 
 En una respuesta pública de 1867, explicó que dependía del Espíritu tanto para recibir como para escribir sus visiones. Añadió que las palabras empleadas al describir lo visto eran propias, **salvo las que le hablaba un ángel**, que encerraba entre comillas. El contexto era una pregunta sobre el vestido: no había recibido una medida en pulgadas y debía describir con su lenguaje lo que decía haber visto.[^5]
 
-La distinción es importante en los dos sentidos. Permite una formulación humana de la experiencia; también reserva una categoría más fuerte para las palabras atribuidas a un mensajero. No podemos borrar esa excepción y dejar solamente «las palabras eran mías».
+La distinción importa en ambos sentidos. Permite una formulación humana de la experiencia; también reserva una categoría más fuerte para las palabras atribuidas a un mensajero. No podemos borrar esa excepción y dejar solamente «las palabras eran mías».
 
-En el manuscrito «Objections to the Bible», catalogado en 1886 sin fecha exacta, explicó que los escritores bíblicos no eran la pluma de Dios, sino sus escribientes: la inspiración actuaba sobre la persona y sus pensamientos, y éstos se expresaban mediante lenguaje humano. El referente principal era la Biblia, aunque al comienzo relacionaba las malas interpretaciones de sus propios escritos con las de la Escritura. Es una explicación pertinente de su modelo, no una autorización explícita para atribuir falsamente una fuente.[^6]
+En el manuscrito «Objections to the Bible», catalogado en 1886 sin fecha exacta, explicó que los escritores bíblicos no eran la pluma de Dios, sino sus escribientes: la inspiración actuaba sobre la persona y sus pensamientos, y éstos se expresaban mediante lenguaje humano. Hablaba principalmente de la Biblia, aunque al comienzo relacionaba las malas interpretaciones de sus propios escritos con las de la Escritura. Es una explicación pertinente de su modelo, no una autorización explícita para atribuir falsamente una fuente.[^6]
 
 En 1906, David Paulson le expresó la creencia de que cada palabra pronunciada o escrita por ella, en público o en privado y bajo cualquier circunstancia, tenía la misma inspiración que los Diez Mandamientos. White respondió que nunca había hecho esa afirmación. En la misma carta reafirmó sus mensajes y reprodujo declaraciones anteriores sobre su origen divino. Rechazar la formulación de Paulson no significaba retirar su pretensión de revelación.[^7]
 
-El modelo documentado combina recepción divina, expresión humana y autoridad religiosa. No es un dictado universal. Esa conclusión, sin embargo, todavía no determina el sentido de cada «me fue mostrado» o «mi guía dijo».
+Su explicación combina mensajes recibidos de Dios, palabras humanas para comunicarlos y autoridad religiosa. No es un dictado universal. Esa conclusión, sin embargo, todavía no determina el sentido de cada «me fue mostrado» o «mi guía dijo».
 
 ## 4. ¿Qué autoridad atribuía a cartas, artículos y libros?
 
-Una autoridad considerable. El capítulo 3 mostró que White no limitaba su pretensión a discursos pronunciados durante una visión. En el testimonio dirigido a Battle Creek en 1882 presentó una carta como comunicación impulsada por el Espíritu y sus artículos como exposición de lo que Dios le había abierto en visión. Negaba estar expresando **meramente** ideas propias. No es una afirmación de independencia bibliográfica; sí es una afirmación de procedencia religiosa que el lector tenía derecho a tomar en serio.[^8]
+Una autoridad considerable. El capítulo 3 mostró que White no limitaba su pretensión a discursos pronunciados durante una visión. En el testimonio dirigido a Battle Creek en 1882 presentó una carta como comunicación impulsada por el Espíritu y sus artículos como exposición de lo que Dios le había abierto en visión. Negaba estar expresando **meramente** ideas propias. No afirma que escribiera sin consultar libros; sí reclama un origen divino que el lector tenía derecho a tomar en serio.[^8]
 
-En 1889 rechazó una separación que permitiera aceptar como inspirados ciertos testimonios y descartar otros como opinión personal sólo porque hubieran surgido después de recibir noticias humanas. Su comparación con Pablo, informado por los de Cloé, permite distinguir la información sobre una situación de la enseñanza aplicada a ella. La existencia de información humana no anulaba, según ella, la autoridad del mensaje.[^8]
+En 1889 rechazó una separación que permitiera aceptar como inspirados ciertos testimonios y descartar otros como opinión personal sólo porque hubieran surgido después de recibir noticias humanas. Lo comparaba con Pablo, que recibió noticias de la casa de Cloé. Así distinguía entre enterarse de una situación y aplicar una enseñanza a ella. La existencia de información humana no anulaba, según ella, la autoridad del mensaje.[^8]
 
 En el prólogo de *The Great Controversy* de 1888 afirmó haber recibido iluminación sobre escenas del conflicto entre el bien y el mal. Allí también reconoció haber utilizado historiadores. En una carta abierta fechada en diciembre de 1902 y publicada en enero de 1903 atribuyó a Dios la instrucción contenida en libros como *Christ's Object Lessons*, *Patriarchs and Prophets*, *The Great Controversy* y *The Desire of Ages*.[^9]
 
@@ -56,9 +56,9 @@ Estas declaraciones no permiten reducir su pretensión a «Dios puede bendecir u
 
 Sí, y tenemos documentos anteriores a las explicaciones de 1911.
 
-En *Spiritual Gifts*, volumen 2, publicado en 1860, explicó que no recordaba inmediatamente todo al salir de una visión. Según ella, las escenas volvían mientras escribía o cuando se encontraba ante una comunidad a la que se aplicaban. Atribuía al Espíritu esa recuperación. Es una descripción temprana de memoria y escritura; no prueba que un recuerdo particular tuviera origen divino ni que cada frase posterior estuviera presente en la experiencia inicial.[^10]
+En *Spiritual Gifts*, volumen 2, publicado en 1860, explicó que no recordaba inmediatamente todo al salir de una visión. Según ella, las escenas volvían mientras escribía o cuando se encontraba ante una comunidad a la que se aplicaban. Atribuía al Espíritu esa recuperación. Es una explicación temprana de cómo recordaba y escribía. No prueba que un recuerdo particular tuviera origen divino ni que cada frase posterior estuviera presente en la experiencia inicial.[^10]
 
-En diciembre de 1885 pidió a Edson y William White que Mary le consiguiera historias bíblicas que le dieran **el orden de los acontecimientos**. La carta es un documento privado sobre una necesidad concreta. No dice que toda su narración procediera de esos libros; sí muestra que el orden histórico podía buscarse mediante lectura.[^10]
+En diciembre de 1885 pidió a Edson y William White que Mary le consiguiera historias bíblicas que le dieran **el orden de los acontecimientos**. La carta es un documento privado sobre una necesidad concreta. No dice que toda su narración procediera de esos libros; sí muestra que podía leer para ordenar los acontecimientos.[^10]
 
 Su prólogo de 1888 reconocía algo más que una ayuda gramatical. Los historiadores podían resumir hechos o agrupar detalles de manera conveniente; en esos casos utilizaba sus palabras. También utilizaba escritos de otros sobre el movimiento de reforma de su tiempo. Explicaba que no daba crédito específico en muchos casos porque no citaba a esos autores como autoridad, sino porque proporcionaban una presentación útil.[^9]
 
@@ -66,7 +66,7 @@ En 1906 describió una escritura posterior a las experiencias. Explicó que Jame
 
 También hay declaraciones que exigen más cuidado. En febrero de 1894 escribió a Fannie Bolton que sus palabras e ideas no debían reemplazar las que White consideraba recibidas de Dios. Defendía incluso expresiones que la editora podía juzgar inferiores. No podemos presentar esa carta como si White fuera indiferente a las palabras. Tampoco podemos convertir una disputa sobre cómo editar sus escritos en una afirmación universal de que nunca seleccionó expresiones ajenas.[^12]
 
-En abril de 1897 negó la acusación de que había extraído **todo** lo escrito de otros libros y de que sus asistentes producían el contenido. En junio rechazó otra versión de la acusación: que recogía cosas de libros y las enviaba como algo mostrado por el Señor. La segunda formulación toca directamente nuestro problema. El contexto de ambas cartas impide resumirlas como una sencilla negación de cualquier préstamo; pero la amplitud de la negación de junio tampoco queda resuelta sólo porque en abril hubiera respondido a una acusación total. Debemos conservar esa ambigüedad.[^12]
+En abril de 1897 negó la acusación de que había extraído **todo** lo escrito de otros libros y de que sus asistentes producían el contenido. En junio rechazó otra versión de la acusación: que recogía cosas de libros y las enviaba como algo mostrado por el Señor. La segunda negación toca directamente nuestro problema. El contexto de ambas cartas impide resumirlas como una sencilla negación de cualquier préstamo; pero el alcance de la negación de junio tampoco queda claro sólo porque en abril hubiera respondido a la acusación de haberlo tomado todo. Debemos conservar esa ambigüedad.[^12]
 
 La lectura, la memoria y la edición estaban presentes en su descripción del trabajo. Falta ver si esa descripción explica los casos donde el texto dependiente aparece dentro de una revelación específica.
 
@@ -78,11 +78,11 @@ Hay, sin embargo, una diferencia entre dos explicaciones. Una dice que White com
 
 Las dependencias sobre Pablo y la vida de Jesús tampoco quedan desmentidas por llamar al proceso «inspiración de pensamiento». Las fuentes pudieron proporcionar formulaciones, detalles, ideas y orden, no sólo palabras intercambiables. Aun así, para demostrar falsa atribución debemos encontrar una afirmación de origen que corresponda a esos elementos concretos.
 
-Los documentos examinados no permiten afirmar que todo lo que White tomó en esos libros había sido presentado por ella como información nueva, recibida sin medios humanos. Tampoco permiten probar que cada préstamo era una expresión de algo revelado antes. La compatibilidad de un procedimiento y la prueba de una revelación efectiva son conclusiones distintas.
+Los documentos examinados no permiten afirmar que todo lo que White tomó en esos libros había sido presentado por ella como información nueva, recibida sin medios humanos. Tampoco permiten probar que cada préstamo era una expresión de algo revelado antes. Que ese modo de escribir fuera compatible con su explicación no demuestra que hubiera recibido una revelación.
 
 ## 7. ¿Qué ocurre cuando una advertencia atribuida a Dios utiliza una exhortación anterior?
 
-El testimonio de Battle Creek de 1882 ofrece un cruce importante. En la misma comunicación donde White defendió el origen divino de sus mensajes aparece una exhortación muy cercana a *Night Scenes in the Bible*, de Daniel March. March había escrito que la duda que exige conocimiento perfecto nunca cede a la fe, que la fe no descansa en demostración y que hay que obedecer la voz del deber entre voces contrarias. White conserva la secuencia y varias expresiones; cambia, entre otras cosas, «probabilidad» por «evidencia».[^14]
+El testimonio de Battle Creek de 1882 reúne dos datos importantes. En la misma comunicación donde White defendió el origen divino de sus mensajes aparece una exhortación muy cercana a *Night Scenes in the Bible*, de Daniel March. March había escrito que la duda que exige conocimiento perfecto nunca cede a la fe, que la fe no descansa en demostración y que hay que obedecer la voz del deber entre voces contrarias. White conserva la secuencia y varias expresiones; cambia, entre otras cosas, «probabilidad» por «evidencia».[^14]
 
 La dependencia literaria está documentada. No sería correcto decir que la frase no procede de una fuente porque ahora forma parte de un testimonio religioso.
 
@@ -100,13 +100,13 @@ En la escena, el juez dirige preguntas y palabras a quienes no habían aprovecha
 
 La sucesión tiene un antecedente identificable. En *Walks and Homes of Jesus*, publicado en 1866, March describe el amor de Jesús como más abnegado que el de una madre. Luego invita a mirar la cruz y escribe que ésta **parece decirnos** unas palabras: borrar el registro de iniquidad, sufrir la oscuridad de la tumba, abrir las puertas de la vida y soportar vergüenza y agonía para recuperar al alma errante. El cotejo de las páginas 316–317 muestra la combinación y el orden; White adapta y amplía el texto.[^15]
 
-Aquí el cruce es más fuerte que en la advertencia de 1882. March compone una apelación imaginada desde la cruz. White integra material semejante en palabras pronunciadas dentro de una escena que atribuye a una visión. No se trata únicamente de fechas históricas prestadas para un libro.
+Aquí la coincidencia plantea una dificultad mayor que en la advertencia de 1882. March compone una apelación imaginada desde la cruz. White integra material semejante en palabras pronunciadas dentro de una escena que atribuye a una visión. No se trata únicamente de fechas históricas prestadas para un libro.
 
-La dependencia de la formulación está **establecida**; el uso directo de March, sin una fuente intermedia, es **probable**. La atribución a la escena visionaria también está **establecida**. No hemos localizado una constancia fechada de lectura ni un borrador anterior que permita separar lo que White recordaba de lo que añadió al escribir.
+Está **establecido** que la redacción utiliza una fuente anterior; es **probable** que usara directamente a March, sin otra obra intermedia. La atribución a la escena visionaria también está **establecida**. No hemos localizado una constancia fechada de lectura ni un borrador anterior que permita separar lo que White recordaba de lo que añadió al escribir.
 
 Una explicación favorable sería que utilizó la apelación de March para expresar una experiencia que consideraba auténtica. Otra sería que una lectura previa reapareció en su experiencia. La primera frase del relato, sobre la insuficiencia del lenguaje, deja lugar a una descripción elaborada; no demuestra que ése fuera precisamente el proceso de este párrafo. La hipótesis de que la escena se construyó a partir de literatura también merece consideración, pero el paralelo no reconstruye por sí solo la experiencia interior.
 
-Por tanto, hay una dificultad real de atribución y una **posible** presentación equívoca del origen de las palabras. No está demostrado que no hubiera ninguna experiencia ni que el relato fuera deliberadamente inventado. Una identificación del texto humano es más firme que cualquiera de esas reconstrucciones de lo ocurrido durante la noche.
+Por tanto, hay una dificultad real de atribución y una **posible** presentación equívoca del origen de las palabras. No está demostrado que no hubiera ninguna experiencia ni que el relato fuera deliberadamente inventado. Podemos identificar el texto humano con más seguridad que reconstruir lo ocurrido durante la noche.
 
 ## 9. ¿Es más precisa la atribución del diario de 1890?
 
@@ -116,9 +116,9 @@ Dentro de ese discurso aparece una explicación: Dios sabe mejor que nosotros qu
 
 La combinación procede de una exposición de Friedrich Wilhelm Krummacher en *Elijah the Tishbite*. La edición inglesa de Robert Carter de 1847, páginas 20–21, permite comprobarla antes del diario de White. No todas las traducciones inglesas emplean las mismas palabras; por eso hay que identificar la edición en vez de comparar títulos sin más. White reorganiza y adapta el pasaje, y continúa con lenguaje sobre avanzar por fe.[^16]
 
-La dependencia literaria de ese conjunto está **establecida**. Su inclusión en un discurso atribuido a un guía celestial también lo está. La explicación «ella solamente afirmó que el mensaje general era inspirado» resulta insuficiente: el documento dice algo más concreto, incluso acerca de las palabras que debía hablar.
+La dependencia literaria de ese conjunto está **establecida**. También está establecido que ese material aparece en un discurso atribuido a un guía celestial. La explicación «ella solamente afirmó que el mensaje general era inspirado» resulta insuficiente: el documento dice algo más concreto, incluso acerca de las palabras que debía hablar.
 
-Eso no establece todavía que el guía jamás pudiera repetir una enseñanza conocida ni que White pretendiera ofrecer una transcripción literal sin elaboración. Pero esas posibilidades son explicaciones, no documentos del proceso particular. Tampoco basta citar «inspiración de pensamiento», porque aquí el material anterior incluye una idea y su desarrollo, además del lenguaje.
+Eso no establece todavía que el guía jamás pudiera repetir una enseñanza conocida ni que White pretendiera ofrecer una transcripción literal sin elaboración. Pero esas posibilidades son explicaciones, no documentos del proceso particular. Tampoco basta citar «inspiración de pensamiento», porque aquí la fuente anterior aporta una idea y su desarrollo, además de las palabras.
 
 La distinción de 1867 entre palabras propias y palabras de un ángel añade una tensión. El diario habla de un «guía», sin identificar en este pasaje con precisión su naturaleza, y no explica que esté utilizando a Krummacher. No podemos equiparar automáticamente cada guía con el ángel de aquella respuesta; sí debemos preguntar qué entendería el lector ante «habla las palabras que te doy».
 
@@ -130,15 +130,15 @@ La negación dirigida a Bolton en junio de 1897 vuelve más exigente la pregunta
 
 El caso de Queensland muestra por qué hay que seguir el texto a través de sus versiones. En unas notas de viaje de octubre de 1898, con una entrada encabezada «October 29», White refiere una reunión vista de noche y presenta al Gran Maestro hablando a ministros y trabajadores. El material se publicó en *Review and Herald* el 4 de abril de 1899 y pasó a *Testimonies*, volumen 6.[^17]
 
-El antecedente literario no fue escrito por John Harris, autor de *The Great Teacher*, sino por **Heman Humphrey**, que redactó la introducción de la edición estadounidense de 1836. Allí aparecen la recomendación de decir algo digno del tiempo del público, una secuencia de textos bíblicos y una descripción de la sabiduría, el amor, la justicia y la misericordia infinitos de Cristo. Esos elementos reaparecen, con cambios, en el texto de White.[^17]
+El pasaje anterior aparece en *The Great Teacher*, de John Harris, pero lo escribió **Heman Humphrey** para la introducción estadounidense de 1836. Allí aparecen la recomendación de decir algo digno del tiempo del público, una secuencia de textos bíblicos y una descripción de la sabiduría, el amor, la justicia y la misericordia infinitos de Cristo. Esos elementos reaparecen, con cambios, en el texto de White.[^17]
 
 Rea interpretó el caso como palabras de Humphrey puestas en boca del Maestro celestial. La cuestión es si todo el pasaje dependiente pertenecía al discurso atribuido al Maestro. El artículo de 1899 no encierra ese discurso completo entre comillas. Las comillas de la versión de *Testimonies* discutida en 1981 hacían parecer que la atribución continuaba durante tres párrafos. Los investigadores del White Estate dijeron que se habían añadido editorialmente y propusieron terminar el discurso antes.[^18]
 
-Hay un dato comprobable y una interpretación. Podemos comprobar en el impreso de 1899 la ausencia de esas comillas delimitadoras y en la transcripción de las notas la ausencia de una señal inequívoca del cierre. La propuesta de dónde cerrar el discurso es una interpretación; no es una instrucción autógrafa recuperada. Según el informe de 1981, el manuscrito de puño y letra se había perdido y se conservaba una copia mecanografiada.
+Hay un dato comprobable y una interpretación. Podemos comprobar en el impreso de 1899 la ausencia de esas comillas delimitadoras y en la transcripción de las notas la ausencia de una señal inequívoca del cierre. Decidir dónde termina el discurso exige interpretar el texto; no se ha recuperado una indicación escrita por White que lo aclare. Según el informe de 1981, el manuscrito de puño y letra se había perdido y se conservaba una copia mecanografiada.
 
 Además, Ron Graybill corrigió su primera explicación pocas semanas después: había dependencia también en la recomendación del primer párrafo y en la secuencia bíblica del segundo. Por eso no puede sostenerse que todo el material relacionado con Humphrey quede fuera del discurso solamente moviendo una comilla.[^18]
 
-El uso de esa tradición textual está **establecido**. Es **probable** que haya alcanzado también la organización de la instrucción atribuida al Maestro; la coincidencia de una recomendación aislada sería débil, pero adquiere más peso dentro del conjunto. El alcance exacto del discurso sigue **indeterminado**. El caso no autoriza a afirmar que todo el pasaje de Humphrey fue literalmente pronunciado en una visión, ni queda completamente explicado por el problema editorial.
+El uso de esa tradición textual está **establecido**. Es **probable** que esa fuente también haya influido en el orden de la instrucción atribuida al Maestro; la coincidencia de una recomendación aislada sería débil, pero adquiere más peso dentro del conjunto. El alcance exacto del discurso sigue **indeterminado**. El caso no autoriza a afirmar que todo el pasaje de Humphrey fue literalmente pronunciado en una visión, ni queda completamente explicado por el problema editorial.
 
 ## 11. ¿Reconoció White que una lectura podía preceder a una escena nocturna?
 
@@ -146,7 +146,7 @@ Sí. Es una evidencia que limita una interpretación crítica demasiado amplia.
 
 En una carta a A. G. Daniells del 1 de noviembre de 1903, White cuenta que poco antes había leído la historia de un barco que encontró un iceberg en la niebla. Después refiere una escena nocturna semejante, una voz que ordenaba enfrentar el peligro y una aplicación a la situación religiosa que la preocupaba. No oculta que la lectura precedió a la escena.[^19]
 
-Este documento no prueba que una intervención divina causara el sueño. Tampoco demuestra que todas las visiones hubieran nacido de lecturas. Sí refuta una regla demasiado simple: «si White menciona una visión, está afirmando necesariamente que no hubo ningún antecedente humano». Aquí reconoce ambos elementos en el mismo relato.
+Este documento no prueba que Dios causara el sueño. Tampoco demuestra que todas las visiones hubieran nacido de lecturas. Sí refuta una regla demasiado simple: «si White menciona una visión, está afirmando necesariamente que no hubo ningún antecedente humano». Aquí reconoce ambos elementos en el mismo relato.
 
 Hay otra precisión. En un texto fechado en Omaha el 12 de septiembre de 1904, archivado como manuscrito 10 de 1905, dice que intentará repetir **en palabras finitas** la instrucción pronunciada por alguien con autoridad. Luego presenta palabras de un mensajero celestial entre comillas. El documento muestra que las comillas y «el mensajero dijo» no siempre significaban para ella una transcripción verbal exacta.[^19]
 
@@ -168,7 +168,7 @@ La negación de 1867 es específica y verificable: un registro de lectura anteri
 
 ## 13. ¿Su explicación permaneció igual durante toda su vida?
 
-Hay continuidad, mayor explicitud y tensiones que no deben confundirse.
+Hay ideas que se mantienen, explicaciones cada vez más detalladas y tensiones entre declaraciones. No son lo mismo.
 
 La continuidad más clara está en la pretensión de recibir mensajes de Dios y en la necesidad de expresarlos por medios humanos. La explicación de memoria de 1860 y la respuesta de 1867 ya distinguen experiencia y descripción; el manuscrito catalogado en 1886 desarrolla una explicación de inspiración que no elimina la persona. La admisión pública de historiadores en 1888 precede a Rea por muchas décadas. No sería correcto presentar toda esa explicación como una invención adventista de 1981.
 
@@ -185,7 +185,7 @@ Pero tampoco apareció todo desde el principio con igual claridad. La petición 
 
 Los recuerdos de William White sobre una dirección divina para seleccionar materiales son pertinentes porque participó en el trabajo. Olson cita una carta suya a E. E. Andross de junio de 1920 con esa explicación; no hemos cotejado aquí la carta completa. Debe identificarse como un recuerdo del hijo, transmitido por esa fuente, no como un registro contemporáneo de cada selección ni una declaración de su madre escrita en la fecha de cada préstamo.[^22]
 
-No está establecida una transición sencilla de «todo dictado» a «todo humano». Tampoco una uniformidad sin dificultades. Hay un modelo que permite fuentes y afirmaciones particulares que requieren pruebas adicionales. El desarrollo de una explicación no es por sí mismo contradicción; llamarlo desarrollo tampoco elimina una contradicción si llegara a demostrarse.
+No se ha demostrado un cambio sencillo de «todo dictado» a «todo humano». Tampoco que siempre diera la misma explicación sin dificultades. Hay un modelo que permite fuentes y afirmaciones particulares que requieren pruebas adicionales. El desarrollo de una explicación no es por sí mismo contradicción; llamarlo desarrollo tampoco elimina una contradicción si llegara a demostrarse.
 
 ## 14. ¿Qué significa que algunos préstamos carecieran de atribución específica?
 
@@ -219,11 +219,11 @@ La crítica más fuerte pregunta si White presentó contenido humano como una co
 
 En 1879 y 1890 hay dependencia textual y atribución celestial del mismo tramo. No son pruebas que podamos descartar porque el mensaje resulte edificante. En Queensland hay dependencia y un problema adicional de delimitación editorial. En salud hay una negación explícita que puede ponerse a prueba.
 
-El paso todavía no demostrado es que el origen celestial afirmado fuera falso. Un antecedente literario establece una vía humana de composición; no reconstruye por sí solo toda la experiencia ni excluye que una enseñanza conocida reapareciera en ella. Para probar una falsa atribución con mayor fuerza harían falta, por ejemplo, borradores que mostraran la conversión de una extracción en un relato de revelación, una negación específica contradicha por registros de lectura, o instrucciones que permitieran saber qué pretendía presentar como palabras recibidas.
+Lo que todavía no se ha demostrado es que fuera falso el origen celestial que afirmó. Un antecedente literario establece una vía humana de composición; no reconstruye por sí solo toda la experiencia ni excluye que una enseñanza conocida reapareciera en ella. Para probar una falsa atribución con mayor fuerza harían falta, por ejemplo, borradores que mostraran la conversión de una extracción en un relato de revelación, una negación específica contradicha por registros de lectura, o instrucciones que permitieran saber qué pretendía presentar como palabras recibidas.
 
 La explicación favorable también debe poder perder. Una nota previa a la lectura, suficientemente cercana en contenido y fechada de manera independiente, favorecería una enseñanza anterior a la fuente. Una instrucción de White que distinguiera en el pasaje la voz recibida y la formulación prestada aclararía su intención. En cambio, una admisión de que no hubo la experiencia narrada, o evidencia de haber negado una lectura que sabía haber realizado, la contradiría seriamente.
 
-Si nunca pretendió afirmar que cada formulación era recibida directamente, esperaríamos encontrar distinciones entre la experiencia y su redacción. Existen algunas: 1867, 1888 y 1904. Si distinguía conscientemente los dos procesos en los casos difíciles, esperaríamos una señal documental que permitiera aplicarlo allí. Esa señal no se ha localizado para el juicio y el diario. Su ausencia conserva la pregunta; no certifica ninguna de las reconstrucciones.
+Si nunca pretendió afirmar que cada formulación era recibida directamente, esperaríamos encontrar distinciones entre la experiencia y su redacción. Existen algunas: 1867, 1888 y 1904. Si distinguía conscientemente los dos procesos en los casos difíciles, esperaríamos un documento que mostrara esa distinción en esos casos. Esa señal no se ha localizado para el juicio y el diario. Su ausencia conserva la pregunta; no certifica ninguna de las reconstrucciones.
 
 No todas las explicaciones tienen el mismo respaldo. La adaptación literaria tiene textos cotejables. La revelación previa, la reutilización durante un sueño y la elaboración posterior sin intención de transcribir son posibles en casos determinados, pero no cuentan con una documentación equivalente de su proceso. El capítulo no debe completar esos vacíos con confianza religiosa ni con sospecha.
 
@@ -233,15 +233,15 @@ Podemos concluir que el uso de fuentes humanas **no es por sí mismo incompatibl
 
 Las dependencias históricas documentadas en el capítulo 9 no establecen por sí solas una falsa atribución. Son compatibles con procedimientos que ella reconoció. Esto no prueba que esos libros fueran inspirados ni que cada elemento prestado expresara una revelación anterior.
 
-Los relatos de 1879 y 1890 establecen un cruce más exigente: una formulación dependiente aparece dentro de una comunicación celestial específica. Hay una **posible falsa atribución de origen**, que no debe ocultarse mediante una definición general. No queda demostrada porque falta establecer si White presentaba una reproducción literal e independiente de información humana, si formulaba después una experiencia o si una lectura había entrado en ella. El origen humano del lenguaje tiene más respaldo que cualquier explicación particular de la experiencia.
+Los relatos de 1879 y 1890 presentan una dificultad mayor: una redacción tomada de otra obra aparece dentro de una comunicación celestial específica. Hay una **posible falsa atribución de origen**, que no debe ocultarse mediante una definición general. No queda demostrada porque falta establecer si White presentaba una reproducción literal e independiente de información humana, si formulaba después una experiencia o si una lectura había entrado en ella. El origen humano del lenguaje tiene más respaldo que cualquier explicación particular de la experiencia.
 
 En Queensland, la dependencia está establecida y el alcance de la atribución permanece indeterminado; la explicación editorial aclara una parte y deja otra abierta. En salud, está establecido el antecedente del lenguaje, pero no la lectura concreta que contradiga la negación de White. La falta de crédito específico dificulta la comprobación y puede favorecer impresiones equivocadas; no demuestra, por sí sola, una mentira sobre revelación.
 
-Así, la respuesta no es igual para todos los contenidos. Hay compatibilidad documental en algunos procedimientos, tensiones concretas en otros y preguntas de origen que siguen **indeterminadas**. No se ha demostrado una falsedad de origen para todos sus escritos ni se ha verificado la explicación favorable de cada caso. La evaluación global de su pretensión deberá esperar a las demás pruebas; aquí debemos detenernos en esa diferencia.
+Así, la respuesta no es igual para todos los contenidos. Algunos modos de escribir coinciden con lo que ella reconoció; otros presentan tensiones concretas, y varias preguntas sobre el origen siguen **indeterminadas**. No se ha demostrado una falsedad de origen para todos sus escritos ni se ha verificado la explicación favorable de cada caso. La evaluación global de su pretensión deberá esperar a las demás pruebas; aquí debemos detenernos en esa diferencia.
 
 ## ¿Qué fuentes permiten comprobar este recorrido?
 
-Las citas en español del cuerpo son traducciones o resúmenes del sentido, no transcripciones de una edición castellana. Las fichas conservan los fragmentos originales relevantes, los cotejos, la cronología y las pruebas que podrían cambiar las conclusiones. Una transcripción archivística de una carta o manuscrito no equivale a haber examinado su autógrafo.
+Las citas en español del cuerpo son traducciones o resúmenes del sentido, no transcripciones de una edición castellana. Las fichas conservan los fragmentos originales relevantes, los cotejos, la cronología y las pruebas que podrían cambiar las conclusiones. Leer la transcripción de una carta o manuscrito conservada en un archivo no equivale a examinar el documento escrito de su puño y letra.
 
 [^1]: [Capítulo 9](09-utilizo-ellen-white-escritos-de-otros-autores.md) y sus cuatro fichas, en especial [cronología y límites](../hallazgos/capitulo-09-cronologia-reconocimientos-y-limites.md). Sus hechos y grados de certeza controlan este capítulo. No se revisa ni extrapola la medición de Veltman.
 

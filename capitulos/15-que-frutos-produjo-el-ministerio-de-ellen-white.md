@@ -4,7 +4,7 @@
 
 Debemos mirar lo que su ministerio ayudó a producir en otras personas. Una afirmación puede ser discutible y, aun así, impulsar una obra útil. Una intención puede ser buena y terminar imponiendo una carga. Un libro puede acercar a un lector a Cristo y convertirse, en otro contexto, en una autoridad que dificulta hacer preguntas.
 
-Por eso este capítulo no pregunta solamente si Ellen White hizo cosas buenas. Pregunta qué efectos espirituales, morales, prácticos e institucionales pueden atribuirse razonablemente a su influencia, y cuánto ayudan a evaluar el origen que reclamaba.
+Por eso este capítulo no pregunta solamente si Ellen White hizo cosas buenas. Pregunta qué efectos espirituales, morales, prácticos e institucionales pueden relacionarse razonablemente con su influencia, y cuánto ayudan a evaluar el origen que reclamaba.
 
 Los capítulos anteriores encontraron recomendaciones valiosas, errores, cambios, colaboración editorial, conflictos y límites documentales. Ahora no corresponde sumar hospitales para compensar errores médicos, ni sumar lectores heridos para cancelar todo servicio. Debemos reconstruir resultados y responsabilidades.
 
@@ -22,11 +22,11 @@ Pero ningún resultado queda interpretado con ponerle una etiqueta. Una idea hum
 
 ## ¿Cómo podemos distinguir su influencia de la del adventismo?
 
-Buscando una cadena entre intervención y resultado. Primero, una recomendación identificable. Después, decisiones o prácticas que la adopten. Finalmente, evidencia de lo que ocurrió. Cuando faltan eslabones, la atribución pierde fuerza.
+Buscando cómo una intervención suya condujo a un resultado. Primero, una recomendación identificable. Después, decisiones o prácticas que la adopten. Finalmente, evidencia de lo que ocurrió. Cuando faltan eslabones, la atribución pierde fuerza.
 
 No basta con que ella defendiera escuelas y más tarde existieran escuelas. Es más informativo encontrar correspondencia sobre un proyecto, decisiones de una junta y resultados de esa institución. Tampoco basta con que alguien haya sufrido dentro del adventismo: necesitamos conocer qué enseñanza recibió, cómo se aplicó y qué papel tuvo en su experiencia.
 
-Hay además cosas diferentes que clasificar. Un efecto puede estar establecido aunque su atribución a White siga indeterminada. Su participación puede ser importante aunque compartida. Y el valor puede ser mixto: una institución ofrece oportunidades reales mientras impone restricciones discutibles.
+Hay además cosas diferentes que clasificar. Podemos saber que algo ocurrió sin saber cuánto tuvo que ver White. Su participación puede ser importante aunque compartida. Y el valor puede ser mixto: una institución ofrece oportunidades reales mientras impone restricciones discutibles.
 
 El inventario considera un campo amplio, desde salud y misión hasta familia, igualdad y cultura de autoridad. El capítulo se concentra en cinco expedientes: salud, educación, experiencia devocional, organización misionera y autoridad. Los otros temas ayudan a comprobar a quiénes alcanzaron esos frutos y dónde debemos detenernos.[^inventario]
 
@@ -46,13 +46,13 @@ Esa limitación no vuelve irrelevante el resultado. Ayudar a crear una obra úti
 
 Permiten reconocer asociaciones favorables en poblaciones determinadas. No permiten calcular cuántos años añadió Ellen White a la vida de sus lectores.
 
-Un estudio de Fraser y Shavlik, publicado en 2001, analizó a 34.192 adventistas blancos no hispanos de California, de treinta años o más, con datos iniciados en 1976 y seguimiento hasta 1988. Comparó su supervivencia con datos estatales y examinó diferencias entre hábitos dentro de la cohorte.[^cohorte]
+Un estudio de Fraser y Shavlik, publicado en 2001, analizó a 34.192 adventistas blancos no hispanos de California, de treinta años o más, con datos iniciados en 1976 y seguimiento hasta 1988. Comparó su supervivencia con datos estatales y examinó diferencias entre hábitos dentro del grupo seguido por el estudio.[^cohorte]
 
-Era una investigación observacional. Dieta, actividad física, masa corporal y otras variables entraron en sus modelos; la población tenía una exposición tabáquica muy baja. El trabajo no midió lectura ni adhesión a White y no creó grupos iguales en educación, selección, religión y redes sociales que difirieran únicamente en su influencia.
+El estudio observó lo que ocurría, sin asignar hábitos a los participantes. Dieta, actividad física, masa corporal y otros factores se tuvieron en cuenta en sus cálculos; muy pocas personas de esa población fumaban. El trabajo no midió lectura ni adhesión a White y no creó grupos iguales en educación, selección, religión y redes sociales que difirieran únicamente en su influencia.
 
-El resultado es compatible con beneficios de un estilo de vida que ella promovió. Pero entre sus consejos del siglo XIX y aquella población median médicos, familias, normas comunitarias y generaciones. El título del artículo, *Ten Years of Life*, tampoco significa que todo adventista viviera diez años más por obedecerla.
+El resultado es compatible con beneficios de un estilo de vida que ella promovió. Pero entre sus consejos del siglo XIX y aquella población intervinieron médicos, familias, normas comunitarias y varias generaciones. El título del artículo, *Ten Years of Life*, tampoco significa que todo adventista viviera diez años más por obedecerla.
 
-Podemos conservar la contribución histórica probable a una cultura de hábitos saludables. Debemos dejar indeterminada la atribución causal específica de las diferencias de supervivencia. El estudio apoya una pregunta sobre estilo de vida; no fue diseñado para resolver una pretensión profética.
+Podemos conservar la contribución histórica probable a una cultura de hábitos saludables. Sigue indeterminado cuánto de esas diferencias de supervivencia se debía a ella. El estudio apoya una pregunta sobre estilo de vida; no fue diseñado para resolver una pretensión profética.
 
 ## ¿Qué papel tiene la temperancia en ese resultado?
 
@@ -60,9 +60,9 @@ Tiene un papel plausible, pero compartido. White promovió con fuerza el abandon
 
 Los capítulos sobre salud ya mostraron antecedentes humanos. Otros adventistas y movimientos de temperancia defendían esas ideas. No necesitamos atribuirle descubrimiento sobrenatural para reconocer que pudo reforzar su adopción.[^temperancia]
 
-La escasez de fumadores actuales en la cohorte citada es compatible con esa cultura. No identifica qué parte de la abstinencia vino de ella, de otros dirigentes, de la familia o de convicciones más amplias. Tampoco mide por sí sola todas las adicciones ni el efecto independiente del alcohol.
+La escasez de fumadores al comenzar el estudio citado es compatible con esa cultura. No identifica qué parte de la abstinencia vino de ella, de otros dirigentes, de la familia o de convicciones más amplias. Tampoco mide por sí sola todas las adicciones ni el efecto independiente del alcohol.
 
-Una conclusión favorable razonable es que ayudó a consolidar hábitos con potencial protector. La conclusión de que produjo exclusivamente la longevidad adventista sería mucho más amplia que la evidencia.
+Una conclusión favorable razonable es que ayudó a consolidar hábitos que podían proteger la salud. La conclusión de que produjo exclusivamente la longevidad adventista sería mucho más amplia que la evidencia.
 
 ## ¿Los beneficios sanitarios hacen desaparecer los errores anteriores?
 
@@ -72,7 +72,7 @@ Que ciertas prácticas alimentarias o la abstención del tabaco sean favorables 
 
 La integración de religión y salud podía motivar cuidado y disciplina. También podía hacer que una enfermedad se leyera como falta moral, o que disentir de una pauta pareciera desobediencia a Dios. Ese mecanismo merece examen. Su posibilidad no cuantifica malnutrición, mortalidad evitable ni daño psicológico.
 
-El balance conserva un fruto favorable de servicio y hábitos, con atribución importante pero compartida. Conserva también errores y posibilidades de daño cuyo alcance colectivo no está establecido. No corresponde convertir una parte del expediente en explicación de todo.
+El balance conserva un fruto favorable de servicio y hábitos, con atribución importante pero compartida. Conserva también errores y posibilidades de daño cuyo alcance entre sus seguidores no está establecido. No corresponde convertir una parte del expediente en explicación de todo.
 
 ## ¿Qué puede atribuirse a su influencia educativa?
 
@@ -104,7 +104,7 @@ Sí: la campaña que utilizó *Christ’s Object Lessons* para ayudar a escuelas
 
 En una reunión del 12 de abril de 1901, publicada dos días después, Percy Magan informó fondos recibidos y cantidades pendientes. Para Union College declaró 10.363,37 dólares en efectivo, que entendía aplicados a deuda. Es un informe contemporáneo de un resultado material, aunque no inspeccionamos los libros mayores.[^fondos]
 
-La diferencia entre efectivo, ventas, créditos y promesas evita inflar el resultado. Tampoco una entrada demuestra que desapareciera toda deuda. El punto es más delimitado: un recurso suyo, movilizado por otros, produjo ayuda informada por escuelas.
+Para no inflar el resultado hay que distinguir el dinero recibido de las ventas, los créditos y las promesas de pago. Tampoco una entrada demuestra que desapareciera toda deuda. El punto es más delimitado: un recurso suyo, movilizado por otros, produjo ayuda informada por escuelas.
 
 Ese fruto conserva valor aunque no demuestre el relato de instrucción angélica asociado a la donación. Una decisión generosa y eficaz puede tener explicación humana. A la vez, cooperación y recursos destinados a educación dificultan una descripción en la que toda influencia de White fuera improductiva o únicamente extracción para beneficio personal.
 
@@ -118,7 +118,7 @@ Los lectores habituales declararon con mayor frecuencia estudio bíblico diario 
 
 Pero los grupos no fueron asignados al azar. Los miembros más comprometidos podían leer tanto a White como la Biblia. La encuesta se hizo durante el culto y dejó fuera a quienes ya no asistían. No permite atribuir el contraste a un libro concreto ni describir a todos los exmiembros.
 
-El fruto favorable queda establecido como asociación dentro de aquella muestra. Su causa específica permanece indeterminada. Es una razón para conservar experiencias de esperanza y devoción, no para prometer que todo lector recibirá el mismo efecto.
+La relación favorable entre lectura y devoción está documentada en ese grupo. Su causa específica permanece indeterminada. Es una razón para conservar experiencias de esperanza y devoción, no para prometer que todo lector recibirá el mismo efecto.
 
 Queda otra dimensión: estudiar más la Biblia no dice por sí solo qué autoridad decide cómo interpretarla.
 
@@ -136,21 +136,21 @@ La intención merece conservarse y el uso distinto merece investigarse. No podem
 
 ## ¿Qué sabemos del miedo, la culpa y el perfeccionismo?
 
-Sabemos que hay experiencias de sufrimiento y críticas que deben escucharse. No sabemos, con las fuentes examinadas, su prevalencia mundial ni cuánto puede atribuirse específicamente a White.
+Sabemos que hay experiencias de sufrimiento y críticas que deben escucharse. No sabemos, con las fuentes examinadas, cuántas personas las vivieron en el mundo ni cuánto puede atribuirse específicamente a White.
 
 Walter Rea interpreta su influencia en términos de temor, presión religiosa y subordinación. Su crítica permite localizar problemas, pero sus generalizaciones no constituyen investigación comparativa de salud mental. Douglass recoge experiencias favorables; tampoco puede convertirlas en bienestar universal.[^mapas]
 
 Un estudio publicado online en 2020, aparecido en revista en 2021, examinó sequedad espiritual, exigencias percibidas y agotamiento entre 626 adventistas europeos que participaron voluntariamente por internet. Encontró asociaciones entre dificultades religiosas y bienestar. No midió exposición a los escritos de White ni representó todo adventismo.[^sequedad]
 
-No permite adjudicarle esas experiencias ni diagnosticar escrúpulo a una denominación. Tampoco puede combinarse con la encuesta de 1980 como si mostrara deterioro de las mismas personas.
+No permite atribuirle esas experiencias ni afirmar que toda una denominación sufre una preocupación religiosa patológica. Tampoco puede combinarse con la encuesta de 1980 como si mostrara deterioro de las mismas personas.
 
-Debemos separar enseñanza, interpretación, uso pastoral y resultado. Un lenguaje exigente recibe aplicaciones distintas; una experiencia de esperanza no invalida la de quien sufrió. Para atribuir daño psicológico faltan vínculos. La documentación institucional permite examinar, en cambio, una clase de miedo más delimitada: el costo de decir públicamente lo que se sabía.
+Debemos separar enseñanza, interpretación, uso pastoral y resultado. Un lenguaje exigente recibe aplicaciones distintas; una experiencia de esperanza no invalida la de quien sufrió. Para atribuirle daño psicológico falta demostrar esa relación. La documentación institucional permite examinar, en cambio, una clase de miedo más delimitada: el costo de decir públicamente lo que se sabía.
 
 ## ¿Ayudó White a repartir responsabilidad dentro de la organización?
 
 Su intervención favoreció reformas que ampliaron la participación administrativa. En 1901 criticó que pocos hombres pretendieran gestionar una obra extensa y reclamó mayor fuerza en dirección. También dijo que no podía especificar cómo realizar el cambio.[^organizacion]
 
-La reorganización de 1901–1903 dio un lugar importante a uniones territoriales y redistribuyó decisiones. Tenía antecedentes en Australia, Europa y experiencias anteriores. Daniells, delegados y otros organizadores aportaron diseño; necesidades financieras y misioneras también presionaban hacia reforma.[^uniones]
+La reorganización de 1901–1903 dio un lugar importante a uniones territoriales, organismos que agrupaban asociaciones de iglesias, y redistribuyó decisiones. Tenía antecedentes en Australia, Europa y experiencias anteriores. Daniells, delegados y otros organizadores aportaron diseño; necesidades financieras y misioneras también presionaban hacia reforma.[^uniones]
 
 No corresponde adjudicar a White cada pieza del sistema. Puede atribuírsele un respaldo importante al cambio. El efecto probable fue ayudar a desbloquear una concentración que denunciaba, dentro de un proceso colectivo.
 
@@ -172,19 +172,19 @@ Produjo un fruto mixto. White reclamó atención hacia personas negras marginada
 
 Conservar su apoyo no exige presentar a esas comunidades como creación de ella. Tampoco permite ignorar límites. En textos publicados en 1909 recomendó lugares de culto separados, especialmente en el sur, dentro de una estrategia para evitar oposición y sostener misión. También desaconsejó promover mezcla en igualdad social.[^raza]
 
-La violencia racial da contexto a la preocupación por seguridad. No convierte toda separación en un resultado moralmente neutro. La orientación podía proteger una obra educativa y legitimar, al mismo tiempo, una frontera racial dentro de la comunidad. Los intereses y prejuicios blancos seguían influyendo en lo considerado practicable.
+La violencia racial da contexto a la preocupación por seguridad. No convierte toda separación en un resultado moralmente neutro. La orientación podía proteger una obra educativa y justificar, al mismo tiempo, una separación racial dentro de la comunidad. Los intereses y prejuicios blancos seguían influyendo en lo considerado practicable.
 
-No fue un mandato perpetuo de separación para todos los países. No está reconstruida aquí la cadena hasta cada decisión posterior. Sí existe una dificultad relevante: el servicio promovido convivió con acomodación que limitaba igualdad práctica. Intención protectora y efecto legitimador deben evaluarse juntos.
+No fue un mandato perpetuo de separación para todos los países. No está reconstruida aquí la cadena hasta cada decisión posterior. Sí existe una dificultad relevante: el servicio promovido convivió con aceptación de restricciones que limitaban la igualdad en la práctica. Hay que evaluar tanto la intención de proteger como el posible efecto de justificar la separación.
 
 ## ¿Su propia autoridad amplió las oportunidades de otras mujeres?
 
-Sus intervenciones ofrecen evidencia favorable, pero no miden apertura general. En 1895 defendió que mujeres participaran en visita a enfermos, atención de jóvenes y pobres, y fueran apartadas para ese trabajo con oración e imposición de manos.[^mujeres]
+Sus intervenciones ofrecen evidencia favorable, pero no muestran hasta dónde se abrieron oportunidades para todas. En 1895 defendió que mujeres participaran en visita a enfermos, atención de jóvenes y pobres, y fueran apartadas para ese trabajo con oración e imposición de manos.[^mujeres]
 
 En una carta de 1898 a dirigentes denunció que trabajadoras dedicadas al evangelio no recibieran remuneración porque sus maridos ya cobraban. Las mujeres estaban trabajando: intervino para reconocer su labor, no creó su capacidad de servicio.[^salarios]
 
 Es un aporte directo y favorable. Para mostrar efectos sobre salarios o nombramientos necesitamos decisiones y nóminas; la recomendación no demuestra aplicación uniforme. Su posición excepcional tampoco mide las posibilidades de las demás.
 
-No hace falta importar cada discusión contemporánea sobre ordenación. El respaldo a participación y pago está documentado; su alcance institucional permanece abierto. Para familia, consejos y culto doméstico declarado tampoco establecen estabilidad matrimonial ni ausencia de control o violencia.
+No hace falta importar cada discusión contemporánea sobre ordenación. El respaldo a participación y pago está documentado; su alcance institucional permanece abierto. Algo parecido ocurre con la familia: los consejos y las declaraciones sobre culto doméstico no demuestran estabilidad matrimonial ni ausencia de control o violencia.
 
 El resultado debe medirse en quienes reciben orientación, no solamente en el lugar de su autora.
 
@@ -194,7 +194,7 @@ Los documentos de colaboradores y docentes muestran dificultades para corregir p
 
 En abril de 1915, W. W. Prescott escribió a W. C. White sobre errores en libros autorizados, impresiones equivocadas acerca de escritos de su madre y escaso esfuerzo por corregirlas. Le preocupaba que evitar conmoción tuviera prioridad sobre información fiable. Describió el costo personal de esa situación.[^prescott]
 
-La carta es su testimonio, no auditoría que confirme cada acusación. «Libros autorizados» no significa automáticamente que toda referencia sea a un libro de Ellen. Prescott admitió que lo que consideraba engaño podía no ser intencional; no debemos convertirlo en confesión de fraude deliberado de ella.
+La carta es su testimonio, no una comprobación de cada acusación. «Libros autorizados» no significa automáticamente que toda referencia sea a un libro de Ellen. Prescott admitió que lo que consideraba engaño podía no ser intencional; no debemos convertirlo en confesión de fraude deliberado de ella.
 
 La defensa contextual recuerda controversias, cansancio y correcciones. Debemos considerarlos. Pero no eliminan la pregunta: qué sucede cuando quienes conocen límites o errores temen que reconocerlos debilite confianza religiosa.
 
@@ -212,11 +212,11 @@ El 1 de agosto, J. N. Anderson preguntó si era seguro explicar a alumnos que su
 
 La conversación demuestra capacidad de examen y desacuerdo, junto con preocupación sobre las consecuencias públicas. Daniells defendió trato cristiano al discrepante y recordó que años antes no habría sido seguro discutir así.[^daniells]
 
-El fruto problemático mejor establecido es ese costo institucional del reconocimiento de límites. Tiene alcance colectivo en enseñanza y circulación de información, aunque no cuantificamos toda la denominación.
+El fruto problemático mejor establecido es ese costo institucional del reconocimiento de límites. Afectaba la enseñanza y la circulación de información, aunque no sabemos cuánto se extendía por toda la denominación.
 
 ## ¿Cuánto de ese problema puede atribuirse a White?
 
-Una parte razonable, compartida con promotores, editores y dirigentes. Su reclamo de instrucción divina ayudaba a dar autoridad a consejos y reprensiones. Podía hacer costoso disentir: la objeción dejaba de parecer sólo desacuerdo con una persona.
+Una parte razonable, compartida con promotores, editores y dirigentes. Su afirmación de que recibía instrucción divina ayudaba a dar autoridad a consejos y reprensiones. Podía hacer costoso disentir: la objeción dejaba de parecer sólo desacuerdo con una persona.
 
 Pero no toda ampliación de autoridad fue instrucción suya. Su respuesta a Paulson en 1906 negó que cada palabra privada y carta tuviera inspiración equivalente a los diez mandamientos. Las revisiones autorizadas de 1911 tampoco encajan con infalibilidad textual que impida toda corrección.[^limites-autoridad]
 
@@ -250,11 +250,11 @@ No hay una suma en que instituciones positivas cancelen dificultades de autorida
 
 ## ¿Qué evidencia podría cambiar este balance?
 
-Para salud, documentos de adopción y estudios comparables que midan exposición separarían su contribución de otras causas. Para educación, resultados de alumnos, horas de trabajo y experiencias de bienestar o control superarían la mera existencia de escuelas.
+En salud, necesitamos saber quiénes siguieron sus consejos y comparar grupos semejantes para separar su contribución de otras causas. Para educación, resultados de alumnos, horas de trabajo y experiencias de bienestar o control superarían la mera existencia de escuelas.
 
-Para devoción, seguimientos con niveles previos, inactivos y exmiembros ayudarían a distinguir influencia de selección. Para autoridad, correspondencia sobre correcciones y divulgación, junto con trato al discrepante, permitiría atribuir decisiones. Para igualdad, actas, salarios y testimonios de beneficiarios tendrían más fuerza que un principio declarado.
+En devoción, habría que seguir a lectores desde antes de empezar a leerla e incluir a miembros inactivos y a quienes dejaron la iglesia. Así podríamos distinguir el efecto de sus libros de las diferencias que ya existían entre los grupos. Para autoridad, correspondencia sobre correcciones y divulgación, junto con trato al discrepante, permitiría atribuir decisiones. Para igualdad, actas, salarios y testimonios de beneficiarios tendrían más fuerza que un principio declarado.
 
-Las pruebas pueden favorecer o perjudicar estas conclusiones. Si los beneficios fueran principalmente independientes de White, reduciríamos atribución favorable. Si restricciones y daños hubieran sido adoptados directamente por instrucción suya, aumentaríamos atribución problemática. No debemos exigir pruebas sólo cuando el resultado incomoda.
+Las pruebas pueden favorecer o perjudicar estas conclusiones. Si los beneficios fueran principalmente independientes de White, le atribuiríamos una contribución menor. Si restricciones y daños hubieran sido adoptados directamente por instrucción suya, le atribuiríamos una responsabilidad mayor. No debemos exigir pruebas sólo cuando el resultado incomoda.
 
 Una lectura de frutos incapaz de perder ante documentos nuevos no sería investigación.
 
@@ -262,11 +262,11 @@ Una lectura de frutos incapaz de perder ante documentos nuevos no sería investi
 
 Ayudó a producir un movimiento de disciplina religiosa, servicio sanitario, educación y misión, con cultura intensa de publicaciones y cooperación. Su influencia fue importante en proyectos concretos; muchas realizaciones pertenecieron también a dirigentes, profesionales y comunidades.
 
-Ese movimiento ofreció beneficios reales y experiencias religiosas favorables. Tuvo restricciones y tensiones: autoridad especial podía sostener compromiso y dificultar corrección; formación podía ampliar oportunidades y limitar autonomía; misión hacia personas marginadas podía coexistir con acomodación a desigualdad.
+Ese movimiento ofreció beneficios reales y experiencias religiosas favorables. Tuvo restricciones y tensiones: autoridad especial podía sostener compromiso y dificultar corrección; formación podía ampliar oportunidades y limitar autonomía; misión hacia personas marginadas podía coexistir con aceptación de desigualdades.
 
 No están establecidos todos los efectos atribuidos. Longevidad no mide causalidad de White; sufrimiento no diagnostica a toda iglesia; declaraciones sobre mujeres y familia no demuestran resultados uniformes. Conservar límites es parte del balance.
 
-Los frutos aportan evidencia de valor práctico y dificultades morales e institucionales. Su fuerza para explicar el origen reclamado varía según cadena causal y resultado. Ninguno autoriza a saltarse las otras pruebas del libro.
+Los frutos aportan evidencia de valor práctico y dificultades morales e institucionales. Su fuerza para explicar el origen reclamado varía según el resultado y cuánto pueda vincularse con ella. Ninguno autoriza a saltarse las otras pruebas del libro.
 
 ## ¿Qué pregunta queda para el capítulo final?
 
