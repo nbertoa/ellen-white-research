@@ -1,0 +1,440 @@
+{
+  "fecha": "2026-10-03",
+  "repositorio": "nbertoa/ellen-white-research",
+  "base_remota": "89ea60a1ef02c2f063f119728598a0adaad0f2a8",
+  "manuscrito_remoto_recuperado": "2dab8a795d0e1e319446e8095e86279a2ffc20e4",
+  "arbol_recuperado": "c4fd00dc1d8dbef5a1fa9ab4e223c069fed6e478",
+  "medicion": "Palabras separadas por espacios en los 16 archivos Markdown, incluidas las notas. El cuerpo termina antes de la primera definición de nota. Se conservan marcas Markdown y URLs; no es una escala de legibilidad ni una ponderación de evidencia.",
+  "totales": {
+    "words_all": 96036,
+    "words_body": 76969,
+    "words_notes": 19067,
+    "headings": 325,
+    "notes": 407,
+    "note_calls": 547,
+    "words_before": 106000,
+    "words_body_before": 86978,
+    "reduction_percent": 9.4
+  },
+  "capitulos": [
+    {
+      "path": "capitulos/01-que-significa-inspiracion-iluminacion-revelacion-y-don-de-profecia.md",
+      "sha256": "32ef370b6c9db0260efffebed78043d6ce62e8ca39da105ca2b8564aa54f386a",
+      "words_all": 6758,
+      "words_body": 5556,
+      "words_notes": 1202,
+      "headings": 31,
+      "notes": 20,
+      "note_calls": 20,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": true,
+      "words_before": 7646,
+      "words_body_before": 6444,
+      "reduction_percent": 11.61
+    },
+    {
+      "path": "capitulos/02-que-credenciales-debe-reunir-un-profeta-autentico.md",
+      "sha256": "dc928ee80acc8457d5d75297aa93b3d840af3b183099f34b0f1e9301dcd78fdb",
+      "words_all": 5881,
+      "words_body": 4994,
+      "words_notes": 887,
+      "headings": 30,
+      "notes": 18,
+      "note_calls": 18,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": true,
+      "words_before": 6536,
+      "words_body_before": 5649,
+      "reduction_percent": 10.02
+    },
+    {
+      "path": "capitulos/03-que-afirmo-ellen-white-sobre-su-propio-don-y-sobre-el-origen-y-la-autoridad-de-sus-mensajes.md",
+      "sha256": "5c7006c1862d3face326366ed4c33c8be835b7be05e678d64a684fda38ca54c1",
+      "words_all": 4173,
+      "words_body": 3181,
+      "words_notes": 992,
+      "headings": 15,
+      "notes": 22,
+      "note_calls": 28,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": true,
+      "words_before": 4741,
+      "words_body_before": 3749,
+      "reduction_percent": 11.98
+    },
+    {
+      "path": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "sha256": "16f8f172640b2decbd41935562e77acad61f0d9cae654b673cf651a2085216ec",
+      "words_all": 9588,
+      "words_body": 7804,
+      "words_notes": 1784,
+      "headings": 24,
+      "notes": 36,
+      "note_calls": 54,
+      "notes_changed_from_october_1_coverage": [
+        "9"
+      ],
+      "headings_changed": true,
+      "words_before": 11289,
+      "words_body_before": 9523,
+      "reduction_percent": 15.07
+    },
+    {
+      "path": "capitulos/05-que-ocurria-fisicamente-durante-las-visiones-de-ellen-g-white.md",
+      "sha256": "e402d2a5c6a41d3d9cbea745b10778c7c8315e4c1512a6590113a783730c6648",
+      "words_all": 8254,
+      "words_body": 6492,
+      "words_notes": 1762,
+      "headings": 26,
+      "notes": 28,
+      "note_calls": 32,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": false,
+      "words_before": 9229,
+      "words_body_before": 7467,
+      "reduction_percent": 10.56
+    },
+    {
+      "path": "capitulos/06-que-podria-explicar-las-visiones-de-ellen-g-white.md",
+      "sha256": "cee6acc392d24e78d3b474b32e790efbaa96682e662253d759c6daf4a9a2a220",
+      "words_all": 6589,
+      "words_body": 4856,
+      "words_notes": 1733,
+      "headings": 15,
+      "notes": 20,
+      "note_calls": 50,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": false,
+      "words_before": 6959,
+      "words_body_before": 5226,
+      "reduction_percent": 5.32
+    },
+    {
+      "path": "capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md",
+      "sha256": "0df673836fedc3d98ca88b9cec914d9d60dacafe83bf3c10fc65df39117f8b86",
+      "words_all": 6863,
+      "words_body": 5078,
+      "words_notes": 1785,
+      "headings": 18,
+      "notes": 24,
+      "note_calls": 36,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": false,
+      "words_before": 7405,
+      "words_body_before": 5620,
+      "reduction_percent": 7.32
+    },
+    {
+      "path": "capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md",
+      "sha256": "01f9d7fe16f2490edb63e96866ad777ed609e86d848aa787963c1d02978becf4",
+      "words_all": 5582,
+      "words_body": 4288,
+      "words_notes": 1294,
+      "headings": 15,
+      "notes": 17,
+      "note_calls": 36,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": false,
+      "words_before": 5953,
+      "words_body_before": 4659,
+      "reduction_percent": 6.23
+    },
+    {
+      "path": "capitulos/09-utilizo-ellen-white-escritos-de-otros-autores.md",
+      "sha256": "b77887630e0f11c572e91844bd255fe59f2bf24d504380b4e71242bf9bca443b",
+      "words_all": 3586,
+      "words_body": 2811,
+      "words_notes": 775,
+      "headings": 11,
+      "notes": 13,
+      "note_calls": 30,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": false,
+      "words_before": 3731,
+      "words_body_before": 2956,
+      "reduction_percent": 3.89
+    },
+    {
+      "path": "capitulos/10-que-implica-dependencia-literaria-para-inspiracion.md",
+      "sha256": "c9ddffe9dab98945a377a0d5b14b4e45697185e70ee8e234371df131c3e2d23b",
+      "words_all": 6520,
+      "words_body": 5349,
+      "words_notes": 1171,
+      "headings": 19,
+      "notes": 24,
+      "note_calls": 41,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": false,
+      "words_before": 7257,
+      "words_body_before": 6086,
+      "reduction_percent": 10.16
+    },
+    {
+      "path": "capitulos/11-hasta-que-punto-podemos-atribuir-a-ellen-white-los-libros-publicados-bajo-su-nombre.md",
+      "sha256": "35fd66457d603e33bbd99979c72c59f7c1c9680768d45d5cd9f842c203850e14",
+      "words_all": 3737,
+      "words_body": 2893,
+      "words_notes": 844,
+      "headings": 11,
+      "notes": 24,
+      "note_calls": 25,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": false,
+      "words_before": 3943,
+      "words_body_before": 3099,
+      "reduction_percent": 5.22
+    },
+    {
+      "path": "capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md",
+      "sha256": "e5a34712768fd32ca814790aa3bc40796210ac441c7bbb8c3648c66e7df64416",
+      "words_all": 7474,
+      "words_body": 6042,
+      "words_notes": 1432,
+      "headings": 29,
+      "notes": 43,
+      "note_calls": 43,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": false,
+      "words_before": 7741,
+      "words_body_before": 6309,
+      "reduction_percent": 3.45
+    },
+    {
+      "path": "capitulos/13-se-contradijo-ellen-white.md",
+      "sha256": "21f89d8a7507a847d4377300a905ade247c52398944fef04dac465294ed28dc6",
+      "words_all": 8159,
+      "words_body": 6840,
+      "words_notes": 1319,
+      "headings": 29,
+      "notes": 48,
+      "note_calls": 49,
+      "notes_changed_from_october_1_coverage": [
+        "10"
+      ],
+      "headings_changed": false,
+      "words_before": 8427,
+      "words_body_before": 7135,
+      "reduction_percent": 3.18
+    },
+    {
+      "path": "capitulos/14-que-revela-su-vida-y-conducta-sobre-su-pretension-profetica.md",
+      "sha256": "08d1d919cfe020e655712186ff7e2322d58d4ae40ca4d301bc5bf91fb79f2dd6",
+      "words_all": 4818,
+      "words_body": 4177,
+      "words_notes": 641,
+      "headings": 14,
+      "notes": 22,
+      "note_calls": 32,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": false,
+      "words_before": 4877,
+      "words_body_before": 4236,
+      "reduction_percent": 1.21
+    },
+    {
+      "path": "capitulos/15-que-frutos-produjo-el-ministerio-de-ellen-white.md",
+      "sha256": "cf9e9bb2f98bd4a77fb910abc96ef44548a4a29801c709388ff980e6eec1c682",
+      "words_all": 5121,
+      "words_body": 4401,
+      "words_notes": 720,
+      "headings": 27,
+      "notes": 27,
+      "note_calls": 29,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": false,
+      "words_before": 5250,
+      "words_body_before": 4530,
+      "reduction_percent": 2.46
+    },
+    {
+      "path": "capitulos/16-que-explicacion-encaja-mejor-con-toda-la-evidencia.md",
+      "sha256": "b26c16a937be9a1a11847554699fac1bb8d0c40e4cdc9bdc935ddf7ca932e8e9",
+      "words_all": 2933,
+      "words_body": 2207,
+      "words_notes": 726,
+      "headings": 11,
+      "notes": 21,
+      "note_calls": 24,
+      "notes_changed_from_october_1_coverage": [],
+      "headings_changed": true,
+      "words_before": 5016,
+      "words_body_before": 4290,
+      "reduction_percent": 41.53
+    }
+  ],
+  "integridad": {
+    "archivos_recuperados_por_api": 112,
+    "bytes_recuperados": 2608916,
+    "todos_los_blobs_y_arbol_coinciden": true,
+    "encabezados_interrogativos": 325,
+    "notas": 407,
+    "llamadas": 547,
+    "notas_identicas_a_cobertura_historica": 405,
+    "notas_modificadas": 2,
+    "errores": [],
+    "advertencias": [],
+    "cobertura_historica_sin_modificar": true,
+    "auditorias_y_remediacion_historicas_sin_modificar": true
+  },
+  "lectura_final": {
+    "orden": "Capítulos 01–16 completos, incluidas las notas, sobre la copia recuperada por API de main; después del cierre de las pasadas editoriales.",
+    "no_certifica": "No autentica los originales históricos ni convierte enlaces o resúmenes en cotejos integrales."
+  },
+  "adenda_notas": [
+    {
+      "id": "C04-N9",
+      "archivo": "capitulos/04-que-ocurrio-realmente-en-las-primeras-visiones-de-ellen-g-white.md",
+      "nota": "9",
+      "texto_historico": "“Conference of Adventists at New York, Commencing May 6th, 1845”, *Advent Herald*, 21 de mayo de 1845, p. 118. Allí, después de aprobar por unanimidad las decisiones de Albany, se resolvió no confiar en nuevos mensajes, visiones, sueños, lenguas, milagros u otras manifestaciones que no concordaran con la Palabra de Dios. [Reproducción documental](https://text.egwwritings.org/read/653.1764).",
+      "texto_actual": "“Conference of Adventists at New York, Commencing May 6th, 1845”, *Advent Herald*, 21 de mayo de 1845, p. 118. Allí, después de aprobar por unanimidad las decisiones de Albany, se resolvió no confiar en nuevos mensajes, visiones, sueños, lenguas, milagros u otras manifestaciones que no concordaran con la Palabra de Dios. [Reproducción de Froom, *The Adventist Gift of Prophecy*, pp. 248–249](https://text.egwwritings.org/read/653.1764). Se cotejó esa reproducción; el impreso de 1845 sigue pendiente.",
+      "estado_historico": "verificada_contra_documento",
+      "alcance_historico": "Se cotejó la reproducción de Froom, AGP 248–249: decisiones de Albany del 29 de abril y adición de Nueva York del 6 de mayo de 1845 acerca de visiones no acordes con la Biblia, publicada el 21 de mayo, p. 118. El impreso de 1845 sigue pendiente.",
+      "razon": "Se explicita que se accedió a una reproducción de Froom y sigue pendiente el impreso de 1845; no nuevo cotejo del impreso."
+    },
+    {
+      "id": "C13-N10",
+      "archivo": "capitulos/13-se-contradijo-ellen-white.md",
+      "nota": "10",
+      "texto_historico": "White, Lt 12, 15-II-1874, a Clarence, [7MR, pp. 346–347](https://next.egwwritings.org/read/58.1619) y [reproducción documental](https://text.egwwritings.org/read/776.1331). Carta original completa no obtenida. [Expediente C13-13](../hallazgos/capitulo-13-lacteos-huevos-cafe-y-te.md).",
+      "texto_actual": "White, [Lt 12, 15-II-1874, a W. C. White, Santa Rosa, párr. 2](https://text.egwwritings.org/read/14052.3353001). La transcripción íntegra tiene ocho párrafos, saluda a «Clarence» e identifica su publicación completa en *14MR*, pp. 322–323. Se leyó esa transcripción; no se cotejaron el original material ni la primera difusión. [Expediente C13-13](../hallazgos/capitulo-13-lacteos-huevos-cafe-y-te.md).",
+      "estado_historico": "verificada_contra_documento",
+      "alcance_historico": "Se leyeron completos los ocho párrafos de Lt 12, 1874, a W.C.White, Santa Rosa, 15 de febrero. El párrafo 2 afirma que ambos dejaron leche, crema, manteca, azúcar y carne desde llegar a California, y menciona compra de carne para May enferma. Es descripción particular, no prohibición universal. Primera difusión y original material no cotejados.",
+      "razon": "Se enlaza y describe la transcripción oficial íntegra de Lt12/1874, ya registrada en la cobertura y recotejada; no autógrafo ni primera difusión."
+    }
+  ],
+  "adenda_registro_c12": {
+    "archivo": "hallazgos/capitulo-12-registro-de-fuentes.json",
+    "cambios": [
+      {
+        "campo": "candidatos[id=C01].resultado_delimitado",
+        "antes": "E según reconstrucción geológica ordinaria; alcance del «mundo» delimitado.",
+        "despues": "Fuera del juicio probatorio activo por tratar cronología o edad de la Tierra; no se clasifica aquí como error ni acierto.",
+        "razon": "Alinear el juicio activo con la exclusión cronológica vigente y conservar la evaluación anterior explícitamente."
+      },
+      {
+        "campo": "candidatos[id=C01].resultado_historico_2026_09_30",
+        "antes": null,
+        "despues": "E según reconstrucción geológica ordinaria; alcance del «mundo» delimitado.",
+        "razon": "Alinear el juicio activo con la exclusión cronológica vigente y conservar la evaluación anterior explícitamente."
+      },
+      {
+        "campo": "candidatos[id=C01].actualizacion_de_alcance_2026_10_03",
+        "antes": null,
+        "despues": "Se conserva el candidato y su evaluación anterior como antecedente; la cronología no se utiliza como evidencia en el manuscrito vigente.",
+        "razon": "Alinear el juicio activo con la exclusión cronológica vigente y conservar la evaluación anterior explícitamente."
+      },
+      {
+        "campo": "candidatos[id=C02].resultado_delimitado",
+        "antes": "Conflicto científico de cronología; milagro en sí no es ensayo empírico.",
+        "despues": "Fuera del juicio probatorio activo por tratar cronología o edad de la Tierra; no se clasifica aquí como error ni acierto.",
+        "razon": "Alinear el juicio activo con la exclusión cronológica vigente y conservar la evaluación anterior explícitamente."
+      },
+      {
+        "campo": "candidatos[id=C02].resultado_historico_2026_09_30",
+        "antes": null,
+        "despues": "Conflicto científico de cronología; milagro en sí no es ensayo empírico.",
+        "razon": "Alinear el juicio activo con la exclusión cronológica vigente y conservar la evaluación anterior explícitamente."
+      },
+      {
+        "campo": "candidatos[id=C02].actualizacion_de_alcance_2026_10_03",
+        "antes": null,
+        "despues": "Se conserva el candidato y su evaluación anterior como antecedente; la cronología no se utiliza como evidencia en el manuscrito vigente.",
+        "razon": "Alinear el juicio activo con la exclusión cronológica vigente y conservar la evaluación anterior explícitamente."
+      },
+      {
+        "campo": "candidatos[id=C05].resultado_delimitado",
+        "antes": "I para origen vegetal/enterramiento; E para explicación universal por un diluvio reciente.",
+        "despues": "I para origen vegetal/enterramiento; cronología de los yacimientos y explicación universal por un diluvio reciente fuera del juicio probatorio activo, sin calificarlas aquí como error ni acierto.",
+        "razon": "Alinear el juicio activo con la exclusión cronológica vigente y conservar la evaluación anterior explícitamente."
+      },
+      {
+        "campo": "candidatos[id=C05].resultado_historico_2026_09_30",
+        "antes": null,
+        "despues": "I para origen vegetal/enterramiento; E para explicación universal por un diluvio reciente.",
+        "razon": "Alinear el juicio activo con la exclusión cronológica vigente y conservar la evaluación anterior explícitamente."
+      },
+      {
+        "campo": "candidatos[id=C05].actualizacion_de_alcance_2026_10_03",
+        "antes": null,
+        "despues": "Se conserva el candidato y su evaluación anterior como antecedente; la cronología no se utiliza como evidencia en el manuscrito vigente.",
+        "razon": "Alinear el juicio activo con la exclusión cronológica vigente y conservar la evaluación anterior explícitamente."
+      },
+      {
+        "campo": "limites.astro",
+        "antes": "Education 1903 p.14 separado de EW pp.39-40 y Topsham 1846; antecedente 1849 reportado, no facsímil cotejado.",
+        "despues": "Education 1903 p. 13, párr. 3, separado de EW pp. 39–40 y Topsham 1846; antecedente 1849 reportado, no facsímil cotejado. Localizador alineado el 3-X-2026 con la cobertura C12-N23.",
+        "razon": "Corregir localizador ya cotejado en C12-N23; no nuevo cotejo del original."
+      },
+      {
+        "campo": "actualizacion_editorial_2026_10_03",
+        "antes": null,
+        "despues": {
+          "alcance": "Sincronización con el manuscrito e índice vigentes; no es una nueva auditoría de todos los originales ni sustituye la fecha de corte de la investigación anterior.",
+          "candidatos_con_cronologia_excluida": [
+            "C01",
+            "C02",
+            "C05"
+          ],
+          "historia_conservada": "Las evaluaciones previas se conservan en resultado_historico_2026_09_30; los textos fuente e IDs no se eliminan.",
+          "localizador_corregido": "Education 1903, p. 13, párr. 3, según C12-N23 y la ficha de astronomía.",
+          "control_editorial_anterior": "Los conteos y controles del bloque control_editorial describen la edición de septiembre, no el manuscrito reeditado en octubre."
+        },
+        "razon": "Documentar extensión compatible de metadatos, alcance actual y carácter histórico de los controles de septiembre."
+      }
+    ],
+    "preservacion": {
+      "candidatos": 53,
+      "ids_y_textos_fuente_identicos": true,
+      "referencias_y_ejemplares_identicos": true,
+      "controles_historicos_identicos": true
+    }
+  },
+  "mapa_secciones": {
+    "C01": {
+      "1–22": "sin cambio",
+      "23": "integrada en 22",
+      "24": "23",
+      "25": "24",
+      "26": "25",
+      "27": "26",
+      "28": "27",
+      "29": "recapitulación eliminada; definiciones en 2–22 y tabla 28",
+      "30": "28",
+      "31": "29",
+      "32": "integrada en 29"
+    },
+    "C02": {
+      "1–21": "sin cambio",
+      "22–24": "matriz 27 y controles 22–26",
+      "25": "22",
+      "26": "23",
+      "27": "24",
+      "28": "25",
+      "29": "26",
+      "30": "27",
+      "31": "28"
+    },
+    "C03": "Numeración 1–13 conservada",
+    "C04": {
+      "1–16": "sin cambio",
+      "17": "tabla duplicada eliminada; información en 1,5,6,16,19",
+      "18": "se divide entre 17 (revisiones) y 18 (Foy/2 Esdras)",
+      "19–23": "sin cambio en el resultado final"
+    },
+    "C05–C15": "Numeración conservada",
+    "C16": {
+      "1": "1",
+      "2": "2",
+      "3": "apertura 1 y balances 5–6",
+      "4": "3",
+      "5": "4",
+      "6–8": "5",
+      "9–10": "6",
+      "11": "7",
+      "12": "integrada en 9",
+      "13": "8",
+      "14": "9",
+      "15": "10"
+    }
+  }
+}

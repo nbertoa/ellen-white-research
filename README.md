@@ -10,7 +10,7 @@ El proyecto no parte de que Ellen White fue profeta ni de que fue falsa profetis
 
 ## ¿Cómo se organiza el repositorio?
 
-- `capitulos/`: borradores del libro en Markdown.
+- `capitulos/`: manuscrito del libro en Markdown.
 - `hallazgos/`: fichas de investigación y conclusiones provisionales por tema.
 - `metodologia/`: criterios de investigación y reglas del proyecto.
 
@@ -132,3 +132,9 @@ El capítulo 13 documenta cambios y correcciones, descarta incompatibilidades qu
 ## ¿Qué cubrió la auditoría final de octubre de 2026?
 
 Los dieciséis capítulos están escritos y recibieron lectura editorial integral. La [auditoría final](hallazgos/auditoria-final-libro-2026-10.md) registra las correcciones y límites; su [cobertura individual de 407 notas](hallazgos/auditoria-final-libro-2026-10-cobertura.md) distingue cotejos documentales, bibliográficos y pendientes. No equivale a una certificación de todos los originales.
+
+## ¿Qué cambió en la revisión editorial final del 3 de octubre?
+
+La [revisión de lenguaje, repetición y ritmo](hallazgos/auditoria-editorial-final-lenguaje-y-repeticion.md) aplicó mejoras a los dieciséis capítulos y conserva la conclusión con confianza moderada. El manuscrito pasó de 106.000 a 96.036 palabras, incluidas las notas, sin forzar una cuota de reducción. Se mantienen 407 notas; dos recibieron aclaraciones de acceso documental. El [registro de controles y adendas](hallazgos/auditoria-editorial-final-controles.json) conserva los cambios precisos y las huellas del texto.
+
+Se completó una lectura final íntegra sobre el manuscrito recuperado de `main`, con todos sus blobs verificados. Las auditorías históricas permanecen intactas. Este cierre editorial conserva las incertidumbres documentales; el prólogo y el epílogo siguen pendientes del material personal del autor.

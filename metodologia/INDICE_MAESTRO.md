@@ -60,3 +60,5 @@ Una evidencia decisiva puede pesar más que numerosos casos ambiguos. La conclus
 ## ¿Qué revisión recibió el conjunto de los dieciséis capítulos?
 
 La [auditoría final de octubre de 2026](../hallazgos/auditoria-final-libro-2026-10.md) registra dos lecturas completas, correcciones y límites documentales. La [cobertura de las 407 notas](../hallazgos/auditoria-final-libro-2026-10-cobertura.md) distingue contenido cotejado, bibliografía y pendientes; no certifica la inspección de todos los originales.
+
+La [revisión editorial del 3 de octubre](../hallazgos/auditoria-editorial-final-lenguaje-y-repeticion.md) mantiene los dieciséis capítulos y sus preguntas principales, simplifica la lectura y concentra el capítulo 16 en un solo cierre. Su [registro de controles y adendas](../hallazgos/auditoria-editorial-final-controles.json) documenta extensión, notas y cambios de secciones. No altera la exclusión del antiguo capítulo doctrinal ni el grado de la conclusión.
