@@ -162,7 +162,7 @@ La advertencia sobre la *Review and Herald* identifica la institución y mencion
 
 **La declaración de 1856, en cambio, conserva un incumplimiento literal establecido y adverso para la atribución del mensaje.** La defensa condicional tiene antecedentes en 1868 y 1883, anteriores a la muerte del último posible asistente. Pero ya respondía a una demora y no demuestra qué entendieron los destinatarios en 1856. Por eso la clasificación como profecía falsa sigue discutida, sin que esa discusión borre la dificultad seria ni decida automáticamente todo el ministerio.
 
-El balance es mixto, no equilibrado por una suma de casos: hay anticipaciones concretas con apoyo limitado y una expectativa revelada que no ocurrió en su sentido ordinario. La siguiente prueba buscará otra clase de información: hechos privados o lejanos que White aparentemente conoció sin recibir noticias de ellos.
+El balance es mixto, no equilibrado por una suma de casos: hay anticipaciones concretas con apoyo limitado y una expectativa atribuida a revelación que no ocurrió en su sentido ordinario. La siguiente prueba buscará otra clase de información: hechos privados o lejanos que White aparentemente conoció sin recibir noticias de ellos.
 
 [^1]: Herbert E. Douglass, *Messenger of the Lord* (Pacific Press, 1998; EPUB proporcionado, metadato digital 2013), cap. 43, y *Profecías dramáticas de Elena de White* (ACES, 2009), caps. 1–6; Walter T. Rea, *The White Lie* (M. & R. Publications, 1982), sección sobre la visión de 1856. Son guías para localizar afirmaciones; las notas siguientes remiten a documentos anteriores o a las defensas primarias cuando corresponde.
 

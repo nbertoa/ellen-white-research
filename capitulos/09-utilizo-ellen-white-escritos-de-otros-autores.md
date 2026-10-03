@@ -46,7 +46,7 @@ Este ejemplo muestra por qué «ideas solamente» es una defensa demasiado peque
 
 ## 5. ¿Cuánto material puede medirse responsablemente?
 
-En la muestra de Veltman, aproximadamente un tercio de las unidades evaluadas tenía algún grado de dependencia: **823 de 2.624, el 31,4 %**. Entre ellas hay influencia débil y paráfrasis de distinta cercanía; la tabla no registra reproducción estrictamente literal. Una unidad dependiente no significa que todas sus palabras procedan de otro autor.[^5]
+En la muestra de Veltman, aproximadamente un tercio de las unidades evaluadas tenía algún grado de dependencia de fuentes localizadas: **823 de 2.624, el 31,4 %**. Entre ellas hay influencia débil y paráfrasis de distinta cercanía; la tabla no registra reproducción estrictamente literal. Una unidad dependiente no significa que todas sus palabras procedan de otro autor.[^5]
 
 Para obtener esas unidades, Veltman separó algunas de las 2.615 oraciones en más de una parte. Las otras **1.612 unidades, el 61,4 %**, quedaron como estrictamente independientes según su clasificación, y **189, el 7,2 %**, eran citas bíblicas independientes.
 

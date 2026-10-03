@@ -34,7 +34,7 @@ En una respuesta pública de 1867, explicó que dependía del Espíritu tanto pa
 
 La distinción importa en ambos sentidos. Permite una formulación humana de la experiencia; también reserva una categoría más fuerte para las palabras atribuidas a un mensajero. No podemos borrar esa excepción y dejar solamente «las palabras eran mías».
 
-En «Objections to the Bible», catalogado en 1886 sin fecha exacta, situó la inspiración en la persona y sus pensamientos, expresados mediante lenguaje humano. Hablaba principalmente de la Biblia, aunque relacionaba al comienzo las malas interpretaciones de ésta con las de sus escritos. No autorizaba a describir falsamente una fuente.[^6]
+En «Objections to the Bible», catalogado en 1886 sin fecha exacta, situó la inspiración en la persona y sus pensamientos, expresados mediante lenguaje humano. Hablaba principalmente de la Biblia, aunque relacionaba al comienzo las malas interpretaciones de ésta con las de sus escritos. No es una autorización explícita para describir falsamente una fuente.[^6]
 
 En 1906 rechazó la creencia de David Paulson de que toda palabra suya, pública o privada, y toda carta bajo cualquier circunstancia tuvieran la misma inspiración que los Diez Mandamientos. A la vez reafirmó el origen divino de sus mensajes. Negaba una inspiración universal, no su pretensión de revelación.[^7]
 
@@ -218,7 +218,7 @@ No todas las explicaciones tienen el mismo respaldo. La adaptación literaria ti
 
 El uso de fuentes **no es por sí mismo incompatible** con inspiración dentro del criterio bíblico del proyecto. Las dependencias históricas del capítulo 9 encajan con procedimientos que White reconoció, sin demostrar una revelación previa. Su pretensión seguía siendo más fuerte que la mera utilidad espiritual de sus libros.
 
-Los relatos de 1879 y 1890 presentan una dificultad mayor: una redacción tomada de otra obra aparece dentro de una comunicación celestial específica. Hay una **posible falsa atribución de origen**, que no debe ocultarse mediante una definición general. No queda demostrada porque falta establecer si White presentaba una reproducción literal e independiente de información humana, si formulaba después una experiencia o si una lectura había entrado en ella. El origen humano del lenguaje tiene más respaldo que cualquier explicación particular de la experiencia.
+Los relatos de 1879 y 1890 presentan una dificultad mayor: una redacción basada en literatura anterior aparece dentro de una comunicación celestial específica. Hay una **posible falsa atribución de origen**, que no debe ocultarse mediante una definición general. No queda demostrada porque falta establecer si White presentaba una reproducción literal e independiente de información humana, si formulaba después una experiencia o si una lectura había entrado en ella. El origen humano del lenguaje tiene más respaldo que cualquier explicación particular de la experiencia.
 
 En Queensland, la dependencia está establecida y el alcance de la atribución permanece indeterminado; la explicación editorial aclara una parte y deja otra abierta. En salud, está establecido el antecedente del lenguaje, pero no la lectura concreta que contradiga la negación de White. La falta de crédito específico dificulta la comprobación y puede favorecer impresiones equivocadas; no demuestra, por sí sola, una mentira sobre revelación.
 

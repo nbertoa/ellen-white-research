@@ -1,6 +1,6 @@
 # ¿Se contradicen las instrucciones sobre el diezmo y la autoridad institucional?
 
-Fecha de corte: 30-IX-2026. C13-30 a C13-33. El objeto son afirmaciones e instrucciones comparables. Motivaciones, enriquecimiento, favoritismo, secreto y evaluación de conducta se registran para C15 sin decidirlos aquí.
+Fecha de corte: 30-IX-2026. C13-30 a C13-33. El objeto son afirmaciones e instrucciones comparables. Motivaciones, enriquecimiento, favoritismo, secreto y evaluación de conducta corresponden al C14 vigente, sin decidirlos aquí.
 
 ## ¿Qué decía la regla pública sobre decidir el destino del diezmo?
 
@@ -40,6 +40,8 @@ Párr. 2: “It has been presented to me for years that my tithe was to be appro
 
 **C13-32:** desarrollo de Battle Creek y posterior descentralización: los documentos conocidos de C7/C11 registran crecimiento, responsabilidades y advertencias concretas, pero un mandato de fundar una institución no es mandato de mantenerla para siempre en idéntico tamaño y lugar. Sin A/B específico equivalente, resultado **indeterminado**, no «armonizado» por defecto.
 
-**C13-33:** evitar deudas y financiar proyectos mediante préstamos: Lt 128, 9-VII-1896, párrs. 16–18, informa deudas, gastos y necesidad de ventas editoriales, pero ese relato no afirma por sí solo que endeudarse sea siempre lícito. Falta un par normativo completo sobre mismo proyecto y condiciones. Registrar para C15 los gastos y ayuda familiar, sin deducir uso impropio del diezmo de la coexistencia de gastos personales y comisiones ministeriales. **Resultado:** indeterminado para contradicción normativa; diferencia entre hecho y norma establecida. No inventar una regla «nunca tomar préstamos» desde consejos de prudencia sin examinar su texto.
+**C13-33:** evitar deudas y financiar proyectos mediante préstamos: Lt 128, 9-VII-1896, párrs. 16–18, informa deudas, gastos y necesidad de ventas editoriales, pero ese relato no afirma por sí solo que endeudarse sea siempre lícito. Falta un par normativo completo sobre mismo proyecto y condiciones. Los gastos y la ayuda familiar corresponden al C14 vigente, sin deducir uso impropio del diezmo de la coexistencia de gastos personales y comisiones ministeriales. **Resultado:** indeterminado para contradicción normativa; diferencia entre hecho y norma establecida. No inventar una regla «nunca tomar préstamos» desde consejos de prudencia sin examinar su texto.
 
 Mapas: [crítica sobre diezmo](https://www.nonegw.org/contra1.shtml); Douglass, *Messenger of the Lord*, capítulo 44, contextualización de autoridad; [dossier del Estate sobre diezmo](https://m.egwwritings.org/en/book/690.7). El análisis anterior se sostiene en A/B primarios, no en acusaciones de corrupción ni certificaciones de armonía.
+
+Actualización de remisiones, 3-X-2026: se alinea esta ficha con el índice vigente de dieciséis capítulos. La conducta se estudia en C14; la comparación doctrinal exhaustiva no forma parte del manuscrito activo. No cambia la evaluación de los pares documentales conservados.

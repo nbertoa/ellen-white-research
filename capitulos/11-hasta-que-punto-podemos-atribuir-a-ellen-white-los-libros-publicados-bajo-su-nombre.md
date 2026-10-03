@@ -90,7 +90,7 @@ La fecha y la preparación de cada edición importan: una aprobación de 1902 o 
 
 ## ¿Qué podemos atribuirle y qué no podemos determinar?
 
-**Gran parte del material procede de White, pero la forma, el orden y algunas afirmaciones surgieron de una colaboración documentada.** Ella aportó escritos de partida, nuevas páginas, dirección y aprobaciones generales. Sus colaboradores seleccionaron, organizaron, corrigieron e investigaron; los administradores de su legado tomaron decisiones póstumas. No podemos repartir cada palabra final por persona ni reconstruir todas las pruebas que ella leyó.
+**Gran parte del material puede atribuirse a White, pero la forma, el orden y algunas afirmaciones sobre hechos surgieron de una colaboración documentada.** Ella aportó escritos de partida, nuevas páginas, dirección y aprobaciones generales. Sus colaboradores seleccionaron, organizaron, corrigieron e investigaron; los administradores de su legado tomaron decisiones póstumas. No podemos repartir cada palabra final por persona ni reconstruir todas las pruebas que ella leyó.
 
 La crítica muestra que un solo nombre en la cubierta no revela cuánto colaboraron otros y que algunas revisiones cambiaron el contenido. Aún no demuestra una producción sistemática de mensajes originales por asistentes presentada deliberadamente como escritura de White sin su control. La explicación favorable tiene apoyo concreto para el suministro de material y la supervisión de White, pero no convierte una compilación póstuma en texto personalmente revisado por ella. Ambas deben exponerse a nuevos borradores, cartas y cotejos, especialmente en los casos de Bolton y de los capítulos terminados después de 1915.[^24]
 

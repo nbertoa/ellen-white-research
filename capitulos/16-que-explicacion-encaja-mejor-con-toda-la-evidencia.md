@@ -32,7 +32,7 @@ Estos datos impiden decir que la hipótesis profética carece de apoyo. Su fuerz
 
 ## ¿Cuál es la dificultad más seria para una lectura profética?
 
-La declaración de 1856 es el caso predictivo más difícil. En una publicación de ese año, White dijo que, entre los asistentes a una conferencia, algunos morirían, otros pasarían por las últimas plagas y algunos seguirían vivos hasta ser trasladados al regreso de Jesús. La expectativa literal no se cumplió: todas las personas identificadas como asistentes murieron antes de ese acontecimiento.[^1856]
+La declaración de 1856 es el caso predictivo más difícil. En una publicación de ese año, White dijo que, entre los asistentes a una conferencia, algunos morirían, otros pasarían por las últimas plagas y algunos seguirían vivos hasta ser trasladados al regreso de Jesús. La expectativa literal no se cumplió: aquella generación ya desapareció y la venida esperada no ocurrió durante su vida.[^1856]
 
 La mejor defensa, desarrollada por Douglass, apela a la condicionalidad de los anuncios divinos. White explicó una demora en 1868 y en 1883 sostuvo que el regreso podía depender de la respuesta humana. No es una defensa inventada después de morir el último asistente. La mejor objeción, planteada por Rea, es que una condición capaz de acomodar cualquier resultado deja al mensajero fuera de examen. La matriz del libro exige algo concreto: justificar que la condición pertenecía al significado reconocible del anuncio de 1856.[^debate1856]
 

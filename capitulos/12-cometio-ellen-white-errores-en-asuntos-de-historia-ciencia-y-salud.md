@@ -4,7 +4,7 @@ Sí, hay afirmaciones de Ellen White que resultan históricamente incorrectas y 
 
 Pero identificar un error todavía deja una pregunta decisiva: ¿de dónde decía White que procedía esa información? No pesa igual una cifra recibida de otra persona, una generalización tomada de un historiador y una relación de causa y efecto presentada específicamente como algo que le fue mostrado. Este capítulo examina ambas cosas: el contenido y su origen declarado.
 
-Los capítulos anteriores mostraron fuentes humanas, revisiones y colaboración editorial. Ninguna demuestra por sí sola error o engaño, ni permite atribuir a un asistente una dificultad sin investigar su intervención.
+Los capítulos anteriores mostraron fuentes humanas, revisiones y colaboración editorial. Usar una fuente no implica error, y corregir un dato no demuestra engaño. La intervención de un asistente necesita pruebas concretas.
 
 Examinaremos afirmaciones comprobables, no sólo frases que hoy suenen extrañas. ¿Cuáles fueron errores y cuánto importa el origen que ella les atribuía?
 
@@ -109,7 +109,7 @@ La mejor defensa invoca incendios que producen materiales semejantes a escoria o
 
 La explicación general del volcanismo mediante carbón, aceite, caliza y agua resulta científicamente incorrecta. Si White hubiera descrito sólo un incendio local identificable, la evaluación sería distinta. Pero el pasaje habla de montañas ardientes y fenómenos terrestres amplios; no se limita claramente a ese caso.[^19]
 
-El relato se presenta como revelación y contiene una escena introducida con «vi». No podemos distinguir con precisión qué parte de cada explicación química decía haber visto y cuál pudo haber elaborado o deducido después. Ese límite de atribución debe conservarse sin ocultar el problema físico.
+El relato se presenta como revelación y contiene una escena introducida con «vi». No podemos distinguir con precisión qué parte de cada explicación química decía haber visto y cuál pudo haber elaborado o deducido. Ese límite de atribución debe conservarse sin ocultar el problema físico.
 
 ## 11. ¿Podemos llamar errores a todos sus comentarios sobre fósiles y seres antiguos?
 

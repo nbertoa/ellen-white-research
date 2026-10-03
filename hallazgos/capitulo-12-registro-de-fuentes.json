@@ -328,14 +328,18 @@
     {
       "id": "C01",
       "proposicion_y_localizador": "Mundo de unos 6.000 años: SG3 1864, pp. 91–95.",
-      "resultado_delimitado": "E según reconstrucción geológica ordinaria; alcance del «mundo» delimitado.",
-      "origen_y_expediente": "«I have been shown» en argumento próximo; [geología](capitulo-12-geologia-y-cronologia.md)."
+      "resultado_delimitado": "Fuera del juicio probatorio activo por tratar cronología o edad de la Tierra; no se clasifica aquí como error ni acierto.",
+      "origen_y_expediente": "«I have been shown» en argumento próximo; [geología](capitulo-12-geologia-y-cronologia.md).",
+      "resultado_historico_2026_09_30": "E según reconstrucción geológica ordinaria; alcance del «mundo» delimitado.",
+      "actualizacion_de_alcance_2026_10_03": "Se conserva el candidato y su evaluación anterior como antecedente; la cronología no se utiliza como evidencia en el manuscrito vigente."
     },
     {
       "id": "C02",
       "proposicion_y_localizador": "Semana creadora literal mostrada: SG3 p. 90.",
-      "resultado_delimitado": "Conflicto científico de cronología; milagro en sí no es ensayo empírico.",
-      "origen_y_expediente": "«I was then carried back»; geología, sin examen doctrinal."
+      "resultado_delimitado": "Fuera del juicio probatorio activo por tratar cronología o edad de la Tierra; no se clasifica aquí como error ni acierto.",
+      "origen_y_expediente": "«I was then carried back»; geología, sin examen doctrinal.",
+      "resultado_historico_2026_09_30": "Conflicto científico de cronología; milagro en sí no es ensayo empírico.",
+      "actualizacion_de_alcance_2026_10_03": "Se conserva el candidato y su evaluación anterior como antecedente; la cronología no se utiliza como evidencia en el manuscrito vigente."
     },
     {
       "id": "C03",
@@ -352,8 +356,10 @@
     {
       "id": "C05",
       "proposicion_y_localizador": "Bosques enterrados originaron carbón: SG3 pp. 79–80.",
-      "resultado_delimitado": "I para origen vegetal/enterramiento; E para explicación universal por un diluvio reciente.",
-      "origen_y_expediente": "Marco revelatorio; geología."
+      "resultado_delimitado": "I para origen vegetal/enterramiento; cronología de los yacimientos y explicación universal por un diluvio reciente fuera del juicio probatorio activo, sin calificarlas aquí como error ni acierto.",
+      "origen_y_expediente": "Marco revelatorio; geología.",
+      "resultado_historico_2026_09_30": "I para origen vegetal/enterramiento; E para explicación universal por un diluvio reciente.",
+      "actualizacion_de_alcance_2026_10_03": "Se conserva el candidato y su evaluación anterior como antecedente; la cronología no se utiliza como evidencia en el manuscrito vigente."
     },
     {
       "id": "C06",
@@ -1515,8 +1521,19 @@
   "limites": {
     "no_autografos": "No se inspeccionaron autógrafos de todos los mensajes ni pruebas de imprenta individuales.",
     "fecha_carta_83": "Catálogo/encabezamiento 16-VII-1901; fecha interna de reproducción Paulson 15-VII-1901.",
-    "astro": "Education 1903 p.14 separado de EW pp.39-40 y Topsham 1846; antecedente 1849 reportado, no facsímil cotejado.",
+    "astro": "Education 1903 p. 13, párr. 3, separado de EW pp. 39–40 y Topsham 1846; antecedente 1849 reportado, no facsímil cotejado. Localizador alineado el 3-X-2026 con la cobertura C12-N23.",
     "acceso_parcial": "Zachar/Kendler: resumen. Numbers PDF: sin extracción completa; no lectura integral declarada. Stutzer/Pfeiffer/Horrobin: argumentos transmitidos por defensa, no libros íntegros cotejados.",
     "actualizaciones_anteriores": "Sólo continuidad C11 y ficha; sin retractación de resultados anteriores ni alteración de matriz."
+  },
+  "actualizacion_editorial_2026_10_03": {
+    "alcance": "Sincronización con el manuscrito e índice vigentes; no es una nueva auditoría de todos los originales ni sustituye la fecha de corte de la investigación anterior.",
+    "candidatos_con_cronologia_excluida": [
+      "C01",
+      "C02",
+      "C05"
+    ],
+    "historia_conservada": "Las evaluaciones previas se conservan en resultado_historico_2026_09_30; los textos fuente e IDs no se eliminan.",
+    "localizador_corregido": "Education 1903, p. 13, párr. 3, según C12-N23 y la ficha de astronomía.",
+    "control_editorial_anterior": "Los conteos y controles del bloque control_editorial describen la edición de septiembre, no el manuscrito reeditado en octubre."
   }
 }

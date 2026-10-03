@@ -78,7 +78,7 @@ El adjetivo se aplica directamente a la **Escritura**, no a una clase de persona
 
 El contexto inmediato también impone un límite. En el versículo anterior, Timoteo conoce desde niño “las Sagradas Escrituras”; la referencia apunta, como mínimo, a las Escrituras judías que había recibido. 2 Timoteo 3:16 no enumera por adelantado los libros que formarían el canon cristiano, es decir, el conjunto reconocido como Escritura. Aplicar después el versículo a todos esos libros exige otros argumentos sobre su reconocimiento como Escritura. No basta el significado de *theopneustos*.
 
-El término afirma más que “los autores tuvieron ideas religiosas muy elevadas”, pero no explica cómo trabajó cada autor: si investigó, consultó testigos, recordó experiencias, usó documentos previos, dictó o reorganizó materiales.
+El término afirma más que “los autores tuvieron ideas religiosas muy elevadas”, pero no explica cómo trabajó cada autor: si investigó, consultó testigos, recordó experiencias, usó documentos previos, dictó a un secretario o reorganizó materiales.
 
 Por tanto, “inspiración”, en su uso teológico estricto, no debe confundirse con una emoción creativa ni con una descripción detallada del proceso de composición.
 

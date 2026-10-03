@@ -9,7 +9,7 @@ Los relatos serían extraordinarios si todo ocurrió como se cuenta. También pu
 Como vimos al estudiar las primeras visiones, importan la cercanía del testigo, la fecha de su relato y su independencia. Una declaración directa de un médico no equivale a que otra persona recuerde lo que habría dicho.
 
 ## 1. ¿Qué se decía que ocurría durante una visión?
-La descripción más completa publicada en el siglo XIX apareció en 1868. James White, esposo de Ellen y testigo de muchas de sus visiones, enumeró cuatro rasgos. Según él, ella perdía conciencia de lo que la rodeaba; no respiraba durante toda la experiencia, que podía durar desde quince minutos hasta tres horas; sus músculos se volvían rígidos y sus articulaciones no podían moverse, aunque ella realizaba gestos libres y gráciles; y al terminar todo le parecía oscuro, de modo que la vista regresaba gradualmente.[^1]
+En 1868, James White, esposo de Ellen y testigo de muchas de sus visiones, publicó una descripción de cuatro rasgos. Según él, ella perdía conciencia de lo que la rodeaba; no respiraba durante toda la experiencia, que podía durar desde quince minutos hasta tres horas; sus músculos se volvían rígidos y sus articulaciones no podían moverse, aunque ella realizaba gestos libres y gráciles; y al terminar todo le parecía oscuro, de modo que la vista regresaba gradualmente.[^1]
 
 Años después, otros defensores añadieron detalles. George I. Butler escribió en 1874 que sus ojos permanecían abiertos, dirigidos hacia arriba y sin parpadear; que el pulso y el color del rostro seguían normales; que espejos, manos y otras pruebas no detectaban respiración; y que no respondía de manera corriente a estímulos externos.[^2] J. N. Loughborough publicó en 1892 una secuencia todavía más definida: tres exclamaciones de “¡Gloria!”, una breve pérdida de fuerza, la aparición de una fuerza que llamó “sobrehumana”, movimientos gráciles, ojos abiertos y ausencia de respiración.[^3]
 
@@ -81,7 +81,7 @@ Hay que distinguir tres cosas: un testimonio temprano, la primera descripción g
 
 Si la fecha atribuida es correcta, James escribió muy cerca del episodio. La afirmación sería, por tanto, mucho más temprana que los relatos publicados después. Podemos leer una transcripción moderna del registro, no una medición clínica. No describe instrumentos, observación ininterrumpida ni un procedimiento que demuestre apnea continua, es decir, ausencia de respiración durante todo ese tiempo. *Life Incidents* (1868) sigue siendo la primera **descripción general impresa localizada** que reúne los distintos signos; no el primer testimonio documental de ausencia de respiración.
 
-James afirmó que Ellen “no respiraba” durante toda la visión y que esto se había comprobado repetidamente presionándole el pecho y cerrándole la boca y la nariz. Añadió una duración de entre quince minutos y tres horas. Pero no indicó en qué ocasiones se realizaron esas pruebas, quién las hizo, cuánto tiempo mantuvieron cerradas la boca y la nariz ni cómo se midió el tiempo.[^1]
+En su resumen de 1868, James afirmó que Ellen “no respiraba” durante toda la visión y que esto se había comprobado repetidamente presionándole el pecho y cerrándole la boca y la nariz. Añadió una duración de entre quince minutos y tres horas. Pero no indicó en qué ocasiones se realizaron esas pruebas, quién las hizo, cuánto tiempo mantuvieron cerradas la boca y la nariz ni cómo se midió el tiempo.[^1]
 
 No hemos hallado una medición contemporánea de 1845, 1853, 1854 o 1857 que establezca ausencia completa de ventilación durante una visión entera.
 

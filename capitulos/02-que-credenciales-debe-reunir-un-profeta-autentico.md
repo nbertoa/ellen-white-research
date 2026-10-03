@@ -13,7 +13,7 @@ Esto obliga a separar dos preguntas que suelen confundirse:
 1. ¿Esta afirmación concreta procede de Dios?
 2. ¿La trayectoria completa justifica reconocer un don profético confiable?
 
-Un acierto no autentica todo el ministerio, ni una dificultad menor lo invalida. Una falsa atribución clara de palabras a Dios sí es grave. Su peso dependerá de la afirmación, la evidencia y la explicación que mejor resista el examen.
+Un acierto no autentica todo el ministerio, ni una dificultad menor lo invalida por sí sola. Una falsa atribución clara de palabras a Dios sí es grave. Su peso dependerá de la afirmación, la evidencia y la explicación que mejor resista el examen.
 
 ## 2. ¿Es bíblicamente posible que exista un profeta después del período apostólico?
 
@@ -255,7 +255,7 @@ Una conclusión cambiará cuando aparezca mejor evidencia, no cuando resulte có
 
 | Clase de evidencia | ¿Qué incluye? | ¿Qué permite concluir? |
 |---|---|---|
-| **Posibles descalificadores serios** | Apartarse de Dios por indicación del mensajero; predicción concreta e incondicional fallida; contradicción bíblica clara; falsa atribución documentable de origen; método espiritual explícitamente prohibido; engaño profético persistente; fruto moral corruptor; interés personal que condiciona el mensaje | Atacan directamente la autenticidad o la fiabilidad de la pretensión. Requieren evidencia clara y contexto; no deben inferirse de rumores ni ambigüedades. |
+| **Posibles descalificadores serios** | Invitación a apartarse de Dios presentada como mensaje divino; predicción concreta e incondicional fallida; contradicción bíblica clara; falsa atribución documentable de origen; método espiritual explícitamente prohibido; engaño profético persistente; fruto moral corruptor; interés personal que condiciona el mensaje | Atacan directamente la autenticidad o la fiabilidad de la pretensión. Requieren evidencia clara y contexto; no deben inferirse de rumores ni ambigüedades. |
 | **Evidencias favorables sin poder demostrativo automático** | Predicción específica, improbable y documentada de antemano; conocimiento difícil de obtener normalmente; coherencia bíblica sostenida; vida congruente con lo enseñado; apertura al examen; buen fruto; experiencia extraordinaria con documentación temprana e independiente | Pueden dar más apoyo a la hipótesis profética, pero deben compararse con explicaciones ordinarias y no autentican por sí solas todo el ministerio. |
 | **Elementos insuficientes por sí solos** | Visión, sueño, trance, señal, curación, acierto aislado, frase verdadera, sinceridad, piedad, popularidad, crecimiento, testimonios dependientes, aceptar o rechazar dinero | Describen una experiencia, un rasgo o un resultado; no identifican sin más su origen divino. |
 | **Reglas de evaluación** | Fijar texto y fechas; distinguir condición de explicación retrospectiva; examinar contenido, origen, frutos y medios; separar testigos independientes; comparar hipótesis; evaluar cada afirmación y luego la trayectoria | Impiden convertir el cumplimiento, el fracaso, la utilidad o la rareza en conclusiones automáticas. |

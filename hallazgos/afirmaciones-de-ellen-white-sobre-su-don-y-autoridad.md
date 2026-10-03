@@ -64,7 +64,7 @@ Ms 107, 1909 distingue mensajes revelados por el Espíritu de asuntos comunes. E
 
 **Indeterminado:** la clasificación de cada texto mixto, porque la distinción general no identifica automáticamente qué parte procede de memoria, información humana, aplicación o revelación reclamada.
 
-Fuente primaria: Ms 107, 1909, “A Confusion of the Sacred and the Common”, St. Helena, 5 de marzo de 1909, párrs. 6-10.
+Fuente primaria: Ms 107, 1909, “A Confusion of the Sacred and the Common”, St. Helena, 5 de marzo de 1909, párrs. 1–2, 6–11. El dato de las habitaciones está en 1–2 y la distinción sobre cartas comunes, en 11. El localizador se alinea con C3 y con el registro de cobertura de octubre de 2026; el original material no fue inspeccionado.
 
 ### ¿Necesitaba una nueva visión para cada consejo?
 
@@ -232,4 +232,4 @@ Estas no son lagunas que puedan llenarse con la fórmula “inspiración de pens
 
 **Interpretación probable:** su modelo admitía mediación literaria; no implica independencia de cada pasaje ni demuestra que un dato preciso fuera revelado. **Hipótesis por verificar:** el papel de lecturas y asistentes en cada segmento. Cambiaría el balance un borrador que atribuyera concretamente a revelación un dato previamente copiado, o que documentara otra secuencia de composición. La negación de infalibilidad personal no elimina esa prueba.
 
-Las fuentes originales citadas en esta ficha llegan en algunos casos por transcripciones o compilaciones modernas: llamar primaria a la autoría del documento no autentica el soporte digital. Para los pasajes corregidos, C3 y el registro de remediación identifican edición y localizadores. Esta actualización conserva la ficha previa como antecedente, sin contarla como corroboración independiente.
+Las fuentes originales citadas en esta ficha llegan en algunos casos por transcripciones o compilaciones modernas: llamar primaria a la autoría del documento no autentica el soporte digital. Para los pasajes corregidos, C3 y el [registro de cobertura de octubre de 2026](auditoria-final-libro-2026-10-cobertura.md) identifican edición y localizadores. La remediación de septiembre conserva el estado anterior: su referencia a Ms 140, 1905 como soporte del discurso de 1904 fue corregida por la identificación del informe de Cornell, DF 108a, expuesta arriba. Esta actualización conserva la ficha previa como antecedente, sin contarla como corroboración independiente.
