@@ -1,34 +1,18 @@
 # Capítulo 1 — ¿Qué significan inspiración, iluminación, revelación, impresión del Espíritu, guía del Espíritu, profecía y don de profecía?
 
-Antes de evaluar si una persona posee el don de profecía necesitamos saber exactamente qué estamos preguntando.
+Antes de evaluar si una persona posee el don de profecía necesitamos saber qué estamos preguntando.
 
-En el lenguaje cristiano es frecuente escuchar expresiones como “Dios me impresionó”, “el Espíritu me guió”, “fui iluminado”, “Dios me inspiró”, “Dios me reveló”, “tuve una visión” o “profeticé”. A veces esas frases se usan casi como sinónimos. La Biblia, sin embargo, no las reúne en una única categoría, y algunas ni siquiera son expresiones técnicas de sus autores.
+En el lenguaje cristiano es frecuente escuchar “Dios me impresionó”, “el Espíritu me guió”, “fui iluminado”, “Dios me inspiró”, “Dios me reveló”, “tuve una visión” o “profeticé”. A veces se usan como sinónimos, pero la Biblia no las reúne en una única categoría.
 
-La diferencia importa. Si alguien dice que sintió una fuerte convicción de llamar a un amigo, no está afirmando necesariamente lo mismo que quien dice: “Dios me mostró lo que va a ocurrir mañana”. Y ninguna de esas dos afirmaciones equivale, por sí sola, a sostener que una persona posee el don de profecía.
-
-Este capítulo no evaluará todavía a ninguna persona concreta. Tampoco intentará construir una teoría completa de inspiración bíblica. La tarea es más modesta y, al mismo tiempo, indispensable: separar categorías que suelen mezclarse y precisar qué clase de afirmación está haciendo alguien cuando habla de guía, inspiración, revelación o profecía.
+Sentir una fuerte convicción de llamar a un amigo no equivale a afirmar: “Dios me mostró lo que va a ocurrir mañana”. Ninguna de las dos afirmaciones demuestra por sí sola un don profético. Este capítulo separa esas categorías antes de aplicarlas a Ellen White; no intenta construir una teoría completa de inspiración bíblica.
 
 ## 1. ¿Por qué no podemos usar todas estas palabras como si significaran lo mismo?
 
-Porque describen cosas diferentes.
+Porque describen cosas diferentes: una **experiencia interior**, como una convicción; una **acción atribuida a Dios**, como guiar o revelar; un **medio**, como una visión; una **actividad de comunicación**, como profetizar; o una **función reconocible**, como la del profeta.
 
-Algunas palabras se refieren principalmente a una **experiencia interior**: una convicción, una impresión o una sensación de dirección.
+“Inspiración” agrega otra dificultad. En el uso cristiano moderno puede significar desde una idea creativa hasta una doctrina acerca del origen de la Escritura. La frase “esa persona fue inspirada” es demasiado ambigua para resolver nuestra pregunta.
 
-Otras describen una **acción de Dios**: guiar, revelar, dar un don.
-
-Otras se refieren a un **medio**: una visión o un sueño.
-
-Otras describen una **actividad de comunicación**: profetizar.
-
-Y otras identifican una **función o identidad reconocible**: profeta.
-
-“Inspiración” agrega otra dificultad. En el uso cristiano moderno puede significar desde una idea creativa hasta una doctrina técnica acerca del origen de la Escritura. Por eso la frase “esa persona fue inspirada” es demasiado ambigua para resolver nuestra pregunta.
-
-La primera regla del libro será, entonces, sencilla: **no convertir una afirmación en otra que reclama más sin evidencia adicional**.
-
-Una impresión puede resultar acertada sin ser revelación. Una persona puede ser guiada por Dios sin ser profeta. Un escrito puede ser considerado inspirado sin que su autor sea identificado como profeta. Una persona puede profetizar en una ocasión sin que eso autentique todo lo que diga después.
-
-Pero para sostener esas distinciones necesitamos examinar cada término.
+La primera regla será **no convertir una afirmación en otra que reclama más sin evidencia adicional**. Para aplicarla necesitamos examinar cada término.
 
 ## 2. ¿Es “impresión del Espíritu” una categoría bíblica?
 
@@ -39,8 +23,6 @@ La Biblia conoce convicciones interiores, deseos, conciencia, sabiduría, impuls
 En el lenguaje cristiano actual, la expresión suele servir para algo como esto:
 
 > “Sentí fuertemente que debía hacer algo y pensé que esa convicción podía venir de Dios.”
-
-Como descripción de una experiencia, la frase puede ser útil. Como prueba de origen, no alcanza.
 
 Una impresión puede coincidir con una dirección real de Dios. También puede surgir de memoria, intuición, temor, deseo, empatía, expectativa, razonamiento inconsciente o una combinación de factores que la persona no distingue en el momento. La intensidad subjetiva no identifica por sí sola la causa.
 
@@ -56,9 +38,7 @@ Romanos 8:14 habla de quienes son “guiados por el Espíritu de Dios” dentro 
 
 Hechos muestra otra dimensión. En Hechos 16:6-10, Pablo y sus compañeros son impedidos de predicar en determinadas regiones, luego Pablo recibe una visión nocturna y finalmente el grupo “concluye” que Dios los llamaba a Macedonia. El relato reúne dirección divina, una visión y la evaluación de sus participantes, sin decir que sean lo mismo.[^3]
 
-Esto permite una distinción importante:
-
-**guía del Espíritu** es una categoría amplia. Puede incluir transformación moral, decisiones, dirección ministerial y, en ciertos relatos, experiencias que se presentan como revelaciones. Pero decir que una persona fue guiada por el Espíritu no equivale a decir que recibió una revelación profética.
+La **guía del Espíritu** es, por tanto, una categoría amplia. Puede incluir transformación moral, decisiones, dirección ministerial y, en ciertos relatos, experiencias que se presentan como revelaciones. Pero decir que una persona fue guiada por el Espíritu no equivale a decir que recibió una revelación profética.
 
 Quien participa en una acción atribuida a Dios no tiene por qué comprender todo lo que ocurre. Juan interpreta las palabras de Caifás como proféticas aunque su intención visible sea política y no exista indicación de que supiera estar pronunciando una profecía. Eso muestra que un texto bíblico puede atribuir una función providencial a palabras de alguien sin que esa persona comprenda lo que ocurre. Pero sería impreciso convertir por eso “guía del Espíritu” en sinónimo de toda acción providencial de Dios.
 
@@ -98,11 +78,7 @@ El adjetivo se aplica directamente a la **Escritura**, no a una clase de persona
 
 El contexto inmediato también impone un límite. En el versículo anterior, Timoteo conoce desde niño “las Sagradas Escrituras”; la referencia apunta, como mínimo, a las Escrituras judías que había recibido. 2 Timoteo 3:16 no enumera por adelantado los libros que formarían el canon cristiano, es decir, el conjunto reconocido como Escritura. Aplicar después el versículo a todos esos libros exige otros argumentos sobre su reconocimiento como Escritura. No basta el significado de *theopneustos*.
 
-Esto corrige dos exageraciones opuestas.
-
-La primera sería reducir el texto a “los autores tuvieron ideas religiosas muy elevadas”. *Theopneustos* afirma algo más fuerte sobre la Escritura.
-
-La segunda sería hacer que una sola palabra responda preguntas que el pasaje no está respondiendo. El término, por sí mismo, no explica cómo pensó y trabajó cada autor al escribir. No dice si el autor investigó, consultó testigos, recordó experiencias, usó documentos previos, dictó a un secretario o reorganizó materiales.
+El término afirma más que “los autores tuvieron ideas religiosas muy elevadas”, pero no explica cómo trabajó cada autor: si investigó, consultó testigos, recordó experiencias, usó documentos previos, dictó o reorganizó materiales.
 
 Por tanto, “inspiración”, en su uso teológico estricto, no debe confundirse con una emoción creativa ni con una descripción detallada del proceso de composición.
 
@@ -116,15 +92,7 @@ El sentido exacto de 1:20 —“interpretación propia”— se discute. Puede e
 
 La teología cristiana habla también de “autores inspirados”. Esa expresión desarrolla lo que entiende del pasaje; no es la formulación que éste utiliza.
 
-Esa precisión importa porque decir que una persona “fue inspirada” todavía deja abiertas varias preguntas:
-
-- ¿se quiere decir que sus escritos resultan espiritualmente valiosos?
-- ¿que Dios la guió o ayudó?
-- ¿que recibió revelaciones?
-- ¿que se atribuye a sus escritos una autoridad especial?
-- ¿que ejerció el don de profecía?
-
-La palabra sola no decide.
+Decir que alguien “fue inspirado” no aclara todavía si recibió revelaciones, si sus escritos reclaman autoridad especial o si ejerció el don de profecía.
 
 ## 8. ¿Inspiración exige dictado verbal?
 
@@ -135,8 +103,6 @@ No se sigue de 2 Timoteo 3:16.
 Eso no permite excluir toda forma de dictado. Algunos relatos presentan a Dios dando palabras concretas o mandando escribirlas, como Éxodo 34:27, Jeremías 36:2-4 y los mensajes de Apocalipsis 2–3. El dictado puede describir ciertos episodios o materiales. Lo que la evidencia no justifica es convertirlo en la definición obligatoria y exclusiva de toda inspiración bíblica.
 
 La conclusión segura es doble: **inspiración no exige ausencia de participación humana, pero tampoco autoriza a decidir de antemano que las palabras nunca pudieron ser dadas de manera directa**.[^7]
-
-Cuánto control divino corresponde a pensamientos, palabras, selección, memoria o edición requiere argumentos adicionales; 2 Timoteo 3:16 y 2 Pedro 1:21 no ofrecen por sí solos un único modelo para todos los escritos.
 
 ## 9. ¿Inspiración exige ausencia de investigación o de fuentes humanas?
 
@@ -174,7 +140,7 @@ No hay base para esa inferencia.
 
 La lección mínima es importante: **ser profeta no convierte automáticamente todo lo que una persona piensa o dice en revelación**.
 
-No hace falta atribuir infalibilidad global al mensajero para reconocer una palabra revelada concreta. El propio relato de Natán basta para distinguir entre la identidad del profeta y cada opinión que expresa.[^9]
+El relato distingue la identidad del profeta de cada opinión que expresa.[^9]
 
 ## 12. ¿Qué es entonces revelación?
 
@@ -203,7 +169,7 @@ Mateo 16:17 dice que lo confesado por Pedro no le fue revelado por “carne y sa
 
 1 Corintios 14 ayuda a ver la relación. Allí algo puede ser “revelado” a una persona sentada y dar lugar a que hable en el contexto profético. Podemos distinguir lo que se recibe del acto de comunicarlo, aunque el pasaje no ofrece una teoría de etapas que deba imponerse a toda experiencia.[^11]
 
-No todos los especialistas formulan la relación exactamente igual, pero esta distinción básica evita un error: **recibir o comprender algo atribuido a revelación divina no es idéntico al acto de comunicarlo proféticamente**.
+Aunque su relación se discuta, **recibir algo atribuido a revelación divina y comunicarlo proféticamente son actos distintos**.
 
 ## 14. ¿Conviene hablar de “revelación pública” y “revelación privada”?
 
@@ -243,15 +209,9 @@ La palabra “visión” por sí sola sólo identifica de manera provisional el 
 
 ## 16. ¿Qué es un sueño profético?
 
-La misma cautela se aplica.
-
 Números 12:6 presenta visión y sueño como medios posibles por los que Dios puede darse a conocer a un profeta. Jeremías 23, sin embargo, contrapone los sueños que no proceden de YHWH con la palabra verdadera. El medio es bíblicamente posible; su origen todavía debe examinarse.
 
-Por eso:
-
-> **tener un sueño ≠ recibir necesariamente una revelación divina.**
-
-Y aun cuando un sueño fuera auténticamente revelatorio, todavía queda por resolver qué parte corresponde a la experiencia, qué parte a su interpretación y qué parte al mensaje que finalmente se comunica.
+Aun cuando un sueño fuera auténticamente revelatorio, todavía queda por resolver qué parte corresponde a la experiencia, qué parte a su interpretación y qué parte al mensaje que finalmente se comunica.
 
 ## 17. ¿Puede un profeta no comprender completamente una revelación auténtica?
 
@@ -272,8 +232,6 @@ La conclusión segura es más limitada: **un origen divino no significa que el m
 No significa simplemente predecir el futuro.
 
 En 1 Corintios 14:3, quien profetiza habla para edificación, exhortación y consuelo. En ese contexto congregacional, Pablo valora la profecía porque comunica contenido comprensible. En Hechos, Agabo anuncia una hambruna y más tarde advierte sobre lo que ocurrirá a Pablo. Los profetas del Antiguo Testamento denuncian injusticia, llaman al arrepentimiento, interpretan acontecimientos, anuncian juicio y esperanza y, en ocasiones, predicen hechos futuros. También pueden comunicar mediante acciones simbólicas.
-
-La predicción es una posible función de la profecía. No es su definición.
 
 Una definición de trabajo suficientemente amplia sería:
 
@@ -302,8 +260,6 @@ Por eso, para describir casos históricos conviene distinguir:
 - **pretensión profética:** lo que una persona afirma que ocurrió;
 - **acto profético atribuido:** una palabra o acción que una fuente interpreta como profética;
 - **profecía auténtica:** conclusión de que existe evidencia suficiente para atribuir el mensaje a Dios.
-
-Esta distinción permitirá investigar sin conceder ni negar de entrada la afirmación central.
 
 ## 20. ¿Puede alguien profetizar una vez sin ser profeta?
 
@@ -341,7 +297,7 @@ En 1 Corintios 12:7-11, la profecía aparece entre las manifestaciones que el Es
 
 “Don de profecía” es una manera razonable de resumir este conjunto, aunque Pablo no la usa siempre como un título técnico fijo. Podemos afirmar con seguridad que, en su marco teológico, la profecía es una capacidad o manifestación distribuida por el Espíritu para el fortalecimiento de la comunidad.
 
-Lo que no podemos hacer con la misma seguridad es definir el don como “un ministerio permanente” por el simple significado del término. Pablo distingue dones, actos y personas, pero no explica cuántas profecías, durante cuánto tiempo o bajo qué reconocimiento exacto convierten a alguien en “profeta”. 1 Corintios 14:31 —“podéis profetizar todos uno por uno”— puede referirse a todos los profetas o participantes habilitados para hacerlo; 1 Corintios 12:29, en cambio, pregunta retóricamente si todos son profetas y espera una respuesta negativa. La relación exacta sigue discutida.[^18]
+Lo que no podemos hacer con la misma seguridad es definir el don como “un ministerio permanente” por el simple significado del término. Pablo distingue dones, actos y personas, pero no explica cuántas profecías, durante cuánto tiempo o bajo qué reconocimiento exacto convierten a alguien en “profeta”. 1 Corintios 14:31 —“podéis profetizar todos uno por uno”— puede referirse a todos los profetas, a quienes poseen el don o, según otros intérpretes, a una participación más amplia; 1 Corintios 12:29, en cambio, pregunta retóricamente si todos son profetas y espera una respuesta negativa. La relación exacta sigue discutida.[^18]
 
 Por eso debemos separar:
 
@@ -351,39 +307,17 @@ Por eso debemos separar:
 - **profeta:** persona reconocida en una función profética;
 - **ministerio profético:** expresión descriptiva útil para una actividad profética sostenida, pero no una categoría que Pablo defina con un umbral técnico.
 
-La distinción puede parecer más compleja, pero evita afirmar más de lo que la evidencia permite.
+Para investigar una trayectoria habrá que preguntar si la persona fue reconocida de manera sostenida como receptora y comunicadora de mensajes divinos. La respuesta depende de sus afirmaciones, de cómo fue recibida por sus contemporáneos y de la evidencia sobre sus mensajes.
 
-## 23. ¿Todo el que profetiza debe ser llamado profeta?
-
-No podemos formular una regla universal.
-
-1 Corintios parece distinguir entre la distribución de dones y las personas designadas como profetas. A la vez, 14:31 utiliza un “todos” cuyo alcance se discute: puede referirse a todos los profetas presentes, a todos los que poseen el don o, según otros intérpretes, a una posibilidad más amplia de participación.
-
-La evidencia no justifica definir de antemano:
-
-> “Una profecía = ya es profeta”
-
-ni tampoco:
-
-> “Sólo quien ocupa un oficio formal puede profetizar”.
-
-Lo que sí puede preguntarse históricamente es si una persona fue reconocida de manera sostenida como receptora y comunicadora de mensajes divinos. La respuesta debe surgir de sus propias afirmaciones, de la recepción contemporánea y de la evidencia disponible sobre sus mensajes.
-
-## 24. ¿Todo profeta escribe Escritura?
+## 23. ¿Todo profeta escribe Escritura?
 
 Claramente no.
 
 Hechos 11 y 21 llaman profeta a Agabo. Hechos 21 dice que las cuatro hijas de Felipe profetizaban. Hechos 13 menciona profetas y maestros en Antioquía. 1 Corintios presupone varios profetas dentro de una congregación.
 
-No se atribuyen libros canónicos a esas personas.
+No se atribuyen libros canónicos a esas personas. Por eso “¿tuvo el don de profecía?” y “¿sus escritos deben formar parte de la Biblia?” son preguntas diferentes. Incluso si se demostrara lo primero, lo segundo no seguiría automáticamente.
 
-Por tanto:
-
-> **profeta ≠ autor canónico.**
-
-Esto es importante porque “¿tuvo el don de profecía?” y “¿sus escritos deben formar parte de la Biblia?” son preguntas diferentes. Incluso si se demostrara lo primero, lo segundo no seguiría automáticamente.
-
-## 25. ¿Qué autoridad tendría una profecía auténtica que no fuera Escritura?
+## 24. ¿Qué autoridad tendría una profecía auténtica que no fuera Escritura?
 
 La Biblia obliga a mantener dos ideas juntas.
 
@@ -410,21 +344,13 @@ Para no decidirla mediante una definición, mantendremos separadas cuatro pregun
 
 Una respuesta afirmativa a la primera no convierte automáticamente el mensaje en Escritura; una respuesta negativa a la cuarta no lo vuelve automáticamente irrelevante.
 
-## 26. ¿Puede un profeta investigar y utilizar fuentes humanas?
+## 25. ¿Puede un profeta investigar y utilizar fuentes humanas?
 
-Nada en la categoría “profeta” convierte toda actividad intelectual de la persona en recepción directa.
+Sí. Un profeta puede leer, recordar, razonar y aprender. Daniel 9 presenta a Daniel leyendo a Jeremías antes de su oración y de una revelación posterior. La función profética no elimina la actividad humana ordinaria.
 
-Un profeta puede leer, recordar, razonar y aprender como cualquier otra persona. Daniel 9, por ejemplo, presenta a Daniel leyendo la profecía de Jeremías antes de su oración y de la revelación posterior. Natán puede dar un consejo y luego recibir una palabra específica. La función profética no elimina la actividad humana ordinaria.
+La distinción ya vista en Lucas sigue vigente: el uso de fuentes no es incompatible por definición con inspiración dentro de la premisa cristiana. Pero Jeremías 23 condena atribuir a Dios una palabra que no procede de él. La pregunta concreta será: **¿coincide el origen real del material con el origen que se afirmó para él?**
 
-Otra pregunta es si un **mensaje concreto presentado como revelación** puede tener una fuente humana no reconocida. Ahí volvemos al problema del origen.
-
-Dentro de la premisa cristiana que reconoce Lucas como Escritura inspirada, Lucas 1 muestra que investigación y fuentes humanas no son incompatibles por definición con inspiración. No verifica que una obra posterior esté inspirada ni justifica una atribución falsa de origen en un pasaje concreto. Jeremías 23 demuestra que es grave atribuir a YHWH una palabra que no procede de él. Ambos datos deben conservarse.
-
-Por eso el uso de fuentes no será, por sí solo, una acusación. Tampoco será, por sí solo, irrelevante. La pregunta será siempre:
-
-> **¿coincide el origen real del material con el origen que se afirmó para él?**
-
-## 27. ¿La Biblia distingue entre el mensaje recibido y las palabras usadas para comunicarlo?
+## 26. ¿La Biblia distingue entre el mensaje recibido y las palabras usadas para comunicarlo?
 
 A veces distingue etapas, pero no explica todos los casos de la misma manera.
 
@@ -436,39 +362,13 @@ Estos datos impiden dos simplificaciones. No permiten afirmar que la Biblia sepa
 
 En cualquier evaluación concreta habrá que preguntar qué afirmó la persona sobre el origen y la formulación de sus mensajes y si la evidencia histórica coincide con esa descripción.
 
-## 28. ¿Puede una impresión personal obligar a otras personas?
+## 27. ¿Puede una impresión personal obligar a otras personas?
 
-No por el simple hecho de ser intensa o sincera.
+No por el simple hecho de ser intensa o sincera. Como vimos al definir “impresión”, decir “creo que el Espíritu me impulsa a hacer esto” no obliga a otra persona a obedecer.
 
-Si alguien dice “creo que el Espíritu me impulsa a hacer esto”, puede estar describiendo su propio discernimiento. Otra persona no queda obligada a tratar esa sensación como una orden divina sólo porque el hablante la experimente con certeza.
+Decir “Dios te ordena que hagas esto” reclama una autoridad distinta y exige examinar su origen. La fuerza emocional de la experiencia no sustituye ese examen.
 
-Si el hablante pasa a decir “Dios te ordena que hagas esto”, entonces ha elevado la afirmación. Está atribuyendo a Dios un mensaje dirigido a otro. Esa pretensión debe someterse al tipo de examen que el Nuevo Testamento aplica a las profecías y a los espíritus.
-
-La autoridad no aumenta por la fuerza emocional con que se expresa una experiencia. Aumenta la **responsabilidad de demostrar el origen** cuando aumenta la pretensión.
-
-## 29. ¿Qué términos son bíblicos y cuáles son principalmente construcciones teológicas posteriores?
-
-Podemos resumirlo así.
-
-**“Guiar por el Espíritu”** tiene formulaciones bíblicas directas, aunque con usos diversos.
-
-**“Revelar”, “revelación”, “visión”, “sueño”, “profetizar”, “profecía” y “profeta”** pertenecen directamente al vocabulario bíblico, aunque su relación exacta debe reconstruirse por contexto.
-
-**“Don de profecía”** resume de manera legítima el lugar de la profecía entre los dones y manifestaciones del Espíritu, pero no funciona en todos los pasajes como una etiqueta técnica fija.
-
-**“Escritura inspirada”** se apoya directamente en 2 Timoteo 3:16; la doctrina completa de “inspiración” es una elaboración teológica que integra ese texto con otros.
-
-**“Autor inspirado”** es lenguaje teológico razonable, pero no la forma gramatical de 2 Timoteo 3:16.
-
-**“Impresión del Espíritu”** es principalmente lenguaje cristiano descriptivo posterior.
-
-**“Iluminación”**, entendida como una doctrina específica sobre la ayuda divina para comprender verdad ya dada, es una categoría teológica desarrollada a partir de textos bíblicos, no una definición técnica que el Nuevo Testamento formule bajo una sola palabra.
-
-**“Revelación pública” y “revelación privada”** son categorías teológicas posteriores de determinadas tradiciones, no la terminología clasificatoria del texto bíblico.
-
-Saber esto no vuelve inútiles las palabras posteriores. Sólo impide presentarlas como si hubieran descendido ya definidas de un versículo.
-
-## 30. ¿Cómo quedan finalmente diferenciadas estas categorías?
+## 28. ¿Cómo quedan finalmente diferenciadas estas categorías?
 
 Para el resto de este libro trabajaremos con estas definiciones, siempre abiertas a corrección si la evidencia exige afinarlas:
 
@@ -491,29 +391,13 @@ En esta tabla, «acción divina», «ayuda divina» y «Dios revela» son **defi
 
 Esta tabla no pretende imponer a la Biblia un sistema que ella nunca formuló. Es una herramienta para impedir que nosotros confundamos afirmaciones diferentes mientras evaluamos evidencia histórica.
 
-## 31. ¿Por qué importa mantener separadas estas categorías?
+## 29. ¿Por qué importa mantener separadas estas categorías?
 
-Porque la frase “esta persona fue inspirada” puede significar demasiadas cosas.
+Porque nos permite formular la pregunta con precisión:
 
-Alguien podría usarla simplemente para decir que un libro le resultó espiritualmente valioso. Otra persona podría afirmar que Dios guió providencialmente a su autor. Otra podría sostener que recibió revelaciones concretas. Y otra podría decir que ejerció un don profético reconocible.
+> **¿Existe evidencia suficiente para concluir que una persona recibió y comunicó auténticos mensajes de Dios de una manera que justifique atribuirle el don de profecía?**
 
-No afirman lo mismo.
-
-Si queremos evaluar una pretensión profética, la pregunta precisa no es simplemente “¿fue inspirada esta persona?”, sino algo más exigente:
-
-> **¿Existe evidencia suficiente para concluir que recibió y comunicó auténticos mensajes de Dios de una manera que justifique atribuirle el don de profecía?**
-
-Ahora sabemos mejor qué tendría que significar una respuesta afirmativa.
-
-Pero todavía no sabemos cómo reconocerla.
-
-## 32. ¿Qué pregunta sigue?
-
-Si ya sabemos qué significa realmente poseer el don de profecía, queda una dificultad más básica antes de evaluar cualquier caso concreto:
-
-> **¿Qué credenciales debería reunir una persona para que podamos considerar auténtico ese don?**
-
-Ésa es la pregunta del capítulo siguiente.
+Sabemos qué significaría una respuesta afirmativa. Falta establecer cómo reconocerla: **¿qué credenciales debería reunir una persona para que podamos considerar auténtico ese don?** Ésa es la pregunta del capítulo siguiente.
 
 Las obras exegéticas y voces léxicas sin página específica en las notas conservan su condición de **bibliografía orientativa pendiente de cotejo**, no de consenso demostrado. Se identifican edición y pasaje; no se añaden números tomados de una cita de segunda mano como si hubiéramos abierto esas páginas. El registro de remediación distingue las fuentes ahora cotejadas de las que requieren acceso íntegro.
 

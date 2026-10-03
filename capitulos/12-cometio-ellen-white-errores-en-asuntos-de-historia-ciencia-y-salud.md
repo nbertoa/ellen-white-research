@@ -4,7 +4,7 @@ Sí, hay afirmaciones de Ellen White que resultan históricamente incorrectas y 
 
 Pero identificar un error todavía deja una pregunta decisiva: ¿de dónde decía White que procedía esa información? No pesa igual una cifra recibida de otra persona, una generalización tomada de un historiador y una relación de causa y efecto presentada específicamente como algo que le fue mostrado. Este capítulo examina ambas cosas: el contenido y su origen declarado.
 
-Los capítulos anteriores nos dejaron varios controles. Utilizar fuentes humanas no equivale a equivocarse. Un relato tomado de otro autor puede ser exacto y uno original puede contener errores. Una revisión puede corregir un dato sin demostrar engaño. Y un libro publicado bajo el nombre de White puede haber recibido contribuciones de asistentes cuyo alcance debemos investigar, sin atribuirles cualquier dificultad por conjetura.
+Los capítulos anteriores mostraron fuentes humanas, revisiones y colaboración editorial. Ninguna demuestra por sí sola error o engaño, ni permite atribuir a un asistente una dificultad sin investigar su intervención.
 
 Con esos controles, la pregunta no es si dijo cosas que hoy nos resultan extrañas. Es cuáles de sus afirmaciones podemos comprobar suficientemente y qué importancia tiene cada resultado para su afirmación de ser profeta.
 
@@ -20,21 +20,17 @@ En cada caso mantendremos separadas tres preguntas: ¿era correcta?, ¿podía co
 
 ## 2. ¿Había reconocido White la posibilidad de equivocarse?
 
-Sí, pero sus declaraciones requieren contexto. En 1895 dijo que nunca había reclamado infalibilidad y que sólo Dios era infalible. En 1906 rechazó la idea de que toda palabra suya, pública o privada, y toda carta estuvieran inspiradas como los Diez Mandamientos. También explicó que el lenguaje era humano y reconoció problemas posibles de copia y traducción.[^2]
-
-Esas declaraciones impiden imponerle una pretensión que no sostuvo de esa manera. No permiten concluir que una afirmación concretamente atribuida a revelación pueda ser falsa sin consecuencia alguna. «Puedo equivocarme personalmente» y «Dios me mostró esta relación causal» son afirmaciones distintas.
+Sí. Como vimos en el capítulo 3, negó infalibilidad personal e inspiración universal de sus palabras y cartas; reconoció lenguaje humano y posibles errores de copia y traducción.[^2] Eso no vuelve irrelevante un error atribuido específicamente a revelación: «puedo equivocarme» y «Dios me mostró esto» siguen siendo afirmaciones distintas.
 
 Un ejemplo suyo ayuda a verlo. En 1909 respondió a la objeción de que había dicho que un sanatorio tenía cuarenta habitaciones cuando tenía treinta y ocho. Explicó que el número procedía de información humana, no de una revelación del número exacto. No recordaba entonces la carta y pidió recuperarla. Su respuesta delimita ese dato particular; no convierte todos los números de sus libros en información humana.[^3]
 
-Aquí tenemos una discrepancia ordinaria reconocida y una explicación de procedencia. Para otros casos tendremos que buscar una explicación igualmente concreta. No podemos trasladarla por comodidad.
+La explicación vale para ese dato; en otros casos necesitaremos un respaldo igualmente concreto.
 
 ## 3. ¿Prometía revelar cada dato histórico de sus libros?
 
 No encontramos una promesa inequívoca de ese alcance. El prefacio de *The Great Controversy* combina dos elementos: White atribuye su conocimiento de grandes escenas a iluminación divina y reconoce que utilizó historiadores para presentar acontecimientos. Una misma obra podía contener, según su explicación, escenas que consideraba mostradas y datos organizados con fuentes humanas.[^4]
 
-Eso vuelve insuficientes dos atajos. Uno sería afirmar que cualquier error de un historiador utilizado por White prueba una falsa visión. Otro sería afirmar que, por haber empleado historiadores, ninguna afirmación histórica del libro pudo reclamar autoridad revelada.
-
-Debemos buscar el vínculo particular. ¿Dice que vio esa cifra, esa prioridad o ese decreto? ¿O emplea información histórica para desarrollar una interpretación religiosa más amplia? A veces podremos responder; otras veces la documentación dejará el origen individual indeterminado.
+Por eso debemos buscar el vínculo particular: ¿dice que vio esa cifra, esa prioridad o ese decreto, o utiliza historia para desarrollar una interpretación religiosa? El uso de historiadores no responde de antemano. A veces el origen individual quedará indeterminado.
 
 La investigación del capítulo 11 mostró además un proceso editorial real. En la revisión de 1911 participaron investigadores y asistentes; White expresó aprobación de los cambios. Esa aprobación permite atribuirle responsabilidad por la edición publicada, pero no identificar sin más quién escribió inicialmente cada frase. La comparación de versiones nos dirá qué cambió; los documentos del proceso, cuánto sabemos de su responsabilidad.
 
@@ -60,8 +56,6 @@ Otro pasaje decía que todo lo considerado herético, personas o escritos, habí
 
 En cambio, «cuarenta años» entre la advertencia sobre Jerusalén y su destrucción pasó a «casi cuarenta». Esa diferencia puede ser un redondeo razonable que se vuelve más preciso, no un error sustancial. Sustituir *Romish* por *Roman* responde principalmente al lenguaje y su recepción.
 
-Que varias modificaciones aparezcan en la misma edición no les da el mismo significado. La clasificación debe surgir de qué afirmación cambió y del motivo documentado, no de una regla que convierta cualquier revisión en confesión o que las declare todas mejoras editoriales sin importancia.
-
 ## 6. ¿Qué ocurre con el relato de la Revolución Francesa?
 
 Es un caso más difícil porque la revisión no resuelve todo. La campaña contra la religión cristiana fue real: hubo cierres de iglesias, destrucción de objetos religiosos, quemas de Biblias y violencia contra el culto. La dificultad está en convertir esa campaña en una secuencia precisa de leyes para todo el país.
@@ -78,7 +72,7 @@ Por eso hay hechos históricos verdaderos y una reconstrucción de las leyes con
 
 Sí. El relato utiliza la historia de William Russell, y la investigación editorial volvió sobre esa fuente para examinar la supuesta prohibición. Los documentos permiten seguir el relato desde el historiador hasta el texto publicado por White y una revisión que conserva parte de la secuencia.[^11]
 
-Eso ofrece una explicación humana posible del error. No demuestra por sí solo que White leyera directamente cada fuente que terminó citada, ni determina quién incorporó cada frase. Tampoco permite afirmar que el error deja de existir porque ya estuviera en un historiador.
+Es una explicación humana posible del error, no una prueba de quién leyó o incorporó cada frase. Que el error estuviera antes en un historiador tampoco lo elimina.
 
 La pregunta profética viene después: ¿presentó esa secuencia jurídica específica como información revelada o como historia utilizada en su narración? El libro reclama conducción divina y un marco de escenas mostradas; no encontramos una atribución individual igualmente clara del decreto y su intervalo.
 
@@ -100,7 +94,7 @@ La exigencia de identificar la afirmación sigue siendo la misma. Lo que cambia 
 
 También necesitamos dos cronologías. Una indica qué se publicó antes o después de White. La otra, cuándo se alcanzó una evidencia suficientemente fuerte. Que una afirmación fuera común en 1864 puede explicar su aparición, pero no hacerla verdadera. Que una advertencia fuera acertada antes de la aceptación general tampoco demuestra que nadie pudiera conocerla normalmente.
 
-No pediremos a un texto popular que use todas las palabras actuales. Sí examinaremos si sus diferencias alteran lo que afirma. Una referencia a roca endurecida no requiere precisión de un tratado mineralógico; afirmar qué causa los volcanes exige una prueba más precisa.
+Como al examinar «veneno lento», distinguiremos lenguaje popular y explicación física. Hablar de roca endurecida admite cierta imprecisión; afirmar qué causa los volcanes exige una prueba más precisa.
 
 En ciencia, además, la posibilidad de un milagro no se decide mediante un experimento ordinario. Pero una explicación que reclama describir fenómenos físicos deja consecuencias evaluables. No debemos convertirla en inmune a toda evidencia precisamente cuando esa evidencia crea una dificultad.
 
@@ -163,9 +157,7 @@ Muchas que después aparecen en su programa. Graham había difundido un régimen
 
 Tenemos una conexión más concreta que una lista de libros disponibles. En febrero de 1863, la revista adventista publicó instrucciones de Jackson sobre difteria. La nota de James White contó que las habían empleado al cuidar a sus hijos. Por tanto, el hogar White tenía contacto práctico con consejo reformista antes de la visión.[^25]
 
-Esto no demuestra que Ellen hubiera leído todos los libros que después negó haber leído antes de redactar sus primeros escritos. Tampoco que cada consejo suyo fuera una copia. Disponibilidad pública, contacto personal, lectura de una obra y dependencia de una frase son cosas distintas.
-
-Sus declaraciones de 1867 sobre lecturas y redacción quedaron examinadas en el capítulo 10. Aquí nos permiten rechazar una defensa demasiado amplia: no es sostenible decir que sus principales consejos sanitarios aparecieron en un mundo sin antecedentes accesibles. El contexto reduce la pretensión de conocimiento extraordinario; no decide por sí solo la verdad ni el origen de cada mensaje.
+El contacto práctico no demuestra lectura de todos los libros ni copia de cada consejo. El capítulo 10 examinó esa distinción al estudiar su negación de lecturas. Sí impide presentar sus principales consejos como ideas sin antecedentes accesibles. Esto reduce el argumento de conocimiento extraordinario, sin decidir la verdad ni el origen de cada mensaje.
 
 ## 16. ¿Cuáles de sus consejos tenían un fundamento sanitario real?
 
@@ -181,13 +173,11 @@ Aplicar el mismo criterio a todos los casos exige reconocer el acierto y despué
 
 ## 17. ¿Esos aciertos prueban que se adelantó sobrenaturalmente a la medicina?
 
-No. Pueden preceder a una aceptación general posterior y seguir siendo conocimientos normalmente disponibles. Advertir contra el tabaco antes del consenso epidemiológico del siglo XX es valioso; no demuestra que nadie hubiera advertido su daño antes de White. Graham, Coles y otros reformadores ya difundían ejercicio, dieta y crítica a estimulantes.
+No. Adelantarse a la aceptación general no equivale a conocer algo inaccesible. Las advertencias contra tabaco y estimulantes, junto con ejercicio y dieta, ya circulaban entre los reformadores citados.
 
 Debe distinguirse además una predicción específica de una coincidencia amplia. Recomendar alimentos vegetales y luego encontrar un estudio favorable sobre cereales integrales no significa haber anticipado las cifras de sus resultados. Decir que un hábito perjudica la salud no equivale a identificar un mecanismo, una dosis y una enfermedad que nadie podía conocer.
 
-Los mejores candidatos merecen el mismo control del capítulo 8: texto anterior, precisión, información disponible y alternativas. La combinación de consejos puede haber sido útil y haber tenido influencia real, pero utilidad e inaccesibilidad humana son preguntas diferentes.
-
-En los casos examinados no se estableció un consejo simultáneamente correcto, específico y demostrablemente fuera del alcance de fuentes ordinarias. No significa que toda inspiración deba comunicar novedades científicas. Significa que esos casos no prueban por sí solos el origen sobrenatural que se quiere evaluar.
+Con los controles del capítulo 8, no se estableció aquí un consejo simultáneamente correcto, específico y fuera del alcance de fuentes ordinarias. La utilidad del conjunto no cambia ese límite. No se exige que toda inspiración aporte novedades científicas; estos aciertos simplemente no prueban su origen sobrenatural.
 
 Una formulación anterior más precisa, que no apareciera en fuentes accesibles y fuera confirmada por evidencia robusta, cambiaría el resultado. No basta reinterpretar retrospectivamente una frase general con el lenguaje de un descubrimiento posterior.
 
@@ -221,7 +211,7 @@ Sólo parcialmente. Una defensa seria recuerda que White hablaba de hábitos per
 
 Douglass también recurre a la posible pérdida de zinc y a explicaciones posteriores de conducta sexual. Que esa pérdida sea posible en el cuerpo no demuestra que produzca las enfermedades descritas. No se encontró evidencia robusta de que la pérdida de zinc por masturbación produzca el síndrome descrito. Y una explicación basada en pérdida seminal masculina no resuelve por sí sola lo afirmado sobre mujeres.[^32]
 
-La defensa puede mostrar que no todo el párrafo carece de sentido: el exceso que impide dormir, trabajar o cuidarse puede ser perjudicial. Pero ésa no es una confirmación de tuberculosis, daño renal o humores cancerosos por el mecanismo propuesto.
+El daño por descuidar sueño, trabajo o cuidados no confirma tuberculosis, daño renal o humores cancerosos por el mecanismo propuesto.
 
 Para resolver el caso necesitamos evidencia sobre la misma afirmación, con su alcance y secuencia. Serviría un estudio sólido que demostrara esa relación, o un documento original que mostrara que el texto tenía otro referente. No bastaría encontrar un paciente compulsivo o una enfermedad distinta asociada a déficit de zinc.
 
@@ -257,7 +247,7 @@ Puede decirse que sólo la naturaleza realiza finalmente la recuperación. Como 
 
 Existen testimonios posteriores de que White admitió usos excepcionales de medicamentos. Esa evidencia impide afirmar que mantuvo una prohibición idéntica y sin excepción durante toda su vida. No prueba automáticamente que el lector de 1864 debiera entender esa excepción ni elimina la generalización original. Los cambios de consejo corresponden al examen del capítulo siguiente.[^38]
 
-El resultado es mixto: advertencias reales contra toxicidad y abuso, junto con una negación general de eficacia que no se sostiene. La cuantificación de muertes abre con atribución directa a lo mostrado; la frase sobre curación está integrada en ese marco sanitario, sin una marca separada para cada oración.
+Hay advertencias justificadas y una negación general de eficacia que no se sostiene. Su atribución tiene distintos alcances: la cantidad de muertes se introduce directamente como mostrada; la frase sobre curación pertenece al mismo marco, sin una marca separada.
 
 ## 24. ¿Tenía razón al relacionar carne y cáncer?
 
@@ -297,9 +287,7 @@ Permite reconocer un conflicto fuerte entre determinadas explicaciones geológic
 
 En salud aparecen consejos acertados y accesibles en su contexto, junto con medicina errónea de su época. La masturbación ofrece un caso particularmente serio por la relación causal y su atribución directa a lo mostrado. Los medicamentos presentan advertencias justificadas y generalizaciones que no se sostienen. La carne y el cáncer requieren separar riesgos alimentarios, infecciones y mecanismos de transmisión.
 
-No procede sumar aciertos y errores. Una verdad conocida no demuestra inspiración; un error ordinario no refuta automáticamente un ministerio; un error sustancial atribuido inequívocamente a revelación tiene un peso mayor. Tampoco una fuente humana o un asistente pueden emplearse como explicación automática: necesitamos la cadena concreta.
-
-El resultado sigue la evidencia de cada caso. Hay errores demostrados, afirmaciones aparentemente erróneas, incertidumbres reales y aciertos que merecen reconocimiento. Ahora podemos preguntar cómo se relacionan sus afirmaciones entre sí y si las diferencias constituyen contradicciones, desarrollo o cambios de contexto. Ésa será la tarea del capítulo 13.
+El mayor peso corresponde al error sustancial atribuido inequívocamente a revelación, no al número de aciertos o errores. Se conservan también afirmaciones aparentemente erróneas, incertidumbres y aciertos reales. El capítulo 13 preguntará cómo se relacionan sus declaraciones entre sí: ¿hay contradicciones, desarrollo o cambios de contexto?
 
 ## ¿Qué fuentes permiten comprobar este capítulo?
 

@@ -8,7 +8,7 @@ Por eso este capítulo no pregunta solamente si Ellen White hizo cosas buenas. P
 
 Los capítulos anteriores encontraron recomendaciones valiosas, errores, cambios, colaboración editorial, conflictos y límites documentales. Ahora no corresponde sumar hospitales para compensar errores médicos, ni sumar lectores heridos para cancelar todo servicio. Debemos reconstruir resultados y responsabilidades.
 
-El punto de partida es doble: los frutos importan y no se explican solos. Para que informen sobre White necesitamos saber quién produjo cada resultado, cómo lo hizo y qué otras causas intervinieron.[^criterio]
+Para evaluar esos frutos necesitamos saber qué produjo cada resultado y qué otras causas intervinieron.[^criterio]
 
 ## ¿Por qué los frutos no son lo mismo que el éxito?
 
@@ -18,7 +18,7 @@ En el criterio bíblico establecido en el capítulo 2, Mateo 7 invita a examinar
 
 Un fruto favorable sería promover cuidado efectivo, formación, honestidad o una vida religiosa que sostenga a las personas. Un fruto problemático sería contribuir de manera persistente al engaño, al daño evitable o a la subordinación de la conciencia. Esos criterios valen tanto para los casos que favorecen a White como para los que presentan dificultades.
 
-Pero ningún resultado queda interpretado con ponerle una etiqueta. Una idea humanamente buena también puede producir bienestar. Un mensaje valioso puede ser deformado por seguidores. La pregunta siguiente es cuánto de cada efecto pertenece realmente a su ministerio.
+Una idea humana también puede producir bienestar y un mensaje valioso puede ser deformado por seguidores. ¿Cuánto de cada efecto corresponde a White?
 
 ## ¿Cómo podemos distinguir su influencia de la del adventismo?
 
@@ -40,8 +40,6 @@ La relación entre propuesta e institución permite atribuirle un impulso import
 
 El fruto más seguro es haber ayudado a convertir una preocupación sanitaria en servicio organizado. Para juzgar cada tratamiento, el acceso de los pacientes o el balance clínico de toda la institución hacen falta otras pruebas. Un sanatorio existente establece menos que la historia de todas las personas atendidas.
 
-Esa limitación no vuelve irrelevante el resultado. Ayudar a crear una obra útil tiene valor práctico y moral. Queda por establecer cuánto beneficio produjo y cuánto dependió de sus recomendaciones concretas.
-
 ## ¿Qué permiten afirmar los estudios de salud de adventistas?
 
 Permiten reconocer asociaciones favorables en poblaciones determinadas. No permiten calcular cuántos años añadió Ellen White a la vida de sus lectores.
@@ -52,7 +50,7 @@ El estudio observó lo que ocurría, sin asignar hábitos a los participantes. D
 
 El resultado es compatible con beneficios de un estilo de vida que ella promovió. Pero entre sus consejos del siglo XIX y aquella población intervinieron médicos, familias, normas comunitarias y varias generaciones. El título del artículo, *Ten Years of Life*, tampoco significa que todo adventista viviera diez años más por obedecerla.
 
-Podemos conservar la contribución histórica probable a una cultura de hábitos saludables. Sigue indeterminado cuánto de esas diferencias de supervivencia se debía a ella. El estudio apoya una pregunta sobre estilo de vida; no fue diseñado para resolver una pretensión profética.
+Podemos conservar la contribución histórica probable a una cultura de hábitos saludables. Sigue indeterminado cuánto de esas diferencias de supervivencia se debía a ella. El estudio no fue diseñado para resolver una pretensión profética.
 
 ## ¿Qué papel tiene la temperancia en ese resultado?
 
@@ -62,7 +60,7 @@ Los capítulos sobre salud ya mostraron antecedentes humanos. Otros adventistas 
 
 La escasez de fumadores al comenzar el estudio citado es compatible con esa cultura. No identifica qué parte de la abstinencia vino de ella, de otros dirigentes, de la familia o de convicciones más amplias. Tampoco mide por sí sola todas las adicciones ni el efecto independiente del alcohol.
 
-Una conclusión favorable razonable es que ayudó a consolidar hábitos que podían proteger la salud. La conclusión de que produjo exclusivamente la longevidad adventista sería mucho más amplia que la evidencia.
+Una conclusión favorable razonable es que ayudó a consolidar hábitos que podían proteger la salud. No permite atribuirle toda la longevidad adventista.
 
 ## ¿Los beneficios sanitarios hacen desaparecer los errores anteriores?
 
@@ -96,7 +94,7 @@ La orientación tenía restricciones. White describió medidas firmes contra el 
 
 Para algunos alumnos eso podía ofrecer orden, oficio y sentido de misión. Para otros podía limitar elección y autonomía. Las instrucciones documentan esa tensión; no equivalen a una encuesta de cómo vivió cada estudiante. Una escuela puede ampliar oportunidades materiales y regular intensamente la vida de quienes estudian.
 
-La evaluación es favorable en creación de oportunidades y mixta en alcance de la disciplina. Necesita resultados de alumnos para una afirmación más general. Hay, sin embargo, un beneficio material cuya cadena resulta más corta.
+La valoración es favorable en oportunidades y mixta en disciplina; necesita completarse con resultados de los alumnos. Hay, sin embargo, un beneficio material más directamente documentado.
 
 ## ¿Existe un resultado educativo más concreto que la admiración por sus principios?
 
@@ -107,8 +105,6 @@ En una reunión del 12 de abril de 1901, publicada dos días después, Percy Mag
 Para no inflar el resultado hay que distinguir el dinero recibido de las ventas, los créditos y las promesas de pago. Tampoco una entrada demuestra que desapareciera toda deuda. El punto es más delimitado: un recurso suyo, movilizado por otros, produjo ayuda informada por escuelas.
 
 Ese fruto conserva valor aunque no demuestre el relato de instrucción angélica asociado a la donación. Una decisión generosa y eficaz puede tener explicación humana. A la vez, cooperación y recursos destinados a educación dificultan una descripción en la que toda influencia de White fuera improductiva o únicamente extracción para beneficio personal.
-
-No resuelven sus motivos interiores ni las preguntas contables del capítulo anterior. Muestran algo que esas preguntas deben conservar: hubo una contribución que pudo servir a otros.
 
 ## ¿Sus escritos acercaron a lectores a la Biblia y a Cristo?
 
@@ -182,11 +178,9 @@ Sus intervenciones ofrecen evidencia favorable, pero no muestran hasta dónde se
 
 En una carta de 1898 a dirigentes denunció que trabajadoras dedicadas al evangelio no recibieran remuneración porque sus maridos ya cobraban. Las mujeres estaban trabajando: intervino para reconocer su labor, no creó su capacidad de servicio.[^salarios]
 
-Es un aporte directo y favorable. Para mostrar efectos sobre salarios o nombramientos necesitamos decisiones y nóminas; la recomendación no demuestra aplicación uniforme. Su posición excepcional tampoco mide las posibilidades de las demás.
+Es un aporte directo y favorable. Para mostrar efectos sobre salarios o nombramientos necesitamos decisiones y nóminas; la recomendación no demuestra aplicación uniforme.
 
 No hace falta importar cada discusión contemporánea sobre ordenación. El respaldo a participación y pago está documentado; su alcance institucional permanece abierto. Algo parecido ocurre con la familia: los consejos y las declaraciones sobre culto doméstico no demuestran estabilidad matrimonial ni ausencia de control o violencia.
-
-El resultado debe medirse en quienes reciben orientación, no solamente en el lugar de su autora.
 
 ## ¿Qué evidencia existe sobre los efectos de su autoridad?
 
@@ -256,23 +250,17 @@ En devoción, habría que seguir a lectores desde antes de empezar a leerla e in
 
 Las pruebas pueden favorecer o perjudicar estas conclusiones. Si los beneficios fueran principalmente independientes de White, le atribuiríamos una contribución menor. Si restricciones y daños hubieran sido adoptados directamente por instrucción suya, le atribuiríamos una responsabilidad mayor. No debemos exigir pruebas sólo cuando el resultado incomoda.
 
-Una lectura de frutos incapaz de perder ante documentos nuevos no sería investigación.
-
 ## ¿Qué tipo de movimiento ayudó a producir su ministerio?
 
 Ayudó a producir un movimiento de disciplina religiosa, servicio sanitario, educación y misión, con cultura intensa de publicaciones y cooperación. Su influencia fue importante en proyectos concretos; muchas realizaciones pertenecieron también a dirigentes, profesionales y comunidades.
 
 Ese movimiento ofreció beneficios reales y experiencias religiosas favorables. Tuvo restricciones y tensiones: autoridad especial podía sostener compromiso y dificultar corrección; formación podía ampliar oportunidades y limitar autonomía; misión hacia personas marginadas podía coexistir con aceptación de desigualdades.
 
-No están establecidos todos los efectos atribuidos. Longevidad no mide causalidad de White; sufrimiento no diagnostica a toda iglesia; declaraciones sobre mujeres y familia no demuestran resultados uniformes. Conservar límites es parte del balance.
-
-Los frutos aportan evidencia de valor práctico y dificultades morales e institucionales. Su fuerza para explicar el origen reclamado varía según el resultado y cuánto pueda vincularse con ella. Ninguno autoriza a saltarse las otras pruebas del libro.
+Ese balance no permite adjudicarle toda la longevidad, el bienestar o el sufrimiento de sus seguidores. Su valor para distinguir entre origen divino y humano depende de cuánto podamos atribuirle en cada caso.
 
 ## ¿Qué pregunta queda para el capítulo final?
 
-Queda reunir estos frutos con lo estudiado sobre pretensiones, experiencias, predicciones, fuentes, exactitud y conducta. Beneficios y dificultades deben conservarse; atribuciones inciertas deben seguir siendo inciertas.
-
-Todavía no corresponde decidir aquí si Ellen White fue profeta, una visionaria sincera o una impostora. Este capítulo examinó efectos y responsabilidades. El siguiente deberá responder, sin suma mecánica: **¿Qué explicación encaja mejor con toda la evidencia?**
+Queda reunir estos resultados con sus experiencias, predicciones, escritos y conducta. El capítulo final deberá responder: **¿Qué explicación encaja mejor con toda la evidencia?**
 
 ## ¿Dónde pueden comprobarse las fuentes y sus límites?
 

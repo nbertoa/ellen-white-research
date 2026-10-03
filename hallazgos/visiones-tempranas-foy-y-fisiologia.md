@@ -6,7 +6,7 @@
 
 **Interpretación probable:** es una línea testimonial mucho más temprana que el resumen general impreso de 1868. No describe la primera visión ni mide apnea continua. **Hipótesis abiertas:** percepción de respiración superficial/intermitente, duración o transmisión defectuosa y otras explicaciones naturales; ninguna queda demostrada sólo por incompatibilidad fisiológica. Tampoco queda demostrada intervención sobrenatural.
 
-[Transcripción y procedencia declarada](https://whiteestate.org/legacy/issues-shutdoor-html/). C4 §19 y C5 §§7, 11–12 distinguen fecha de carta, episodio, copia, impresión y medición.
+[Transcripción y procedencia declarada](https://whiteestate.org/legacy/issues-shutdoor-html/). C4 §18 y C5 §§7, 11–12 distinguen fecha de carta, episodio, copia, impresión y medición.
 
 ## ¿Qué referencias físicas quedaron verificadas?
 
@@ -29,7 +29,7 @@ Amadon aparece ya en [*Ministry*, marzo de 1944, p. 4](https://cdn.ministrymagaz
 
 **Hechos textuales establecidos en reproducciones cotejadas:** el folleto de Foy de 1845 y el relato de White de 1847 comparten una escena de apertura de puerta sobre bisagras; White usa *golden* en 1847 y *glittering* en 1851. Graybill presenta el cotejo y el contexto (*Ministry*, febrero de 1994, pp. 11–13). La imagen de siete montañas con rosas/lirios corresponde a **2 Esdras 2:19**, citado en notas que James añadió al folleto de 1847.
 
-[Texto moderno de Foy](https://documents.adventistarchives.org/Books/WFoy1845.pdf), [colación de Graybill](https://www.ministrymagazine.org/archive/1994/02/visions-and-revisions?mode=app), [White 1851, reproducción textual](https://angelicassistance.site/wp-content/uploads/2020/01/Christian-Experience-and-Views-of-EGW-1851.pdf). Estos PDF textuales no son facsímiles de primeras impresiones. C4 §18 conserva la cronología completa: experiencias de Foy atribuidas a 1842; experiencia de White atribuida a diciembre de 1844; folleto de Foy de 1845; carta conocida de White de diciembre de 1845; impresión enero de 1846; revisión de 1851; recuerdos de contacto oral de 1906.
+[Texto moderno de Foy](https://documents.adventistarchives.org/Books/WFoy1845.pdf), [colación de Graybill](https://www.ministrymagazine.org/archive/1994/02/visions-and-revisions?mode=app), [White 1851, reproducción textual](https://angelicassistance.site/wp-content/uploads/2020/01/Christian-Experience-and-Views-of-EGW-1851.pdf). Estos PDF textuales no son facsímiles de primeras impresiones. C4 §17 conserva la cronología completa: experiencias de Foy atribuidas a 1842; experiencia de White atribuida a diciembre de 1844; folleto de Foy de 1845; carta conocida de White de diciembre de 1845; impresión enero de 1846; revisión de 1851; recuerdos de contacto oral de 1906.
 
 **Interpretación probable:** el paralelo merece más que una referencia genérica a ambiente cultural. **Hipótesis posibles:** mediación oral, dependencia textual, vocabulario compartido o memoria de lectura; dirección y alcance **indeterminados**. La publicación de Foy en 1845 no explica por sí sola una experiencia anterior, pero pudo influir en una redacción posterior. No se infiere plagio, fraude, independencia ni inspiración por el paralelo solo.
 

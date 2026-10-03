@@ -2,11 +2,7 @@
 
 Antes de preguntar si Ellen G. White fue realmente una profeta, necesitamos precisar qué afirmó ella. No sería justo evaluar una pretensión más fuerte que la que hizo ni rebajarla después para protegerla de una dificultad.
 
-La tarea de este capítulo es limitada. No intentaremos decidir todavía si sus visiones procedían de Dios, si sus mensajes eran correctos ni si los documentos confirman el origen que ella les atribuía. Primero reconstruiremos la pretensión que después deberá ser sometida a prueba.
-
-Para hacerlo hay que conservar varias distinciones. Una experiencia religiosa no es necesariamente una revelación. Recibir una revelación no implica que Dios haya dictado cada palabra. Rechazar un título no equivale siempre a negar la función asociada con él. Y colocar la Biblia por encima de otro mensaje religioso no convierte automáticamente ese mensaje en una opinión prescindible.
-
-Con esas distinciones podemos examinar sus palabras.
+Primero reconstruiremos sus afirmaciones sobre revelación, palabras, función profética y autoridad. Después podremos contrastarlas con los hechos.
 
 ## 1. ¿Atribuyó desde el comienzo sus visiones a Dios?
 
@@ -16,9 +12,7 @@ Ese día escribió desde Portland a Enoch Jacobs, director de *The Day-Star*. Co
 
 Este es el relato en primera persona más temprano de aquella visión cuyo texto se conoce y también el primero que se conoce publicado. El texto se conserva por su publicación; esta afirmación no supone que se conserve la carta original escrita de su mano ni que ella nunca hubiera contado o escrito antes la experiencia de otra manera.
 
-El documento establece cómo interpretaba públicamente la experiencia en esa fecha. No la presentó como un sueño ordinario, una imaginación edificante ni sólo una conclusión bíblica, sino como algo mostrado y revelado por Dios. Documentos posteriores repitieron esa atribución.
-
-Por tanto, queda **establecido** que la atribución divina ya aparece en diciembre de 1845, al comienzo de su actividad pública conocida. Queda **indeterminado** si esas fueron las primeras palabras con las que describió la experiencia en privado y, sobre todo, si la atribución era verdadera. La pregunta siguiente tampoco puede resolverse con una palabra aislada.
+La atribución divina queda **establecida** en diciembre de 1845: no presentó la experiencia como un sueño ordinario ni sólo como una conclusión bíblica. Sigue **indeterminado** cómo la describió por primera vez en privado y si su atribución era verdadera.
 
 ## 2. ¿Negó Ellen White ser profetisa?
 
@@ -32,13 +26,9 @@ No hay que escoger entre borrar la tensión y convertirla en contradicción defi
 
 ## 3. ¿Qué quiso decir al llamarse “mensajera”?
 
-“Mensajera” cumplía dos funciones relacionadas: era su título preferido y describía un encargo que consideraba más amplio que el trabajo de un profeta.
+Era su título preferido y describía un encargo que consideraba más amplio que el trabajo de un profeta. En 1905 lo relacionó con llevar mensajes, comunicar revelaciones y escribir instrucciones.[^3] En 1906 incluyó visiones, reprensión, consejo y tareas prácticas.[^4]
 
-En la carta de 1905 no se llamó mensajera para reducirse a maestra religiosa común. Dijo estar encargada por el Señor de llevar mensajes a su pueblo, dar a conocer lo que Dios le revelaba y escribir las instrucciones recibidas.[^3] En 1906 volvió a relacionar el término con visiones, reprensión, consejo, escritura y otras tareas prácticas.[^4]
-
-Por eso queda **establecido** que “mensajera” no disminuía el origen sobrenatural que ella reclamaba. También queda **establecido** que usó el término para ampliar la descripción de su trabajo más allá de lo que entendía por el título “profeta”. Determinar si esa ampliación estaba justificada será una pregunta posterior; aquí sólo importa no sustituir su uso por una definición denominacional construida después.
-
-Saber que reclamó una comisión divina conduce a una cuestión más exigente: ¿qué autoridad daba a los mensajes asociados con ella?
+Por tanto, “mensajera” no reducía el origen sobrenatural que reclamaba ni la convertía, según su propia explicación, en una maestra religiosa común. La cuestión siguiente es qué autoridad daba a esos mensajes.
 
 ## 4. ¿Qué autoridad atribuyó a los testimonios?
 
@@ -60,7 +50,7 @@ La ocasión fue un dato equivocado sobre el número de habitaciones del Paradise
 
 En contraste, sostuvo que, cuando el Espíritu le revelaba asuntos relativos a la obra, las instituciones o el corazón de las personas, el mensaje debía ser recibido como luz de Dios.[^8] No estaba renunciando a la autoridad de los testimonios, sino rechazando la mezcla indiscriminada de dos clases de material.
 
-Queda **establecido** que no atribuyó inspiración especial a todo dato, conversación, opinión o carta cotidiana. También queda **establecido** que conservó una categoría de mensajes sagrados con pretensión divina. Sigue **indeterminado** cómo clasificar cada escrito que mezcla información humana, memoria, razonamiento y una advertencia que ella atribuía a Dios. Su distinción existe, pero no proporciona por sí sola una etiqueta inequívoca para cada frase.
+La distinción está documentada. Sigue **indeterminado** cómo clasificar cada escrito que mezcla información humana, memoria, razonamiento y una advertencia que ella atribuía a Dios: su explicación no identifica el origen de cada frase.
 
 ## 6. ¿Necesitaba una visión nueva para cada consejo?
 
@@ -99,7 +89,7 @@ Negó la infalibilidad personal. En una carta del 9 de junio de 1895 a su sobrin
 
 El contexto importa. No estaba retirando un testimonio concreto ni definiendo una lista de errores permitidos en los mensajes. Estaba contrastando la falibilidad humana con la seguridad de Dios y su palabra. En una carta privada de 1876 también había reconocido errores en su vida y negado perfección de carácter, pero eso se refería a su persona, no a la exactitud de una revelación particular.[^15]
 
-Por tanto, queda **establecido** que negó infalibilidad personal, reconoció errores de conducta y admitió al menos un dato ordinario equivocado. Estos textos no aclaran si admitía errores de memoria o juicio en mensajes revelados. No queda establecido que admitiera la posibilidad de error en aquello que presentaba de manera inequívoca como revelación de Dios. Esa cuestión permanece **indeterminada**. La negación de infalibilidad no funciona como inmunidad ante un error concretamente atribuido a revelación, y no puede resolverse ni con el lema “nunca reclamó infalibilidad” ni con la autoridad que atribuyó a los testimonios.
+Queda **establecido** que negó infalibilidad personal, reconoció errores de conducta y admitió al menos un dato ordinario equivocado. Sigue **indeterminado** si admitía errores de memoria o juicio en mensajes presentados inequívocamente como revelaciones. Su negación de infalibilidad personal no vuelve irrelevante un error atribuido concretamente a Dios.
 
 ## 9. ¿Qué lugar atribuyó a la Biblia?
 
@@ -135,21 +125,7 @@ La pregunta que los documentos permitirán poner a prueba es precisa: **¿existe
 
 ## 12. ¿Qué queda realmente demostrado?
 
-La evidencia primaria permite clasificar la reconstrucción así:
-
-- **Establecido:** al menos desde el 20 de diciembre de 1845 Ellen White atribuyó a Dios la visión que relataba.
-- **Establecido:** en 1905 y 1906 negó reclamar el título de profetisa como designación principal, pero afirmó que su comisión incluía la obra de un profeta.
-- **Establecido:** “mensajera” fue su título preferido y, en su uso, ampliaba la descripción de su comisión sin reducir su pretensión revelatoria.
-- **Establecido:** atribuyó autoridad divina y obediencia debida a las comunicaciones que identificaba como testimonios enviados por Dios.
-- **Establecido:** distinguió esos mensajes de datos, opiniones, conversaciones y cartas comunes no recibidos bajo inspiración especial.
-- **Establecido:** no exigía una visión nueva para cada consejo; admitía aplicar principios previamente recibidos y usar información humana como ocasión o contexto.
-- **Establecido:** rechazó que cada palabra que pronunciaba o escribía bajo cualquier circunstancia fuera inspirada, y reconoció lenguaje y corrección editorial humanos.
-- **Establecido:** negó infalibilidad personal.
-- **Establecido:** presentó la Biblia como norma doctrinal pública y criterio de prueba, sin tratar por ello como opcionales los testimonios que atribuía a Dios.
-- **Probable:** en 1903 “luz menor” se refería a sus libros y “luz mayor” a la Biblia.
-- **Indeterminado:** el alcance exacto de lo “sagrado” en cada texto mixto, la posibilidad de error en un mensaje presentado expresamente como revelación y la precisión verbal de lo dicho oralmente en 1904 más allá del registro conservado.
-
-No hace falta usar la categoría **posible** para afirmar un hecho adicional: en los puntos centrales la evidencia permite conclusiones más firmes, y en los límites señalados no permite pasar de lo indeterminado.
+La reconstrucción distingue sus declaraciones documentadas de dos lecturas probables: la intención de separar título y función en 1904 y los referentes de “luz menor” y “luz mayor” en 1903. Quedan abiertas tres cuestiones: dónde situaba el límite de lo sagrado en cada escrito mixto, si admitía errores en mensajes revelados y cuáles fueron sus palabras orales exactas de 1904 más allá del informe conservado.
 
 La pretensión que queda para someter a prueba puede formularse así:
 
@@ -159,9 +135,7 @@ Esta formulación es más estrecha que “todo lo que escribió fue dictado por 
 
 ## 13. ¿Qué evidencia obligaría a corregir esta reconstrucción?
 
-Habría que cambiarla si aparecieran documentos más tempranos que mostraran que Ellen Harmon describió inicialmente su experiencia como no revelatoria y sólo después la atribuyó a Dios.
-
-Habría que revisar la lectura de 1904 si un registro contemporáneo más completo demostrara que negó de manera sostenida la función profética, no sólo el título, o si mostrara que sus explicaciones posteriores alteraron deliberadamente lo dicho.
+Documentos anteriores podrían mostrar que Ellen describió primero la experiencia sin atribuirla a Dios. Un registro completo de 1904 podría mostrar una negación sostenida de la función profética o una alteración deliberada en las explicaciones posteriores. Cualquiera de esos hallazgos obligaría a revisar esta reconstrucción.
 
 Deberíamos ampliar su pretensión si un documento general y claro atribuyera inspiración especial a todas sus palabras y datos cotidianos; deberíamos restringirla si documentos auténticos mostraran que ella trataba como mera opinión consejos que aquí se han clasificado como testimonios divinos.
 
@@ -169,7 +143,7 @@ Tendría que abandonarse la lectura de “luz menor” si el artículo completo 
 
 Y la reconstrucción de su autoridad quedaría seriamente afectada si se demostrara que el lenguaje de origen divino procede de editores posteriores y no de los documentos originales. Las ediciones y manuscritos consultados no indican eso, pero la pregunta seguirá abierta en cada caso futuro.
 
-Nada de lo establecido prueba que Dios realmente le hablara. El siguiente paso no consiste en repetir su testimonio sobre sí misma, sino en contrastarlo con evidencia independiente y con los criterios fijados antes de examinarla.
+Ahora debemos contrastar sus afirmaciones con evidencia independiente y con los criterios ya fijados.
 
 **¿Qué ocurrió realmente en las primeras visiones de Ellen G. White, y qué podemos establecer sobre su origen, sus relatos y sus primeros testigos?**
 

@@ -8,7 +8,7 @@ Aquí seguiremos el orden contrario. Antes de preguntar de dónde provenían aqu
 2. Otras personas observaron conductas que consideraron extraordinarias.
 3. Esas experiencias provenían sobrenaturalmente de Dios.
 
-La primera afirmación no demuestra por sí sola la segunda; las dos primeras tampoco demuestran la tercera. Pero el razonamiento inverso también sería inválido: mostrar que una explicación natural es posible no basta para probar que es correcta ni para excluir toda dimensión religiosa. La pregunta de este capítulo es más modesta: ¿qué puede reconstruirse históricamente antes de intentar explicar el origen de las visiones?
+Las dos primeras no demuestran por sí solas la tercera. Tampoco basta imaginar una explicación natural para darla por probada. Primero necesitamos reconstruir lo que ocurrió.
 
 ## 1. ¿Cuándo podemos documentar el comienzo de las visiones?
 
@@ -22,7 +22,7 @@ La datación aparece explícitamente en 1847. El 30 de mayo James White afirmó 
 
 Existe, sin embargo, una dificultad que no conviene ocultar. En 1874, al responder sobre sus contactos con I. C. Wellcome, Ellen recordó que no había tenido una visión hasta “aproximadamente enero o febrero” y añadió que ya no podía precisar cuál de los dos meses.[^6] Ese recuerdo fue escrito unos treinta años después y, por ser más tardío, pesa menos que sus declaraciones de 1847 y 1851. Pero sigue siendo una inconsistencia real en su memoria cronológica.
 
-La conclusión más ajustada es esta: **diciembre de 1844 sigue siendo la datación mejor sustentada y parece probable**, pero no tenemos un diario, una carta o un acta escrita en ese mes que registre la experiencia mientras sucedía. El día exacto continúa **indeterminado**, y el recuerdo tardío de 1874 impide presentar el mes como una certeza absoluta.
+**Diciembre de 1844 sigue siendo la fecha mejor sustentada y parece probable**, pero falta un registro escrito en ese mes. El día exacto continúa **indeterminado** y el recuerdo de 1874 impide dar por seguro el mes.
 
 Esta cronología deja abierta una pregunta decisiva: ¿por qué una experiencia como aquella podía adquirir tanta importancia pocas semanas después del 22 de octubre?
 
@@ -32,7 +32,7 @@ Miles de seguidores de William Miller habían esperado que el regreso visible de
 
 En ese ambiente, la expresión “clamor de medianoche” no designaba un sonido misterioso. Era el nombre que los milleritas daban al impulso final de proclamación que había conducido a la expectativa de octubre. Aceptarlo o rechazarlo equivalía a decidir si Dios había guiado realmente el movimiento. William Miller terminó repudiando las nuevas teorías surgidas de aquella fecha; en agosto de 1845 declaró que ya no consideraba el 22 de octubre un cumplimiento profético.[^7] James White y el pequeño grupo con el que se relacionó Ellen tomaron la dirección opuesta.
 
-Las visiones, los sueños y los trances tampoco aparecieron en un vacío cultural. Antes de Ellen, William E. Foy había relatado públicamente experiencias visionarias recibidas en 1842 y publicó dos de ellas en Portland en 1845.[^8] Esto no demuestra que Ellen dependiera de Foy ni explica automáticamente sus experiencias. Sí muestra que una persona que afirmaba recibir visiones no era una categoría desconocida en el ambiente religioso de Nueva Inglaterra.
+Las visiones, los sueños y los trances tampoco aparecieron en un vacío cultural. Antes de Ellen, William E. Foy había relatado públicamente experiencias visionarias recibidas en 1842 y publicó dos de ellas en Portland en 1845.[^8] El caso muestra que las visiones eran conocidas en ese ambiente; no demuestra dependencia de Ellen ni explica por sí solo sus experiencias.
 
 Los principales dirigentes milleritas, al mismo tiempo, desconfiaban cada vez más de las manifestaciones extraordinarias surgidas después del chasco. La conferencia de Albany, iniciada el 29 de abril de 1845, fijó una línea contra diversos excesos. Una resolución todavía más explícita fue aprobada en la conferencia de Nueva York del 6 de mayo: sus participantes declararon no tener confianza en nuevos mensajes, visiones, sueños, milagros u otras manifestaciones que no concordaran con la Biblia.[^9] La cláusula dejaba abierta en teoría una manifestación bíblicamente válida; el contexto muestra, sin embargo, una profunda sospecha hacia las nuevas pretensiones de revelación.
 
@@ -81,9 +81,7 @@ No se conserva una lista con los nombres de las otras cuatro mujeres. Tampoco te
 - Que la anfitriona fue Elizabeth Haines es **probable**, aunque la identificación nominal es posterior.
 - El día exacto, la dirección precisa y la identidad de las otras mujeres siguen **indeterminados**.
 
-Un acta familiar, una carta de Haines o una declaración temprana de cualquiera de las cuatro acompañantes podría elevar o reducir estos grados de certeza. Sin tal documento, repetir los detalles posteriores sin fecha de origen produce la impresión equivocada de que fueron registrados en el momento.
-
-Esto conduce al problema central de la corroboración: ¿existe algún testigo independiente de la experiencia de diciembre?
+Para comprobar esos detalles necesitaríamos un testimonio temprano de alguna de las mujeres presentes. ¿Lo tenemos?
 
 ## 6. ¿Tenemos un testimonio contemporáneo e independiente de lo ocurrido en diciembre de 1844?
 
@@ -95,19 +93,15 @@ En 1847 James agregó que Ellen relató la visión al grupo de Portland y que un
 
 Otis Nichols escribió a William Miller el 20 de abril de 1846 que Ellen había residido buena parte de los ocho meses anteriores con su familia. Describió sus viajes, su predicación y las curaciones que él atribuía a la respuesta divina a sus oraciones. Nichols ofrece una ventana contemporánea a la rápida aceptación de Ellen en ciertos círculos, pero no afirmó haber presenciado la primera visión en Portland.[^18]
 
-La ausencia de un testimonio contemporáneo de las otras mujeres no demuestra que el episodio fuera inventado. Sí limita lo que podemos verificar acerca de su forma externa. Para diciembre dependemos de la memoria de Ellen, de la temprana circulación de su relato y del testimonio favorable de James. La primera observación independiente conservada de Ellen en un estado visionario aparece dos meses después, en un lugar muy distinto: la casa de James Ayer, en Atkinson.
+La falta de ese testimonio limita lo que podemos comprobar, sin demostrar invención. La primera observación conservada fuera de su círculo aparece dos meses después, en la casa de James Ayer, en Atkinson.
 
 ## 7. ¿Qué sabemos de la segunda visión que la impulsó a hablar?
 
-Según el relato autobiográfico que Ellen publicó en 1851, aproximadamente una semana después de la primera visión tuvo otra experiencia. En ella, dijo, se le mostró que tendría que contar a otros lo que había visto, que encontraría fuerte oposición y que esa tarea le produciría angustia.[^19]
+En 1851 Ellen recordó otra visión, aproximadamente una semana después de la primera. Dijo que se le ordenó contar lo visto y se le advirtió que encontraría oposición y angustia.[^19] No tenemos una carta de aquella semana que confirme los detalles: es su recuerdo, escrito seis o siete años después.
 
-La fecha y el contenido no están documentados por una carta escrita una semana después del supuesto episodio. La fuente conservada es de 1851, unos seis o siete años posterior. Por eso no podemos tratar cada detalle como contemporáneamente comprobado.
+La transición temprana a una misión pública es **probable**. Para febrero de 1845 ya viajaba y relataba visiones ante grupos adventistas, como muestra el juicio de Atkinson. Nichols describió esos viajes en abril de 1846.[^18] Que una segunda visión contuviera exactamente el mandato recordado en 1851 sigue siendo **posible**, pero depende del testimonio posterior de Ellen.
 
-Sin embargo, la afirmación general de que Ellen pasó pronto de una experiencia privada a una actividad pública encaja con documentación independiente posterior: para febrero de 1845 ya viajaba y relataba visiones ante grupos adventistas. El juicio de Atkinson lo demostrará con testimonios de personas favorables y adversas. Otis Nichols, escribiendo en abril de 1846, también describió retrospectivamente un período de viajes y reuniones que había comenzado muchos meses antes.[^18]
-
-Así, **es probable que la transición hacia una misión pública haya ocurrido muy temprano**. Que una segunda visión, aproximadamente una semana después de la primera, contuviera exactamente el mandato que Ellen recordó en 1851 es **posible y coherente con su trayectoria**, pero depende de su testimonio posterior.
-
-Antes de llegar a Atkinson hubo otra experiencia mucho mejor conectada con una controversia concreta: la visión del Novio.
+La visión del Novio permite conectar otra experiencia con una controversia concreta.
 
 ## 8. ¿Qué añadió la visión del Novio de febrero de 1845?
 
@@ -147,13 +141,11 @@ Para entonces el grupo llevaba alrededor de dos semanas reuniéndose en Atkinson
 
 La reunión del sábado 15 de febrero agravó el conflicto. Testigos hostiles la describieron como extremadamente ruidosa y desordenada; los partidarios discutieron varios de esos detalles, pero nadie negó que fuera una reunión intensa y que Dammon la dirigiera. El ayudante del sheriff Joseph Moulton llegó para arrestarlo mientras el encuentro todavía estaba en curso. Según su declaración, encontró la puerta cerrada, tuvo que forzar la entrada y, cuando intentó sacar a Dammon, varios hombres y mujeres ofrecieron tanta resistencia que necesitó pedir refuerzos dos veces antes de conseguir llevárselo.[^26]
 
-Por eso la secuencia correcta no es “Ellen tuvo una visión y entonces la llevaron a juicio”. Fue otra: **había conflictos locales alrededor de las reuniones y del modo de vida de Dammon → se presentó una denuncia contra él → los agentes fueron a detenerlo durante la reunión → hubo resistencia al arresto → dos días después comenzó el juicio**. Ellen aparece en el expediente porque estaba presente y los testigos, al describir lo que sucedía dentro de la casa, hablaron también de sus trances y mensajes.
-
-Esto explica por qué ese juicio resulta tan valioso para nuestra investigación pese a no tener como objeto a Ellen: produjo testimonios contemporáneos sobre ella de personas favorables y hostiles que, de otro modo, probablemente nunca habrían quedado registrados.
+Ellen aparece en el expediente porque estaba presente. Al describir la reunión, testigos favorables y hostiles hablaron de sus trances y mensajes. De ahí el valor de un juicio que no tenía por objeto examinar sus visiones.
 
 ## 11. ¿Qué clase de fuente es el informe del juicio de Israel Dammon?
 
-La noche del sábado 15 de febrero de 1845 se celebró una reunión adventista en la casa de James Ayer hijo, en Atkinson, Maine. Israel Dammon presidía. Estaban allí Ellen Harmon, James White, Dorinda Baker y numerosas personas de la zona. Como acabamos de ver, los agentes llegaron mientras el encuentro todavía estaba en curso y arrestaron allí mismo a Dammon.
+La reunión del 15 de febrero se celebró en casa de James Ayer hijo. Junto a Dammon estaban Ellen, James White, Dorinda Baker y otras personas de la zona.
 
 El lunes 17 comenzó su juicio ante un tribunal local. La acusación formal no fue simplemente “perturbar la paz”, como a veces se resume. Lo calificaba, usando el lenguaje legal de la época, de vagabundo y ocioso, mendigo, pendenciero, negligente en su trabajo y en el sostén de su familia.[^23] Durante dos días declararon testigos de la acusación y de la defensa acerca del carácter de Dammon y de las reuniones que dirigía. Fue condenado a diez días en una casa de corrección y apeló. El *Piscataquis Farmer* termina allí. Meses después, el propio Dammon afirmó en una carta que la orden había sido anulada y que había quedado absuelto; esa afirmación completa el rastro documental disponible, aunque no sustituye el expediente judicial perdido o no localizado de la apelación.[^24]
 
@@ -185,17 +177,17 @@ También es esencial no trasladar a Ellen todas las conductas narradas en la reu
 
 ## 13. ¿Qué permite establecer el juicio y qué no permite decidir?
 
-El informe permite **establecer** que Ellen Harmon estuvo en la reunión de Atkinson y fue identificada como una joven de Portland que ya había tenido una visión allí y viajaba contándola. Varios testigos la vieron acostada durante períodos prolongados, la llamaron “en trance” y la observaron comunicar mensajes dirigidos a individuos. Algunos partidarios estaban convencidos de que describía correctamente situaciones personales; algunos adversarios la consideraban una impostora o una fanática.
+El informe permite **establecer** su presencia y actividad pública: varios testigos describieron un estado prolongado que llamaron “trance” y mensajes personales. Sus partidarios los consideraban acertados; sus adversarios rechazaban su autoridad.
 
 También permite establecer que las primeras visiones públicas no ocurrieron siempre en reuniones silenciosas como la que Ellen describiría en 1851 para su primera experiencia. En Atkinson estaban insertas en un encuentro largo y ruidoso, con muchas expresiones corporales y la expectativa de un fin inminente. Ocultar ese entorno empobrece la historia.
 
 Pero el juicio no conserva mediciones de respiración, pulso, fuerza muscular o respuesta pupilar. Nadie realizó un examen médico. El informe tampoco transcribe el contenido completo de las visiones ni ofrece un método para comprobar los “casos” personales que algunos consideraban acertados. No documenta la visión de diciembre de manera directa. Y el uso de palabras como “trance”, “insensible” o “visión” describe lo que testigos creían estar viendo; no identifica la causa neurológica, psicológica o sobrenatural.
 
-Así, Atkinson confirma que Ellen entraba públicamente en estados que ella y su círculo interpretaban como visiones. También respalda una versión limitada de nuestra segunda proposición: otros observaron estados y conductas que les parecían inusuales. No decide la tercera, porque los mismos hechos visibles fueron interpretados de modo opuesto por personas presentes.
+Atkinson respalda, por tanto, la existencia de estados públicos inusuales. No identifica su causa: los presentes interpretaron de modo opuesto lo que veían.
 
 El informe documenta además que Dammon sostenía que “el día de gracia” había terminado para los pecadores; Joel Doore declaró haberlo oído predicar esa idea y el propio Dammon la confirmó ante el tribunal.[^26] Esto refuerza el carácter restrictivo del ambiente religioso de Atkinson, pero sigue siendo evidencia acerca de Dammon. No debe trasladarse automáticamente a Ellen como si fueran palabras suyas.
 
-La fuente puede ser incómoda tanto para una defensa idealizada como para una acusación rápida. No muestra a una adolescente aislada inventando en secreto una historia; la muestra actuando ante partidarios y adversarios. Tampoco muestra un milagro certificado ni un fraude descubierto. Para avanzar hay que comparar este registro con lo que Ellen contó años después.
+Ellen actuaba ante partidarios y adversarios. El informe no certifica un milagro ni descubre un fraude. ¿Cómo se compara con su recuerdo posterior?
 
 ## 14. ¿Coincide el recuerdo posterior de Ellen con el informe contemporáneo de Atkinson?
 
@@ -223,7 +215,7 @@ Joseph Bates ofrece otro ejemplo. Durante mucho tiempo creyó que los episodios 
 
 Otis Nichols también se convirtió en partidario y trató de persuadir a William Miller. Su carta de abril de 1846 muestra que Ellen podía recibir alojamiento, apoyo y una audiencia favorable. Al mismo tiempo menciona calumnias, adversarios y hasta intentos de arresto, lo que indica que su actividad provocaba resistencia.[^18]
 
-La recepción inicial fue, por tanto, **mixta**. Hubo creyentes, escépticos que luego aceptaron, escépticos que conservaron una explicación natural y líderes que rechazaron el nuevo rumbo. No hay base para calcular porcentajes. La aceptación que más tarde tendría Ellen dentro del adventismo sabatario no debe proyectarse hacia atrás sobre 1845.
+La recepción fue **mixta**, sin base para calcular porcentajes. La aceptación posterior de Ellen dentro del adventismo sabatario no debe proyectarse sobre 1845.
 
 Si las reacciones fueron tan variadas, conviene preguntar qué texto recibía cada lector. La “primera visión” no circuló siempre en una forma idéntica.
 
@@ -245,30 +237,9 @@ Las reimpresiones repiten un relato; no son testimonios independientes de la exp
 
 Las tres primeras formas extensas —*The Day-Star*, la hoja de 1846 y *A Word to the “Little Flock”*— son muy próximas entre sí. Sus cambios se concentran en gramática, ortografía, destinatario y algunos matices. Eso hace posible reconstruir con bastante confianza el relato que circulaba en 1846, aunque el manuscrito original esté perdido.
 
-Los cambios de 1851 y 1860 son más importantes. ¿Cuánto alteran la historia?
+Los detalles tardíos no son necesariamente falsos, pero necesitan corroboración antes de darse por seguros. Los cambios de 1851 y 1860 plantean además otra pregunta: ¿cuánto alteran el contenido?
 
-## 17. ¿Qué detalles aparecen temprano y cuáles sólo aparecen años después?
-
-El contraste ayuda a no convertir una memoria desarrollada en testimonio contemporáneo.
-
-| Detalle | Primera aparición conservada | Evaluación histórica |
-|---|---|---|
-| Sendero elevado, luz del clamor de medianoche y caída de quienes la niegan | Resumen de James, agosto de 1845 | Muy temprano y estable. |
-| Oración en un altar familiar | Carta de Ellen, diciembre de 1845 | Temprano, pero sin lugar ni nombres. |
-| Escenas de la Ciudad Santa, templo y tierra nueva | Carta publicada en enero de 1846 | Temprano como texto, aunque Ellen las separó después en más de una visión. |
-| Fecha “diciembre de 1844” | James White, mayo de 1847; Ellen a Joseph Bates, julio de 1847 | Temprana pero no contemporánea; ambas fuentes sitúan la experiencia en diciembre. Ellen volvió a hacerlo en 1851, aunque en 1874 recordó enero o febrero. |
-| Unas sesenta personas recuperaron la confianza en 1844 | James White, mayo de 1847 | Afirmación de un defensor; no corroborada por una lista o testimonios múltiples. |
-| Cinco mujeres, por la mañana, en una ocasión no excitada | Ellen, 1851 | Memoria a siete años de distancia; no aparece en la carta de 1845. |
-| La anfitriona era “hermana H.” | Ellen, 1860 | Memoria a dieciséis años. |
-| Identificación completa como Elizabeth Haines y detalles precisos de la casa | Biografías y reconstrucciones posteriores | Plausibles, pero de menor fuerza para fijar detalles de 1844. |
-| Ausencia de respiración y Biblia en Hannibal | Carta fechada 26 de agosto de 1848, transcripción de Record Book 1 | Testimonio temprano según fecha atribuida; copia y autógrafo pendientes, sin medición. |
-| Falta de respiración, rigidez invencible y otras pruebas físicas como patrón general | Descripción de James White, 1868 | Testimonio tardío y general; no es una observación contemporánea de la primera visión. |
-
-La distinción no convierte automáticamente en falsos los detalles tardíos. Cinco mujeres pueden haber estado allí aunque nadie lo imprimiera hasta 1851. Pero cuanto más tarde aparece un detalle, más necesitamos corroboración independiente antes de tratarlo como seguro.
-
-Una prueba clara podría modificar esta evaluación. Si apareciera una carta de 1844 de Elizabeth Haines que nombrara a las cinco mujeres y describiera el episodio, varios datos pasarían de probables a establecidos. Si apareciera una versión temprana incompatible, la confianza disminuiría. La conclusión actual depende de los documentos disponibles, no de la imposibilidad de que aparezcan otros.
-
-## 18. ¿Cambió sustancialmente el contenido de la primera visión?
+## 17. ¿Cambió sustancialmente el contenido de la primera visión?
 
 Depende de qué entendamos por “contenido”.
 
@@ -297,45 +268,29 @@ La cronología impide conclusiones automáticas:
 
 También hay una relación concreta con **2 Esdras 2:19**: siete montañas con rosas y lirios. Esa imagen aparece en el relato de White, y James la vincula al pasaje en sus notas de 1847. Las referencias editoriales son de James: no constituyen por sí solas una admisión de lectura previa de Ellen. La coincidencia verbal permite investigar vocabulario religioso compartido, memoria de lectura o mediación oral; no autentica ni desacredita automáticamente la experiencia.[^35]
 
-**Hecho establecido:** semejanzas de texto e imagen y una revisión posterior. **Interpretación:** merecen más peso que una vaga semejanza de ambiente. **Hipótesis:** dependencia oral, dependencia textual o repertorio religioso compartido; su dirección, alcance y participación editorial siguen **indeterminados**. El folleto posterior a diciembre de 1844 no puede explicar por sí solo una experiencia anterior; sí pudo influir en una redacción publicada después. Para decidir harían falta acceso fechado, un escrito anterior de White o documentación de la revisión. Una comparación completa de todas las escenas sigue pendiente.
+Las semejanzas y la revisión están **establecidas**. No lo están su causa ni la participación de cada editor: siguen abiertas la influencia oral, la dependencia escrita y el uso de imágenes religiosas compartidas. El folleto de 1845 pudo influir en la redacción posterior de Ellen; no explica por sí solo una experiencia anterior. Para decidir faltan pruebas de acceso, escritos anteriores o documentos de la revisión, además de una comparación completa de las escenas.
 
 La comparación textual aclara qué cambió en el relato. Queda otra clase de afirmaciones que suele citarse como evidencia independiente: ¿qué ocurría físicamente mientras Ellen estaba en visión?
 
-## 19. ¿Podemos saber qué ocurría físicamente durante una visión temprana?
+## 18. ¿Podemos saber qué ocurría físicamente durante una visión temprana?
 
-Podemos saber algo, pero bastante menos de lo que afirman las narraciones populares.
+El informe de Atkinson describe quietud, mirada elevada, aparente insensibilidad, habla y movimientos. No contiene mediciones uniformes de duración o atención, ni observaciones de la primera visión de diciembre.[^26] Bates afirmó haber observado varias experiencias, pero no dejó mediciones fisiológicas.[^29]
 
-En Atkinson, testigos de ambos lados dijeron que Ellen permanecía acostada, miraba hacia arriba, parecía insensible parte del tiempo y luego hablaba o se incorporaba para comunicar mensajes. James White estaba a veces junto a ella y, según Jacob Mason, le sostenía la cabeza. Loton Lambert calculó que permaneció en el suelo durante varias horas. Estas observaciones son contemporáneas, aunque el reportero las resumió y los testigos emplearon vocabulario no clínico.[^26]
+Una carta atribuida a James White a los Hastings, fechada el 26 de agosto de 1848, narra una visión reciente en Hannibal: hora y media sin respirar y manipulación de una Biblia. La transcripción remite a Record Book 1, pp. 18–20. No se ha determinado cuándo se copió allí ni comprobado el original. Es un testimonio temprano según su fecha atribuida, no una medición de ausencia continua de respiración.[^36]
 
-En 1847 Joseph Bates dijo haber observado varias visiones con atención para detectar engaño o influencia del mesmerismo. Su conclusión favorable muestra que los episodios eran visibles y podían ser examinados informalmente. No dejó en ese texto mediciones fisiológicas.[^29]
+La descripción general de falta de respiración, rigidez, movimientos imposibles de impedir y oscuridad al terminar fue publicada por James en 1868 como resumen de veintitrés años. No identifica qué pruebas se hicieron en cada ocasión ni describe de manera contemporánea la primera visión.[^32]
 
-Una carta atribuida a James White a los Hastings, fechada el 26 de agosto de 1848, narra una visión reciente en Hannibal: afirma hora y media sin respirar y manipulación de una Biblia. La transcripción moderna remite a Record Book 1, pp. 18–20. No se ha determinado cuándo se copió allí ni se ha comprobado el original escrito por James. La fecha atribuida sitúa el testimonio mucho más cerca del episodio. Pero no ofrece una medición ni demuestra que dejara de respirar sin interrupción. Tampoco describe la primera visión.[^36]
+Está **establecido** que en 1845 otras personas describieron estados inusuales; el núcleo de una actividad visionaria pública es **probable**. La ausencia de respiración y la fuerza extraordinaria durante la primera visión siguen **indeterminadas**. El capítulo 5 examinará las pruebas, los médicos y las historias de las Biblias sin trasladar automáticamente detalles de una experiencia a otra.
 
-La conocida descripción de ausencia de respiración, rigidez de músculos y articulaciones, movimientos imposibles de impedir y oscuridad temporal al salir de visión fue publicada por James White en 1868 como resumen de veintitrés años de experiencias.[^32] Puede ser evidencia sobre la memoria y observación acumulada de James, pero no documenta de forma contemporánea la visión de diciembre de 1844 ni identifica en qué episodios se realizó cada prueba. Relatos aún más gráficos —médicos, velas frente a la boca, Biblias pesadas sostenidas durante largo tiempo— deben evaluarse caso por caso y no atribuirse automáticamente a la primera visión.
+## 19. ¿Qué explicaciones naturales se han propuesto y cuánto demuestran?
 
-Para 1845 está **establecido** que testigos describieron quietud, habla y aparente insensibilidad; es **probable** el núcleo de una actividad visionaria pública. No son mediciones uniformes de duración o atención ni observaciones contemporáneas de diciembre de 1844. La ausencia de respiración y la fuerza sobrenormal durante la primera visión son **indeterminadas**. Para demostrar cualquiera de ellas haría falta un testimonio temprano, específico, identificable y suficientemente detallado para excluir observaciones defectuosas.
+Ya en 1847 el objetor citado por James propuso ensueños religiosos: Ellen podía quedar absorbida por los asuntos que ocupaban su imaginación sin estar engañando. James respondió que el contenido no provenía simplemente de estudios o enseñanzas previos y apeló al efecto sobre el grupo de Portland.[^28] Bates había considerado la debilidad física antes de aceptar las visiones como obra de Dios.[^29]
 
-Incluso una medición física extraordinaria no resolvería por sí sola el origen divino. Pero la falta de esa medición también impide usar una etiqueta médica con exceso de seguridad.
+Más tarde se propusieron explicaciones neurológicas, disociativas y de influencia social. Rea recogió varias; Douglass presentó la respuesta adventista y revisiones médicas contrarias a un diagnóstico seguro de epilepsia.[^33] Faltan registros clínicos que permitan decidir. El ambiente de Atkinson muestra una experiencia compartida e interpretada por un grupo, pero no demuestra cómo se produjo el estado de Ellen.
 
-## 20. ¿Qué explicaciones naturales se han propuesto y cuánto demuestran?
+Los documentos tempranos tampoco establecen simulación deliberada. Esa hipótesis necesitaría indicios de preparación o una convergencia sólida de pruebas de engaño; el objetor de 1847 no sospechaba deshonestidad. La atribución divina, a su vez, necesita evidencia adicional sobre el contenido de los mensajes. El capítulo 6 comparará estas explicaciones; aquí ninguna queda demostrada como causa de las primeras visiones.
 
-La explicación natural más antigua conservada no acusaba fraude. El objetor citado por James White en 1847 habló de ensueños religiosos: Ellen podía quedar absorbida por asuntos que ocupaban intensamente su imaginación y perder conciencia de lo que ocurría alrededor. La hipótesis era compatible con la posibilidad de que Ellen fuera sincera y con el contenido religioso de las experiencias. James respondió que el contenido no procedía simplemente de estudio o enseñanza previos y apeló al efecto de la visión sobre el grupo de Portland.[^28]
-
-Joseph Bates consideró al principio otra variante: los episodios podían ser producto de una prolongada debilidad física. Cambió de conclusión después de observarlos, pero su cambio fue una evaluación personal y religiosa, no un experimento capaz de excluir todas las causas naturales.[^29]
-
-Autores posteriores relacionaron las visiones con la lesión que Ellen sufrió de niña y propusieron diagnósticos como histeria —en el sentido médico antiguo—, epilepsia del lóbulo temporal o crisis parciales complejas. Walter Rea recogió y promovió varias de esas explicaciones. Herbert Douglass presentó la respuesta adventista más desarrollada y citó una revisión médica retrospectiva publicada en 1984, además del trabajo del neurólogo Donald I. Peterson, que sostuvo que los datos disponibles no justificaban un diagnóstico convincente de epilepsia.[^33]
-
-El punto metodológico más fuerte de esa respuesta es limitado pero importante: diagnosticar retrospectivamente a una persona sin historia clínica contemporánea, examen neurológico, electroencefalograma ni registro sistemático exige demasiadas suposiciones. Esa limitación afecta a ambos lados. La lesión infantil hace **posible** investigar una hipótesis neurológica; no demuestra que los trances fueran crisis epilépticas. La duración informada, el habla organizada y la variedad de contextos plantean dificultades para algunos diagnósticos, pero los relatos de creyentes tampoco permiten descartarlos clínicamente.
-
-Otra posibilidad es comprender los episodios como experiencias disociativas —estados en que se altera la atención y el contacto con el entorno— o de éxtasis religioso, favorecidas por oración intensa, expectativa apocalíptica, angustia y un ambiente que ofrecía lenguaje para interpretarlas. Ese tipo de explicación es compatible con varios elementos del contexto, pero no está demostrada para Ellen por un registro clínico contemporáneo.
-
-La sugestión y el refuerzo social también pudieron influir. Atkinson documenta una comunidad en la que los estados de Ellen eran observados, interpretados y respondidos colectivamente. Eso es compatible con influencia social; no demuestra que la comunidad produjera el trance ni permite identificar el mecanismo de cada episodio.
-
-Finalmente, el fraude consciente es lógicamente posible. Sin embargo, para convertirlo en conclusión histórica harían falta indicios de preparación deliberada, confesiones, información obtenida en secreto, contradicciones fabricadas o una exposición contemporánea. Los documentos tempranos examinados aquí no proporcionan esa clase de evidencia. Incluso el objetor de 1847 que rechazaba la inspiración dijo no sospechar deshonestidad.[^28]
-
-¿Y una causa divina? La historia puede comprobar que Ellen la afirmó, que otros la creyeron y que esa convicción tuvo consecuencias. No dispone de un procedimiento histórico capaz de identificar directamente a Dios como causa. Eso no refuta la posibilidad teológica; significa que, para evaluarla, necesitaremos otros criterios: contenido de los mensajes, predicciones, conocimiento difícil de obtener por medios normales, coherencia y el conjunto de su ministerio.
-
-## 21. ¿Qué podría hacer cambiar estas conclusiones?
+## 20. ¿Qué podría hacer cambiar estas conclusiones?
 
 Las conclusiones de este capítulo no dependen de que los documentos actuales sean los únicos que puedan existir. Un registro contemporáneo de diciembre de 1844 escrito por una de las mujeres presentes podría fijar con mucha mayor seguridad la fecha, el lugar y las circunstancias de la primera visión. Una versión temprana incompatible con el relato conocido reduciría, en cambio, nuestra confianza en la reconstrucción actual.
 
@@ -343,25 +298,17 @@ La interpretación de Atkinson debería revisarse si apareciera la transcripció
 
 Mientras esa evidencia no aparezca, el grado de certeza debe permanecer exactamente donde permiten los documentos disponibles.
 
-## 22. ¿Qué podemos afirmar históricamente y qué sigue incierto sobre el origen de las primeras visiones?
+## 21. ¿Qué podemos afirmar históricamente y qué sigue incierto sobre el origen de las primeras visiones?
 
-La documentación permite afirmar que Ellen Harmon comenzó muy pronto después del fracaso de octubre de 1844 a comunicar experiencias que entendía como visiones. Para el 15 de febrero de 1845 su actividad pública está documentada por testigos favorables y adversos en el juicio de Israel Dammon. **Diciembre de 1844 es la fecha temprana mejor sustentada para el comienzo y parece probable**, aunque no existe un registro contemporáneo de ese mes y un recuerdo tardío de Ellen situó el inicio en enero o febrero.
+Para el 15 de febrero de 1845 está documentado que Ellen Harmon comunicaba visiones ante personas favorables y hostiles. **Diciembre de 1844 es la fecha probable mejor sustentada para el comienzo**, aunque falta un registro de ese mes y su recuerdo de 1874 propone enero o febrero.
 
-El contenido básico de la primera visión aparece temprano. Antes de que Ellen publicara su propio relato, James White ya resumía el sendero, la luz del clamor de medianoche, la caída de quienes rechazaban esa luz y la futura llegada de Cristo. La carta de Ellen de diciembre de 1845 amplió la narración. No estamos ante una historia cuyo núcleo aparezca por primera vez décadas después.
+El núcleo del primer relato circulaba en 1845: el sendero, la luz del clamor de medianoche y la llegada de Cristo. Las primeras reimpresiones fueron estables; después hubo omisiones, reformulaciones y una separación en más de una visión. Esa estabilidad documenta la transmisión, no confirma por sí sola la experiencia. Los paralelos con Foy y 2 Esdras mantienen abiertas preguntas de acceso y composición.
 
-También puede seguirse un desarrollo rápido. En su relato de 1851 Ellen recordó una segunda visión que la habría impulsado a comunicar lo visto. En febrero de 1845 la visión del Novio intervino en una disputa sobre la “puerta cerrada”. La documentación temprana muestra que su mensaje circulaba dentro de una expectativa muy restrictiva acerca de nuevas conversiones y que sus visiones fueron recibidas por seguidores como confirmación del marco de 1844; en 1874, la propia Ellen reconoció que ella había compartido inicialmente esa expectativa. Lo que no puede demostrarse sólo con la primera visión es que ésta formulara explícitamente un cierre universal de la misericordia para toda persona ajena al movimiento.
+Las visiones intervinieron pronto en las discusiones del grupo sobre 1844 y la puerta cerrada. Esto está documentado; no permite atribuir a la primera visión una proposición inequívoca de cierre universal de la salvación. Atkinson confirma conductas y mensajes públicos, sin identificar su causa ni hacer a Ellen responsable de todas las prácticas de la reunión.
 
-El juicio de Dammon confirma algo distinto y muy valioso: para febrero de 1845 observadores externos veían a Ellen en estados que describían como trance o insensibilidad parcial, acostada durante períodos prolongados y comunicando mensajes a personas concretas. Esos testimonios establecen comportamiento observable; no identifican su causa. Tampoco autorizan a atribuirle todas las prácticas de la reunión.
+La sinceridad es plausible, pero estos documentos no la demuestran. Tampoco establecen fraude deliberado ni una causa clínica específica. **El origen último de las primeras experiencias sigue indeterminado.** Hemos fijado una cronología y un núcleo observable. Los dos capítulos siguientes examinarán los fenómenos físicos y sus posibles explicaciones, antes de contrastar el contenido de los mensajes con hechos externos.
 
-El relato publicado de la primera visión tampoco permaneció textualmente intacto. Las primeras reimpresiones fueron muy estables; después hubo omisiones, reformulaciones y una separación en más de una visión. El núcleo narrativo sobrevivió en la transmisión escrita conocida; esa estabilidad no corrobora por sí sola la experiencia. Los paralelos Foy/2 Esdras requieren examinar mediación y acceso. Algunos pasajes doctrinalmente sensibles y detalles autobiográficos cambiaron o aparecieron más tarde. En varios casos no podemos demostrar quién decidió una revisión ni con qué intención.
-
-Respecto del origen de las experiencias, la evidencia de este capítulo permite menos de lo que suelen afirmar ambos extremos. **No hemos encontrado evidencia temprana directa que demuestre fraude deliberado**, pero tampoco podemos demostrar históricamente el estado interior de sinceridad de Ellen. La sinceridad es una explicación plausible; no es todavía una conclusión que este capítulo pueda probar. Del mismo modo, una causa neurológica, disociativa o social específica es posible, pero ninguna ha sido establecida con evidencia clínica contemporánea.
-
-La conclusión más precisa es entonces limitada: **está históricamente documentado que Ellen afirmó tener visiones y que, para febrero de 1845, otras personas describían estados y mensajes públicos asociados con ellas**. Esas experiencias surgieron dentro de la crisis millerita, adquirieron rápidamente autoridad para algunos creyentes y contribuyeron a resolver disputas dentro de pequeños grupos adventistas. Que su causa última fuera únicamente humana, sobrenatural o una combinación que la investigación histórica no puede aislar sigue **indeterminado**.
-
-Eso no convierte el capítulo en un empate. Hemos reducido considerablemente lo que puede y no puede afirmarse. El siguiente paso será evaluar evidencias que permitan distinguir mejor entre las explicaciones: qué mensajes produjo ese ministerio, qué predijo, qué parecía conocer y cómo respondió cuando sus afirmaciones podían contrastarse con hechos externos.
-
-## 23. ¿Dónde pueden verificarse las afirmaciones principales?
+## 22. ¿Dónde pueden verificarse las afirmaciones principales?
 
 
 

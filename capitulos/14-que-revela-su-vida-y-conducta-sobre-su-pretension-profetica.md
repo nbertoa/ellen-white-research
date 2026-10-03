@@ -54,7 +54,7 @@ Si aparecieran comprobantes de pagos a familiares sin labor ministerial, la defe
 
 ## 6. ¿Utilizó a su hijo para controlar los mensajes?
 
-W. C. White intervenía en correspondencia, organización editorial y comunicación con dirigentes. Su madre lo consideraba un colaborador necesario y en 1906 negó que él u otros asistentes tuvieran permiso para añadir ideas propias o cambiar el sentido de sus mensajes. Las cartas de preparación de libros muestran un trabajo de edición y selección real. No necesitamos imaginar que todo salía de la imprenta exactamente como lo escribió ella ni concluir por ello que su hijo inventaba revelaciones.[^9]
+W. C. White intervenía en correspondencia, organización editorial y comunicación con dirigentes. Su madre lo consideraba un colaborador necesario y en 1906 negó que él u otros asistentes tuvieran permiso para añadir ideas propias o cambiar el sentido de sus mensajes. Las cartas de preparación de libros muestran un trabajo de edición y selección real. La colaboración no demuestra que su hijo inventara revelaciones.[^9]
 
 Un contemporáneo cercano, el médico W. S. Sadler, le escribió en **abril de 1906**. Quería saber cuánto influía Willie en los testimonios. Copió un episodio en el que la propia White había dicho que W. C. dudó de la conveniencia de entregar una nota sobre un pedido de dinero y que ella inicialmente aceptó no enviarla; luego, según ese relato, no pudo quedarse en paz. La intervención del hijo no era una fantasía sin base. Lo que falta es seguir cada versión y cada destinatario para determinar si influyó sólo en la circulación, también en la oportunidad o alguna vez en el contenido.[^10]
 
@@ -100,7 +100,7 @@ El mejor expediente crítico no es, entonces, «alguien fue reprendido» ni «un
 
 No podemos responder con un «siempre» o un «nunca». En un discurso público de **1901**, al hablar de Kellogg, admitió que quizá le había escrito con demasiada fuerza. Es una concesión real sobre el tono, aunque no retira el fondo de los mensajes.[^18] Los capítulos anteriores también mostraron revisiones de libros, ajustes de prácticas y cambios de aplicación. No todas fueron confesiones de error profético: editar un relato histórico o modificar un consejo no equivale a reconocer que se inventó una visión.
 
-En Chicago reconoció una interpretación equivocada de los hechos y conservó una interpretación preventiva de la visión después de la objeción. En la disputa sobre asistentes, negó de manera terminante que se autorizara a cambiar sus ideas. Puede haber tenido razones sinceras para sostener esas posiciones; también pueden haber cerrado demasiado pronto una investigación necesaria. Para juzgar disposición a corregirse hay que examinar por separado la precisión de cada negación y la nueva evidencia que recibió. Una concesión aislada no borra los casos difíciles; una defensa persistente no prueba por sí sola mala fe.
+En Chicago reconoció una interpretación equivocada de los hechos y conservó una interpretación preventiva de la visión después de la objeción. En la disputa sobre asistentes, negó de manera terminante que se autorizara a cambiar sus ideas. Puede haber tenido razones sinceras para sostener esas posiciones; también pueden haber cerrado demasiado pronto una investigación necesaria. Para juzgar disposición a corregirse hay que examinar por separado la precisión de cada negación y la nueva evidencia que recibió. Ni una concesión aislada resuelve los casos difíciles ni una defensa persistente prueba mala fe.
 
 Hay otra acusación frecuente que permite observar qué hizo al describir su propia conducta: la alimentación.
 
@@ -112,7 +112,7 @@ Hay una carta de **1882** en la que White pidió a su nuera que consiguiera, si 
 
 Ocurre algo parecido con manteca, huevos, café y té. En una carta a un médico debilitado recomendó una pequeña cantidad de manteca y huevos, al mismo tiempo que advertía contra el uso indiscriminado. Algunas cartas reconocen café o té usados como recurso durante una enfermedad. El capítulo anterior examinó la cronología de esas excepciones y también las dificultades que subsisten con declaraciones sobre queso. Es legítimo preguntar si alguna formulación autobiográfica dio una impresión demasiado absoluta; no es legítimo suprimir las salvedades que ella sí expresó.[^21]
 
-¿Qué haría falta para hablar de hipocresía deliberada? Una regla que exigía a otros sin admitir excepción, una práctica propia reiterada y ocultada, y evidencia de que ella sabía que su presentación pública era falsa. La documentación examinada prueba irregularidad, renovación de compromisos y algunas frases amplias. No establece esa cadena completa. Tampoco convierte la exactitud sanitaria de sus consejos en una cuestión resuelta: un consejo podría ser erróneo aunque su autora intentara obedecerlo.
+¿Qué haría falta para hablar de hipocresía deliberada? Una regla que exigía a otros sin admitir excepción, una práctica propia reiterada y ocultada, y evidencia de que ella sabía que su presentación pública era falsa. La documentación muestra irregularidad, nuevos compromisos y frases amplias, pero no establece esa cadena. La exactitud médica del consejo, examinada en el capítulo 12, es otra cuestión.
 
 ## 12. ¿Qué indicios favorecerían la sinceridad y cuáles la comprometerían?
 
@@ -126,7 +126,7 @@ Para fortalecer o derribar este balance necesitamos cuentas completas de ingreso
 
 ## 13. ¿Qué podemos decir de su conducta sin decidir todavía si fue profeta?
 
-Tenía ingresos, derechos y propiedades, y dejó obligaciones considerables. Hubo donaciones y gastos de publicación documentados, pero no una contabilidad completa que permita saber cuánto dio en relación con lo que recibió. El testamento favoreció tanto a familiares como a fines religiosos. El uso especial del diezmo benefició, según la carta conservada, a ministros desatendidos; carecemos de la auditoría de todos los pagos. La relación con colaboradoras y críticos incluyó trabajo reconocido, confrontaciones severas, quejas contemporáneas sobre circulación de testimonios y alguna concesión pública sobre su propio tono.
+Los documentos muestran una vida de trabajo religioso, intereses familiares, ayuda a otros y obligaciones económicas importantes. Las cuentas incompletas no permiten medir toda su generosidad ni resolver cada sospecha. En el trato con colaboradores y críticos hubo reconocimiento y también conflictos severos, quejas por la circulación de testimonios y algunas admisiones de error o de exceso de tono.
 
 Nada de eso acredita una vida impecable. Tampoco se ha establecido un patrón de enriquecimiento privado mediante revelaciones o un engaño consciente demostrable sobre el origen de mensajes concretos. Los conflictos de autoridad son la dificultad moral mejor documentada y exigen que continuemos abiertos a nuevas pruebas. La conducta, en lo que hoy puede comprobarse, hace **menos convincente una explicación exclusivamente basada en lucro y fabricación deliberada**, pero no distingue con seguridad entre una convicción religiosa sincera y otras explicaciones de sus experiencias. Ése es el alcance de este capítulo.
 

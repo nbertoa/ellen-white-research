@@ -6,7 +6,7 @@ Se ha dicho que permanecía con los ojos abiertos, que dejaba de respirar, que n
 
 Si todo eso ocurrió exactamente como suele narrarse, sería un conjunto de hechos notable. Pero una afirmación puede ser notable y, al mismo tiempo, estar mal documentada. También puede contener un núcleo histórico verdadero que con los años adquirió detalles cada vez más precisos. Por eso no comenzaremos preguntando si aquellos fenómenos venían de Dios, de una enfermedad o de un engaño. Primero preguntaremos algo más básico: ¿qué dijeron realmente los testigos, cuándo lo escribieron y cuántos testimonios independientes poseemos?
 
-La diferencia es decisiva. Un registro escrito durante una visión no tiene el mismo peso que un recuerdo redactado cuarenta años después. La declaración directa de un médico no equivale a que otra persona recuerde lo que el médico habría dicho. Y diez libros que repiten una misma historia no constituyen diez testimonios.
+Como vimos al estudiar las primeras visiones, importan la cercanía del testigo, la fecha de su relato y su independencia. Una declaración directa de un médico no equivale a que otra persona recuerde lo que habría dicho.
 
 ## 1. ¿Qué se decía que ocurría durante una visión?
 La descripción más completa publicada en el siglo XIX apareció en 1868. James White, esposo de Ellen y testigo de muchas de sus visiones, enumeró cuatro rasgos. Según él, ella perdía conciencia de lo que la rodeaba; no respiraba durante toda la experiencia, que podía durar desde quince minutos hasta tres horas; sus músculos se volvían rígidos y sus articulaciones no podían moverse, aunque ella realizaba gestos libres y gráciles; y al terminar todo le parecía oscuro, de modo que la vista regresaba gradualmente.[^1]
@@ -18,7 +18,7 @@ Estas descripciones no son idénticas, pero forman el retrato que después se vo
 Por lo tanto, estos textos establecen con seguridad **lo que dirigentes adventistas afirmaban haber observado**. No establecen con igual seguridad que cada detalle ocurriera en todas las visiones ni que sus interpretaciones fueran correctas.
 
 ## 2. ¿Cuál es el registro contemporáneo más antiguo?
-El documento público más cercano a las primeras visiones no describe una prueba médica. Es el informe del juicio de Israel Dammon, celebrado en febrero de 1845 y publicado pocas semanas después en el *Piscataquis Farmer*. Varios declarantes hablaron bajo juramento acerca de una reunión religiosa en Atkinson, Maine. Identificaron a Ellen Harmon como la joven que tenía visiones y la describieron acostada o sentada en el suelo, hablando a distintas personas y comunicando mensajes religiosos.[^4]
+El informe del juicio de Israel Dammon, estudiado en el capítulo 4, es el documento público más cercano. Publicado en marzo de 1845, recoge testimonios bajo juramento sobre Ellen Harmon en Atkinson: estaba acostada o sentada en el suelo y comunicaba mensajes religiosos.[^4]
 
 El informe es valioso por dos razones. Primero, fue producido en el momento, no al final de la vida de los participantes. Segundo, recoge voces favorables, hostiles y ambiguas. Sin embargo, no menciona ojos inmóviles, ausencia de respiración, pulso normal, fuerza extraordinaria ni una Biblia pesada.
 
@@ -47,14 +47,12 @@ La cronología permite ver el problema con mayor claridad:
 | Daigneau intenta doblar el brazo de Ellen | 5 de noviembre de 1862 en 1892; otoño de 1863 en 1891 | 1891/1892 | unos 29 años | recuerdo de Loughborough |
 | La gran Biblia familiar sostenida en Portland | comienzos de 1845 | 1891 | unos 46 años | narración de Loughborough basada en otros |
 
-La tabla no vuelve falsos los recuerdos tardíos. Las personas pueden conservar durante décadas el recuerdo correcto de un episodio extraordinario. Pero el tiempo transcurrido aumenta la posibilidad de confundir episodios, seleccionar detalles o adaptar el recuerdo a una historia compartida. Además, casi todos los relatos tardíos fueron reunidos dentro de la misma comunidad que ya consideraba las visiones una prueba de la conducción divina.
-
-**Conclusión: establecido.** Las afirmaciones físicas circularon ampliamente entre los adventistas del siglo XIX. **Conclusión adicional: también establecido.** La documentación precisa de muchos episodios famosos es tardía, y eso debe reducir la seguridad con que repetimos sus detalles.
+Las afirmaciones físicas circularon ampliamente entre los adventistas del siglo XIX, pero muchos detalles famosos se documentaron tarde. Los recuerdos pueden ser correctos; el tiempo transcurrido permite también confundir episodios o adaptarlos a una historia compartida. Casi todos se recogieron entre quienes ya veían las visiones como prueba de conducción divina. Eso limita su fuerza, sin volverlos falsos.
 
 ## 4. ¿Permanecía realmente con los ojos abiertos?
 La mirada abierta y dirigida hacia arriba es una de las características mejor repetidas. El relato atribuido a Otis Nichols sobre una visión en Randolph, publicado en 1860, dice que sus ojos miraban hacia arriba mientras manipulaba una Biblia. James White no destacó este detalle en su resumen de 1868, pero Butler lo hizo en 1874 y Loughborough volvió a describirlo en 1892. Martha Amadon, quien había presenciado visiones entre 1854 y 1864, también recordaba los ojos abiertos y una mirada fija.[^6]
 
-No todas estas voces son independientes. Butler y Loughborough conocían la tradición adventista anterior. No sabemos cuándo escribió Amadon su descripción. La publicación más antigua que hemos localizado es *Ministry*, de marzo de 1944, que cita *Notebook Leaflets*. Si ella la escribió, tuvo que hacerlo antes de morir en 1937; no sabemos la fecha exacta. Aun así, la convergencia es suficiente para aceptar el núcleo de la afirmación: en algunas visiones públicas Ellen mantenía los ojos abiertos, generalmente dirigidos hacia arriba.
+Butler y Loughborough conocían la tradición anterior. De Amadon no sabemos cuándo escribió: su descripción apareció al menos en marzo de 1944, después de su muerte en 1937. Con esas reservas, la coincidencia entre testimonios permite aceptar el núcleo de la afirmación: en algunas visiones públicas Ellen mantenía los ojos abiertos, generalmente dirigidos hacia arriba.
 
 Es más difícil demostrar que nunca parpadeaba. Esa formulación absoluta aparece en descripciones generales, no en observaciones cronometradas de los párpados. Una persona impresionada por una mirada fija puede recordar “no parpadeó” sin haber contado cada movimiento durante media hora.
 
@@ -74,7 +72,7 @@ El detalle más concreto procede de una visión situada en Battle Creek el 5 de 
 
 La narración posee elementos favorables: identifica a la persona, el lugar y el tipo de prueba; Loughborough dijo haber estado presente; y la resistencia muscular aparece también en descripciones más generales. Pero la primera publicación conocida llegó casi treinta años después. No contamos con una declaración de Daigneau, no se midió la fuerza aplicada y el término “sobrehumana” pertenece a la interpretación de los presentes.
 
-Un músculo contraído durante un tiempo, una postura que dificulte doblar el brazo o una resistencia involuntaria pueden sorprender a quien intenta moverlo. Esto no basta para explicar cada episodio; simplemente muestra por qué una impresión de fuerza extraordinaria no equivale a una medición.
+Un músculo contraído durante un tiempo, una postura que dificulte doblar el brazo o una resistencia involuntaria pueden sorprender a quien intenta moverlo. Son posibilidades; la impresión de fuerza extraordinaria no equivale a medirla.
 
 **Conclusión: probable.** En algunas visiones su cuerpo mostró rigidez o resistencia que los presentes consideraron muy inusual. **Indeterminado:** cuánta fuerza hubo, cuál fue su causa y si superó realmente la capacidad humana.
 
@@ -85,17 +83,11 @@ Si la fecha atribuida es correcta, James escribió muy cerca del episodio. La af
 
 James afirmó que Ellen “no respiraba” durante toda la visión y que esto se había comprobado repetidamente presionándole el pecho y cerrándole la boca y la nariz. Añadió una duración de entre quince minutos y tres horas. Pero no indicó en qué ocasiones se realizaron esas pruebas, quién las hizo, cuánto tiempo mantuvieron cerradas la boca y la nariz ni cómo se midió el tiempo.[^1]
 
-Butler, en 1874, agregó que se habían usado espejos y que el pulso y el color del rostro permanecían normales. Después, Loughborough reunió recuerdos de episodios específicos. Esa secuencia documental importa:
-
-1. una carta fechada en 1848 refiere una ocasión concreta; falta comprobar el original y cuándo se copió;
-2. en 1868 aparece la descripción general impresa de James y en 1874 la defensa de Butler;
-3. entre 1890 y 1897 se reúnen recuerdos nominales de pruebas de décadas anteriores.
-
 No hemos hallado una medición contemporánea de 1845, 1853, 1854 o 1857 que establezca ausencia completa de ventilación durante una visión entera.
 
 Ellen White también habló del asunto, pero lo hizo en 1906. Recordó que sus amigos habían colocado un espejo ante sus labios y no habían visto humedad, y que ella continuaba hablando cuando no percibían señal de respiración.[^24] Su declaración confirma que aceptaba esa memoria compartida. No es, sin embargo, una medición independiente: Ellen no podía observar desde afuera su propio pecho ni el espejo, y escribió décadas después de los hechos.
 
-**Conclusión: establecido en la transcripción disponible.** Una carta atribuida a James y fechada en 1848 ya afirma ausencia de respiración. La autenticación material y fecha de copia siguen pendientes. Desde 1868 está localizada además la descripción general impresa. **Indeterminado:** que hubiera ausencia completa de ventilación durante todos los minutos u horas atribuidos.
+La afirmación ya aparece en la carta atribuida a 1848; la primera descripción general impresa localizada es de 1868. Ninguna de las dos establece cuánto tiempo, si alguno, estuvo sin ventilación.
 
 ## 8. ¿Cómo intentaron comprobar la respiración?
 Las fuentes mencionan varios ensayos: observar el pecho, colocar una mano sobre él, acercar una mano a la boca, poner un espejo junto a los labios, acercar una vela y cerrar la boca y las fosas nasales.
@@ -106,7 +98,7 @@ Si el detalle de los diez minutos fuera exacto, el episodio sería extraordinari
 
 En Rochester, en 1854, D. H. Lamson recordó que un médico puso un espejo sobre la boca de Ellen mientras ella hablaba y dijo que no respiraba. Su hermana Drusilla recordó el espejo, pero no pudo identificar con seguridad al médico. David Seeley, al confirmar la historia en 1897, habló de una vela cuyos movimientos no habrían detectado aire.[^9] El espejo y la vela pueden corresponder a ensayos distintos. También pueden mostrar cómo un mismo recuerdo fue adquiriendo variantes.
 
-El mejor modo de valorar estas historias no es descartarlas ni tratarlas como mediciones modernas. Es reconocer dos niveles diferentes:
+Estos relatos permiten distinguir:
 
 - **Probable:** algunos presentes realizaron pruebas informales porque no percibían respiración normal.
 - **Indeterminado:** que esas pruebas excluyeran toda ventilación o que duraran exactamente lo recordado décadas después.
@@ -124,9 +116,7 @@ Decir “los médicos comprobaron que no respiraba” va más allá de lo que pe
 
 **Parkville, Michigan, 12 de enero de 1861.** Loughborough contó que el doctor Brown, presentado como médico y médium espiritista, había prometido controlar la visión. Según el relato, comenzó el examen, palideció, tembló, dijo “ella no respira” y salió afirmando que sólo Dios sabía qué ocurría.[^13] Es una escena memorable, precisamente el tipo de relato que exige prudencia. Fue publicado treinta y un años después, carece de informe médico y no permite verificar la formación de Brown ni las palabras exactas que pronunció.
 
-Los médicos mencionados pudieron haber sido sinceros. Sus impresiones incluso pudieron ser correctas: tal vez no detectaron respiración en el momento del examen. Pero ninguna de estas historias conserva un registro clínico directo con nombre completo, método, duración, signos observados y conclusión limitada. Mucho menos una certificación de origen sobrenatural.
-
-**Conclusión: probable.** Algunos hombres reconocidos por los presentes como médicos la examinaron y dijeron no percibir respiración. **No establecido:** que realizaran una prueba capaz de demostrar ausencia completa y continua de ventilación. **No establecido:** que algún médico certificara científicamente que Dios causaba el fenómeno.
+Es **probable** que algunos hombres reconocidos por los presentes como médicos la examinaran y dijeran no percibir respiración. Pueden haber sido impresiones sinceras y correctas de aquel momento. Pero ninguna historia conserva un registro clínico directo con nombre completo, método, duración y signos observados. **No está establecido** que demostraran ausencia completa y continua de ventilación, mucho menos su origen divino.
 
 ## 10. ¿Se mantenía normal el pulso durante las visiones?
 Butler afirmó en 1874 que, aunque no se percibía respiración, el pulso y el color del rostro permanecían normales.[^2] Esa formulación pasó a integrar la descripción adventista habitual. Sin embargo, existe una dificultad que impide tratarla como un dato uniforme.
@@ -135,7 +125,7 @@ Merritt G. Kellogg, que en 1890 había dejado un testimonio favorable sobre vari
 
 La carta es tardía y pertenece a una etapa en que Merritt Kellogg ya no interpretaba las visiones como antes. Eso puede haber influido en su lenguaje. Pero tampoco sería correcto descartarla por ese motivo. Lo importante aquí es que un mismo observador dejó recuerdos posteriores que no encajan del todo con la presentación de un pulso normalmente conservado.
 
-**Conclusión: indeterminado.** Las fuentes tardías no permiten establecer con seguridad cómo se comportaba el pulso durante las visiones. La diferencia es otra razón para no tratar estas descripciones del cuerpo como si formaran un registro clínico uniforme.
+**Conclusión: indeterminado.** Las fuentes tardías no permiten establecer con seguridad cómo se comportaba el pulso durante las visiones. No tenemos un registro clínico uniforme.
 
 ## 11. ¿Podía hablar sin respirar?
 Varias narraciones juntan dos afirmaciones: Ellen no respiraba y, sin embargo, pronunciaba palabras o frases. Butler sostuvo incluso que no escapaba aire por la nariz o los labios mientras hablaba.
@@ -161,9 +151,9 @@ La literatura médica moderna ayuda a establecer límites, no a diagnosticar a E
 
 Además, observar el color del rostro o palpar el pulso no mide cuánto aire entra y sale de los pulmones. Incluso la oximetría, que mide el oxígeno en la sangre, puede tardar en reflejar una interrupción respiratoria. En estudios de pacientes sedados, la capnografía, que registra el dióxido de carbono del aire exhalado, detectó antes que la oximetría la ausencia o reducción de la respiración.[^15] Ese estudio no evaluó las pruebas del siglo XIX. Los testimonios no muestran que sus pruebas pudieran descartar una respiración superficial o intermitente.
 
-Una apnea continua de esa duración, mientras la persona sigue hablando, moviéndose y manteniéndose con vida, sería extraordinariamente incompatible con la fisiología humana ordinaria. **Las fuentes disponibles no establecen ese hecho con medición suficiente.** Deben examinarse errores de observación, duración o transmisión, respiración superficial o intermitente y el significado de «no respiraba». La incompatibilidad fisiológica no demuestra por sí sola ninguna de esas alternativas, ni demuestra una intervención sobrenatural. Primero debemos decidir qué está documentado; después comparar las explicaciones sin dar por cierta ninguna de ellas.
+Una apnea continua de esa duración, con habla y movimiento, sería extraordinariamente incompatible con la fisiología humana ordinaria. **Las fuentes no la establecen con medición suficiente.** Hay que examinar el significado de «no respiraba», posibles errores de observación o memoria y una respiración superficial o intermitente. La incompatibilidad fisiológica no demuestra ninguna de esas alternativas ni una intervención sobrenatural.
 
-**Conclusión: indeterminado.** Las fuentes no permiten reconstruir cuánto tiempo, si alguno, pasó sin ventilación. **Establecido:** varios testimonios afirman que no detectaron respiración. **Probable en algunas ocasiones:** existe un núcleo de observación real; su precisión varía por episodio. **No establecido:** apnea completa durante toda una visión prolongada.
+Está **establecido** que varios testigos dijeron no detectar respiración, y es **probable** un núcleo de observación real en algunas ocasiones. Su precisión varía; cuánto tiempo pasó sin ventilación sigue **indeterminado**.
 
 ## 13. ¿Comenzaba o terminaba respirando profundamente?
 Las fuentes encontradas no respaldan la idea de que la visión comenzara con respiraciones profundas. La secuencia de Loughborough habla de exclamaciones, debilidad y luego actividad visionaria, no de hiperventilación inicial.
@@ -177,7 +167,7 @@ No hubo un registro respiratorio. Los intervalos de Kellogg son recuerdos, no da
 ## 14. ¿Quedaba debilitada o exhausta después?
 Las fuentes no muestran un resultado uniforme. Martha Amadon recordaba que al final quedaba flácida y sin fuerza. James White habló de oscuridad temporal y recuperación gradual de la visión. En otros relatos, en cambio, Ellen aparece fortalecida o aliviada después de una experiencia religiosa.
 
-La variación puede ser real. Una experiencia prolongada, cualquiera fuera su causa, podía terminar con cansancio en una ocasión y con excitación en otra. También es posible que distintas narraciones destacaran el resultado que mejor servía a su propósito.
+La variación puede ser real o reflejar qué resultado destacaba cada narración: cansancio en unas ocasiones, excitación en otras.
 
 **Conclusión: posible.** Algunas visiones terminaron en debilidad o agotamiento. **No establecido:** que ese fuera un rasgo necesario o constante.
 
@@ -186,9 +176,9 @@ Antes de examinar la famosa Biblia de casi nueve kilos, debemos distinguir otra 
 
 En Randolph, Massachusetts, durante el invierno de 1845–1846, Ellen tuvo una visión en la casa de la familia Thayer. Según Otis Nichols, el dueño de la casa no estaba plenamente convencido de que la visión fuera diabólica y quiso someterla a una prueba. Tomó una gran Biblia familiar, la abrió y la colocó sobre Ellen. El relato continúa diciendo que ella se levantó, sostuvo el volumen abierto en una mano, pasó páginas, señaló textos y recitó su contenido mientras miraba hacia arriba. Los presentes habrían verificado los pasajes señalados. Nichols dijo haber presenciado el episodio; su relato fue publicado por Ellen White en 1860, unos quince años después.[^16]
 
-No es un testimonio contemporáneo, pero es mucho anterior a las declaraciones de la década de 1890 y procede de una persona identificada que afirmó estar allí. También contiene un detalle importante: Thayer no aparece en el relato como un creyente convencido ni como uno de los opositores que declaraban satánica la visión. Quiso probarla. Eso da algún valor adicional al episodio, aunque seguimos dependiendo de la narración retrospectiva de Nichols.
+Aunque retrospectivo, el testimonio es anterior a los de la década de 1890 y procede de un testigo identificado. Tiene otro detalle favorable: Thayer quiso probar la visión, sin aparecer como creyente convencido ni como uno de los opositores que la declaraban satánica. Seguimos dependiendo, sin embargo, del relato de Nichols.
 
-Sin embargo, no conocemos el peso del volumen, no tenemos una lista contemporánea de todos los textos ni declaraciones independientes escritas por quienes los cotejaron. La afirmación de que cada señalamiento fue exacto depende de la narración de Nichols.
+No conocemos el peso del volumen, no tenemos una lista contemporánea de todos los textos ni declaraciones independientes escritas por quienes los cotejaron. La afirmación de que cada señalamiento fue exacto depende de la narración de Nichols.
 
 **Conclusión: probable.** En Randolph se realizó una prueba con una Biblia abierta y Ellen la manipuló durante la visión. **Posible, pero no establecido de manera independiente:** que señalara y reprodujera correctamente pasajes sin mirar el libro. **Indeterminado:** el peso, el tiempo exacto y la precisión de cada señalamiento.
 
@@ -234,8 +224,6 @@ Los testigos escépticos son importantes porque disminuyen la posibilidad de que
 
 Pero “escéptico” no significa “observador independiente en condiciones controladas”. Bates se integró rápidamente al pequeño movimiento, compartía su marco bíblico y no dejó datos fisiológicos. Las historias de Drummond, Brown y Daigneau nos llegan a través de creyentes muchos años después. El cambio de opinión puede demostrar que la experiencia impresionó sinceramente al testigo; no identifica por sí solo la causa.
 
-La respuesta correcta evita dos errores. No debemos descartar a Bates porque llegó a creer: su testimonio sigue siendo evidencia. Tampoco debemos convertir su conversión en una demostración: personas sinceras pueden interpretar de manera distinta una experiencia sorprendente.
-
 **Conclusión: probable.** Algunas visiones convencieron a observadores que al principio dudaban. **No demostrado:** que su cambio de opinión se debiera a una prueba física concluyente y no a la totalidad de la experiencia, su contenido religioso y las relaciones personales.
 
 ## 19. ¿Existen testimonios hostiles o críticos que confirmen los fenómenos?
@@ -250,24 +238,14 @@ Así, las fuentes críticas aportan una objeción válida —los fenómenos pued
 **Conclusión: indeterminado.** No existe una refutación contemporánea decisiva de los fenómenos, pero tampoco una confirmación hostil independiente de sus rasgos más extraordinarios.
 
 ## 20. ¿Puede la medicina moderna decir qué ocurrió?
-Puede decir menos de lo que a veces se le pide. Ningún médico actual puede examinar una visión ocurrida en 1857. No existen electroencefalogramas, registros respiratorios, notas clínicas continuas ni historias médicas suficientes. Sólo hay descripciones escritas con vocabulario del siglo XIX, muchas de ellas tardías.
-
-La medicina sí puede aclarar tres cosas.
-
-Primero, una observación sin instrumentos no distingue bien entre ausencia de respiración visible, respiración muy superficial, pausas respiratorias intermitentes y ausencia total de ventilación.
-
-Segundo, un pulso palpable y un rostro todavía coloreado no prueban que la ventilación sea normal. Tampoco un espejo limpio o una vela inmóvil excluyen un flujo débil o intermitente.
-
-Tercero, si la afirmación máxima se toma literalmente —ninguna ventilación durante decenas de minutos o varias horas, con habla y movimiento, sin daño—, entra en conflicto con la fisiología conocida. Por eso no podemos tratar la frase “no respiraba” como si fuera el registro de un aparato que midiera su respiración.
-
-Estas precisiones limitan una afirmación; no diagnostican una enfermedad ni demuestran engaño.
+Puede aclarar los límites físicos examinados: no ver respiración no equivale a medir ausencia de ventilación, y el pulso o el color del rostro no resuelven esa diferencia. Pero ningún médico actual puede examinar una visión de 1857. Faltan registros de actividad cerebral, respiración y recuperación; quedan descripciones del siglo XIX, muchas tardías. La medicina ayuda a evaluar sus afirmaciones, sin convertirlas en diagnóstico ni prueba de engaño.
 
 ## 21. ¿Puede este capítulo decidir qué causaba las visiones?
-No. La medicina moderna puede ayudarnos a delimitar qué significan ciertas observaciones, pero no puede convertir testimonios del siglo XIX en un diagnóstico retrospectivo. Tampoco este capítulo necesita elegir todavía entre trance religioso, disociación, catalepsia, epilepsia, efectos del traumatismo infantil, autosugestión o fraude. Son explicaciones diferentes y cada una debe contrastarse con la evidencia pertinente.
+No. Trance religioso, disociación, catalepsia, epilepsia, efectos del golpe infantil, autosugestión y fraude son explicaciones diferentes. Cada una debe contrastarse con su propia evidencia.
 
 La controversia médica posterior muestra justamente el problema. Delbert H. Hodder propuso en 1981 que las visiones podían ser compatibles con crisis parciales complejas. El White Estate formó un comité en septiembre de 1983 y el informe de ese comité apareció en 1984 rechazando que la documentación permitiera establecer epilepsia. Molleurus Couperus publicó una hipótesis semejante en 1985.[^23] La secuencia importa: no corresponde presentar a Couperus como parte de la propuesta anterior al comité de 1983.
 
-Ninguno de esos debates sustituye los datos históricos que faltan. Una hipótesis natural posible no queda demostrada porque pueda acomodar algunos rasgos; y la dificultad para demostrar una explicación natural concreta tampoco establece una causa sobrenatural. Por eso la comparación sistemática entre explicaciones rivales corresponde al capítulo siguiente.
+El debate no sustituye los datos que faltan. El capítulo siguiente comparará esas explicaciones sin dar por cierta una causa natural o sobrenatural por la sola dificultad de probar las otras.
 
 ## 22. ¿Continuaron estos fenómenos físicos durante todo su ministerio?
 La evidencia sugiere que las manifestaciones físicas espectaculares pertenecen sobre todo a la etapa temprana de las visiones públicas. Las fuentes adventistas sitúan la última “visión abierta” registrada en 1884, mientras que en las décadas posteriores Ellen White continuó afirmando recibir sueños, impresiones y mensajes sin que la misma clase de fenómenos corporales ocupara el centro de los relatos.[^26]
@@ -277,15 +255,9 @@ A. G. Daniells expresó algo importante en la discusión de 1919: rasgos como la
 **Conclusión: probable.** Las manifestaciones corporales más llamativas se concentran en las primeras décadas y dejaron de ser un rasgo regular de la experiencia posterior. **Consecuencia:** aun si algunas fueron históricamente reales, pueden aportar evidencia, pero no ser un requisito indispensable para decidir si el supuesto don profético era auténtico.
 
 ## 23. ¿Qué demostrarían los fenómenos si fueran auténticos?
-Supongamos, para pensar con claridad, que Ellen mostró una resistencia muscular excepcional, que no se percibió su respiración durante un tiempo considerable y que manipuló una Biblia pesada con la mirada apartada. ¿Demostraría eso que Dios originó sus visiones?
+Demostrarían que ocurrió algo inusual, pero no identificarían por sí solos su causa. En distintas tradiciones religiosas se han informado trances, insensibilidad al dolor, fuerza inesperada y alteraciones respiratorias. No aceptaríamos sus explicaciones sobrenaturales sin examen; el mismo criterio vale aquí.
 
-No por sí solo.
-
-Un fenómeno físico podría establecer que sucedió algo inusual. No identificaría automáticamente su causa. En distintas tradiciones religiosas se han informado trances, éxtasis, insensibilidad al dolor, fuerza inesperada y alteraciones respiratorias. No aceptaríamos sin examen todas las explicaciones sobrenaturales sólo porque un cuerpo se comportó de manera sorprendente. El mismo criterio debe aplicarse aquí.
-
-Tampoco sería correcto razonar en la dirección opuesta: “puedo imaginar una explicación natural; por lo tanto, Dios no pudo intervenir”. Una posibilidad imaginada no es una explicación demostrada.
-
-Los fenómenos físicos, aun si fueran extraordinarios, serían evidencia auxiliar. Para evaluar el supuesto origen divino todavía habría que examinar por separado el contenido de los mensajes, su coherencia, sus predicciones, sus correcciones, sus frutos y su relación con la evidencia histórica. Esas preguntas pertenecen a los capítulos siguientes.
+Los fenómenos aportarían evidencia auxiliar. La evaluación del origen divino requeriría además examinar los mensajes, sus predicciones, correcciones, coherencia y frutos. Una explicación natural meramente imaginada tampoco resolvería el caso.
 
 ## 24. ¿Hasta dónde permite llegar realmente la evidencia?
 Podemos resumir el resultado sin reducirlo a una defensa ni a una acusación:
@@ -312,17 +284,11 @@ Podemos resumir el resultado sin reducirlo a una defensa ni a una acusación:
 | Una enfermedad neurológica concreta causó las visiones | **Indeterminado** |
 | Los fenómenos físicos demuestran que Dios era la causa | **No demostrado** |
 
-El cuadro general es más interesante que cualquiera de los extremos. La evidencia no se reduce a invenciones de biógrafos tardíos. Hay varias líneas testimoniales, aunque muchas sean retrospectivas y no plenamente independientes. Esa convergencia permite considerar probable que Ellen entrara en estados públicos inusuales: su atención se apartaba del entorno, sus ojos podían permanecer abiertos, realizaba movimientos y su cuerpo podía ofrecer una resistencia que sorprendía a los presentes. Varias personas afirmaron no poder detectar una respiración normal.
+La mejor defensa adventista reúne varias voces, algunas inicialmente escépticas, que consideraron extraordinarias las experiencias. La mejor objeción señala que muchas escribieron tarde, no son plenamente independientes y no dejaron mediciones continuas. Un recuerdo tardío conserva valor, pero no la precisión de un registro clínico tomado en el momento.
 
-Pero la documentación no permite dar el salto desde “no se observaba respiración” hasta “no existió ventilación durante horas”. Tampoco permite transformar recuerdos de exámenes informales en certificaciones médicas. Y la historia más espectacular de la gran Biblia aparece impresa demasiado tarde y con demasiadas variaciones para tratarla como un hecho establecido.
+El núcleo más probable es un estado público inusual: mirada fija, atención apartada, gestos, resistencia muscular y respiración difícil de percibir. **La apnea prolongada, la fuerza sobrehumana y la hazaña de la gran Biblia no están establecidas.** La discrepancia sobre el pulso impide además reconstruir un patrón corporal uniforme.
 
-La mejor defensa adventista señala que numerosos testigos, algunos inicialmente escépticos, consideraron reales y extraordinarias las experiencias. La mejor objeción recuerda que no tenemos mediciones continuas, tomadas con instrumentos y registradas en aquel momento. Además, los testimonios sólo son parcialmente independientes. La defensa puede replicar que un recuerdo tardío no carece de valor; la objeción puede insistir, con razón, en que tampoco tiene el valor de un registro clínico tomado en el momento.
-
-¿Qué evidencia podría mostrar que esta conclusión es equivocada? Un diario contemporáneo de un médico identificado, una carta escrita inmediatamente después de una prueba cronometrada, declaraciones independientes de 1845 sobre la gran Biblia o un registro temprano que describiera con precisión el procedimiento. Tales documentos fortalecerían mucho las afirmaciones. Por el contrario, evidencia contemporánea de respiración observable, preparación deliberada, ayuda oculta o contradicciones tempranas las debilitaría. Hoy no poseemos ninguna de esas clases de prueba decisiva.
-
-Por eso el veredicto histórico debe ser limitado. **Está bien documentado que numerosos observadores atribuyeron a las visiones manifestaciones corporales inusuales. Es probable que algunas de esas manifestaciones —mirada fija, respuesta reducida, gestos, rigidez o resistencia muscular y respiración difícil de percibir— correspondan a un núcleo histórico real. La magnitud extrema atribuida a la apnea, la fuerza y la gran Biblia permanece indeterminada. Las fuentes tampoco ofrecen una descripción fisiológica completamente uniforme, como muestra la discrepancia posterior sobre el pulso. Y aun un fenómeno auténticamente extraordinario no identificaría por sí solo su origen.**
-
-No es una conclusión espectacular. Es, sin embargo, la que mejor respeta tanto a los testigos como a los límites de sus testimonios.
+Un diario contemporáneo de un médico, una prueba cronometrada bien descrita o declaraciones tempranas e independientes sobre la gran Biblia fortalecerían esas afirmaciones. Registros de respiración ordinaria durante una de las pruebas, ayuda oculta o preparación deliberada las debilitarían. No tenemos hoy esas pruebas decisivas. Sabemos más de lo que los observadores creyeron ver que de la magnitud y la causa de los fenómenos.
 
 ## 25. ¿Dónde pueden verificarse las afirmaciones principales?
 [^1]: James White, *Life Incidents, in Connection with the Great Advent Movement, as Illustrated by the Three Angels of Revelation XIV* (Battle Creek, 1868), pp. 272–273. Edición digital del texto original: [Project Gutenberg](https://www.gutenberg.org/files/61394/61394-h/61394-h.htm). Es la primera descripción general impresa localizada que reúne inconsciencia del entorno, ausencia de respiración, rigidez y recuperación gradual de la vista.

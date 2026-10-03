@@ -8,8 +8,6 @@ En los escritos de Ellen White hay cambios reales de práctica, modificaciones d
 
 Los capítulos anteriores ya establecieron hechos necesarios para esta comparación. White utilizó fuentes, trabajó con asistentes, autorizó revisiones y distinguió ciertos asuntos ordinarios de mensajes religiosos. También publicó afirmaciones históricas y sanitarias incorrectas. Aquí no volveremos a probar todo eso desde el principio. Preguntaremos qué declaraciones suyas entran realmente en conflicto, cuál es la mejor explicación documentada y qué autoridad reclamaba en cada una.[^1]
 
-La primera dificultad aparece antes de abrir una lista de acusaciones: ¿estamos comparando la misma cosa?
-
 ## 2. ¿Cuándo dos frases diferentes hablan realmente de lo mismo?
 
 No alcanza con que ambas contengan una palabra como «carne», «inspiración» o «Conferencia General». Deben referirse al mismo tema, usar las palabras con el mismo significado, hablar del mismo objeto o persona y abarcar períodos y condiciones comparables. Cuando importa, también deben dirigirse a destinatarios comparables.
@@ -20,8 +18,6 @@ La pregunta que controla el examen es sencilla: **¿pueden ser verdaderas las do
 
 Esta regla exige disciplina a ambas partes. La crítica no puede fabricar un absoluto eliminando una salvedad. La defensa no puede agregar una salvedad ausente porque sin ella las frases resultan incómodas. Y una expresión posterior más prudente no siempre niega la anterior: «entre los primeros» no significa necesariamente «no fueron los primeros».[^2]
 
-Pero quedan diferencias que sí son importantes aunque no cumplan esa definición. ¿Cómo debemos nombrarlas?
-
 ## 3. ¿Cambiar de opinión equivale a contradecirse?
 
 En el lenguaje cotidiano solemos decir que alguien se contradijo cuando años después sostuvo algo distinto. Para investigar necesitamos mayor precisión. Una persona puede reemplazar una opinión, corregir un error, desarrollar una idea o modificar una instrucción por nuevas circunstancias. Esos procesos no son idénticos.
@@ -30,7 +26,7 @@ Si White recomendó una política y más tarde dejó de recomendarla, hay un cam
 
 También hay que distinguir una contradicción entre textos publicados de una contradicción personal. Los libros llevan su nombre y ella aprobó ediciones importantes; eso le atribuye responsabilidad por su publicación. Pero el capítulo 11 mostró que no conocemos al redactor de cada oración ni cada decisión editorial. No podemos llenar ese vacío atribuyéndoselo siempre a White o siempre a un ayudante.[^3]
 
-La cronología, entonces, no es una forma de excusar cambios. Permite describirlos con exactitud. Su importancia depende además de si se trataba de una opinión humana, un consejo práctico o una instrucción presentada como recibida de Dios.
+La importancia del cambio depende también de si afectó una opinión, un consejo práctico o una instrucción presentada como recibida de Dios.
 
 La reforma alimentaria ofrece un primer caso donde esas distinciones cambian mucho la respuesta.
 
@@ -68,7 +64,7 @@ El diario de una expedición de 1873 relata falta de suministros y patos obtenid
 
 En 1895 White recordó una decisión más firme de excluir carne de su hogar después de la reunión de Brighton, en enero de 1894. En una carta de julio de 1896 a su sobrina Mary Clough Watson volvió a situar dos años antes su decisión de no usarla. Hay una diferencia real entre el cambio inicial de 1863, las ocasiones posteriores y la nueva política doméstica.[^9]
 
-Esto impide decir que su práctica fue una abstinencia uniforme e ininterrumpida desde 1863. También impide tratar cada nuevo compromiso como si negara que hubiera hecho el cambio inicial. Una persona puede adoptar un régimen, apartarse de él en ocasiones y después sostener una exclusión más estricta.
+Su abstinencia no fue uniforme e ininterrumpida desde 1863. Hubo un cambio inicial, excepciones posteriores y una exclusión doméstica más estricta desde 1894.
 
 La pregunta sobre si describió siempre esa trayectoria con suficiente precisión requiere comparar afirmaciones autobiográficas sobre el mismo período. Una negación clara de consumo entre 1863 y 1894, enfrentada con un relato auténtico de consumo propio dentro de ese intervalo, sería un par más fuerte que una norma general enfrentada con una comida. No debemos completar esa negación con palabras que ella no escribió.
 
@@ -84,7 +80,7 @@ Ese contexto muestra que usa «carne» como categoría alimentaria distinta de �
 
 La referencia más amplia a «carne de animales muertos» es menos precisa. Merece atención si se compara con una condena explícita del pescado. Pero no autoriza a hacer que el término siguiente signifique todos los productos animales mientras se omite la frase que define su uso local.
 
-Este caso muestra por qué importa leer la frase completa: dos palabras deben tener el mismo significado en ambos textos para demostrar una contradicción. Tampoco la resolución de este párrafo demuestra que toda formulación posterior sobre alimentos animales tenga idéntico alcance.
+Esta distinción resuelve el párrafo, pero no fija el alcance de todas sus declaraciones posteriores sobre alimentos animales.
 
 Las restricciones sobre leche, manteca y huevos requieren un examen más amplio que esa diferencia de vocabulario.
 
@@ -94,7 +90,7 @@ Sí, encontramos distintas prácticas y aplicaciones que deben conservarse en su
 
 En mayo de 1901, al escribir a Daniel y Lauretta Kress sobre su debilidad y su régimen restrictivo, advirtió que todavía no debía enseñarse la eliminación completa de leche y huevos. Consideró diferencias de país, economía y disponibilidad de alimentos. También presentó como instrucción recibida que una dieta empobrecida estaba perjudicando al enfermo.[^11]
 
-Esas circunstancias aparecen en la carta. No necesitamos imaginarlas. Una renuncia personal de 1874 puede coexistir con una recomendación posterior que impida imponer la misma renuncia a todos. Lo que una persona deja de comer no equivale a lo que exige a toda la comunidad.
+Las circunstancias están en la carta: la renuncia personal de 1874 no equivale a exigirla a todos en 1901.
 
 White añadió que llegaría un tiempo en que esos alimentos dejarían de ser seguros y que Dios revelaría cuándo. Esa expectativa es una afirmación religiosa que merece conservarse con su alcance. No convierte todo cambio alimentario posterior en cumplimiento de una revelación anunciada ni permite fijar una fecha que ella no dio.
 
@@ -106,7 +102,7 @@ Sí contiene ambas recomendaciones, pero para aplicaciones diferentes. White dic
 
 Tenemos la prohibición, la excepción y su razón en el mismo documento. La mesa colectiva y el enfermo debilitado no están bajo condiciones equivalentes. «Algunos la usarán demasiado» y «usted puede usar un poco» no son instrucciones incompatibles.
 
-Esto no exige aceptar su explicación fisiológica como verdadera. La exactitud médica y la coherencia entre recomendaciones son preguntas diferentes. Podemos entender la distinción que hizo y, por otros motivos, discutir si alguno de sus fundamentos era correcto.
+La distinción hace compatibles los consejos; no demuestra que su explicación médica fuera correcta.
 
 En 1905 *The Ministry of Healing* sostuvo que la manteca era menos perjudicial sobre pan frío que en la cocina y que, como regla, era mejor prescindir de ella. Esa combinación de comparación, regla y salvedad es compatible con la carta de 1901.[^13]
 
@@ -124,7 +120,7 @@ Sin embargo, la explicación de 1901 es posterior a la advertencia general de 18
 
 Por este par no se demuestra una contradicción lógica bajo iguales condiciones. Tampoco se demuestra que la relación entre alimentos y «pasiones» fuese médicamente correcta; el capítulo 12 ya evaluó ese marco causal.
 
-Una contradicción más fuerte requeriría que hubiera prohibido esos mismos huevos como tratamiento del mismo tipo de adulto debilitado y luego los hubiera ordenado en condiciones equivalentes. Las fuentes examinadas no proporcionan ese par. No corresponde inventarlo mediante un «nunca» que el primer pasaje no aplica expresamente a ese paciente.
+La comparación sería más fuerte si la prohibición inicial incluyera tratar con huevos a un adulto debilitado como Kress. El primer pasaje no lo dice.
 
 ¿Ocurre lo mismo con todos los alimentos que condenó?
 
@@ -148,7 +144,7 @@ El capítulo 12 ya examinó el conflicto de esa afirmación general con la efica
 
 El contexto histórico importa. White denuncia sustancias y prácticas peligrosas de su época. En 1893, al responder a Edgar Caro, distinguió venenos farmacológicos de remedios sencillos de hierbas y raíces. Pero esa carta remite a artículos mencionados por Caro, cuya lista original no obtuvimos. No permite definir retrospectivamente toda aparición de «medicamentos» desde 1864 como si conociéramos un grupo de sustancias siempre igual.[^18]
 
-Hay una defensa documental contra la idea de que prohibió toda sustancia medicinal. Hay también un límite: distinguir hierbas y compuestos peligrosos no demuestra que todos sus absolutos estuvieran ya restringidos a esos compuestos.
+La carta distingue hierbas y compuestos peligrosos, pero no demuestra que todos sus absolutos anteriores tuvieran ese límite.
 
 La cronología añade otra complicación.
 
@@ -226,11 +222,9 @@ El diario de noviembre de 1890 contiene palabras atribuidas a un guía con depen
 
 Ahora podemos cruzarlo con la negación de junio de 1897. Si esa negación excluye toda incorporación de cosas de libros en relatos presentados como instrucción recibida, el discurso de 1890 constituye un contraejemplo importante. Si excluye que Bolton fabricara los mensajes o que la experiencia fuese inventada mediante lectura, necesitamos otros documentos para establecer esa acusación.
 
-No son dos revelaciones que ordenan hacer X y no-X. Es una afirmación sobre origen frente a una negación de cierto procedimiento. Esa diferencia de categoría no vuelve trivial la dificultad: la matriz ya estableció que describir falsamente un origen revelado sería un problema grave.
+No son dos revelaciones que ordenan hacer X y no-X. Es una afirmación sobre origen frente a una negación de cierto procedimiento. Describir falsamente un origen revelado seguiría siendo grave.
 
 Los otros expedientes de C10 —el juicio de 1879 y Queensland— conservan sus propias reservas. La dependencia no demuestra automáticamente que no hubo experiencia. Una experiencia alegada tampoco demuestra que el lenguaje dependiente llegó de manera independiente. En Queensland, cambiar el lugar de unas comillas no resuelve todos los paralelos.[^30]
-
-Una defensa debe poder perder frente a un origen realmente descrito de forma falsa. La crítica debe poder perder si se documenta una práctica de expresión o edición compatible con el alcance preciso de la declaración. Lo que no permite el expediente es un cierre universal en ninguna de las dos direcciones.
 
 ¿Las revisiones de sus libros ofrecen una contradicción más claramente demostrable?
 
@@ -281,8 +275,6 @@ La descripción de las prendas permite resolver esa aparente contradicción. La 
 Pero sí hubo un cambio posterior en la promoción de su propuesta. En 1881 explicó dificultades, resistencia y excesos; en 1897 dijo que no había indicación del Señor de regresar al viejo vestido. Describió cómo lo dado como beneficio se había convertido en carga y cómo estilos corrientes más razonables evitaban algunos problemas anteriores.[^36]
 
 Eso es cambio de política establecido. Su explicación contextual está documentada, en parte después de los conflictos. No prueba que jamás hubiese habido una instrucción anterior ni que la prenda fuese intrínsecamente mala cuando antes la recomendaba. Para establecer incompatibilidad más fuerte necesitaríamos una obligación explícitamente perpetua sobre el mismo patrón.
-
-Reconocer una aplicación variable es razonable. Convertir toda instrucción en política variable, aunque el documento diga otra cosa, dejaría a la autoridad reclamada fuera de cualquier examen.
 
 ## 23. ¿Cambió la edad a la que los niños podían ir a la escuela?
 
@@ -352,13 +344,11 @@ Los casos sobre medicamentos, la negación de junio de 1897 y el diezmo son más
 
 La matriz permite que una defensa contextual pierda. Una prohibición explícita bajo las condiciones luego autorizadas sería evidencia fuerte; una negación inequívoca de todo préstamo en el mismo discurso dependiente sería evidencia grave. También permite que pierda una acusación: una excepción ya presente, un referente distinto o una cronología incompatible con el argumento pueden refutarla.[^47]
 
-No debemos sumar casos como si todos valieran lo mismo. Importa qué afirma cada documento, qué autoridad reclama y cuánto resiste su explicación.
-
 ## 28. ¿Qué podemos responder finalmente sobre las contradicciones internas?
 
 White cambió prácticas y aplicaciones importantes. La promoción del vestido, la escolarización temprana, el rigor de su mesa y las formulaciones prácticas sobre medicamentos no permanecieron idénticos. También autorizó correcciones sustantivas de libros. Esos hechos están documentados y no deben esconderse bajo una afirmación de continuidad absoluta.
 
-Algunas acusaciones importantes desaparecen al recuperar el contexto: el cerdo de 1858 no declara aprobación sanitaria eterna; la carta a Kress diferencia mesa y enfermo; la abstinencia de café y té incorpora excepciones; carne y pescado tienen significado distinto en la carta examinada; palabras propias y origen divino reclamado responden a preguntas diferentes. Esos resultados se aplican a pares concretos, no a todas las listas posibles.
+Otras acusaciones desaparecen al recuperar el contexto. Los casos de Kress, pescado y café o té muestran excepciones y significados distintos que las citas recortadas ocultaban. Son resoluciones de esos pares, no de todas las acusaciones posibles.
 
 Persisten dificultades que este examen no pudo resolver satisfactoriamente: la comparación de eficacia frente al «nunca curan»; el alcance de la negación de junio de 1897 frente a material dependiente presentado como recibido; y la relación entre la regla pública del diezmo y las asignaciones aprobadas por comisión especial. Son **posibles contradicciones**, con razones y documentos faltantes identificados. No son ya armonía demostrada. Tampoco alcanzan todavía para afirmar una contradicción clara bajo condiciones equivalentes.
 
