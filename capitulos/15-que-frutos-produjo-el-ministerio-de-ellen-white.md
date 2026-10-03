@@ -28,7 +28,7 @@ No basta con que ella defendiera escuelas y más tarde existieran escuelas. Es m
 
 Hay además cosas diferentes que clasificar. Podemos saber que algo ocurrió sin saber cuánto tuvo que ver White. Su participación puede ser importante aunque compartida. Y el valor puede ser mixto: una institución ofrece oportunidades reales mientras impone restricciones discutibles.
 
-El inventario considera un campo amplio, desde salud y misión hasta familia, igualdad y cultura de autoridad. El capítulo se concentra en cinco expedientes: salud, educación, experiencia devocional, organización misionera y autoridad. Los otros temas ayudan a comprobar a quiénes alcanzaron esos frutos y dónde debemos detenernos.[^inventario]
+Examinaremos salud, educación, experiencia religiosa, organización misionera y autoridad. Las preguntas sobre familia e igualdad nos ayudarán a ver a quiénes alcanzaron los beneficios y dónde quedaron límites.[^inventario]
 
 ## ¿Ayudó White a convertir la salud en una obra de servicio?
 
@@ -38,7 +38,7 @@ El Western Health Reform Institute abrió en Battle Creek el 5 de septiembre de 
 
 La relación entre propuesta e institución permite atribuirle un impulso importante. No permite llamarla fundadora solitaria. James White, donantes, organizadores y profesionales aportaron recursos y trabajo. El desarrollo posterior, asociado especialmente con John Harvey Kellogg, tuvo sus propias decisiones y conflictos.
 
-El fruto más seguro es haber ayudado a convertir una preocupación sanitaria en servicio organizado. Para juzgar cada tratamiento, el acceso de los pacientes o el balance clínico de toda la institución hacen falta otras pruebas. Un sanatorio existente establece menos que la historia de todas las personas atendidas.
+El fruto más seguro es haber ayudado a convertir una preocupación sanitaria en servicio organizado. Saber que el sanatorio existió no permite juzgar todos sus tratamientos ni cuánto acceso tuvieron los pacientes. Para eso hacen falta registros de su atención y sus resultados.
 
 ## ¿Qué permiten afirmar los estudios de salud de adventistas?
 
@@ -102,7 +102,7 @@ Sí: la campaña que utilizó *Christ’s Object Lessons* para ayudar a escuelas
 
 En una reunión del 12 de abril de 1901, publicada dos días después, Percy Magan informó fondos recibidos y cantidades pendientes. Para Union College declaró 10.363,37 dólares en efectivo, que entendía aplicados a deuda. Es un informe contemporáneo de un resultado material, aunque no inspeccionamos los libros mayores.[^fondos]
 
-Para no inflar el resultado hay que distinguir el dinero recibido de las ventas, los créditos y las promesas de pago. Tampoco una entrada demuestra que desapareciera toda deuda. El punto es más delimitado: un recurso suyo, movilizado por otros, produjo ayuda informada por escuelas.
+Para no inflar el resultado hay que distinguir el dinero recibido de las ventas, los créditos y las promesas de pago. Tampoco una entrada demuestra que desapareciera toda deuda. Lo que sí muestra el informe es que un recurso suyo, movilizado por otros, produjo ayuda para escuelas.
 
 Ese fruto conserva valor aunque no demuestre el relato de instrucción angélica asociado a la donación. Una decisión generosa y eficaz puede tener explicación humana. A la vez, cooperación y recursos destinados a educación dificultan una descripción en la que toda influencia de White fuera improductiva o únicamente extracción para beneficio personal.
 
@@ -124,7 +124,7 @@ Sí. Una persona puede estudiar la Biblia y sentir que sólo debe aceptar interp
 
 En julio de 1919, el docente C. L. Benson describió ministros que construían sermones con los escritos de White y un ambiente en que el énfasis sobre ellos superaba al dado a la Biblia. Su intervención documenta una preocupación concreta dentro del movimiento.[^benson]
 
-No mide proporción de sermones ni representa a toda iglesia. Tampoco anula la encuesta de 1980: fechas, poblaciones e indicadores son distintos. Los dos resultados pueden coexistir. Unos lectores encontraban impulso para estudiar; ciertos usos institucionales sustituían la investigación o trasladaban el centro de autoridad.
+Benson no midió cuántos sermones eran así ni habló por todas las iglesias. Tampoco anula la encuesta de 1980: fechas, poblaciones e indicadores son distintos. Los dos resultados pueden coexistir. Unos lectores encontraban impulso para estudiar; ciertos usos institucionales sustituían la investigación o trasladaban el centro de autoridad.
 
 White había dicho que sus testimonios debían llevar a la Palabra, no reemplazarla. En su discurso de 1901 colocó esa afirmación junto a críticas sobre gobierno denominacional.[^organizacion]
 
@@ -152,7 +152,7 @@ No corresponde adjudicar a White cada pieza del sistema. Puede atribuírsele un 
 
 Eso es distinto de afirmar que quedó eliminado el abuso. Una estructura puede trasladar decisiones hacia regiones y concentrar funciones en departamentos. Mayor responsabilidad local no garantiza libertad para cuestionar un mensaje considerado divino.
 
-El fruto es favorable en redistribución de tareas y mixto si preguntamos por todas las formas de poder. La siguiente pregunta es qué servicio permitió y a quiénes dejó límites.
+La redistribución de tareas fue favorable, pero el balance de poder siguió siendo mixto. Queda por preguntar qué servicio permitió y a quiénes alcanzó.
 
 ## ¿Qué muestra su influencia fuera del núcleo norteamericano?
 
@@ -178,7 +178,7 @@ Sus intervenciones ofrecen evidencia favorable, pero no muestran hasta dónde se
 
 En una carta de 1898 a dirigentes denunció que trabajadoras dedicadas al evangelio no recibieran remuneración porque sus maridos ya cobraban. Las mujeres estaban trabajando: intervino para reconocer su labor, no creó su capacidad de servicio.[^salarios]
 
-Es un aporte directo y favorable. Para mostrar efectos sobre salarios o nombramientos necesitamos decisiones y nóminas; la recomendación no demuestra aplicación uniforme.
+Su intervención fue directa y favorable. Para comprobar cambios en salarios o nombramientos necesitamos actas y listas de pagos; la recomendación no demuestra aplicación uniforme.
 
 No hace falta importar cada discusión contemporánea sobre ordenación. El respaldo a participación y pago está documentado; su alcance institucional permanece abierto. Algo parecido ocurre con la familia: los consejos y las declaraciones sobre culto doméstico no demuestran estabilidad matrimonial ni ausencia de control o violencia.
 
@@ -200,13 +200,13 @@ Revelaron tensión entre lo que docentes y dirigentes discutían entre sí y lo 
 
 El 30 de julio, H. C. Lacey propuso un folleto claro para estudiantes. Una voz no identificada objetó que adversarios lo divulgarían. Prescott recordó un pedido a quienes manejaban manuscritos. Cuando Bollman aclaró que no se había hecho a Ellen misma, aceptó la precisión.[^docentes]
 
-Ese detalle limita atribución: no podemos contar el episodio como negativa personal de White. Sí muestra dificultades en el circuito de sus escritos. Benson añadió que promotores transmitían inspiración prácticamente universal y dejaban a docentes y ministros en posición difícil.
+Ese detalle limita lo que podemos atribuirle: no podemos contar el episodio como negativa personal de White. Sí muestra dificultades en el circuito de sus escritos. Benson añadió que promotores transmitían inspiración prácticamente universal y dejaban a docentes y ministros en posición difícil.
 
 El 1 de agosto, J. N. Anderson preguntó si era seguro explicar a alumnos que sus libros no eran autoridad final para ciertos datos históricos. Callar lo que entendían verdadero comprometía honestidad y preparaba crisis. G. B. Thompson sostuvo que se había reclamado más de lo que ella reclamaba.[^anderson]
 
 La conversación demuestra capacidad de examen y desacuerdo, junto con preocupación sobre las consecuencias públicas. Daniells defendió trato cristiano al discrepante y recordó que años antes no habría sido seguro discutir así.[^daniells]
 
-El fruto problemático mejor establecido es ese costo institucional del reconocimiento de límites. Afectaba la enseñanza y la circulación de información, aunque no sabemos cuánto se extendía por toda la denominación.
+El problema mejor documentado es ese costo de reconocer públicamente los límites de su autoridad. Afectaba la enseñanza y la circulación de información, aunque no sabemos cuánto se extendía por toda la denominación.
 
 ## ¿Cuánto de ese problema puede atribuirse a White?
 
@@ -238,7 +238,7 @@ Crear servicio y colaborar para ayudar escuelas dificulta una descripción puram
 
 La dificultad para reconocer límites se relaciona más directamente con autoridad. Resulta seria cuando proteger prestigio pesa más que informar con verdad. Pero los testimonios examinados establecen tensiones y costos, no una política universal de engaño conscientemente dirigida por ella.
 
-La acomodación racial tiene relevancia moral: éxito misionero no basta si su forma limita igualdad. Deben considerarse seguridad, alternativas y voces de afectados. Ese examen permanece aunque la intención declarada sea servir.
+La aceptación de restricciones raciales tiene importancia moral: éxito misionero no basta si su forma limita igualdad. Deben considerarse seguridad, alternativas y voces de afectados. Ese examen permanece aunque la intención declarada sea servir.
 
 No hay una suma en que instituciones positivas cancelen dificultades de autoridad o éstas borren educación. Son pruebas sobre dimensiones diferentes del mismo ministerio.
 
@@ -246,7 +246,7 @@ No hay una suma en que instituciones positivas cancelen dificultades de autorida
 
 En salud, necesitamos saber quiénes siguieron sus consejos y comparar grupos semejantes para separar su contribución de otras causas. Para educación, resultados de alumnos, horas de trabajo y experiencias de bienestar o control superarían la mera existencia de escuelas.
 
-En devoción, habría que seguir a lectores desde antes de empezar a leerla e incluir a miembros inactivos y a quienes dejaron la iglesia. Así podríamos distinguir el efecto de sus libros de las diferencias que ya existían entre los grupos. Para autoridad, correspondencia sobre correcciones y divulgación, junto con trato al discrepante, permitiría atribuir decisiones. Para igualdad, actas, salarios y testimonios de beneficiarios tendrían más fuerza que un principio declarado.
+En devoción, habría que seguir a lectores desde antes de empezar a leerla e incluir a miembros inactivos y a quienes dejaron la iglesia. Así podríamos distinguir el efecto de sus libros de las diferencias que ya existían entre los grupos. Para estudiar la autoridad, necesitamos correspondencia sobre correcciones y difusión, además de testimonios sobre el trato al discrepante. Para evaluar la igualdad, las actas, los salarios y la voz de los beneficiarios dirían más que un principio declarado.
 
 Las pruebas pueden favorecer o perjudicar estas conclusiones. Si los beneficios fueran principalmente independientes de White, le atribuiríamos una contribución menor. Si restricciones y daños hubieran sido adoptados directamente por instrucción suya, le atribuiríamos una responsabilidad mayor. No debemos exigir pruebas sólo cuando el resultado incomoda.
 

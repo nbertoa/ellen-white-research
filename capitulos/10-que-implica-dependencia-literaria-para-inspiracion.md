@@ -24,7 +24,7 @@ Mateo, Marcos y Lucas, llamados evangelios sinópticos por sus semejanzas, compa
 
 Estas analogías tienen un límite. Lucas declara que investigó. Reyes remite a fuentes. Ninguno de esos ejemplos demuestra que sea correcto describir como una voz o una visión específica una información obtenida de otra manera. La comparación bíblica abre la posibilidad de inspiración con fuentes; no certifica cualquier descripción del proceso.
 
-Por eso debemos volver a White: ¿qué proceso describió ella?
+La posibilidad general está abierta. ¿Cómo describió White su propio trabajo?
 
 ## 3. ¿Afirmó White que todas sus palabras le eran dictadas?
 
@@ -52,7 +52,7 @@ Estas declaraciones no permiten reducir su pretensión a «Dios puede bendecir u
 
 ## 5. ¿Reconoció un trabajo de lectura, memoria y edición?
 
-Sí, y tenemos documentos anteriores a las explicaciones de 1911.
+Sí. Sus primeras explicaciones nos llevan mucho antes de la revisión de 1911.
 
 En *Spiritual Gifts*, volumen 2, publicado en 1860, explicó que no recordaba inmediatamente todo al salir de una visión. Según ella, las escenas volvían mientras escribía o cuando se encontraba ante una comunidad a la que se aplicaban. Atribuía al Espíritu esa recuperación. Es una explicación temprana de cómo recordaba y escribía. No prueba que un recuerdo particular tuviera origen divino ni que cada frase posterior estuviera presente en la experiencia inicial.[^10]
 
@@ -66,7 +66,7 @@ También hay declaraciones que exigen más cuidado. En febrero de 1894 escribió
 
 En abril de 1897 negó la acusación de que había extraído **todo** lo escrito de otros libros y de que sus asistentes producían el contenido. En junio rechazó otra versión de la acusación: que recogía cosas de libros y las enviaba como algo mostrado por el Señor. La segunda negación toca directamente nuestro problema. El contexto de ambas cartas impide resumirlas como una sencilla negación de cualquier préstamo; pero el alcance de la negación de junio tampoco queda claro sólo porque en abril hubiera respondido a la acusación de haberlo tomado todo. Debemos conservar esa ambigüedad.[^12]
 
-La lectura, la memoria y la edición estaban presentes en su descripción del trabajo. Falta ver si esa descripción explica los casos donde el texto dependiente aparece dentro de una revelación específica.
+White reconocía lectura, memoria y edición. Falta saber si esa explicación encaja también donde las palabras de otro autor aparecen dentro de una revelación específica.
 
 ## 6. ¿Las dependencias históricas del capítulo 9 contradicen por sí mismas esa descripción?
 
@@ -100,11 +100,11 @@ La sucesión tiene un antecedente identificable. En *Walks and Homes of Jesus*, 
 
 Aquí la coincidencia plantea una dificultad mayor que en la advertencia de 1882. March compone una apelación imaginada desde la cruz. White integra material semejante en palabras pronunciadas dentro de una escena que atribuye a una visión. No se trata únicamente de fechas históricas prestadas para un libro.
 
-Está **establecido** que la redacción utiliza una fuente anterior; es **probable** que usara directamente a March, sin otra obra intermedia. La atribución a la escena visionaria también está **establecida**. No hemos localizado una constancia fechada de lectura ni un borrador anterior que permita separar lo que White recordaba de lo que añadió al escribir.
+Tenemos dos hechos **establecidos**: la redacción utiliza una fuente anterior y aparece atribuida a una escena visionaria. Es **probable** que White usara directamente a March, sin otra obra intermedia. No hemos localizado una constancia fechada de lectura ni un borrador anterior que permita separar lo que White recordaba de lo que añadió al escribir.
 
 Una explicación favorable sería que utilizó la apelación de March para expresar una experiencia que consideraba auténtica. Otra sería que una lectura previa reapareció en su experiencia. La primera frase del relato, sobre la insuficiencia del lenguaje, deja lugar a una descripción elaborada; no demuestra que ése fuera precisamente el proceso de este párrafo. La hipótesis de que la escena se construyó a partir de literatura también merece consideración, pero el paralelo no reconstruye por sí solo la experiencia interior.
 
-La dificultad es real: hay una **posible** presentación equívoca del origen de las palabras. El texto humano puede identificarse con más seguridad que la experiencia nocturna; su ausencia o invención deliberada no están demostradas.
+La dificultad es real: hay una **posible** presentación equívoca del origen de las palabras. Podemos identificar el texto humano con más seguridad que reconstruir la experiencia nocturna. No está demostrado que no hubiera experiencia ni que la inventara deliberadamente.
 
 ## 9. ¿Es más precisa la atribución del diario de 1890?
 
@@ -132,7 +132,7 @@ El pasaje anterior aparece en *The Great Teacher*, de John Harris, pero lo escri
 
 Rea interpretó el caso como palabras de Humphrey puestas en boca del Maestro celestial. La cuestión es si todo el pasaje dependiente pertenecía al discurso atribuido al Maestro. El artículo de 1899 no encierra ese discurso completo entre comillas. Las comillas de la versión de *Testimonies* discutida en 1981 hacían parecer que la atribución continuaba durante tres párrafos. Los investigadores del White Estate dijeron que se habían añadido editorialmente y propusieron terminar el discurso antes.[^18]
 
-Hay un dato comprobable y una interpretación. Podemos comprobar en el impreso de 1899 la ausencia de esas comillas delimitadoras y en la transcripción de las notas la ausencia de una señal inequívoca del cierre. Decidir dónde termina el discurso exige interpretar el texto; no se ha recuperado una indicación escrita por White que lo aclare. Según el informe de 1981, el manuscrito de puño y letra se había perdido y se conservaba una copia mecanografiada.
+El impreso de 1899 permite comprobar que faltan esas comillas. La transcripción de las notas tampoco marca con claridad el cierre del discurso. Decidir dónde termina exige interpretar: no se ha recuperado una indicación escrita por White que lo aclare. Según el informe de 1981, su manuscrito de puño y letra se había perdido y se conservaba una copia mecanografiada.
 
 Además, Ron Graybill corrigió su primera explicación pocas semanas después: había dependencia también en la recomendación del primer párrafo y en la secuencia bíblica del segundo. Por eso no puede sostenerse que todo el material relacionado con Humphrey quede fuera del discurso solamente moviendo una comilla.[^18]
 
@@ -186,9 +186,7 @@ Como distinguimos en el capítulo 9, usar una fuente, reconocerla, cumplir la le
 
 El reclamo de crédito por un himno de Annie R. Smith en 1864 ya mostró que la atribución importaba en aquel ambiente. No establece una regla idéntica para todas las paráfrasis históricas o devocionales.[^23]
 
-El reconocimiento público de historiadores en 1888 no identificaba cada pasaje ni los préstamos de otros géneros. Tampoco la recomendación de Conybeare y Howson indicaba qué páginas de White dependían de ellos.
-
-En 1911 se añadieron referencias y se verificaron citas en *The Great Controversy*. El prólogo conservó la explicación de uso de fuentes, aunque cambió la formulación sobre los casos sin crédito. Esa mejora no demuestra retrospectivamente que todos los lectores anteriores conocieran el proceso.[^22]
+El reconocimiento público de historiadores en 1888 no identificaba cada pasaje ni los préstamos de otros géneros. Tampoco la recomendación de Conybeare y Howson indicaba qué páginas de White dependían de ellos. En 1911 se añadieron referencias y se verificaron citas en *The Great Controversy*. El prólogo conservó la explicación de uso de fuentes, aunque cambió la formulación sobre los casos sin crédito. Esa mejora no demuestra retrospectivamente que todos los lectores anteriores conocieran el proceso.[^22]
 
 La falta de atribución importa por la distancia que puede crear entre lo ocurrido y lo que supone el lector. Para concluir «mintió sobre una revelación» sigue haciendo falta demostrar una declaración falsa de origen; ni contar referencias ausentes ni obtener un dictamen jurídico favorable decide eso.[^23]
 

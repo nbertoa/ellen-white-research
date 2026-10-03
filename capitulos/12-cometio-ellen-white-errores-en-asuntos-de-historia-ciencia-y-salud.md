@@ -6,7 +6,7 @@ Pero identificar un error todavía deja una pregunta decisiva: ¿de dónde decí
 
 Los capítulos anteriores mostraron fuentes humanas, revisiones y colaboración editorial. Ninguna demuestra por sí sola error o engaño, ni permite atribuir a un asistente una dificultad sin investigar su intervención.
 
-Con esos controles, la pregunta no es si dijo cosas que hoy nos resultan extrañas. Es cuáles de sus afirmaciones podemos comprobar suficientemente y qué importancia tiene cada resultado para su afirmación de ser profeta.
+Examinaremos afirmaciones comprobables, no sólo frases que hoy suenen extrañas. ¿Cuáles fueron errores y cuánto importa el origen que ella les atribuía?
 
 ## 1. ¿Qué tendría que ocurrir para que pudiéramos hablar de un error?
 
@@ -90,7 +90,7 @@ También debe descartarse una acusación demasiado rápida sobre Babel. Una fras
 
 ## 9. ¿Qué cambia al pasar de historia a ciencia?
 
-La exigencia de identificar la afirmación sigue siendo la misma. Lo que cambia es la evidencia con la que la contrastamos. Un decreto se busca en documentos; una explicación del volcanismo se contrasta con geología; para saber si algo causa una enfermedad hacen falta estudios médicos y entender cómo se produciría ese daño.
+Cambia la evidencia que necesitamos. Para comprobar un decreto buscamos documentos; para saber qué produce los volcanes, geología; para evaluar una causa de enfermedad, estudios médicos y conocimiento de cómo se produciría el daño. La exigencia de precisar qué afirmó White sigue siendo la misma.
 
 También necesitamos dos cronologías. Una indica qué se publicó antes o después de White. La otra, cuándo se alcanzó una evidencia suficientemente fuerte. Que una afirmación fuera común en 1864 puede explicar su aparición, pero no hacerla verdadera. Que una advertencia fuera acertada antes de la aceptación general tampoco demuestra que nadie pudiera conocerla normalmente.
 
@@ -153,7 +153,7 @@ Aquí permanecen límites importantes de identificación y transmisión. No se h
 
 ## 15. ¿Qué ideas sanitarias circulaban antes de sus principales declaraciones?
 
-Muchas que después aparecen en su programa. Graham había difundido un régimen de alimentación y vida; Coles trataba dieta, aire, ejercicio y estimulantes; Jackson publicaba consejos de medicina reformista; Dio Lewis promovía ejercicio para hombres, mujeres y niños. Esas ideas no eran el consenso de toda la profesión, pero existían públicamente antes de la visión sanitaria de junio de 1863.[^24]
+Ya se difundían consejos sobre alimentación, aire, ejercicio y estimulantes. Graham proponía un régimen de alimentación y vida; Coles trataba esos hábitos; Jackson publicaba medicina reformista; Dio Lewis promovía ejercicio para hombres, mujeres y niños. No eran ideas aceptadas por toda la profesión, pero circulaban públicamente antes de la visión sanitaria de junio de 1863.[^24]
 
 Tenemos una conexión más concreta que una lista de libros disponibles. En febrero de 1863, la revista adventista publicó instrucciones de Jackson sobre difteria. La nota de James White contó que las habían empleado al cuidar a sus hijos. Por tanto, el hogar White tenía contacto práctico con consejo reformista antes de la visión.[^25]
 
@@ -169,7 +169,7 @@ Es importante conservar esos límites. Un patrón alimentario favorable no signi
 
 White también protestó contra negar agua a personas con fiebre y contra tratamientos indiscriminados peligrosos. Hay un fundamento humano y clínico en esas advertencias. Algunas recomendaciones sobre embarazo y cuidado infantil contienen igualmente núcleos razonables. No debemos descartar una instrucción verdadera porque aparezca cerca de otra equivocada.
 
-Aplicar el mismo criterio a todos los casos exige reconocer el acierto y después preguntar cuánto demuestra. Ese segundo paso nos lleva al problema de la anterioridad y de la información ordinaria.
+Estos aciertos merecen reconocimiento. Pero para saber si prueban revelación falta volver a la pregunta por su origen: ¿estaban fuera del alcance del conocimiento de su época?
 
 ## 17. ¿Esos aciertos prueban que se adelantó sobrenaturalmente a la medicina?
 
@@ -185,7 +185,9 @@ Una formulación anterior más precisa, que no apareciera en fuentes accesibles 
 
 En *An Appeal to Mothers*, de 1864, White atribuyó a lo que llamaba «vicio secreto» o «abuso de sí» efectos físicos y mentales concretos. No era sólo una valoración moral ni una exhortación a dominar impulsos.[^28]
 
-Dijo que los niños que lo practicaban antes de la pubertad sufrirían consecuencias en esa etapa, que muchos morirían temprano y que, si persistían, especialmente entre los treinta y los cuarenta y cinco años, aparecerían enfermedades de hígado, pulmones, nervios, columna y riñones, además de «humores cancerosos». En las mujeres describió pérdida de memoria y vista, debilidad y activación de humores cancerosos, junto con enfermedad mental. También vinculó el desgaste vital producido por el hábito con lo que llamaba *consumption*, palabra usada especialmente para tuberculosis y otros cuadros de desgaste.[^29]
+Dijo que los niños que lo practicaban antes de la pubertad sufrirían consecuencias en esa etapa, que muchos morirían temprano y que, si persistían, especialmente entre los treinta y los cuarenta y cinco años, aparecerían enfermedades de hígado, pulmones, nervios, columna y riñones, además de «humores cancerosos».
+
+En las mujeres describió pérdida de memoria y vista, debilidad y activación de humores cancerosos, junto con enfermedad mental. También vinculó el desgaste vital producido por el hábito con lo que llamaba *consumption*, palabra usada especialmente para tuberculosis y otros cuadros de desgaste.[^29]
 
 Hay reservas que debemos conservar. No dijo que todos los jóvenes débiles fueran culpables de esos hábitos. Tampoco que cada persona padecería todas las enfermedades enumeradas. La intensidad y duración aparecen en su argumento. Criticarla como si hubiera afirmado que una sola ocasión necesariamente produce todas esas consecuencias sería incorrecto.
 
@@ -217,7 +219,7 @@ Para resolver el caso necesitamos evidencia sobre la misma afirmación, con su a
 
 ## 21. ¿Presentó esas afirmaciones como opinión personal o como información mostrada?
 
-La atribución es especialmente importante aquí. El pasaje sobre niños empieza con «I have been shown»: «me ha sido mostrado». La descripción de enfermedades continúa como explicación de las consecuencias. En el contexto anterior dice que se le presentó el estado del mundo y que vio las causas de sus males. El original de 1864 conserva esas palabras; no fueron agregadas por una compilación póstuma.[^33]
+El pasaje sobre niños empieza con «I have been shown»: «me ha sido mostrado». Esa frase cambia el peso del caso. La descripción de enfermedades continúa como explicación de las consecuencias. En el contexto anterior dice que se le presentó el estado del mundo y que vio las causas de sus males. El original de 1864 conserva esas palabras; no fueron agregadas por una compilación póstuma.[^33]
 
 Eso da al caso mayor peso que una opinión doméstica sin pretensión de revelación. No significa que cada oración del folleto sea una cita de un ángel. El pasaje sobre las mujeres, por ejemplo, forma parte del mismo argumento, pero no lleva una atribución individual separada en cada frase. Debemos distinguir la afirmación introducida directamente con «me ha sido mostrado» del marco próximo de las otras.
 
@@ -277,7 +279,7 @@ Una revisión que reúne análisis de muchos estudios sobre café encuentra nume
 
 Otros casos requieren más reservas. Que el cerdo mal tratado pueda transmitir parásitos no prueba que cause lepra, escrófula y humores cancerosos como se afirmaba. Hay que identificar qué enfermedad significaban esos términos. Que un peinado pesado cause dolor o irritación no demuestra que ciertas pelucas causaran una enfermedad mental irreversible por el mecanismo descrito. Y valorar una descripción de los hijos hecha por Jackson no equivale a afirmar por revelación que toda la frenología, que pretendía conocer el carácter por la forma del cráneo, fuera verdadera.[^45]
 
-Estos ejemplos permanecen en el inventario con sus límites. No reciben el peso de una afirmación causal clara introducida como información mostrada. Conservarlos evita seleccionar sólo lo favorable o sólo lo desfavorable; desarrollarlos todos con igual extensión convertiría el capítulo en una colección de curiosidades.
+Son ejemplos con límites mayores, conservados en el inventario para no seleccionar sólo lo favorable o lo desfavorable. No pesan como una causa médica clara presentada como mostrada. Desarrollarlos todos por igual perdería de vista las dificultades principales.
 
 ## 27. ¿Qué permite concluir el conjunto sin forzar una respuesta uniforme?
 

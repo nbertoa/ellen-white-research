@@ -21,7 +21,9 @@ El Nuevo Testamento distingue el apostolado de la profecía. Agabo es llamado pr
 
 Lo discutido es si debía continuar después de aquella generación. Ningún texto vincula expresamente el fin de la profecía con la muerte del último apóstol o con el cierre del canon. En 1 Corintios 13:8-12, las profecías cesan cuando llega “lo perfecto”; la visión “cara a cara” y el conocimiento pleno favorecen una lectura orientada al cumplimiento final de la esperanza cristiana, pero la expresión no identifica por sí sola una fecha indiscutible.
 
-Quienes sostienen que el don cesó después de la etapa apostólica se llaman cesacionistas. Su argumento más fuerte no es una frase sobre el canon, sino una conclusión que extraen de varios textos. Efesios 2:20 presenta a apóstoles y profetas como fundamento de la iglesia, y Efesios 3:5 los relaciona con la revelación del misterio. Si toda profecía cristiana perteneciera necesariamente a esa función fundacional, una continuación posterior sería difícil. Quienes sostienen que el don puede continuar, los continuacionistas, señalan que 1 Corintios describe muchas profecías congregacionales y que Efesios 4:11-13 vuelve a incluir profetas entre los dones para edificar a la iglesia. Ninguno de esos datos decide sin discusión si toda profecía cumplía la misma función.[^1]
+Quienes sostienen que el don cesó después de la etapa apostólica se llaman cesacionistas. Su argumento más fuerte no es una frase sobre el canon, sino una conclusión que extraen de varios textos. Efesios 2:20 presenta a apóstoles y profetas como fundamento de la iglesia, y Efesios 3:5 los relaciona con la revelación del misterio. Si toda profecía cristiana perteneciera necesariamente a esa función fundacional, una continuación posterior sería difícil.
+
+Quienes sostienen que el don puede continuar, los continuacionistas, señalan que 1 Corintios describe muchas profecías congregacionales y que Efesios 4:11-13 vuelve a incluir profetas entre los dones para edificar a la iglesia. Ninguno de esos datos decide sin discusión si toda profecía cumplía la misma función.[^1]
 
 El resultado es limitado: el Nuevo Testamento demuestra que hubo profetas no apostólicos durante el período apostólico, pero no declara de forma explícita qué ocurriría en todos los siglos posteriores. Por eso la fecha de una pretensión profética no la autentica ni la descalifica por sí sola. Rechazarla sólo por ser posterior exige adoptar previamente una interpretación cesacionista discutida; aceptarla sólo porque el texto no anuncia su cese sería igualmente excesivo.
 
@@ -119,7 +121,9 @@ La actitud requerida es apertura crítica. Rechazar toda pretensión de antemano
 
 El foco inmediato está en el mensaje. El texto no explica si la evaluación separaba revelación auténtica de falsa, contenido de aplicación o mensaje divino de interpretación humana. Tampoco demuestra por sí solo una teoría completa sobre profecía falible. Sí demuestra que pronunciar una profecía dentro de una comunidad que reconoce el don no la vuelve automáticamente incuestionable.
 
-La evaluación debe abarcar tanto el mensaje concreto como la trayectoria completa. Una opinión ordinaria equivocada no equivale a un mensaje falsamente atribuido a Dios. Un error importante en un mensaje presentado sin ambigüedad como revelado sí cuenta contra esa atribución. Puede comprometer gravemente el ministerio, según la importancia del error y lo que muestre el conjunto de documentos. Negar infalibilidad personal no lo vuelve inmune. La gravedad debe justificarse por el contenido y la pretensión concretos, sin exigir una suma de errores ni decidir de antemano que uno solo refuta todo.
+La evaluación debe abarcar tanto el mensaje concreto como la trayectoria completa. Una opinión ordinaria equivocada no equivale a un mensaje falsamente atribuido a Dios. Un error importante en un mensaje presentado sin ambigüedad como revelado sí cuenta contra esa atribución. Puede comprometer gravemente el ministerio, según la importancia del error y lo que muestre el conjunto de documentos.
+
+Negar infalibilidad personal no lo vuelve inmune. La gravedad debe justificarse por el contenido y la pretensión concretos, sin exigir una suma de errores ni decidir de antemano que uno solo refuta todo.
 
 ## 14. ¿La experiencia profética elimina el autocontrol?
 
@@ -183,7 +187,7 @@ No. Como vimos en el capítulo anterior, Números 22–24 atribuye a Dios palabr
 
 Caifás ofrece otro límite. Juan 11:49–52 interpreta proféticamente su propuesta política de dar muerte a Jesús; no lo reconoce por ello como profeta fiel.[^18]
 
-Una palabra debe evaluarse como palabra; una trayectoria, como trayectoria. Los criterios que siguen conservan ambas escalas.
+Una palabra debe evaluarse como palabra; una trayectoria, como trayectoria. Ya tenemos los criterios bíblicos. ¿Cómo los aplicaremos a documentos históricos?
 
 ## 22. ¿Cómo evaluaremos una predicción?
 
@@ -251,8 +255,8 @@ Una conclusión cambiará cuando aparezca mejor evidencia, no cuando resulte có
 
 | Clase de evidencia | ¿Qué incluye? | ¿Qué permite concluir? |
 |---|---|---|
-| **Posibles descalificadores serios** | Apostasía promovida en nombre de Dios; predicción concreta e incondicional fallida; contradicción bíblica clara; falsa atribución documentable de origen; método espiritual explícitamente prohibido; engaño profético persistente; fruto moral corruptor; interés personal que condiciona el mensaje | Atacan directamente la autenticidad o la fiabilidad de la pretensión. Requieren evidencia clara y contexto; no deben inferirse de rumores ni ambigüedades. |
-| **Evidencias favorables sin poder demostrativo automático** | Predicción específica, improbable y documentada de antemano; conocimiento difícil de obtener normalmente; coherencia bíblica sostenida; vida congruente con lo enseñado; apertura al examen; buen fruto; experiencia extraordinaria con documentación temprana e independiente | Pueden aumentar la plausibilidad de la hipótesis profética, pero deben compararse con explicaciones ordinarias y no autentican por sí solas todo el ministerio. |
+| **Posibles descalificadores serios** | Apartarse de Dios por indicación del mensajero; predicción concreta e incondicional fallida; contradicción bíblica clara; falsa atribución documentable de origen; método espiritual explícitamente prohibido; engaño profético persistente; fruto moral corruptor; interés personal que condiciona el mensaje | Atacan directamente la autenticidad o la fiabilidad de la pretensión. Requieren evidencia clara y contexto; no deben inferirse de rumores ni ambigüedades. |
+| **Evidencias favorables sin poder demostrativo automático** | Predicción específica, improbable y documentada de antemano; conocimiento difícil de obtener normalmente; coherencia bíblica sostenida; vida congruente con lo enseñado; apertura al examen; buen fruto; experiencia extraordinaria con documentación temprana e independiente | Pueden dar más apoyo a la hipótesis profética, pero deben compararse con explicaciones ordinarias y no autentican por sí solas todo el ministerio. |
 | **Elementos insuficientes por sí solos** | Visión, sueño, trance, señal, curación, acierto aislado, frase verdadera, sinceridad, piedad, popularidad, crecimiento, testimonios dependientes, aceptar o rechazar dinero | Describen una experiencia, un rasgo o un resultado; no identifican sin más su origen divino. |
 | **Reglas de evaluación** | Fijar texto y fechas; distinguir condición de explicación retrospectiva; examinar contenido, origen, frutos y medios; separar testigos independientes; comparar hipótesis; evaluar cada afirmación y luego la trayectoria | Impiden convertir el cumplimiento, el fracaso, la utilidad o la rareza en conclusiones automáticas. |
 | **Regla de ponderación** | Valorar claridad, documentación, independencia, especificidad, alternativas y alcance | Una evidencia fuerte puede pesar más que muchas débiles. No habrá puntuación ni compensación mecánica. |
@@ -265,7 +269,9 @@ Esta matriz podrá corregirse por una interpretación bíblica mejor fundamentad
 
 Antes de aplicar estos criterios a Ellen White debemos precisar qué afirmó sobre su don, el origen de sus mensajes y la autoridad que les atribuyó. Ésa es la pregunta del capítulo siguiente.
 
-Las obras exegéticas y voces léxicas sin página específica en las notas conservan su condición de **bibliografía orientativa pendiente de cotejo**, no de consenso demostrado. Se identifican edición y pasaje; no se añaden números tomados de una cita de segunda mano como si hubiéramos abierto esas páginas. El registro de remediación distingue las fuentes ahora cotejadas de las que requieren acceso íntegro.
+## ¿Qué alcance tienen las fuentes de las notas?
+
+Los comentarios bíblicos y diccionarios especializados citados sin página específica son **bibliografía orientativa pendiente de cotejo**. Se indican la edición y el pasaje, pero no se presentan como fuentes leídas íntegramente ni como prueba de acuerdo entre especialistas. El registro documental distingue los textos cotejados de los que todavía requieren acceso completo.
 
 [^1]: Para los textos, véanse Hechos 11:27-28; 13:1; 21:9-11; 1 Corintios 12-14; 13:8-12; Efesios 2:20; 3:5; 4:11-13. Dos argumentos enfrentados y suficientemente claros son Thomas R. Schreiner, “It All Depends upon Prophecy: A Brief Case for Nuanced Cessationism”, *Themelios* 44.1 (2019): 29-35, y Jon Ruthven, “The ‘Foundational Gifts’ of Ephesians 2.20”, *Journal of Pentecostal Theology* 10.2 (2002): 28-43, https://doi.org/10.1177/096673690201000204. Ninguno funciona aquí como autoridad final; sirven para identificar qué inferencias exige cada posición.
 [^2]: Deuteronomio 13:1-5 en la numeración castellana habitual; 13:2-6 en la numeración hebrea; compárese Mateo 24:24. Véanse Jeffrey H. Tigay, *Deuteronomy*, JPS Torah Commentary (Jewish Publication Society, 1996), comentario a Deuteronomio 13; y Ludwig Koehler, Walter Baumgartner y Johann Jakob Stamm, *The Hebrew and Aramaic Lexicon of the Old Testament* (Brill, 1994-2000), voces אוֹת y מוֹפֵת.

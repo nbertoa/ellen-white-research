@@ -72,9 +72,9 @@ La distinción nos ayuda a estudiar los casos: **comprender mejor algo ya dado n
 
 ## 6. ¿Qué significa “inspiración” en 2 Timoteo 3:16?
 
-El texto central es 2 Timoteo 3:16: “Toda Escritura” es *theopneustos*.
+El término atribuye la Escritura a la acción de Dios. 2 Timoteo 3:16 dice que “Toda Escritura” es *theopneustos*.
 
-El adjetivo se aplica directamente a la **Escritura**, no a una clase de personas. Puede traducirse “inspirada por Dios” o “soplada por Dios”. Su fuerza básica es atribuir la Escritura a la acción de Dios; las partes que forman esa palabra no explican por sí solas cómo se produjo cada escrito.[^5]
+El adjetivo se aplica directamente a la **Escritura**, no a una clase de personas. Puede traducirse “inspirada por Dios” o “soplada por Dios”. Las partes que forman la palabra no explican por sí solas cómo se produjo cada escrito.[^5]
 
 El contexto inmediato también impone un límite. En el versículo anterior, Timoteo conoce desde niño “las Sagradas Escrituras”; la referencia apunta, como mínimo, a las Escrituras judías que había recibido. 2 Timoteo 3:16 no enumera por adelantado los libros que formarían el canon cristiano, es decir, el conjunto reconocido como Escritura. Aplicar después el versículo a todos esos libros exige otros argumentos sobre su reconocimiento como Escritura. No basta el significado de *theopneustos*.
 
@@ -92,7 +92,7 @@ El sentido exacto de 1:20 —“interpretación propia”— se discute. Puede e
 
 La teología cristiana habla también de “autores inspirados”. Esa expresión desarrolla lo que entiende del pasaje; no es la formulación que éste utiliza.
 
-Decir que alguien “fue inspirado” no aclara todavía si recibió revelaciones, si sus escritos reclaman autoridad especial o si ejerció el don de profecía.
+Decir que alguien “fue inspirado” no aclara todavía si recibió revelaciones, si sus escritos reclaman autoridad especial o si ejerció el don de profecía. Queda por saber cómo se relaciona esa acción atribuida a Dios con el trabajo del autor.
 
 ## 8. ¿Inspiración exige dictado verbal?
 
@@ -112,7 +112,9 @@ Lucas 1:1-4 es especialmente importante porque el autor explica algo de su méto
 
 No afirma: “todo lo que sigue me fue dictado en una visión”.
 
-Dentro del cristianismo que reconoce Lucas como Escritura, este prólogo crea un límite muy fuerte para cualquier teoría que declare incompatibles **inspiración** y **medios humanos de composición**. El verbo de 1:3 puede expresar seguir de cerca o investigar; no nos dice por sí solo qué fuentes literarias concretas usó. Pero el dato básico no depende de resolver cómo se relacionan entre sí los evangelios de Mateo, Marcos y Lucas: el autor reconoce relatos anteriores, tradición recibida, examen cuidadoso y ordenamiento propio.[^8]
+Dentro del cristianismo que reconoce Lucas como Escritura, este prólogo crea un límite muy fuerte para cualquier teoría que declare incompatibles **inspiración** y **medios humanos de composición**.
+
+El verbo de 1:3 puede expresar seguir de cerca o investigar; no nos dice por sí solo qué fuentes literarias concretas usó. Pero el dato básico no depende de resolver cómo se relacionan entre sí los evangelios de Mateo, Marcos y Lucas: el autor reconoce relatos anteriores, tradición recibida, examen cuidadoso y ordenamiento propio.[^8]
 
 Por tanto:
 
@@ -235,7 +237,7 @@ En 1 Corintios 14:3, quien profetiza habla para edificación, exhortación y con
 
 Una definición de trabajo suficientemente amplia sería:
 
-> **Profetizar es realizar una actividad comunicativa —mediante palabras y, en algunos casos, acciones simbólicas— que el hablante, el narrador o una comunidad presenta o interpreta como portadora de un mensaje bajo autoridad divina.**
+> **Profetizar es comunicar, mediante palabras o acciones simbólicas, algo que el hablante, el narrador o una comunidad presenta o interpreta como un mensaje con autoridad divina.**
 
 Esta definición es descriptiva. Identifica la clase de afirmación, no certifica su origen. Una **pretensión profética** puede ser auténtica, equivocada o fraudulenta. Jeremías 23 y Ezequiel 13 describen precisamente a personas que hablan en nombre de Dios sin haber sido enviadas.
 
@@ -358,7 +360,7 @@ Algunos relatos afirman que Dios pone palabras en boca del mensajero o manda esc
 
 Pero estos textos no resuelven por sí solos todas las preguntas sobre **contenido**, **formulación verbal**, **memoria**, **edición** y **grado de precisión** en cada clase de mensaje.
 
-Estos datos impiden dos simplificaciones. No permiten afirmar que la Biblia separa siempre un “pensamiento divino” de palabras puramente humanas. Tampoco permiten convertir cada proceso bíblico en dictado. Las tradiciones cristianas han construido modelos diferentes precisamente porque los textos no describen un único mecanismo psicológico o literario para todos los casos.[^20]
+Estos datos impiden dos simplificaciones. No permiten afirmar que la Biblia separa siempre un “pensamiento divino” de palabras puramente humanas. Tampoco permiten convertir cada proceso bíblico en dictado. Las tradiciones cristianas han construido modelos diferentes porque los textos no explican todos los procesos de pensamiento y escritura de la misma manera.[^20]
 
 En cualquier evaluación concreta habrá que preguntar qué afirmó la persona sobre el origen y la formulación de sus mensajes y si la evidencia histórica coincide con esa descripción.
 
@@ -399,7 +401,9 @@ Porque nos permite formular la pregunta con precisión:
 
 Sabemos qué significaría una respuesta afirmativa. Falta establecer cómo reconocerla: **¿qué credenciales debería reunir una persona para que podamos considerar auténtico ese don?** Ésa es la pregunta del capítulo siguiente.
 
-Las obras exegéticas y voces léxicas sin página específica en las notas conservan su condición de **bibliografía orientativa pendiente de cotejo**, no de consenso demostrado. Se identifican edición y pasaje; no se añaden números tomados de una cita de segunda mano como si hubiéramos abierto esas páginas. El registro de remediación distingue las fuentes ahora cotejadas de las que requieren acceso íntegro.
+## ¿Qué alcance tienen las fuentes de las notas?
+
+Los comentarios bíblicos y diccionarios especializados citados sin página específica son **bibliografía orientativa pendiente de cotejo**. Se indican la edición y el pasaje, pero no se presentan como fuentes leídas íntegramente ni como prueba de acuerdo entre especialistas. El registro documental distingue los textos cotejados de los que todavía requieren acceso completo.
 
 [^1]: Ezequiel 13:1-16, especialmente 13:2-7. Véase Daniel I. Block, *The Book of Ezekiel, Chapters 1–24*, NICOT (Eerdmans, 1997), comentario a Ezequiel 13. El texto permite afirmar que la convicción del mensajero no prueba el origen del mensaje; no permite reconstruir con certeza el estado psicológico de cada falso profeta.
 [^2]: Romanos 8:5-17; Gálatas 5:13-25. En ambos contextos, “ser guiado” por el Espíritu aparece dentro de una discusión sobre identidad, conducta y transformación, no como definición de revelación profética.

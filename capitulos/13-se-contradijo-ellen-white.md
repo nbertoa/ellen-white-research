@@ -28,7 +28,7 @@ También hay que distinguir una contradicción entre textos publicados de una co
 
 La importancia del cambio depende también de si afectó una opinión, un consejo práctico o una instrucción presentada como recibida de Dios.
 
-La reforma alimentaria ofrece un primer caso donde esas distinciones cambian mucho la respuesta.
+La reforma alimentaria permite ver cómo esas diferencias cambian la respuesta.
 
 ## 4. ¿Dijo primero que se podía comer cerdo y después que Dios lo prohibía?
 
@@ -56,8 +56,6 @@ La carta identifica a la persona y su situación: un esposo enfermo cuya aliment
 
 Tampoco un episodio de 1873 refuta automáticamente lo que dijo de su pasado hasta marzo de 1869. Puede demostrar que su práctica cambió después. La fecha permite mantener la fuerza de la declaración sin convertirla en una promesa perpetua que el documento no formula.
 
-¿Qué muestran entonces los relatos posteriores?
-
 ## 6. ¿Por qué volvió a hablar de abandonar la carne en 1894?
 
 El diario de una expedición de 1873 relata falta de suministros y patos obtenidos para alimentarse. La explicación de necesidad pertenece al documento reproducido, no sólo a una reconstrucción favorable posterior. Otros textos permiten reconocer que hubo ocasiones de consumo después de la adopción inicial de la reforma.[^8]
@@ -68,15 +66,15 @@ Su abstinencia no fue uniforme e ininterrumpida desde 1863. Hubo un cambio inici
 
 La pregunta sobre si describió siempre esa trayectoria con suficiente precisión requiere comparar afirmaciones autobiográficas sobre el mismo período. Una negación clara de consumo entre 1863 y 1894, enfrentada con un relato auténtico de consumo propio dentro de ese intervalo, sería un par más fuerte que una norma general enfrentada con una comida. No debemos completar esa negación con palabras que ella no escribió.
 
-El juicio sobre su conducta, su ejemplo y posibles excepciones para sí misma corresponde al capítulo 14. Acá queda establecido el cambio de práctica y de rigor doméstico. Sigue abierta la auditoría de algunas generalizaciones autobiográficas.
+Falta comprobar si algunas descripciones de esa trayectoria fueron demasiado amplias. El capítulo 14 examina el problema de su ejemplo y las posibles excepciones para sí misma.
 
-Dentro de la carta de 1896 aparece otro par que parece especialmente sencillo de acusar.
+La carta de 1896 contiene una frase que, a primera vista, parece contradecirse por sí sola.
 
 ## 7. ¿Cómo podía decir que no comía carne y que sí usaba pescado?
 
 En el mismo párrafo de la carta a Mary Clough Watson, White dice que no había usado carne desde su decisión de dos años antes y agrega que empleaba pescado cuando podía conseguirlo.[^9] No son declaraciones separadas por décadas ni una práctica descubierta contra una negación anterior. Están juntas en la explicación que da de su mesa.
 
-Ese contexto muestra que usa «carne» como categoría alimentaria distinta de «pescado». La distinción no corresponde a clasificar biológicamente peces fuera del reino animal; expresa cómo usa esas palabras al hablar de su alimentación. Traducir ambas categorías como si el documento no las diferenciara fabrica un conflicto verbal.
+Ese contexto muestra que usa «carne» como categoría alimentaria distinta de «pescado». No está diciendo que los peces no sean animales; está distinguiendo alimentos en su mesa. Traducir ambas categorías como si el documento no las diferenciara fabrica un conflicto verbal.
 
 La referencia más amplia a «carne de animales muertos» es menos precisa. Merece atención si se compara con una condena explícita del pescado. Pero no autoriza a hacer que el término siguiente signifique todos los productos animales mientras se omite la frase que define su uso local.
 
@@ -126,7 +124,7 @@ La comparación sería más fuerte si la prohibición inicial incluyera tratar c
 
 ## 11. ¿Qué muestran el queso, el café y el té?
 
-No muestran una sola evolución. En 1868 White escribió que el queso nunca debía introducirse en el estómago. En 1905 todavía lo llamó enteramente inadecuado como alimento. Hay continuidad normativa en esos textos, no una autorización general posterior del queso.[^15]
+No muestran una sola evolución. En 1868 White escribió que el queso nunca debía introducirse en el estómago. En 1905 todavía lo llamó enteramente inadecuado como alimento. La prohibición continúa en ambos textos; ninguno ofrece una autorización general del queso.[^15]
 
 Sus relatos de haberlo probado o comido merecen comparación con declaraciones autobiográficas como «una o dos veces». Para decidir si se contradijo sobre los hechos necesitamos establecer qué ocasiones y período cubre el recuento. La existencia de consumo plantea conducta y ejemplo; no afirma automáticamente que consideraba saludable aquello que había condenado. Esa investigación debe continuar en el capítulo 14 sin transformar extractos dispersos en un recuento completo ya comprobado.
 
@@ -134,7 +132,7 @@ En café y té encontramos salvedades dentro de las propias declaraciones de abs
 
 Citar «no lo he usado» y eliminar «excepto como medicina» produce una contradicción que el documento completo no contiene. A la vez, la excepción clínica no refuta ni valida todas sus explicaciones generales sobre estimulantes.
 
-La alimentación, entonces, contiene cambios y distinciones documentadas. Pero una excepción sobre comida no resuelve automáticamente un absoluto sobre la capacidad de los medicamentos. Ese caso exige otra comparación.
+Las excepciones alimentarias tienen contextos documentados. Pero ¿puede explicarse del mismo modo una afirmación absoluta sobre lo que hacen los medicamentos?
 
 ## 12. ¿Qué afirmó sobre medicamentos que «nunca» curan?
 
@@ -154,7 +152,7 @@ En 1890 recomendó educar para emplearlos cada vez menos y afirmó que rara vez 
 
 Sin embargo, esos textos no dicen literalmente que el medicamento cure. Podrían admitir aliviar un síntoma o ayudar a la recuperación que ella seguía atribuyendo a la naturaleza. Esa posibilidad merece examen, pero no debe convertirse en una explicación demostrada por el solo hecho de ser imaginable.
 
-Además, en textos de 1899 volvió a aparecer la afirmación de que los medicamentos nunca curan. La secuencia no es una línea limpia desde rechazo absoluto hasta reconocimiento explícito de error. Permite algunos usos, pero sigue sosteniendo la misma explicación sobre cómo actúan.[^20]
+Además, en textos de 1899 volvió a aparecer la afirmación de que los medicamentos nunca curan. No pasó simplemente del rechazo absoluto a reconocer un error. Admitió algunos usos, pero mantuvo su explicación de cómo actuaban los medicamentos.[^20]
 
 Podemos afirmar un cambio en formulaciones de uso. No podemos afirmar, sobre esos documentos solamente, que retiró de manera definitiva su negación de eficacia. Esa diferencia importa porque una autorización ocasional y una teoría que niega toda curación pueden conservar una tensión sin ser negaciones literales entre sí.
 
@@ -184,7 +182,7 @@ Es una excepción clínica relevante frente a una prohibición universal. Pero e
 
 Los recuerdos sobre vacunación requieren igual cuidado. Algunos proceden de W. C. White y D. E. Robinson después de 1915. Su transmisión puede favorecer que aceptara ciertas intervenciones, pero no debe transformarse en un nuevo testimonio de revelación redactado por ella. También aceptó cirugía; eso no equivale a que haya formulado una doctrina sobre cada anestésico utilizado.[^23]
 
-La excepción de quinina y la moderación de 1890 ayudan a reconstruir práctica y consejo. El manuscrito que compara la eficacia aborda más directamente la afirmación original. Confundir sus soportes haría parecer mejor probada la contradicción o mejor probada la retractación de lo que realmente están.
+La excepción de quinina y la moderación de 1890 ayudan a reconstruir práctica y consejo. El manuscrito que compara la eficacia aborda más directamente la afirmación original. Si tratamos un recuerdo tardío como un escrito de White de aquella época, podemos exagerar tanto la contradicción como su supuesto reconocimiento del error.
 
 La dificultad siguiente ya no trata sobre salud: trata sobre cómo describió la procedencia de sus mensajes.
 
@@ -222,15 +220,15 @@ El diario de noviembre de 1890 contiene palabras atribuidas a un guía con depen
 
 Ahora podemos cruzarlo con la negación de junio de 1897. Si esa negación excluye toda incorporación de cosas de libros en relatos presentados como instrucción recibida, el discurso de 1890 constituye un contraejemplo importante. Si excluye que Bolton fabricara los mensajes o que la experiencia fuese inventada mediante lectura, necesitamos otros documentos para establecer esa acusación.
 
-No son dos revelaciones que ordenan hacer X y no-X. Es una afirmación sobre origen frente a una negación de cierto procedimiento. Describir falsamente un origen revelado seguiría siendo grave.
+No son dos revelaciones que ordenan hacer algo y no hacerlo. Es una afirmación sobre origen frente a una negación de cierto procedimiento. Describir falsamente un origen revelado seguiría siendo grave.
 
-Los otros expedientes de C10 —el juicio de 1879 y Queensland— conservan sus propias reservas. La dependencia no demuestra automáticamente que no hubo experiencia. Una experiencia alegada tampoco demuestra que el lenguaje dependiente llegó de manera independiente. En Queensland, cambiar el lugar de unas comillas no resuelve todos los paralelos.[^30]
+Los otros casos del capítulo 10, el juicio de 1879 y Queensland, conservan sus propias reservas. La dependencia no demuestra automáticamente que no hubo experiencia. Una experiencia alegada tampoco demuestra que el lenguaje dependiente llegó de manera independiente. En Queensland, cambiar el lugar de unas comillas no resuelve todos los paralelos.[^30]
 
 ¿Las revisiones de sus libros ofrecen una contradicción más claramente demostrable?
 
 ## 19. ¿Corregir un libro significa que dos ediciones dicen lo contrario?
 
-A veces una corrección sustituye una proposición por su negación. Pero no ocurre automáticamente. El capítulo 12 mostró errores reales en formulaciones de *The Great Controversy*, y el 11 documentó investigación y revisión sustantiva. Ahora debemos preguntar qué relación tienen los textos antiguo y nuevo.[^31]
+A veces una corrección niega lo que decía la versión anterior. Pero no ocurre automáticamente. El capítulo 12 mostró errores reales en formulaciones de *The Great Controversy*, y el 11 documentó investigación y revisión sustantiva. Ahora debemos preguntar qué relación tienen los textos antiguo y nuevo.[^31]
 
 En 1888 los valdenses eran «los primeros de todos» en obtener una traducción de las Escrituras en Europa. En 1911 pasaron a ser «entre los primeros». La prioridad absoluta era históricamente incorrecta. La revisión reduce esa afirmación, pero no dice literalmente que no fueran primeros: el primero pertenece también al grupo de los primeros.
 
@@ -242,7 +240,7 @@ La importancia está en que un libro con autoridad religiosa contenía errores q
 
 ## 20. ¿Qué ocurre con Francia, las cifras y «Babilonia»?
 
-La revisión de 1911 cambió una prohibición de la Palabra de Dios por abolición del culto a la Deidad. Ambas acciones podrían coexistir; la segunda oración no niega la primera. El problema histórico de decretos, ámbito e intervalo permanece parcialmente, como mostró C12. La corrección de palabras no equivale a comprobación del relato nuevo.[^32]
+La revisión de 1911 cambió una prohibición de la Palabra de Dios por abolición del culto a la Deidad. Ambas acciones podrían coexistir; la segunda oración no niega la primera. El problema histórico de decretos, ámbito e intervalo permanece parcialmente, como mostró el capítulo 12. La corrección de palabras no equivale a comprobación del relato nuevo.[^32]
 
 «Millones» pasó a «multitudes». Millones son multitudes: hay reducción de precisión y compromiso, no una negación necesaria. «Cuarenta» pasó a «casi cuarenta»: hay precisión posterior, y el redondeo explica parte de la diferencia. Si las cantidades fueran presentadas ambas como exactas, la comparación sería distinta.
 
@@ -302,9 +300,9 @@ La defensa más fuerte distingue decidir por juicio propio de cumplir una comisi
 
 Pero esa defensa todavía debe explicar las hermanas aprobadas y justificar su exclusión de la clase prohibida. No puede limitarse a decir que todo acto de White tenía por definición una autorización superior. Y «por años» no fija cuándo comenzó la comisión: no demuestra por sí solo que ambas instrucciones existieran simultáneamente en 1896.
 
-El resultado es una excepción establecida y una **posible contradicción normativa**, pendiente de delimitar el alcance y los antecedentes. Es uno de los casos de mayor importancia aquí porque ambas instrucciones tienen autoridad religiosa significativa. No contamos todavía con dos órdenes específicas para la misma situación que se excluyan inequívocamente.
+El resultado es una excepción establecida y una **posible contradicción entre instrucciones**, pendiente de delimitar el alcance y los antecedentes. Es uno de los casos de mayor importancia aquí porque ambas instrucciones tienen autoridad religiosa significativa. No contamos todavía con dos órdenes específicas para la misma situación que se excluyan inequívocamente.
 
-La evaluación de secreto, intereses y conducta queda para C14. Esa reserva no elimina la dificultad normativa que sí pertenece a este capítulo.
+El capítulo 14 examina el pedido de discreción, los intereses y la conducta. Aquí sigue abierta la dificultad entre las dos instrucciones.
 
 ## 25. ¿Reconocer autoridad institucional y luego denunciarla es contradictorio?
 
@@ -336,7 +334,7 @@ Las alegaciones sobre un texto retirado de celibato y una instrucción a Sophron
 
 ## 27. ¿Todos los cambios comprometen por igual su pretensión profética?
 
-No. Un recuerdo aproximado sobre el mes de la primera visión afecta fiabilidad de memoria. C4 ya conservó la diferencia entre diciembre de 1844 y el recuerdo tardío que propone enero o febrero sin precisión. Eso no equivale a que un ángel haya dado dos fechas incompatibles para la misma visión.[^46]
+No. Un recuerdo aproximado sobre el mes de la primera visión afecta fiabilidad de memoria. El capítulo 4 conservó la diferencia entre diciembre de 1844 y el recuerdo tardío que propone enero o febrero sin precisión. Eso no equivale a que un ángel haya dado dos fechas incompatibles para la misma visión.[^46]
 
 Una corrección histórica muestra que una formulación de un libro autorizado era defectuosa. Una aplicación clínica diferente puede ser coherente si las condiciones están documentadas. Un cambio de política presentado con respaldo divino requiere explicar alcance y razones; no es automáticamente una decisión doméstica sin importancia.
 
@@ -352,9 +350,9 @@ Otras acusaciones desaparecen al recuperar el contexto. Los casos de Kress, pesc
 
 Persisten dificultades que este examen no pudo resolver satisfactoriamente: la comparación de eficacia frente al «nunca curan»; el alcance de la negación de junio de 1897 frente a material dependiente presentado como recibido; y la relación entre la regla pública del diezmo y las asignaciones aprobadas por comisión especial. Son **posibles contradicciones**, con razones y documentos faltantes identificados. No son ya armonía demostrada. Tampoco alcanzan todavía para afirmar una contradicción clara bajo condiciones equivalentes.
 
-En los pares examinados no quedó establecido un caso claro de dos revelaciones específicas que ordenen simultáneamente X y no-X al mismo destinatario bajo las mismas condiciones. Esa conclusión es delimitada: el mismo destinatario y período importan para órdenes particulares, pero dos afirmaciones universales pueden ser incompatibles sin esa coincidencia. En tal caso debe compararse su alcance, como se hizo con los medicamentos. No demuestra que todos sus escritos sean coherentes entre sí ni que sus mensajes tengan origen divino.
+En los pares examinados no quedó establecido un caso claro de dos revelaciones específicas que ordenen simultáneamente hacer algo y no hacerlo al mismo destinatario bajo las mismas condiciones. Esa conclusión es delimitada: el mismo destinatario y período importan para órdenes particulares, pero dos afirmaciones universales pueden ser incompatibles sin esa coincidencia. En tal caso debe compararse su alcance, como se hizo con los medicamentos. No demuestra que todos sus escritos sean coherentes entre sí ni que sus mensajes tengan origen divino.
 
-Los errores factuales y la predicción de 1856 conservan su peso propio. Las condiciones posteriores no demostraron pertenecer al significado original de aquella promesa, y la ausencia de un segundo oráculo que la niegue no elimina su incumplimiento literal.[^48]
+Los errores sobre los hechos y la predicción de 1856 conservan su peso propio. Las condiciones posteriores no demostraron pertenecer al significado original de aquella promesa, y la ausencia de un segundo oráculo que la niegue no elimina su incumplimiento literal.[^48]
 
 Hasta aquí preguntamos si sus declaraciones pueden coexistir entre sí. La comparación doctrinal exhaustiva con la Biblia queda fuera del alcance de este libro, sin darse por resuelta. La pregunta siguiente es diferente: **¿qué revela su vida y conducta sobre su pretensión profética?**
 

@@ -1,6 +1,6 @@
 # Capítulo 4 — ¿Qué ocurrió realmente en las primeras visiones de Ellen G. White?
 
-Las primeras visiones de Ellen Harmon —todavía no se había casado con James White— suelen narrarse como una historia ya resuelta. En una versión, una adolescente enferma recibió de Dios una respuesta para un movimiento que había visto fracasar su expectativa. En otra, una joven vulnerable transformó trances religiosos en autoridad profética. Las dos narraciones comienzan demasiado tarde: primero interpretan el origen y después seleccionan los hechos.
+Las primeras visiones de Ellen Harmon —todavía no se había casado con James White— suelen narrarse como una historia ya resuelta. En una versión, una adolescente enferma recibió de Dios una respuesta para un movimiento que había visto fracasar su expectativa. En otra, una joven vulnerable transformó trances religiosos en autoridad profética. En ambos relatos se decide primero el origen y después se seleccionan los hechos.
 
 Aquí seguiremos el orden contrario. Antes de preguntar de dónde provenían aquellas experiencias, hay que averiguar qué documentos existen, cuándo fueron escritos, qué observó cada testigo y cuánto cambió el relato con el paso del tiempo. Para hacerlo hay que separar tres afirmaciones:
 
@@ -12,7 +12,7 @@ Las dos primeras no demuestran por sí solas la tercera. Tampoco basta imaginar 
 
 ## 1. ¿Cuándo podemos documentar el comienzo de las visiones?
 
-La respuesta más precisa no es una sola fecha, sino una secuencia de documentos.
+La actividad pública está documentada para febrero de 1845; diciembre de 1844 es la fecha probable del comienzo. La diferencia depende de cuándo se registró cada episodio.
 
 El registro más cercano a los hechos producido fuera de su círculo es el informe del juicio de Israel Dammon, publicado por el *Piscataquis Farmer* el 7 de marzo de 1845. Resume declaraciones prestadas ante un tribunal acerca de una reunión celebrada en Atkinson, Maine, la noche del 15 de febrero. Varios testigos identificaron a Ellen Harmon, de Portland, como una joven que entraba en estados que ellos llamaban “visiones” o “trances” y luego comunicaba mensajes a determinadas personas.[^1] Por lo tanto, hay algo que puede considerarse **establecido**: a más tardar el 15 de febrero de 1845, Ellen era conocida fuera de su casa como visionaria y actuaba públicamente en ese papel.
 
@@ -127,7 +127,7 @@ La carta de Ellen a Bates de 1847 conecta explícitamente la visión del Novio c
 
 Conviene mantener separadas cuatro proposiciones: **creencia personal que limitaba nuevas conversiones**, **límite de salvación atribuido a una visión**, **aplicación a quienes rechazaron el movimiento** y **evangelización posterior**. Un documento puede apoyar una y no otra. Una negativa tardía responde al problema, pero no borra las expresiones tempranas; una omisión en 1851 documenta revisión, pero no su motivo.
 
-Estas dos afirmaciones pueden mantenerse juntas. Está **establecido** que Ellen compartió inicialmente una forma restrictiva de la creencia de la puerta cerrada y que sus primeras visiones fueron entendidas por seguidores cercanos como confirmación de ese marco. También está documentado que ella negó posteriormente que una visión hubiera enseñado el cierre universal de la misericordia.
+Con esas distinciones, está **establecido** que Ellen compartió inicialmente una forma restrictiva de la creencia de la puerta cerrada y que sus primeras visiones fueron entendidas por seguidores cercanos como confirmación de ese marco. También está documentado que ella negó posteriormente que una visión hubiera enseñado el cierre universal de la misericordia.
 
 Lo que queda **indeterminado** es algo más específico: si el contenido de la primera visión pretendía enseñar que, desde el 22 de octubre, absolutamente toda persona que no hubiera participado del movimiento quedaba sin posibilidad de conversión. El texto no formula esa proposición con esa precisión. Tampoco sería correcto sostener que las primeras visiones no tuvieron relación con la puerta cerrada: la documentación de 1846 y 1847 muestra que sí la tuvieron.
 
@@ -137,6 +137,8 @@ Esta distinción permite describir el desarrollo de sus afirmaciones sin resolve
 
 El arresto no ocurrió porque Ellen hubiera tenido una visión ni porque un tribunal estuviera investigando si sus experiencias eran verdaderas. De hecho, Ellen no fue acusada. El detenido fue Israel Dammon, que presidía aquellas reuniones.
 
+La reunión del 15 de febrero se celebró en casa de James Ayer hijo. Junto a Dammon estaban Ellen, James White, Dorinda Baker y otras personas de la zona.
+
 Para entonces el grupo llevaba alrededor de dos semanas reuniéndose en Atkinson. Algunos vecinos veían esas reuniones con creciente preocupación. El funcionario municipal Benjamin Smith declaró después que ciudadanos del pueblo le habían pedido que interviniera y pusiera fin a los encuentros porque Dammon y otros estaban viviendo a costa de ciertos habitantes y temían que terminaran convirtiéndose en una carga económica para el municipio.[^26] Otros testigos dijeron que Dammon aconsejaba abandonar el trabajo porque esperaban inminentemente el fin del mundo. La acusación formal reflejó sobre todo ese problema: lo describía como una persona ociosa y vagabunda, que iba de un lugar a otro pidiendo, descuidaba su ocupación y no proveía adecuadamente para sí mismo y su familia.[^23]
 
 La reunión del sábado 15 de febrero agravó el conflicto. Testigos hostiles la describieron como extremadamente ruidosa y desordenada; los partidarios discutieron varios de esos detalles, pero nadie negó que fuera una reunión intensa y que Dammon la dirigiera. El ayudante del sheriff Joseph Moulton llegó para arrestarlo mientras el encuentro todavía estaba en curso. Según su declaración, encontró la puerta cerrada, tuvo que forzar la entrada y, cuando intentó sacar a Dammon, varios hombres y mujeres ofrecieron tanta resistencia que necesitó pedir refuerzos dos veces antes de conseguir llevárselo.[^26]
@@ -145,11 +147,15 @@ Ellen aparece en el expediente porque estaba presente. Al describir la reunión,
 
 ## 11. ¿Qué clase de fuente es el informe del juicio de Israel Dammon?
 
-La reunión del 15 de febrero se celebró en casa de James Ayer hijo. Junto a Dammon estaban Ellen, James White, Dorinda Baker y otras personas de la zona.
+El *Piscataquis Farmer* publicó el informe el 7 de marzo. No es una transcripción oficial completa.
 
-El lunes 17 comenzó su juicio ante un tribunal local. La acusación formal no fue simplemente “perturbar la paz”, como a veces se resume. Lo calificaba, usando el lenguaje legal de la época, de vagabundo y ocioso, mendigo, pendenciero, negligente en su trabajo y en el sostén de su familia.[^23] Durante dos días declararon testigos de la acusación y de la defensa acerca del carácter de Dammon y de las reuniones que dirigía. Fue condenado a diez días en una casa de corrección y apeló. El *Piscataquis Farmer* termina allí. Meses después, el propio Dammon afirmó en una carta que la orden había sido anulada y que había quedado absuelto; esa afirmación completa el rastro documental disponible, aunque no sustituye el expediente judicial perdido o no localizado de la apelación.[^24]
+El lunes 17 de febrero había comenzado el juicio ante un tribunal local. La acusación formal no fue simplemente “perturbar la paz”, como a veces se resume. Lo calificaba, usando el lenguaje legal de la época, de vagabundo y ocioso, mendigo, pendenciero, negligente en su trabajo y en el sostén de su familia.[^23]
 
-El *Piscataquis Farmer* publicó el informe el 7 de marzo. No es una transcripción oficial completa. El reportero declaró que había abreviado los testimonios, omitido preguntas cuando creyó posible hacerlo y procurado conservar el lenguaje de los testigos. Incluso llamó a su trabajo un informe “imperfecto e imparcial”.[^25] Esa autodescripción es útil: pretendía ser justo, pero reconocía límites.
+Durante dos días declararon testigos de la acusación y de la defensa acerca del carácter de Dammon y de las reuniones que dirigía. Fue condenado a diez días en una casa de corrección y apeló. El *Piscataquis Farmer* termina allí.
+
+Meses después, el propio Dammon afirmó en una carta que la orden había sido anulada y que había quedado absuelto; esa afirmación completa el rastro documental disponible, aunque no sustituye el expediente judicial perdido o no localizado de la apelación.[^24]
+
+El reportero declaró que había abreviado los testimonios, omitido preguntas cuando creyó posible hacerlo y procurado conservar el lenguaje de los testigos. Incluso llamó a su trabajo un informe “imperfecto e imparcial”.[^25] Esa autodescripción es útil: pretendía ser justo, pero reconocía límites.
 
 La fuente posee, por tanto, un valor excepcional y límites reales. Es contemporánea; se apoya en declaraciones judiciales prestadas apenas dos días después de la reunión; distingue testigos de la acusación y de la defensa. Pero fue recortada por un reportero y no nos permite reconstruir cada pregunta ni cada respuesta. Ellen no era la acusada, no declaró y no parece haber estado en el tribunal. El proceso juzgaba a Dammon, no la autenticidad de sus visiones.
 
@@ -251,7 +257,9 @@ Los defensores señalan que James todavía enseñaba públicamente una forma de 
 
 Lo demostrado es más limitado: hubo revisiones editoriales documentables; algunas afectaron pasajes teológicamente sensibles; el mensaje narrativo principal sobrevivió; y el texto final de *Early Writings* no reproduce todo lo que leyó un suscriptor de *The Day-Star* en 1846. No siempre sabemos quién decidió cada cambio ni por qué. El motivo exacto de las omisiones importantes queda **indeterminado** mientras no aparezca documentación editorial que lo explique.
 
-Hay además paralelos que afectan su posible independencia. Foy describe un ángel que alza la mano, toma la puerta y la abre sobre bisagras «glittering». White presenta a Jesús alzando el brazo, tomando la puerta y abriéndola sobre bisagras «golden» en la forma temprana; en 1851 aparecen como «glittering». El paralelo de acciones y vocabulario está documentado; el cambio posterior acerca una expresión a Foy. No demuestra por sí solo quién decidió la revisión ni dependencia, plagio o fraude.[^34]
+## 18. ¿Qué semejanzas hay con Foy y 2 Esdras?
+
+Hay paralelos de acciones y palabras que afectan la posible independencia del relato. Foy describe un ángel que alza la mano, toma la puerta y la abre sobre bisagras «glittering» (relucientes). White presenta a Jesús alzando el brazo, tomando la puerta y abriéndola sobre bisagras «golden» (doradas) en la forma temprana; en 1851 aparecen como «glittering». El paralelo de acciones y vocabulario está documentado; el cambio posterior acerca una expresión a Foy. No demuestra por sí solo quién decidió la revisión ni dependencia, plagio o fraude.[^34]
 
 La cronología impide conclusiones automáticas:
 
@@ -272,7 +280,7 @@ Las semejanzas y la revisión están **establecidas**. No lo están su causa ni 
 
 La comparación textual aclara qué cambió en el relato. Queda otra clase de afirmaciones que suele citarse como evidencia independiente: ¿qué ocurría físicamente mientras Ellen estaba en visión?
 
-## 18. ¿Podemos saber qué ocurría físicamente durante una visión temprana?
+## 19. ¿Podemos saber qué ocurría físicamente durante una visión temprana?
 
 El informe de Atkinson describe quietud, mirada elevada, aparente insensibilidad, habla y movimientos. No contiene mediciones uniformes de duración o atención, ni observaciones de la primera visión de diciembre.[^26] Bates afirmó haber observado varias experiencias, pero no dejó mediciones fisiológicas.[^29]
 
@@ -282,15 +290,15 @@ La descripción general de falta de respiración, rigidez, movimientos imposible
 
 Está **establecido** que en 1845 otras personas describieron estados inusuales; el núcleo de una actividad visionaria pública es **probable**. La ausencia de respiración y la fuerza extraordinaria durante la primera visión siguen **indeterminadas**. El capítulo 5 examinará las pruebas, los médicos y las historias de las Biblias sin trasladar automáticamente detalles de una experiencia a otra.
 
-## 19. ¿Qué explicaciones naturales se han propuesto y cuánto demuestran?
+## 20. ¿Qué explicaciones naturales se han propuesto y cuánto demuestran?
 
 Ya en 1847 el objetor citado por James propuso ensueños religiosos: Ellen podía quedar absorbida por los asuntos que ocupaban su imaginación sin estar engañando. James respondió que el contenido no provenía simplemente de estudios o enseñanzas previos y apeló al efecto sobre el grupo de Portland.[^28] Bates había considerado la debilidad física antes de aceptar las visiones como obra de Dios.[^29]
 
-Más tarde se propusieron explicaciones neurológicas, disociativas y de influencia social. Rea recogió varias; Douglass presentó la respuesta adventista y revisiones médicas contrarias a un diagnóstico seguro de epilepsia.[^33] Faltan registros clínicos que permitan decidir. El ambiente de Atkinson muestra una experiencia compartida e interpretada por un grupo, pero no demuestra cómo se produjo el estado de Ellen.
+Más tarde se propusieron explicaciones neurológicas, disociativas —alteraciones de la atención y la conciencia— y de influencia social. Rea recogió varias; Douglass presentó la respuesta adventista y revisiones médicas contrarias a un diagnóstico seguro de epilepsia.[^33] Faltan registros clínicos que permitan decidir. El ambiente de Atkinson muestra una experiencia compartida e interpretada por un grupo, pero no demuestra cómo se produjo el estado de Ellen.
 
 Los documentos tempranos tampoco establecen simulación deliberada. Esa hipótesis necesitaría indicios de preparación o una convergencia sólida de pruebas de engaño; el objetor de 1847 no sospechaba deshonestidad. La atribución divina, a su vez, necesita evidencia adicional sobre el contenido de los mensajes. El capítulo 6 comparará estas explicaciones; aquí ninguna queda demostrada como causa de las primeras visiones.
 
-## 20. ¿Qué podría hacer cambiar estas conclusiones?
+## 21. ¿Qué podría hacer cambiar estas conclusiones?
 
 Las conclusiones de este capítulo no dependen de que los documentos actuales sean los únicos que puedan existir. Un registro contemporáneo de diciembre de 1844 escrito por una de las mujeres presentes podría fijar con mucha mayor seguridad la fecha, el lugar y las circunstancias de la primera visión. Una versión temprana incompatible con el relato conocido reduciría, en cambio, nuestra confianza en la reconstrucción actual.
 
@@ -298,7 +306,7 @@ La interpretación de Atkinson debería revisarse si apareciera la transcripció
 
 Mientras esa evidencia no aparezca, el grado de certeza debe permanecer exactamente donde permiten los documentos disponibles.
 
-## 21. ¿Qué podemos afirmar históricamente y qué sigue incierto sobre el origen de las primeras visiones?
+## 22. ¿Qué podemos afirmar históricamente y qué sigue incierto sobre el origen de las primeras visiones?
 
 Para el 15 de febrero de 1845 está documentado que Ellen Harmon comunicaba visiones ante personas favorables y hostiles. **Diciembre de 1844 es la fecha probable mejor sustentada para el comienzo**, aunque falta un registro de ese mes y su recuerdo de 1874 propone enero o febrero.
 
@@ -308,7 +316,7 @@ Las visiones intervinieron pronto en las discusiones del grupo sobre 1844 y la p
 
 La sinceridad es plausible, pero estos documentos no la demuestran. Tampoco establecen fraude deliberado ni una causa clínica específica. **El origen último de las primeras experiencias sigue indeterminado.** Hemos fijado una cronología y un núcleo observable. Los dos capítulos siguientes examinarán los fenómenos físicos y sus posibles explicaciones, antes de contrastar el contenido de los mensajes con hechos externos.
 
-## 22. ¿Dónde pueden verificarse las afirmaciones principales?
+## 23. ¿Dónde pueden verificarse las afirmaciones principales?
 
 
 

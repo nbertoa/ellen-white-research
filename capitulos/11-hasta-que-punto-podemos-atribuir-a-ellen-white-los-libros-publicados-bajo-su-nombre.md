@@ -14,7 +14,9 @@ Por eso conviene seguir cada texto, cuando se conservan las etapas, desde el man
 
 ## ¿Qué podían hacer sus colaboradores según las instrucciones que recibieron?
 
-White reconoció en 1873 que necesitaba ayuda para preparar sus escritos para la imprenta. Su esposo James corrigió lenguaje y repetición en los primeros años. Más tarde trabajaron copistas y asistentes con responsabilidades diferentes: Marian Davis se especializó en construir libros con escritos anteriores; Fannie Bolton trabajó principalmente en cartas, artículos y testimonios; Maggie Hare copió y preparó textos; Sara Peck ayudó con el sexto volumen de *Testimonies*; Clarence Crisler tomó sermones y preparó libros tardíos; Dores Robinson participó en la oficina y en investigaciones editoriales. Mary Clough, Minnie Hawkins y otras personas aparecen en etapas concretas. W. C. White coordinó mucho de ese trabajo y trató con los editores. No hay motivo para asignar a todos la misma función.[^3]
+White reconoció en 1873 que necesitaba ayuda para preparar sus escritos para la imprenta. Su esposo James había corregido lenguaje y repeticiones en los primeros años. Después hubo copistas y asistentes con tareas diferentes. Marian Davis se especializó en construir libros con escritos anteriores; Fannie Bolton trabajó principalmente en cartas, artículos y testimonios.
+
+Otras tareas también dejaron nombres y documentos: Maggie Hare copió y preparó textos; Sara Peck ayudó con el sexto volumen de *Testimonies*; Clarence Crisler tomó sermones y preparó libros tardíos; Dores Robinson participó en investigaciones editoriales. Mary Clough, Minnie Hawkins y otras personas colaboraron en etapas concretas. W. C. White coordinó mucho de ese trabajo y trató con los editores. No corresponde asignar a todos la misma función.[^3]
 
 En una carta del 7 de mayo de 1900 a G. A. Irwin, W. C. White precisó una regla: los copistas corregían gramática, quitaban repeticiones y agrupaban párrafos; trabajadores experimentados, entre ellos Davis, Bolton, Peck y Hare, podían trasladar una oración, un párrafo o una sección de un manuscrito de White a otro. No estaban autorizados a introducir pensamientos propios. Su madre examinaba las copias, según él.[^4]
 
@@ -44,7 +46,9 @@ Aquí sabemos que hubo selección, pero no quién escribió la formulación prob
 
 ## ¿Qué se puede comprobar de las acusaciones de Fannie Bolton?
 
-Bolton comenzó a ayudar a White hacia 1887 y trabajó con interrupciones hasta 1897. Escribió y habló en etapas de cooperación, conflicto, separación y retractación. White la consideraba capaz para preparar artículos, cartas y testimonios, pero sus cartas también la acusaron de exceder límites editoriales y de atribuirse indebidamente el trabajo. En una confesión cercana a abril de 1901 Bolton describió la voz reconocible de White: algunos originales necesitaban poca edición y otros mucha; un artículo o capítulo trabajado por el editor volvía a manos de White. Dijo también que algunas retractaciones anteriores habían sido hechas porque se le pidió confesar que había tergiversado a White, sin estar ella entonces convencida. Su confesión de 1901 es testimonio de una participante, no una transcripción imparcial de todos los años de conflicto.[^12]
+Bolton comenzó a ayudar a White hacia 1887 y trabajó con interrupciones hasta 1897. Sus declaraciones atravesaron etapas de cooperación, conflicto, separación y retractación. White reconocía su capacidad, pero también la acusaba de exceder los límites editoriales y atribuirse indebidamente el trabajo.
+
+En una confesión cercana a abril de 1901, Bolton describió la voz reconocible de White: algunos originales necesitaban poca edición y otros mucha; un artículo o capítulo trabajado por el editor volvía a manos de White. Dijo también que algunas retractaciones anteriores habían sido hechas porque se le pidió confesar que había tergiversado a White, sin estar ella entonces convencida. Su confesión de 1901 es testimonio de una participante, no una transcripción imparcial de todos los años de conflicto.[^12]
 
 Sus palabras admiten una intervención literaria considerable, no la invención de un libro. Tampoco las negativas y confesiones prueban que siempre se respetaran los límites. El conflicto obliga a examinar por igual acusaciones, retractaciones y defensas de White, Davis y W. C. White.
 
@@ -68,7 +72,9 @@ La nueva edición incluyó notas de apéndice preparadas por Crisler y otros, no
 
 ## ¿Qué quería decir White cuando afirmaba que las asistentes no cambiaban sus pensamientos?
 
-En una carta fechada el 8 de julio de 1906, impresa en un folleto de 1913, White negó que sus ayudantes tuvieran permiso de añadir materia o cambiar el sentido de sus mensajes. El catálogo del manuscrito indica que al menos una copia mecanografiada de esa carta contiene palabras añadidas de puño y letra por White: una señal material de revisión de ese documento particular, aunque aquí no se inspeccionó su facsímil. En 1902 afirmó que leía las copias y todo el manuscrito de un libro antes de enviarlo al impresor. Estos enunciados hablan de límites e inspección; no identifican el origen de cada oración, ni prueban que cada edición posterior fuese revisada de ese modo.[^20]
+White declaró que leía las copias y el manuscrito completo de un libro antes de enviarlo al impresor, y que sus ayudantes no tenían permiso para añadir materia ni cambiar el sentido. La primera afirmación es de 1902; la segunda, de una carta del 8 de julio de 1906 publicada en un folleto de 1913.
+
+El catálogo indica que al menos una copia mecanografiada de esa carta contiene añadidos de puño y letra por White. Es una señal material de revisión de ese documento, aunque aquí no se inspeccionó su facsímil. Estos enunciados hablan de límites e inspección; no identifican el origen de cada oración, ni prueban que cada edición posterior fuese revisada de ese modo.[^20]
 
 Los casos de Davis y de 1911 precisan el alcance de «no introducir pensamientos propios». Ordenar u omitir palabras de White sigue siendo una decisión editorial, y corregir un dato puede cambiar una afirmación sin introducir una doctrina ajena. Sólo la comparación de versiones permite saber si cada cambio preservó el mensaje como se pretendía. No corresponde declarar todas las intervenciones inocuas ni llamarlas en bloque falsificación.
 
@@ -84,13 +90,11 @@ La fecha y la preparación de cada edición importan: una aprobación de 1902 o 
 
 ## ¿Qué podemos atribuirle y qué no podemos determinar?
 
-Podemos atribuir a White muchos escritos de partida, nuevas páginas, dirección y aprobaciones generales. A sus colaboradores, tareas documentadas de selección, organización, corrección e investigación; a los administradores de su legado, decisiones póstumas. No podemos repartir cada palabra final por persona ni reconstruir todas las pruebas que ella leyó.
+**Gran parte del material procede de White, pero la forma, el orden y algunas afirmaciones surgieron de una colaboración documentada.** Ella aportó escritos de partida, nuevas páginas, dirección y aprobaciones generales. Sus colaboradores seleccionaron, organizaron, corrigieron e investigaron; los administradores de su legado tomaron decisiones póstumas. No podemos repartir cada palabra final por persona ni reconstruir todas las pruebas que ella leyó.
 
 La crítica muestra que un solo nombre en la cubierta no revela cuánto colaboraron otros y que algunas revisiones cambiaron el contenido. Aún no demuestra una producción sistemática de mensajes originales por asistentes presentada deliberadamente como escritura de White sin su control. La explicación favorable tiene apoyo concreto para el suministro de material y la supervisión de White, pero no convierte una compilación póstuma en texto personalmente revisado por ella. Ambas deben exponerse a nuevos borradores, cartas y cotejos, especialmente en los casos de Bolton y de los capítulos terminados después de 1915.[^24]
 
-En resumen: **gran parte del material procede de White, pero la forma, el orden y algunas afirmaciones surgieron de una colaboración documentada. «Escrito por Ellen White» no significa lo mismo en todas las publicaciones bajo su nombre.**
-
-La evaluación de esos datos que aquí quedó abierta se desarrolla en el [capítulo 12](12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md). Distingue correcciones de contenido, ajustes de precisión y casos todavía discutidos, conservando estos límites de responsabilidad editorial y aprobación.
+«Escrito por Ellen White» no significa lo mismo en todas esas publicaciones. La pregunta siguiente es qué ocurrió con los datos que contenían: ¿cuáles eran correctos y cuáles necesitaron corrección? El [capítulo 12](12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md) los examina conservando estos límites de responsabilidad editorial y aprobación.
 
 ## ¿Dónde se pueden comprobar estas fuentes?
 

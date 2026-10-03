@@ -16,7 +16,11 @@ La atribución divina queda **establecida** en diciembre de 1845: no presentó l
 
 ## 2. ¿Negó Ellen White ser profetisa?
 
-En una reunión pública celebrada en Battle Creek el 2 de octubre de 1904, un informe atribuido a W. E. Cornell le atribuye esta declaración: “No soy, como dije ayer, profeta”; a continuación afirmó que no pretendía ser dirigente y que sólo pretendía ser mensajera de Dios.[^2] La propia frase indica que reiteraba algo dicho el sábado anterior. La formulación llega por una reproducción biográfica de un informe transmitido en mayo de 1906. No se ha inspeccionado el original ni fijado cuándo Cornell registró las palabras. Leída por sí sola, puede entenderse como una negación de la condición de profeta, no sólo de un título. Esa dificultad no debe desaparecer mediante una paráfrasis más cómoda.
+En una reunión pública celebrada en Battle Creek el 2 de octubre de 1904, un informe atribuido a W. E. Cornell le atribuye esta declaración: “No soy, como dije ayer, profeta”; a continuación afirmó que no pretendía ser dirigente y que sólo pretendía ser mensajera de Dios.[^2] La propia frase indica que reiteraba algo dicho el sábado anterior.
+
+La formulación llega por una reproducción biográfica de un informe transmitido en mayo de 1906. No se ha inspeccionado el original ni fijado cuándo Cornell registró las palabras.
+
+Leída por sí sola, puede entenderse como una negación de la condición de profeta, no sólo de un título. Esa dificultad no debe desaparecer mediante una paráfrasis más cómoda.
 
 Sin embargo, sus explicaciones posteriores son explícitas. El 30 de enero de 1905 escribió a O. A. Olsen que nunca había asumido el título de profetisa, aunque otros la llamaran así, porque consideraba que su trabajo incluía más funciones. Prefería “mensajera del Señor”.[^3] En mayo de 1906 añadió que, si había hablado de manera que permitía otra interpretación, lo que pretendía decir era: “No reclamo el título de profeta o profetisa”.[^4] Y en julio escribió a los dirigentes de Battle Creek que su encargo abarcaba “la obra de un profeta”, pero no terminaba allí.[^5]
 
@@ -81,6 +85,8 @@ En un manuscrito de 1886, referido directamente a la Biblia, había explicado qu
 
 También reconoció trabajo editorial. En 1906 recordó que James White corregía errores gramaticales y eliminaba repeticiones, y que ayudantes copiaban manuscritos y preparaban artículos. A la vez negó que estuvieran autorizados a añadir ideas propias o cambiar el sentido.[^13] La existencia de revisión humana, por tanto, no contradice la forma en que ella describía su proceso; tampoco demuestra que toda revisión conservara siempre el sentido ni resuelve el futuro estudio de sus fuentes.
 
+En la introducción de *The Great Controversy* de 1888 reconoció que condensó historia y utilizó palabras de historiadores cuando ofrecían una presentación conveniente; salvo algunas excepciones, no dio crédito específico. Añadió que hizo un uso similar de obras publicadas sobre reformadores de su propia época.[^22] Es una declaración de método literario, no una absolución ni una acusación automática. Obliga a preguntar **qué parte provenía de lectura y qué parte fue presentada concretamente como revelación**. La magnitud, exactitud y atribución de cada préstamo requieren cotejos propios.
+
 Queda **establecido** que negó la inspiración especial de cada palabra pronunciada o escrita en cualquier circunstancia y que admitió formulación y corrección humanas. Es **probable** describir su posición general como inspiración del mensaje o del pensamiento, en lugar de un dictado de palabras, siempre que no convirtamos esa etiqueta posterior en una precisión mayor que sus documentos.
 
 ## 8. ¿Afirmó ser infalible?
@@ -95,9 +101,7 @@ Queda **establecido** que negó infalibilidad personal, reconoció errores de co
 
 Presentó la Biblia como la norma doctrinal pública y como el criterio para probar toda enseñanza y experiencia.
 
-En la introducción de *The Great Controversy* de 1888 reconoció que condensó historia y utilizó palabras de historiadores cuando ofrecían una presentación conveniente; salvo algunas excepciones, no dio crédito específico. Añadió que hizo un uso similar de obras publicadas sobre reformadores de su propia época.[^22] Es una declaración de método literario, no una absolución ni una acusación automática. Obliga a preguntar **qué parte provenía de lectura y qué parte fue presentada concretamente como revelación**. La magnitud, exactitud y atribución de cada préstamo requieren cotejos propios.
-
-En la introducción de *The Great Controversy* de 1888 afirmó que las Escrituras revelan la voluntad de Dios con autoridad y sin error, dan a conocer las doctrinas y permiten examinar la experiencia. Añadió que la actividad continua del Espíritu no volvía innecesaria la Biblia y que el Espíritu nunca fue dado para sustituirla: la Palabra debía probar toda enseñanza y experiencia. La edición de 1911 mantuvo esta estructura y el reconocimiento de historiadores, con una formulación que cambia algunos detalles; no se ha hecho aquí una comparación completa, línea por línea, de ambas obras.[^16][^22]
+En la introducción de *The Great Controversy* de 1888 afirmó que las Escrituras revelan la voluntad de Dios con autoridad y sin error, dan a conocer las doctrinas y permiten examinar la experiencia. Añadió que la actividad continua del Espíritu no volvía innecesaria la Biblia y que el Espíritu nunca fue dado para sustituirla: la Palabra debía probar toda enseñanza y experiencia. La edición de 1911 mantuvo esta estructura y el reconocimiento de fuentes humanas ya mencionado, con una formulación que cambia algunos detalles; no se ha hecho aquí una comparación completa, línea por línea, de ambas obras.[^16][^22]
 
 En 1889 explicó que los testimonios escritos no debían dar una nueva regla de verdad, sino llamar la atención a principios bíblicos ya revelados, hacerlos vívidos y aplicarlos. Su propósito declarado era exaltar la Escritura, no disminuirla.[^17] Y en 1894 aconsejó a un ministro que en el trabajo público no citara a “Sister White” como autoridad para probar una posición: debía presentar la evidencia desde la Palabra de Dios.[^18]
 
@@ -107,11 +111,11 @@ Esta combinación queda **establecida** como su pretensión. No resuelve por sí
 
 ## 10. ¿Qué significaban “luz menor” y “luz mayor” en 1903?
 
-El contexto inmediato permite una respuesta más precisa de lo que sugiere la cita aislada.
+“Luz menor” se refiere **probablemente** a sus libros y “luz mayor” a la Biblia. El artículo donde aparece la frase permite ver por qué.
 
 Ellen White redactó en Elmshaven, el 6 de diciembre de 1902, una carta abierta publicada en *Review and Herald* los días 20 y 27 de enero de 1903. Promovía la circulación de *Christ's Object Lessons*, *Patriarchs and Prophets*, *The Great Controversy* y *The Desire of Ages*. Declaró que ella no era el origen de esos libros, que contenían la instrucción que Dios le había dado y que debían llevar al lector al Salvador. Después lamentó la poca atención prestada a la Biblia y escribió que el Señor había dado una “luz menor” para conducir a hombres y mujeres a la “luz mayor”; enseguida volvió a hablar de “los libros que contienen esta luz”.[^19]
 
-Por la frase y su contexto, “luz menor” se refiere **probablemente** a los libros de Ellen White que el artículo acaba de nombrar y quiere distribuir. “Luz mayor” se refiere **probablemente** a la Biblia, mencionada inmediatamente antes como desatendida. Cristo es el destino al que esos libros debían conducir, pero no es lo mencionado más cerca de la frase ni lo que mejor explica ese contraste.
+La Biblia es lo mencionado inmediatamente antes del contraste; los libros aparecen antes y después. Cristo es el destino al que debían conducir, pero no el referente más cercano de esa oración.
 
 Herbert E. Douglass contempla dos lecturas: en el contexto más amplio identifica a Cristo con la luz mayor, y desde otra perspectiva acepta el contraste entre los escritos de White y la Biblia. Aquí se prefiere la segunda por el antecedente inmediato de la oración, sin ocultar la alternativa.[^20] La metáfora expresa una función subordinada y orientadora, no una renuncia al origen divino que ella atribuía a sus libros. Tampoco define por sí sola todos los límites de su autoridad. Conviene conservar como **probable**, y no como definición exhaustiva, la conclusión que permite el contexto.
 
@@ -125,13 +129,13 @@ La pregunta que los documentos permitirán poner a prueba es precisa: **¿existe
 
 ## 12. ¿Qué queda realmente demostrado?
 
-La reconstrucción distingue sus declaraciones documentadas de dos lecturas probables: la intención de separar título y función en 1904 y los referentes de “luz menor” y “luz mayor” en 1903. Quedan abiertas tres cuestiones: dónde situaba el límite de lo sagrado en cada escrito mixto, si admitía errores en mensajes revelados y cuáles fueron sus palabras orales exactas de 1904 más allá del informe conservado.
-
 La pretensión que queda para someter a prueba puede formularse así:
 
 > **Ellen G. White afirmó que Dios le confió una comisión que incluía la función profética. Sostuvo que recibía visiones e instrucciones divinas, que las expresaba en lenguaje humano y que podía aplicar luz anterior a casos nuevos con ayuda de información ordinaria. Distinguió esos mensajes de asuntos comunes, reclamó obediencia para los testimonios que identificaba como enviados por Dios y presentó la Biblia como la norma doctrinal y el criterio de prueba.**
 
 Esta formulación es más estrecha que “todo lo que escribió fue dictado por Dios”, pero mucho más fuerte que “fue una autora cristiana que ofrecía consejos”. Precisamente por ser concreta puede investigarse.
+
+La reconstrucción distingue sus declaraciones documentadas de dos lecturas probables: la intención de separar título y función en 1904 y los referentes de “luz menor” y “luz mayor” en 1903. Quedan abiertas tres cuestiones: dónde situaba el límite de lo sagrado en cada escrito mixto, si admitía errores en mensajes revelados y cuáles fueron sus palabras orales exactas de 1904 más allá del informe conservado.
 
 ## 13. ¿Qué evidencia obligaría a corregir esta reconstrucción?
 
@@ -146,6 +150,8 @@ Y la reconstrucción de su autoridad quedaría seriamente afectada si se demostr
 Ahora debemos contrastar sus afirmaciones con evidencia independiente y con los criterios ya fijados.
 
 **¿Qué ocurrió realmente en las primeras visiones de Ellen G. White, y qué podemos establecer sobre su origen, sus relatos y sus primeros testigos?**
+
+## ¿Dónde pueden comprobarse estas afirmaciones?
 
 [^1]: Ellen G. Harmon, carta a Enoch Jacobs, Portland, Maine, 20 de diciembre de 1845, publicada en *The Day-Star*, 24 de enero de 1846, pp. 31-32; catalogada como Lt 1, 1845. El registro bibliográfico y la reproducción se conservan en el [Heritage Research Center de Loma Linda University](https://library.llu.edu/day-star-letter-written-december-20-1845-portland-maine-by-sister-harmon-bro-jacobs-account-of-first-vision). La fecha de redacción no debe confundirse con la de publicación.
 [^2]: W. E. Cornell, informe conservado como DF 108a, transmitido en A. G. Daniells a W. C. White, 23-V-1906, según Arthur L. White, [*The Early Elmshaven Years*, 5BIO 354.4 y 355.3](https://text.egwwritings.org/amp/read/675.2617). Se consultó esta reproducción, no el original del informe. La fecha de transmisión no prueba la de su redacción. Ms 140, 1905, citado en la frase precedente de la biografía, no es la referencia de esta declaración.

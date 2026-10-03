@@ -8,7 +8,7 @@ La pregunta es más precisa: cuando hablaba en nombre de Dios, ¿era honesta sob
 
 Conviene distinguir tres posibilidades que pueden parecer iguales desde fuera. Alguien puede mentir sabiendo que miente; puede creer sinceramente que Dios le habló y equivocarse al interpretarlo; o puede decir algo falso porque recibió una noticia incorrecta. Un error documentado no nos informa automáticamente cuál de las tres ocurrió. Para afirmar engaño consciente hay que averiguar qué sabía en aquel momento y qué hizo cuando pudo comprobarlo.
 
-Comencemos por el dinero. Es uno de los lugares donde una pretensión religiosa podría convertirse en provecho privado.
+El dinero ofrece una primera prueba: ¿la autoridad religiosa se convirtió en provecho privado?
 
 ## 2. ¿De dónde provenía su dinero?
 
@@ -20,7 +20,11 @@ Poseía una casa y terrenos en Elmshaven, edificios usados por colaboradores, un
 
 ## 3. ¿Qué muestran las cifras de sus deudas?
 
-Un informe preparado después de su muerte por W. C. White y D. E. Robinson dice que los libros de cuenta registraban **USD 86.923,70** de deuda. El mismo informe valora terrenos y edificios en **USD 14.000** y explica que los materiales editoriales fueron rebajados, para la sucesión, de **USD 74.797,32** en los libros a **USD 40.300**. Otra reconstrucción, que cita la tasación judicial, da **USD 65.721,87** como valor total tasado y **USD 87.250** como obligaciones tomadas para la operación sucesoria: un déficit de **USD 21.528,13** con esos números. Las dos cifras de deuda difieren; no corresponde elegir una y ocultar la otra ni mezclar una tasación con el costo registrado en otro momento.[^3]
+Un informe preparado después de su muerte por W. C. White y D. E. Robinson dice que los libros de cuenta registraban **USD 86.923,70** de deuda.
+
+El mismo informe valora terrenos y edificios en **USD 14.000** y explica que los materiales editoriales fueron rebajados, para la sucesión, de **USD 74.797,32** en los libros a **USD 40.300**. Otra reconstrucción, que cita la tasación judicial, da **USD 65.721,87** como valor total tasado y **USD 87.250** como obligaciones reconocidas al administrar la herencia: un déficit de **USD 21.528,13** con esos números.
+
+Las dos cifras de deuda difieren; no corresponde elegir una y ocultar la otra ni mezclar una tasación con el costo registrado en otro momento.[^3]
 
 El déficit no significa que hubiera gastado todo en comodidades. Tampoco prueba que endeudarse fuera una virtud. Ella explicó en 1903 que parte de la deuda se vinculaba con ediciones ilustradas y sus planchas; mencionó un préstamo de **USD 1.000 al 7%** para cumplir una contribución prometida a una misión. En otra carta dijo pagar intereses sobre **USD 20.000** invertidos en la obra. Son explicaciones de la propia deudora, útiles para entender su intención declarada, que todavía necesitan confrontación con facturas y cuentas de los destinatarios.[^4]
 
@@ -32,7 +36,9 @@ La deuda, entonces, excluye una historia demasiado sencilla de acumulación de r
 
 ## 4. ¿A quién destinó sus propiedades y derechos?
 
-En el testamento que firmó en **1912** distinguió bienes para su hijo Edson, ciertos derechos editoriales y escritos para su hijo W. C. White, y un conjunto mayor de propiedades y libros a cargo de cinco administradores designados en el testamento. Entre ellos estaba W. C. Dispuso que **cada hijo recibiera el 10% de los ingresos netos** de ese conjunto durante su vida, con continuación para sus esposas; otro **5%** iría a educación de nietos, bisnietos u otras personas. Ordenó aplicar el resto primero a acreedores y después a publicaciones, traducciones, escuelas y otras actividades religiosas. También dispuso legados fijos para dos nietas y tres personas allegadas, entre ellas dos asistentes.[^7]
+En el testamento que firmó en **1912** distinguió bienes para su hijo Edson, ciertos derechos editoriales y escritos para su hijo W. C. White, y un conjunto mayor de propiedades y libros a cargo de cinco administradores designados en el testamento. Entre ellos estaba W. C.
+
+Dispuso que **cada hijo recibiera el 10% de los ingresos netos** de ese conjunto durante su vida, con continuación para sus esposas; otro **5%** iría a educación de nietos, bisnietos u otras personas. Ordenó aplicar el resto primero a acreedores y después a publicaciones, traducciones, escuelas y otras actividades religiosas. También dispuso legados fijos para dos nietas y tres personas allegadas, entre ellas dos asistentes.[^7]
 
 Por tanto, no legó todo a la Iglesia, ni todo a su familia. Tampoco se puede presentar la obra editorial como completamente separada de sus intereses familiares: el mismo documento une ambos. W. C. ya llevaba años cumpliendo tareas relevantes y no sería justo llamar nepotismo a cualquier derecho o función que recibiera. A la vez, la combinación de parentesco, administración de textos, participación en ingresos y poder sobre el archivo constituye un posible conflicto de interés. Para saber si fue favoritismo indebido necesitaríamos comparar responsabilidades, remuneraciones y decisiones concretas que lo favorecieron por encima de personas mejor calificadas.
 
@@ -54,9 +60,9 @@ Si aparecieran comprobantes de pagos a familiares sin labor ministerial, la defe
 
 ## 6. ¿Utilizó a su hijo para controlar los mensajes?
 
-W. C. White intervenía en correspondencia, organización editorial y comunicación con dirigentes. Su madre lo consideraba un colaborador necesario y en 1906 negó que él u otros asistentes tuvieran permiso para añadir ideas propias o cambiar el sentido de sus mensajes. Las cartas de preparación de libros muestran un trabajo de edición y selección real. La colaboración no demuestra que su hijo inventara revelaciones.[^9]
+W. C. White intervenía en correspondencia, organización editorial y comunicación con dirigentes. Su madre lo consideraba un colaborador necesario. En 1906 negó que él u otros asistentes tuvieran permiso para añadir ideas propias o cambiar el sentido de sus mensajes. Las cartas de preparación de libros muestran un trabajo de edición y selección real. La colaboración no demuestra que su hijo inventara revelaciones.[^9]
 
-Un contemporáneo cercano, el médico W. S. Sadler, le escribió en **abril de 1906**. Quería saber cuánto influía Willie en los testimonios. Copió un episodio en el que la propia White había dicho que W. C. dudó de la conveniencia de entregar una nota sobre un pedido de dinero y que ella inicialmente aceptó no enviarla; luego, según ese relato, no pudo quedarse en paz. La intervención del hijo no era una fantasía sin base. Lo que falta es seguir cada versión y cada destinatario para determinar si influyó sólo en la circulación, también en la oportunidad o alguna vez en el contenido.[^10]
+Un contemporáneo cercano, el médico W. S. Sadler, le escribió en **abril de 1906**. Quería saber cuánto influía Willie en los testimonios. Copió un episodio en el que la propia White había dicho que W. C. dudó de la conveniencia de entregar una nota sobre un pedido de dinero y que ella inicialmente aceptó no enviarla; luego, según ese relato, no pudo quedarse en paz. La intervención del hijo no era una fantasía sin base. Falta seguir las versiones y los envíos para saber si sólo influyó en quién recibía el texto y cuándo, o si también modificó alguna vez su contenido.[^10]
 
 Sadler mezclaba observaciones propias con rumores que identificaba como tales. Su preocupación tiene valor porque seguía expresando confianza en White al presentar dudas concretas; no transforma en hechos todas las noticias que le habían llegado. La negación de White tiene valor como afirmación de la autora sobre su control; tampoco cierra la investigación sin cotejo de borradores.
 
@@ -72,17 +78,17 @@ La objeción es seria incluso antes de probar engaño: atribuir a Cristo la cali
 
 Marian Davis ofrece un contraste útil. Las cartas contemporáneas muestran que organizaba materiales, recortaba y preparaba capítulos, y que White reconocía privadamente su capacidad. No hay una serie comparable de denuncias suyas de autoría sustraída. Su trabajo tenía importancia real, sin que conozcamos el origen de cada línea del libro final. Una relación laboral de décadas no borra el conflicto de Bolton; éste tampoco permite convertir a toda colaboradora en víctima de la misma práctica.[^13]
 
-¿Fue excepcional el uso de autoridad en un conflicto de oficina, o reaparece cuando un dirigente contradijo una reprensión?
+La cuestión no se limitó a las colaboradoras. También aparece cuando un dirigente negó una acusación.
 
 ## 8. ¿Qué pasó cuando Kellogg negó una acusación?
 
-John Harvey Kellogg dirigía el sanatorio de Battle Creek y acabó enfrentado con dirigentes adventistas y con White. Las disputas incluyeron control institucional, ubicación y tamaño de edificios, publicaciones y enseñanza religiosa. Tras la ruptura, en una conversación extensa de **1907** con dos dirigentes, Kellogg denunció testimonios que consideraba mal utilizados o erróneos. Su oposición le daba motivos para cargar las tintas, pero haber discutido con White no le quita automáticamente valor como testigo de lo que recibió.[^14]
+John Harvey Kellogg dirigía el sanatorio de Battle Creek y acabó enfrentado con dirigentes adventistas y con White. Las disputas incluyeron control institucional, ubicación y tamaño de edificios, publicaciones y enseñanza religiosa. Tras la ruptura, en una conversación extensa de **1907** con dos dirigentes, Kellogg denunció testimonios que consideraba mal utilizados o erróneos. Su oposición pudo llevarlo a exagerar. Aun así, su testimonio sobre los mensajes que recibió debe examinarse.[^14]
 
 Un caso concreto fue Chicago. Una amonestación de White describía grandes edificios en términos que Kellogg entendió como acusación de haberlos construido y gastado fondos en ellos. Él lo negó. En una carta del **28 de octubre de 1903**, ella reconoció algo importante: había pensado que el edificio visto ya estaba construido y después supo que no lo estaba. Sostuvo que la visión mostraba un proyecto y que la advertencia había impedido ejecutarlo. Otra persona le informó posteriormente de que existían planes; una carta de un dirigente de Chicago fechada en **agosto de 1902**, reproducida por la biografía institucional, describe negociaciones y un plano para un edificio. Esto da sustancia a la existencia de un proyecto, pero no prueba que correspondiera exactamente a todos los detalles vistos ni cuándo llegó cada mensaje a Kellogg.[^15]
 
 La defensa tiene una posibilidad real: una escena preventiva puede ser descrita con la fuerza de algo que habría ocurrido de no haberse advertido. La crítica también la tiene: si la redacción original afirmaba un gasto ya efectuado, presentarlo más tarde como aviso preventivo no deshace el perjuicio de una acusación equivocada. White **sí admitió haberse equivocado al creerlo construido**; mantuvo, sin embargo, que la escena era una advertencia divina. La admisión pesa a favor de cierta capacidad de corrección. La persistencia de la atribución religiosa, después de afectar al acusado, mantiene una dificultad. No podemos inferir sin más que supiera que su explicación era falsa.
 
-Kellogg alegó además que un párrafo crítico fue añadido después a un texto fechado apenas dos días después del incendio del sanatorio de 1902. Un estudio del Estate reconoce un error de la oficina: Kellogg no recibió el testimonio antes de verlo impreso. Pero afirma, según los originales que conserva, que todos los párrafos publicados ya figuraban en la entrada de diario, aunque fueron reorganizados. Esta es una respuesta documental contra la acusación de que se añadió ese párrafo después **si el cotejo material es correcto**. No hemos examinado las imágenes y capas del diario, por lo que no debemos elevar la acusación de Kellogg a hecho ni el cotejo descrito por la institución a una comprobación independiente hecha por nosotros.[^16]
+Kellogg alegó además que un párrafo crítico fue añadido después a un texto fechado apenas dos días después del incendio del sanatorio de 1902. Un estudio del Estate reconoce un error de la oficina: Kellogg no recibió el testimonio antes de verlo impreso. Pero afirma, según los originales que conserva, que todos los párrafos publicados ya figuraban en la entrada de diario, aunque fueron reorganizados. Si ese cotejo es correcto, desmiente que el párrafo se añadiera después. No hemos examinado las imágenes y capas del diario, por lo que no debemos elevar la acusación de Kellogg a hecho ni el cotejo descrito por la institución a una comprobación independiente hecha por nosotros.[^16]
 
 Queda una cuestión práctica aun si aquel párrafo no fue falsificado: una reprensión puede circular antes de llegar a su destinatario. ¿Cómo vivían los afectados ese uso de testimonios?
 
@@ -130,7 +136,7 @@ Los documentos muestran una vida de trabajo religioso, intereses familiares, ayu
 
 Nada de eso acredita una vida impecable. Tampoco se ha establecido un patrón de enriquecimiento privado mediante revelaciones o un engaño consciente demostrable sobre el origen de mensajes concretos. Los conflictos de autoridad son la dificultad moral mejor documentada y exigen que continuemos abiertos a nuevas pruebas. La conducta, en lo que hoy puede comprobarse, hace **menos convincente una explicación exclusivamente basada en lucro y fabricación deliberada**, pero no distingue con seguridad entre una convicción religiosa sincera y otras explicaciones de sus experiencias. Ése es el alcance de este capítulo.
 
-Queda otra pregunta, distinta de cómo actuó ella: **¿qué frutos produjo su ministerio en quienes lo recibieron?** Será la tarea del capítulo siguiente.
+Conocer su conducta deja otra pregunta: **¿qué frutos produjo su ministerio en quienes lo recibieron?**
 
 [^1]: [Matriz vigente](../metodologia/MATRIZ_CRITERIOS_BIBLICOS.md), criterios de frutos y dinero; [inventario y prueba de falsación](../hallazgos/capitulo-14-conducta-inventario-y-criterios.md). Ver Mateo 7:15–20, Miqueas 3:5–11, Jeremías 23:13–16 y los controles de [C2](02-que-credenciales-debe-reunir-un-profeta-autentico.md).
 [^2]: W. C. White y D. E. Robinson, [*Mrs. White's Indebtedness*, pp. 1–3](https://whiteestate.org/legacy/issues-indebtedness-html/). Testimonio retrospectivo de parte; [expediente económico](../hallazgos/capitulo-14-conducta-dinero-deudas-y-herencia.md).

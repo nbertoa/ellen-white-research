@@ -1,10 +1,10 @@
 # Capítulo 5 — ¿Qué ocurría físicamente durante las visiones de Ellen G. White?
 
-En el capítulo anterior intentamos reconstruir las primeras visiones antes de explicar su origen. Ahora debemos hacer algo parecido con otra afirmación: que, durante algunas de aquellas experiencias, el cuerpo de Ellen White se comportaba de manera extraordinaria.
+Quienes vieron a Ellen White en visión describieron un cuerpo que parecía funcionar de manera inusual. ¿Cuánto podemos saber de lo que observaron?
 
 Se ha dicho que permanecía con los ojos abiertos, que dejaba de respirar, que no reaccionaba ante lo que sucedía a su alrededor, que al principio perdía las fuerzas y después manifestaba una resistencia imposible de vencer. También se cuenta que sostuvo una Biblia muy pesada con el brazo extendido y que, sin mirar sus páginas, señaló pasajes que luego fueron verificados por los presentes.
 
-Si todo eso ocurrió exactamente como suele narrarse, sería un conjunto de hechos notable. Pero una afirmación puede ser notable y, al mismo tiempo, estar mal documentada. También puede contener un núcleo histórico verdadero que con los años adquirió detalles cada vez más precisos. Por eso no comenzaremos preguntando si aquellos fenómenos venían de Dios, de una enfermedad o de un engaño. Primero preguntaremos algo más básico: ¿qué dijeron realmente los testigos, cuándo lo escribieron y cuántos testimonios independientes poseemos?
+Los relatos serían extraordinarios si todo ocurrió como se cuenta. También pueden conservar hechos reales que adquirieron nuevos detalles al recordarlos. Antes de elegir entre origen divino, enfermedad o engaño, necesitamos separar lo que vieron los testigos de lo que se contó después.
 
 Como vimos al estudiar las primeras visiones, importan la cercanía del testigo, la fecha de su relato y su independencia. Una declaración directa de un médico no equivale a que otra persona recuerde lo que habría dicho.
 
@@ -56,14 +56,14 @@ Butler y Loughborough conocían la tradición anterior. De Amadon no sabemos cu�
 
 Es más difícil demostrar que nunca parpadeaba. Esa formulación absoluta aparece en descripciones generales, no en observaciones cronometradas de los párpados. Una persona impresionada por una mirada fija puede recordar “no parpadeó” sin haber contado cada movimiento durante media hora.
 
-**Conclusión: probable.** En algunas visiones mantuvo una mirada abierta, fija y elevada. **Indeterminado:** que los ojos permanecieran literalmente sin un solo parpadeo durante todas las visiones.
+Es **probable** que en algunas visiones mantuviera una mirada abierta, fija y elevada. Que nunca parpadeara durante ninguna visión sigue **indeterminado**.
 
 ## 5. ¿Dejaba de responder a lo que sucedía a su alrededor?
 Los testimonios describen una marcada reducción de la respuesta normal. En Randolph, según Nichols, algunos opositores cantaron y leyeron en voz alta para interrumpirla, sin conseguirlo. James White afirmó que ella quedaba inconsciente de cuanto ocurría a su alrededor. Butler habló de intentos de provocar una reacción. Al mismo tiempo, las narraciones dicen que Ellen hablaba, se movía y a veces parecía responder al contenido de la experiencia que estaba viviendo.
 
 Por eso “inconsciente” puede ser una palabra engañosa. Los observadores no estaban midiendo la conciencia en sentido neurológico. Informaban que no respondía normalmente al ambiente, aunque conservaba actividad dirigida dentro de la visión.
 
-**Conclusión: probable.** Durante algunas experiencias mostró una atención profundamente apartada del entorno y poca respuesta a estímulos ordinarios. **Indeterminado:** el estado preciso de su conciencia.
+Es **probable** que durante algunas experiencias su atención estuviera profundamente apartada del entorno. El estado preciso de su conciencia sigue **indeterminado**.
 
 ## 6. ¿Perdía primero la fuerza y después adquiría una fuerza extraordinaria?
 Loughborough describió una fase inicial de cuatro o cinco segundos en la que Ellen parecía perder la fuerza. Después, según él, aparecía una resistencia inusual: los movimientos podían ser libres, pero nadie lograba cambiar la posición de un brazo o una mano. Martha Amadon recordó algo parecido y añadió que, al terminar, Ellen quedaba flácida y sin fuerzas.
@@ -74,7 +74,7 @@ La narración posee elementos favorables: identifica a la persona, el lugar y el
 
 Un músculo contraído durante un tiempo, una postura que dificulte doblar el brazo o una resistencia involuntaria pueden sorprender a quien intenta moverlo. Son posibilidades; la impresión de fuerza extraordinaria no equivale a medirla.
 
-**Conclusión: probable.** En algunas visiones su cuerpo mostró rigidez o resistencia que los presentes consideraron muy inusual. **Indeterminado:** cuánta fuerza hubo, cuál fue su causa y si superó realmente la capacidad humana.
+La rigidez o resistencia que sorprendió a los presentes es **probable**. Su magnitud, su causa y si superó la capacidad humana siguen **indeterminadas**.
 
 ## 7. ¿Cuál es la primera fuente que dice que no respiraba?
 Hay que distinguir tres cosas: un testimonio temprano, la primera descripción general publicada y una medición de la respiración. La colección documental del White Estate transcribe una carta atribuida a James White a los Hastings, fechada en Port Gibson el 26 de agosto de 1848. Al describir una visita reciente a Hannibal —«Hanable» en la transcripción—, afirma que Ellen estuvo en visión una hora y media sin respirar y manipuló una Biblia grande. La fuente declarada es **Record Book 1, pp. 18–20**. No hemos comprobado aquí el original escrito por James ni determinado cuándo se copió la carta en el registro o se imprimió por primera vez.[^27]
@@ -98,10 +98,7 @@ Si el detalle de los diez minutos fuera exacto, el episodio sería extraordinari
 
 En Rochester, en 1854, D. H. Lamson recordó que un médico puso un espejo sobre la boca de Ellen mientras ella hablaba y dijo que no respiraba. Su hermana Drusilla recordó el espejo, pero no pudo identificar con seguridad al médico. David Seeley, al confirmar la historia en 1897, habló de una vela cuyos movimientos no habrían detectado aire.[^9] El espejo y la vela pueden corresponder a ensayos distintos. También pueden mostrar cómo un mismo recuerdo fue adquiriendo variantes.
 
-Estos relatos permiten distinguir:
-
-- **Probable:** algunos presentes realizaron pruebas informales porque no percibían respiración normal.
-- **Indeterminado:** que esas pruebas excluyeran toda ventilación o que duraran exactamente lo recordado décadas después.
+Es **probable** que los presentes hicieran pruebas informales al no percibir respiración normal. Sigue **indeterminado** si excluían toda ventilación y si duraron exactamente lo recordado décadas después.
 
 ## 9. ¿Qué dijeron realmente los médicos?
 Decir “los médicos comprobaron que no respiraba” va más allá de lo que permiten los documentos. Los casos principales son estos:
@@ -125,7 +122,7 @@ Merritt G. Kellogg, que en 1890 había dejado un testimonio favorable sobre vari
 
 La carta es tardía y pertenece a una etapa en que Merritt Kellogg ya no interpretaba las visiones como antes. Eso puede haber influido en su lenguaje. Pero tampoco sería correcto descartarla por ese motivo. Lo importante aquí es que un mismo observador dejó recuerdos posteriores que no encajan del todo con la presentación de un pulso normalmente conservado.
 
-**Conclusión: indeterminado.** Las fuentes tardías no permiten establecer con seguridad cómo se comportaba el pulso durante las visiones. No tenemos un registro clínico uniforme.
+El comportamiento del pulso sigue **indeterminado**: los recuerdos tardíos no permiten reconstruirlo con seguridad.
 
 ## 11. ¿Podía hablar sin respirar?
 Varias narraciones juntan dos afirmaciones: Ellen no respiraba y, sin embargo, pronunciaba palabras o frases. Butler sostuvo incluso que no escapaba aire por la nariz o los labios mientras hablaba.
@@ -162,14 +159,14 @@ Las respiraciones profundas aparecen al final. M. G. Kellogg recordó que, al sa
 
 No hubo un registro respiratorio. Los intervalos de Kellogg son recuerdos, no datos anotados en 1853. Aun así, la repetición del patrón permite una conclusión moderada.
 
-**Conclusión: probable.** En algunas visiones la respiración visible reaparecía gradualmente y las primeras inspiraciones eran profundas. **No establecido:** que comenzara hiperventilando ni que los intervalos recordados fueran exactos.
+Es **probable** que en algunas visiones la respiración visible reapareciera gradualmente, con primeras inspiraciones profundas. No está establecido que comenzara hiperventilando ni que los intervalos recordados fueran exactos.
 
 ## 14. ¿Quedaba debilitada o exhausta después?
 Las fuentes no muestran un resultado uniforme. Martha Amadon recordaba que al final quedaba flácida y sin fuerza. James White habló de oscuridad temporal y recuperación gradual de la visión. En otros relatos, en cambio, Ellen aparece fortalecida o aliviada después de una experiencia religiosa.
 
 La variación puede ser real o reflejar qué resultado destacaba cada narración: cansancio en unas ocasiones, excitación en otras.
 
-**Conclusión: posible.** Algunas visiones terminaron en debilidad o agotamiento. **No establecido:** que ese fuera un rasgo necesario o constante.
+Es **posible** que algunas visiones terminaran en debilidad o agotamiento. No está establecido que ocurriera siempre.
 
 ## 15. ¿Qué ocurrió realmente con la Biblia de Randolph?
 Antes de examinar la famosa Biblia de casi nueve kilos, debemos distinguir otra historia mejor documentada.
@@ -180,7 +177,7 @@ Aunque retrospectivo, el testimonio es anterior a los de la década de 1890 y pr
 
 No conocemos el peso del volumen, no tenemos una lista contemporánea de todos los textos ni declaraciones independientes escritas por quienes los cotejaron. La afirmación de que cada señalamiento fue exacto depende de la narración de Nichols.
 
-**Conclusión: probable.** En Randolph se realizó una prueba con una Biblia abierta y Ellen la manipuló durante la visión. **Posible, pero no establecido de manera independiente:** que señalara y reprodujera correctamente pasajes sin mirar el libro. **Indeterminado:** el peso, el tiempo exacto y la precisión de cada señalamiento.
+La prueba con una Biblia abierta en Randolph es **probable**. Que Ellen señalara y reprodujera correctamente pasajes sin mirarlos es **posible**, sin confirmación independiente. El peso, el tiempo exacto y la precisión de cada señalamiento siguen **indeterminados**.
 
 ## 16. ¿Qué ocurrió realmente con la gran Biblia familiar?
 La historia más célebre es otra. Se conserva una *Columbian Family and Pulpit Bible* impresa por Joseph Teal en 1822, tradicionalmente atribuida a la familia Harmon. Mide aproximadamente 46 por 28 por 10 centímetros y pesa unos 8,4 kilogramos. La existencia, antigüedad y peso del objeto pueden verificarse.[^17]
@@ -195,7 +192,7 @@ La presencia actual de la Biblia no resuelve el problema. Demuestra la existenci
 
 Una fuente primaria de 1845, una carta temprana de la familia o varias declaraciones independientes anteriores a 1891 cambiarían considerablemente esta evaluación. Mientras no aparezcan, la respuesta debe ser sobria.
 
-**Conclusión: establecido.** La Biblia Harmon existe y pesa alrededor de 8,4 kilogramos. **Indeterminado:** que Ellen la sostuviera del modo y durante el tiempo que describe la tradición. **No establecido:** que señalara textos en esa Biblia; ese detalle está mejor atestiguado en el episodio distinto de Randolph.
+La existencia y el peso de la Biblia están **establecidos**; la hazaña sigue **indeterminada**. Tampoco está establecido que Ellen señalara textos en ese ejemplar: ese detalle tiene mejor testimonio en el episodio distinto de Randolph.
 
 ## 17. ¿Cuántos testimonios son realmente independientes?
 La lista de nombres puede impresionar: James White, Butler, Loughborough, Kellogg, los Lamson, Seeley, Fowler, los Carpenter, Bourdeau, Amadon y otros. Pero no todos aportan información independiente.
@@ -217,14 +214,14 @@ Hay que distinguir la independencia de **observadores, ocasiones, documentos y a
 
 Esto no deja un único testigo. Hay varias personas que afirmaron haber visto rasgos parecidos en ocasiones distintas. Pero tampoco hay decenas de registros contemporáneos independientes. El núcleo documental es mucho más pequeño de lo que parece cuando se cuentan todas las repeticiones.
 
-**Conclusión: establecido.** Existen varios testigos presenciales, pero la mayoría de las descripciones detalladas fueron escritas tarde y circularon dentro de una tradición compartida. La convergencia apoya la existencia de un estado visible inusual; no garantiza cada detalle extraordinario.
+Existen varios testigos presenciales, aunque la mayoría de las descripciones detalladas son tardías y circularon dentro de una tradición compartida. Su coincidencia apoya un estado visible inusual; no garantiza cada detalle extraordinario.
 
 ## 18. ¿Qué valor tienen Joseph Bates y los observadores inicialmente escépticos?
 Los testigos escépticos son importantes porque disminuyen la posibilidad de que todos vieran sólo lo que ya esperaban ver. Bates es el mejor caso temprano: sospechó debilidad, engaño o mesmerismo; interrogó, observó y terminó creyendo. Bourdeau dijo no aceptar las visiones antes de su propia prueba. Drummond, según Kellogg, las había atribuido al mesmerismo. Daigneau y el doctor Brown fueron presentados como personas que querían poner a prueba el fenómeno.
 
 Pero “escéptico” no significa “observador independiente en condiciones controladas”. Bates se integró rápidamente al pequeño movimiento, compartía su marco bíblico y no dejó datos fisiológicos. Las historias de Drummond, Brown y Daigneau nos llegan a través de creyentes muchos años después. El cambio de opinión puede demostrar que la experiencia impresionó sinceramente al testigo; no identifica por sí solo la causa.
 
-**Conclusión: probable.** Algunas visiones convencieron a observadores que al principio dudaban. **No demostrado:** que su cambio de opinión se debiera a una prueba física concluyente y no a la totalidad de la experiencia, su contenido religioso y las relaciones personales.
+Es **probable** que algunas visiones convencieran a observadores inicialmente escépticos. No sabemos si los persuadió una prueba física, la experiencia en conjunto, su contenido religioso o las relaciones personales.
 
 ## 19. ¿Existen testimonios hostiles o críticos que confirmen los fenómenos?
 El juicio de Dammon confirma que Ellen tenía experiencias públicas reconocidas como visiones, pero no confirma los detalles fisiológicos posteriores. Los críticos más conocidos tampoco ofrecen observaciones directas que resuelvan el asunto.
@@ -235,7 +232,7 @@ D. M. Canright apeló después a categorías como histeria, epilepsia, catalepsi
 
 Así, las fuentes críticas aportan una objeción válida —los fenómenos pueden tener explicaciones naturales—, pero no un registro clínico contemporáneo capaz de establecer cuál fue esa explicación. Tampoco hemos localizado un testigo hostil presencial que haya demostrado que Ellen respiraba normalmente, fingía la rigidez o recibía ayuda para sostener una Biblia.
 
-**Conclusión: indeterminado.** No existe una refutación contemporánea decisiva de los fenómenos, pero tampoco una confirmación hostil independiente de sus rasgos más extraordinarios.
+Estas fuentes dejan la cuestión **indeterminada**: no ofrecen una refutación contemporánea decisiva ni una confirmación hostil independiente de los rasgos más extraordinarios.
 
 ## 20. ¿Puede la medicina moderna decir qué ocurrió?
 Puede aclarar los límites físicos examinados: no ver respiración no equivale a medir ausencia de ventilación, y el pulso o el color del rostro no resuelven esa diferencia. Pero ningún médico actual puede examinar una visión de 1857. Faltan registros de actividad cerebral, respiración y recuperación; quedan descripciones del siglo XIX, muchas tardías. La medicina ayuda a evaluar sus afirmaciones, sin convertirlas en diagnóstico ni prueba de engaño.
@@ -252,7 +249,7 @@ La evidencia sugiere que las manifestaciones físicas espectaculares pertenecen 
 
 A. G. Daniells expresó algo importante en la discusión de 1919: rasgos como la ausencia aparente de respiración y los ojos abiertos podían haber acompañado el ejercicio temprano del don, pero no caracterizaron del mismo modo la etapa posterior; aun así, él seguía considerando genuino el don. Su argumento no demuestra que las visiones fueran auténticas, pero sí muestra una consecuencia lógica: incluso para un defensor adventista bien informado, los fenómenos físicos no podían funcionar como condición necesaria de inspiración.
 
-**Conclusión: probable.** Las manifestaciones corporales más llamativas se concentran en las primeras décadas y dejaron de ser un rasgo regular de la experiencia posterior. **Consecuencia:** aun si algunas fueron históricamente reales, pueden aportar evidencia, pero no ser un requisito indispensable para decidir si el supuesto don profético era auténtico.
+Es **probable** que las manifestaciones corporales más llamativas se concentraran en las primeras décadas y dejaran de ser regulares después. Aun si fueron reales, eso impide exigirlas como requisito indispensable del supuesto don.
 
 ## 23. ¿Qué demostrarían los fenómenos si fueran auténticos?
 Demostrarían que ocurrió algo inusual, pero no identificarían por sí solos su causa. En distintas tradiciones religiosas se han informado trances, insensibilidad al dolor, fuerza inesperada y alteraciones respiratorias. No aceptaríamos sus explicaciones sobrenaturales sin examen; el mismo criterio vale aquí.
