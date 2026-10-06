@@ -39,3 +39,7 @@ Falsación: descripción contemporánea que limite el pasaje a incendios de mant
 ## ¿Qué peso tiene el origen declarado?
 
 La escena geológica contiene «I saw», pero no permite identificar por sí sola cuáles detalles químicos fueron vistos, inferidos o formulados con vocabulario disponible. No se demostró una fuente humana exacta ni un ayudante para cada mecanismo. El capítulo conserva esa diferencia: mecanismos científicos problemáticos establecidos según su alcance; revelación específica de cada eslabón, no siempre delimitada.
+
+## ¿Qué cambia al explicitar el límite en octubre de 2026?
+
+La revisión P0 conserva la exclusión probatoria completa, conforme a la opción B del feedback externo, pero rectifica su presentación. La sección añadida al capítulo 12 identifica las afirmaciones de SG3 pp. 90–93, diferencia sus fórmulas de origen y explica por qué excluirlas reduce el alcance. C16 declara la incidencia crítica de incorporarlas bajo geocronología estándar y referente físico joven. No se afirma igualdad de apoyo científico entre Tierra joven y geocronología estándar. La justificación y el costo dejan de estar únicamente en esta ficha.

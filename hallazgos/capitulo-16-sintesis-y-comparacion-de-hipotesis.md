@@ -113,3 +113,9 @@ Entre las hipótesis causales, la evidencia favorece **moderadamente una experie
 Por tanto, el material examinado no permite afirmar con suficiente fundamento que Ellen White reúna credenciales demostradas para ser considerada una profeta auténtica. Tampoco demuestra que fuera una impostora o falsa profetisa en todos los sentidos. **Veredicto global: pretensión profética no confirmada, con inclinación crítica moderada; explicación humana sincera actualmente mejor apoyada que origen profético demostrado o fraude consciente generalizado.**
 
 El juicio podría cambiar con evidencia primaria nueva. Esta clasificación registra el límite actual del proyecto y no cierra la pregunta por principio.
+
+## ¿Qué se rectificó en el balance del 6 de octubre de 2026?
+
+La formulación anterior queda como antecedente histórico. La [revisión P0](revision-p0-auditoria-externa-2026-10-06.md) y el capítulo 16 vigente precisan la conclusión: la explicación humana sincera preferida cuestiona el origen divino afirmado para los mensajes que explica; no es una validación intermedia del don. Se incorporan la disyuntiva de 4T 230, 5T 661, controles doctrinales básicos, rendición de cuentas ante la matriz y comparación de tres hipótesis causales. El «proceso mixto» conserva sólo función descriptiva. La confianza moderada pertenece a la explicación causal global; no disminuye la certeza del incumplimiento literal de 1856.
+
+La geocronología sigue sin evaluación completa, pero su exclusión y costo ya aparecen en el cuerpo del libro. El veredicto queda expresamente sin examen doctrinal de 1844, santuario y juicio investigador. No se incorporan los casos P1 como si ya hubieran sido verificados.

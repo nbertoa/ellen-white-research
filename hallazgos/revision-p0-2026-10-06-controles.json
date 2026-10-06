@@ -1,0 +1,27 @@
+{
+  "fecha": "2026-10-06",
+  "capitulos": [
+    {
+      "capitulo": 3,
+      "notas": 24,
+      "palabras_con_notas": 4589,
+      "titulos_interrogativos": 16
+    },
+    {
+      "capitulo": 12,
+      "notas": 45,
+      "palabras_con_notas": 8058,
+      "titulos_interrogativos": 30
+    },
+    {
+      "capitulo": 16,
+      "notas": 26,
+      "palabras_con_notas": 6745,
+      "titulos_interrogativos": 18
+    }
+  ],
+  "cuerpo_c16_palabras": 5763,
+  "notas_ordenadas": true,
+  "enlaces_relativos_existentes": true,
+  "git_diff_check": "correcto"
+}
