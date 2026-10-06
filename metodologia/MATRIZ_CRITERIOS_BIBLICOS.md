@@ -147,3 +147,9 @@ Una evidencia decisiva, favorable o desfavorable, puede tener un peso mucho mayo
 
 **¿Qué afirmó realmente Ellen G. White sobre su propio don y sobre el origen de sus mensajes?**
 
+
+## ¿Dónde queda registrada la aplicación de los criterios?
+
+La revisión P0 del 6-X-2026 agrega al capítulo 16 una tabla que rinde cuentas frente a cada clase de criterio del capítulo 2. Distingue aprobación delimitada (lealtad al Dios bíblico y encarnación), resultado adverso (1856 bajo lectura literal e incondicional), indeterminación (patrón de mensajes condicionados por pagos y otros controles) y cuestiones no examinadas. No modifica los criterios para acomodarlos a White. La falta de prueba de un descalificador no se registra como aprobación universal.
+
+El veredicto no incluye la evaluación doctrinal de 1844, santuario y juicio investigador. La geocronología se conserva como límite expuesto, con incidencia declarada bajo la lectura científica indicada; no se transforma en una prueba favorable por exclusión.
