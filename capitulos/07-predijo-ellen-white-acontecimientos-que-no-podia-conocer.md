@@ -1,6 +1,6 @@
-# Capítulo 7 — ¿Predijo Ellen White acontecimientos que no podía conocer?
+# Capítulo 7 — ¿Predijo Elena G. de White acontecimientos que no podía conocer?
 
-Los fenómenos físicos no resolvieron de dónde procedía la información de Ellen White. Sus predicciones permiten otra prueba: ¿anunció antes de los hechos algo que no podía saber por medios normales?
+Los fenómenos físicos no resolvieron de dónde procedía la información de Elena G. de White. Sus predicciones permiten otra prueba: ¿anunció antes de los hechos algo que no podía saber por medios normales?
 
 Es una investigación que exige dos precauciones. Una coincidencia llamativa puede perder fuerza cuando leemos la frase completa y averiguamos qué se sabía antes. Y una declaración que parece fallida puede resultar ser una advertencia destinada a evitar precisamente el desenlace anunciado. Vamos a aplicar el mismo criterio a las dos posibilidades.
 

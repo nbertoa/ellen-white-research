@@ -1,6 +1,6 @@
-# Capítulo 8 — ¿Conoció Ellen White cosas que no podía saber por medios normales?
+# Capítulo 8 — ¿Conoció Elena G. de White cosas que no podía saber por medios normales?
 
-En el capítulo anterior encontramos advertencias que precedieron a determinados acontecimientos, pero también una expectativa cuyo sentido literal no se cumplió. Predecir el futuro no es la única manera de poner a prueba una pretensión profética. ¿Qué pasaría si Ellen White hubiera conocido algo que estaba ocurriendo a distancia, o una conducta que nadie le había contado?
+En el capítulo anterior encontramos advertencias que precedieron a determinados acontecimientos, pero también una expectativa cuyo sentido literal no se cumplió. Predecir el futuro no es la única manera de poner a prueba una pretensión profética. ¿Qué pasaría si Elena G. de White hubiera conocido algo que estaba ocurriendo a distancia, o una conducta que nadie le había contado?
 
 La pregunta parece sencilla. Una historia puede decir que reprendió a un desconocido por un pecado secreto y que este terminó confesándolo. Pero para saber cuánto vale esa historia necesitamos averiguar cuándo se pronunció la reprensión, cuándo se escribió el relato y quiénes conocían el hecho. En una comunidad donde las personas se visitaban, viajaban y se escribían, «ella no estaba allí» todavía no significa «nadie pudo informarla». Tampoco la posibilidad abstracta de un informante demuestra que existiera uno.
 

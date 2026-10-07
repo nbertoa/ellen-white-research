@@ -1,4 +1,4 @@
-# Capítulo 4 — ¿Qué ocurrió realmente en las primeras visiones de Ellen G. White?
+# Capítulo 4 — ¿Qué ocurrió realmente en las primeras visiones de Elena G. de White?
 
 Las primeras visiones de Ellen Harmon —todavía no se había casado con James White— suelen narrarse como una historia ya resuelta. En una versión, una adolescente enferma recibió de Dios una respuesta para un movimiento que había visto fracasar su expectativa. En otra, una joven vulnerable transformó trances religiosos en autoridad profética. En ambos relatos se decide primero el origen y después se seleccionan los hechos.
 
@@ -203,7 +203,7 @@ Pero el juicio no conserva mediciones de respiración, pulso, fuerza muscular o 
 
 Atkinson respalda, por tanto, la existencia de estados públicos inusuales. No identifica su causa: los presentes interpretaron de modo opuesto lo que veían.
 
-El informe documenta además que Dammon sostenía que “el día de gracia” había terminado para los pecadores; Joel Doore declaró haberlo oído predicar esa idea y el propio Dammon la confirmó ante el tribunal.[^26] Esto refuerza el carácter restrictivo del ambiente religioso de Atkinson, pero sigue siendo evidencia acerca de Dammon. No debe trasladarse automáticamente a Ellen como si fueran palabras suyas.
+El informe documenta además que Dammon sostenía que “el día de gracia” había terminado para los pecadores; Joel Doore declaró haber oído predicar esa idea y el propio Dammon la confirmó ante el tribunal.[^26] Esto refuerza el carácter restrictivo del ambiente religioso de Atkinson, pero sigue siendo evidencia acerca de Dammon. No debe trasladarse automáticamente a Ellen como si fueran palabras suyas.
 
 Ellen actuaba ante partidarios y adversarios. El informe no certifica un milagro ni descubre un fraude. ¿Cómo se compara con su recuerdo posterior?
 

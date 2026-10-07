@@ -1,10 +1,10 @@
-# Capítulo 15 — ¿Qué frutos produjo el ministerio de Ellen White?
+# Capítulo 15 — ¿Qué frutos produjo el ministerio de Elena G. de White?
 
 ## ¿Qué debemos mirar después de examinar sus mensajes y su conducta?
 
 Debemos mirar lo que su ministerio ayudó a producir en otras personas. Una afirmación puede ser discutible y, aun así, impulsar una obra útil. Una intención puede ser buena y terminar imponiendo una carga. Un libro puede acercar a un lector a Cristo y convertirse, en otro contexto, en una autoridad que dificulta hacer preguntas.
 
-Por eso este capítulo no pregunta solamente si Ellen White hizo cosas buenas. Pregunta qué efectos espirituales, morales, prácticos e institucionales pueden relacionarse razonablemente con su influencia, y cuánto ayudan a evaluar el origen que reclamaba.
+Por eso este capítulo no pregunta solamente si Elena G. de White hizo cosas buenas. Pregunta qué efectos espirituales, morales, prácticos e institucionales pueden relacionarse razonablemente con su influencia, y cuánto ayudan a evaluar el origen que reclamaba.
 
 Los capítulos anteriores encontraron recomendaciones valiosas, errores, cambios, colaboración editorial, conflictos y límites documentales. Ahora no corresponde sumar hospitales para compensar errores médicos, ni sumar lectores heridos para cancelar todo servicio. Debemos reconstruir resultados y responsabilidades.
 
