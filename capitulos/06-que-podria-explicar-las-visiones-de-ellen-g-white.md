@@ -1,4 +1,4 @@
-# Capítulo 6 — ¿Qué podría explicar las visiones de Ellen G. White?
+# Capítulo 6 — ¿Qué podría explicar las visiones de Elena G. de White?
 
 El capítulo anterior dejó un núcleo probable: Ellen Harmon entraba en estados públicos de atención apartada, mirada fija, movimientos y resistencia muscular, con una respiración difícil de percibir. La apnea prolongada, la fuerza sobrehumana y la hazaña de la gran Biblia no quedaron establecidas. Ahora falta preguntar qué pudo causar esos estados.
 
