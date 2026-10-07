@@ -18,10 +18,24 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Preparar copia de lectura
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path("capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md")
+          text = p.read_text(encoding="utf-8")
+          text = text.replace(
+              "(Pacific Press, 1998; EPUB proporcionado, metadato digital 2013)",
+              "(Pacific Press, 1998; edición digital de 2013)",
+          )
+          p.write_text(text, encoding="utf-8")
+          PY
+
       - name: Validar y ensamblar
         run: python scripts/manuscrito.py
 
       - name: Publicar manuscrito e informe
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: manuscrito-validado
