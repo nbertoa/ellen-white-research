@@ -76,6 +76,22 @@ Lo establecido es que White **reconoció haberse equivocado al creer que el edif
 
 Kellogg hizo además una acusación de alteración posterior de un testimonio sobre el incendio del sanatorio. El White Estate reconoce un error de circulación —Kellogg no recibió el mensaje antes de verlo impreso—, pero sostiene que los párrafos ya estaban en el diario original y sólo fueron reorganizados. No hemos cotejado las imágenes y capas manuscritas necesarias para resolverlo de manera independiente.[^16]
 
+### ¿Qué muestra *The Living Temple* sobre el uso de su autoridad doctrinal?
+
+En 1903 White intervino de manera mucho más directa en otra disputa con Kellogg. Escribió que las representaciones de Dios contenidas en *The Living Temple* eran erróneas, que el Señor no lo había guiado al formularlas y que, al escribir el libro, «no estaba bajo la inspiración de Dios». En otra carta llamó al libro «el alfa» de una cadena de herejías.[^16a]
+
+La intervención no se limitó a invocar una visión: en la carta 232 apeló también a la Biblia y sostuvo que esas representaciones de Dios no se encontraban en la Palabra. El episodio muestra una autoridad práctica fuerte en una disputa teológica e institucional.
+
+Eso no demuestra conocimiento sobrenatural. Las ideas de Kellogg ya estaban escritas y circulaban. Para que el caso aportara evidencia independiente de revelación habría que identificar información o un diagnóstico doctrinal inaccesible por estudio y comunicación ordinarios. Lo que sí establece es que White estaba dispuesta a atribuir autoridad divina a una condena doctrinal concreta.[^16a]
+
+### ¿Usó siempre una revelación para zanjar una discusión bíblica?
+
+No. La controversia sobre «the daily» de Daniel 8 ofrece un límite. El 3 de agosto de **1910** White escribió a dirigentes que sostenían interpretaciones opuestas y dijo que el asunto no debía convertirse en una prueba doctrinal, que la agitación había producido confusión y que no debía presentarse como tema de gran importancia. No entregó allí una exégesis revelada que decidiera cuál de los dos bandos tenía razón.[^16b]
+
+Esto complica dos caricaturas. No es correcto decir que White resolvía toda disputa bíblica mediante oráculo; tampoco que su autoridad nunca interviniera en cuestiones doctrinales. *Living Temple* muestra una intervención directa; «the daily», el uso de esa misma autoridad para limitar una controversia sin resolver la exégesis.
+
+La lectura favorable es que entendía su don como una función selectiva de orientación, no como sustituto de toda investigación bíblica. La objeción es que no disponemos de un criterio independiente que explique por qué unas cuestiones recibían una condena revelatoria y otras no. El contraste define mejor cómo ejercía su autoridad; no decide su origen.
+
 ## 7. ¿Existían quejas contemporáneas sobre la circulación y corrección de los testimonios?
 
 Sí. Sadler preguntó en **1906** si era correcto difundir mensajes personales antes de entregárselos a los afectados. Dijo haber visto una carta en la que aparecía su nombre sin haberla recibido directamente y pidió criterios para distinguir una carta personal de un testimonio atribuido a Dios.[^10]
@@ -148,6 +164,8 @@ La pregunta siguiente cambia de escala: si la vida de una persona no decide el o
 [^14]: [Entrevista a Kellogg, Amadon y Bourdeau, 7-X-1907](https://www.nonegw.org/kelloggfile.shtml), transcripción en un sitio crítico; [edición y análisis del White Estate](https://m.egwwritings.org/en/book/697.2).
 [^15]: White, [Lt 135, 1903](https://ellenwhiteresearch.com/p/18LtMs%2C%2BLt%2B135%2C%2B1903%2C%2Bpar.%2B7); [Lt 245a, 5-X-1903](https://text.egwwritings.org/read/14068.9203001); [Lt 239, 28-X-1903, párrs. 5–6](https://text.egwwritings.org/read/14068.10149001); [Ms 33, 2-IV-1906](https://text.egwwritings.org/amp/read/14071.10355001). Jesse Arthur a W. C. White, 27-VIII-1902, DF 481, extracto en A. L. White, *The Later Elmshaven Years*, pp. 97–98. No se cotejaron todos los originales ni acuses de entrega.
 [^16]: Kellogg, entrevista de 1907, pp. 16–17; White Estate, [*The 1907 Interview*](https://m.egwwritings.org/en/book/697.12). La admisión sobre entrega y el cotejo de los párrafos proceden del mismo estudio; las imágenes y estados editoriales no fueron cotejados aquí.
+[^16a]: White, [Lt 232, 1903](https://text.egwwritings.org/read/14068.10197001), especialmente párrs. 1–6 y 38–39; [Lt 253, 20-XI-1903](https://m.egwwritings.org/en/book/14068.9980001), párr. 1; [Lt 265, 26-XI-1903](https://m.egwwritings.org/en/book/7800.1), párr. 1. Las cartas condenan las representaciones de Dios de *Living Temple*, niegan que Kellogg estuviera bajo inspiración divina al escribirlo y describen el libro como «alfa» de una cadena de herejías. La atribución divina de la crítica es parte de la pretensión de White; no prueba por sí sola su origen.
+[^16b]: White, [Lt 62, 3-VIII-1910](https://m.egwwritings.org/en/book/10926.1), especialmente párrs. 1 y 6–11. A dirigentes de ambos lados de la disputa sobre «the daily» de Daniel 8 les pidió no convertirla en una prueba ni mantener la agitación. La carta documenta el límite práctico de la controversia; no decide exegéticamente qué interpretación era correcta.
 [^17]: E. P. Daniels, respuesta de 25-VII-1883 impresa en [*Review and Herald Supplement*, 14-VIII-1883, p. 10](https://documents.adventistarchives.org/Periodicals/RH/RH18830814-V60-33s.pdf); [C8](08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md).
 [^18]: White, [Ms 43d, discurso de abril de 1901](https://text.egwwritings.org/read/14066.10497001). No deben confundirse las variantes 43, 43b, 43c y 43d como una grabación única.
 [^19]: White, [Ms 12, diario de octubre de 1873](https://text.egwwritings.org/read/14052.3672001); Lt 76, 1895, a Tait; [Lt 128, 9-VII-1896, a Mary Clough Watson](https://text.egwwritings.org/read/14061.5546001); [C13](13-se-contradijo-ellen-white.md).

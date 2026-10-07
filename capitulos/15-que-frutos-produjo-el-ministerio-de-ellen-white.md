@@ -208,6 +208,26 @@ La conversación demuestra capacidad de examen y desacuerdo, junto con preocupac
 
 El problema mejor documentado es ese costo de reconocer públicamente los límites de su autoridad. Afectaba la enseñanza y la circulación de información, aunque no sabemos cuánto se extendía por toda la denominación.
 
+## ¿Persistieron costos institucionales para el desacuerdo después de la muerte de White?
+
+Sí. Dos episodios de 1980 muestran que las disputas doctrinales y sobre la autoridad de White podían tener consecuencias laborales y ministeriales reales, aunque no sean casos idénticos.
+
+Desmond Ford fue convocado a Glacier View después de cuestionar la base bíblica tradicional del juicio investigador y la interpretación adventista de Daniel 8:14. Tras el proceso perdió sus credenciales como docente adventista y su empleo denominacional. Este caso documenta un costo por disentir de una doctrina central ligada a 1844. **No demuestra que Ford fuera sancionado simplemente por cuestionar a Ellen White**: la controversia inmediata era el santuario y el juicio investigador, aunque la interpretación histórica de White formaba parte del sistema doctrinal discutido.[^ford]
+
+Walter Rea ofrece una conexión más directa. En noviembre de 1980, mientras hacía públicas acusaciones de dependencia literaria y llamaba «plagiaria» a White, perdió su puesto pastoral y sus credenciales. La cobertura contemporánea citó al presidente de la División Norteamericana diciendo que su actuación respecto de una pionera altamente respetada lo había vuelto incapaz de servir como ministro adventista.[^rea]
+
+Estos casos no prueban que Ford o Rea tuvieran razón. Tampoco demuestran que toda investigación crítica fuera reprimida: la propia denominación encargó estudios sobre las fuentes de White y publicó discusiones internas. Sí establecen algo más limitado: **ciertos desacuerdos públicos sobre doctrinas centrales o sobre la autoridad profética podían tener costos institucionales serios**.
+
+Eso importa al evaluar el fruto de un sistema de autoridad. Una cultura puede alentar estudio y, al mismo tiempo, fijar fronteras de pertenencia profesional. Para saber si esas fronteras protegían legítimamente una identidad doctrinal o inhibían correcciones necesarias, no basta contar sanciones; hay que examinar qué afirmaciones estaban en juego, qué evidencia tenían y qué opciones reales poseían quienes disentían.
+
+## ¿Cómo formula hoy la Iglesia Adventista la autoridad de Ellen White?
+
+La formulación institucional cambió. Desde 1980 la Creencia Fundamental 18 describía sus escritos como «a continuing and authoritative source of truth». En la sesión de la Asociación General de **2015** esa frase fue reemplazada por «Her writings speak with prophetic authority and provide comfort, guidance, instruction, and correction to the church». La oración siguiente conservó a la Biblia como norma por la cual deben probarse toda enseñanza y experiencia.[^creencia18]
+
+El cambio debe describirse sin decidir su significado por anticipado. La nueva frase evita llamar a los escritos de White una «fuente de verdad» y conserva explícitamente «autoridad profética». Por eso sería incorrecto citar hoy la redacción anterior como si siguiera vigente; también sería incorrecto decir que en 2015 la iglesia dejó de atribuir autoridad profética a White.
+
+Esta historia institucional no demuestra qué quiso decir White en cada escrito: eso fue objeto del capítulo 3. Sí muestra cómo la denominación siguió definiendo públicamente su papel un siglo después de su muerte. La autoridad de White no quedó sólo como recuerdo histórico; permanece incorporada a una creencia oficial, con una formulación que ha cambiado.[^creencia18]
+
 ## ¿Cuánto de ese problema puede atribuirse a White?
 
 Una parte razonable, compartida con promotores, editores y dirigentes. Su afirmación de que recibía instrucción divina ayudaba a dar autoridad a consejos y reprensiones. Podía hacer costoso disentir: la objeción dejaba de parecer sólo desacuerdo con una persona.
@@ -289,5 +309,8 @@ Queda reunir estos resultados con sus experiencias, predicciones, escritos y con
 [^docentes]: 30-VII-1919, Lacey, voz no identificada, Prescott/Bollman, Benson, PDF citado. Bollman limita atribución personal a Ellen. No colación visual completa ni edición diplomática.
 [^anderson]: 1-VIII-1919, J. N. Anderson y G. B. Thompson, [PDF archivado](https://documents.adventistarchives.org/Resources/1919BC/RBC19190801.pdf), «Inspiration of the Spirit of Prophecy As Related to the Inspiration of the Bible». No diagnóstico psicológico.
 [^daniells]: Daniells, reuniones citadas 30-VII y 1-VIII-1919: trato al discrepante y recuerdo de conversación quince años antes. Testimonio, no posición votada por toda iglesia.
+[^ford]: Gerhard Pfandl, [«Remembering Desmond Ford»](https://new.adventistreview.org/commentary/remembering-desmond-ford/), *Adventist Review*, revisión retrospectiva de la controversia de Glacier View: el comité examinó su documento sobre Daniel 8:14, el santuario y el juicio investigador y después fueron retiradas sus credenciales como docente adventista. Es una fuente denominacional retrospectiva; el expediente laboral completo permitiría precisar cada decisión y autoridad interviniente.
+[^rea]: David E. Anderson, [«Church removes Seventh-day minister»](https://www.upi.com/Archives/1980/11/20/Church-removes-Seventh-day-minister/4381343544400/), UPI, 20-XI-1980. Cobertura contemporánea: informa retiro de puesto y credenciales de Walter Rea tras sus acusaciones de plagio y reproduce la explicación pública de C. E. Bradford. Una noticia contemporánea documenta la medida y la razón declarada; no decide la exactitud de las acusaciones literarias.
+[^creencia18]: Asociación General, actas de la sesión mundial, 6-VII-2015, [enmienda a la Creencia Fundamental 18](https://documents.adventistarchives.org/Minutes/GCC/GCC2015-07GCS.pdf), donde se ve la sustitución de «a continuing and authoritative source of truth» por «Her writings speak with prophetic authority»; formulación oficial vigente en [Adventist.org, «What We Believe», creencia 18](https://adventist.org/en/beliefs). La modificación institucional es posterior a White y no debe retroproyectarse como formulación suya.
 [^limites-autoridad]: [C13, inspiración y asistentes](../hallazgos/capitulo-13-inspiracion-fuentes-y-asistentes.md), Lt 206 a Paulson, 14-VI-1906; [C11, revisiones](../hallazgos/capitulo-11-conflicto-de-los-siglos-y-revisiones.md), aprobaciones 1911. No renuncia a origen divino de mensajes específicos.
 [^vestido]: 4T 636–640 y Ms 167, 1897, [dossier Robinson](https://whiteestate.org/legacy/issues-dressref-html/); [ficha C13](../hallazgos/capitulo-13-vestimenta-y-edad-escolar.md). Conflicto recordado y retiro; no censo ni daño clínico.
