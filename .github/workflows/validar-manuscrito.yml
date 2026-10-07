@@ -22,6 +22,7 @@ jobs:
         run: python scripts/manuscrito.py
 
       - name: Publicar manuscrito e informe
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: manuscrito-validado
