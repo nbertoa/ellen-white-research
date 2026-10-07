@@ -2,7 +2,7 @@
 
 ## ¿Qué pregunta debemos responder al llegar al final?
 
-Durante quince capítulos examinamos qué afirmó Ellen G. White sobre su don y cómo resisten el examen sus visiones, predicciones, escritos, conducta y frutos. Ahora debemos preguntar qué explicación da mejor cuenta de esos datos con menos suposiciones que no hemos podido comprobar.
+Durante quince capítulos examinamos qué afirmó Elena G. de White sobre su don y cómo resisten el examen sus visiones, predicciones, escritos, conducta y frutos. Ahora debemos preguntar qué explicación da mejor cuenta de esos datos con menos suposiciones que no hemos podido comprobar.
 
 La pretensión que evaluamos es concreta. White afirmó recibir mensajes de Dios y atribuyó autoridad divina a testimonios específicos. También negó que cada palabra, carta u opinión suya estuviera inspirada y reconoció lenguaje, investigación y corrección humanos. No basta evaluar una idea de dictado universal que ella rechazó, ni reducir lo que afirmó a simple utilidad espiritual.[^1]
 
