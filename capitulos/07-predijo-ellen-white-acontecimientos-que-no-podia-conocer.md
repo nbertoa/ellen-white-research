@@ -148,13 +148,33 @@ La expectativa temporal no se cumplió. Es **otro documento, otra fecha y otra f
 
 **Resultado:** incumplimiento literal **establecido**, lectura condicional **posible** y menor fuerza que 1856 como supuesto mensaje predictivo revelado.
 
-## 16. ¿Qué peso tienen, entonces, los aciertos y las dificultades?
+## 16. ¿Qué implica que atribuyera a Dios un cuadro que contenía un error?
+
+El 23 de septiembre de 1850 Ellen White dijo haber visto que el cuadro profético de 1843 había sido dirigido por la mano del Señor. La afirmación apareció en *The Present Truth* del 1 de noviembre de 1850 y fue incluida después en *A Sketch of the Christian Experience and Views* (1851). Allí añadió algo llamativo: la mano de Dios había cubierto y ocultado «un error en algunas de las cifras» hasta que esa mano fue retirada.[^25]
+
+Este caso no es idéntico a la predicción de 1856. White no estaba formulando una nueva fecha que después resultó falsa. Estaba atribuyendo **dirección divina** a un esquema cronológico que el propio texto reconoce que contenía un error. La pregunta, entonces, no es sólo «¿se cumplió una predicción?», sino «¿qué implica afirmar que Dios quiso que ese error permaneciera oculto durante un tiempo?».
+
+La mejor defensa es que White distinguía entre el marco profético general del movimiento y el error particular de cálculo: Dios habría guiado el proceso sin convertir cada cifra humana en infalible, y el error mismo habría cumplido una función providencial. La dificultad es que su lenguaje va más allá de decir que Dios permitió un error humano: atribuye a la mano divina el hecho de que no pudiera verse hasta después. Eso convierte el origen de la equivocación —o, al menos, su ocultamiento— en parte de la pretensión religiosa.
+
+**Resultado:** está **establecido** que White hizo esa atribución y que reconoció un error dentro del cuadro. No es correcto contarlo simplemente como otra «profecía fallida»; sí es una dificultad relevante para evaluar su afirmación de que Dios dirigía los mensajes y el movimiento. Para H1 puede encajar como providencia que opera mediante comprensión humana incompleta; para H2 es igualmente compatible con una reinterpretación sincera posterior al fracaso de 1844. El caso, por sí solo, no decide entre ambas explicaciones, pero debe formar parte del balance.
+
+## 17. ¿Qué hacemos con las predicciones que todavía siguen abiertas?
+
+No todas las afirmaciones escatológicas de White pueden clasificarse hoy como cumplidas o fallidas. En *The Great Controversy* describió un futuro en el que la observancia dominical sería impuesta por ley en Estados Unidos y en el que el protestantismo estadounidense tendería la mano al espiritismo y al poder romano. Esas formulaciones clásicas existen desde el siglo XIX y todavía no han ocurrido en el sentido completo descrito.[^26]
+
+El paso de más de un siglo no las convierte automáticamente en falsas porque esos pasajes no fijan un año límite. Pero tampoco pueden contarse como evidencia favorable mientras el acontecimiento esperado siga pendiente. Su categoría correcta es **abierta**.
+
+Esto plantea un problema metodológico importante. Una predicción sin plazo puede permanecer abierta durante generaciones. Si ningún desarrollo histórico pudiera llegar a contar como fracaso, dejaría de ser una prueba falsable. Por eso el libro no debe declarar fallidas estas expectativas sólo por su antigüedad, pero tampoco debe permitir que se pospongan indefinidamente sin preguntar qué condiciones históricas las harían imposibles o qué lectura habría reconocido un destinatario original.
+
+**Resultado:** las expectativas de una imposición dominical nacional y de la convergencia descrita entre protestantismo, Roma y espiritismo son **predicciones publicadas y todavía abiertas**. No aportan evidencia de cumplimiento; tampoco constituyen por ahora un incumplimiento cerrado. Nombrarlas evita seleccionar únicamente los casos ya resueltos y mantiene visible una parte central de la escatología de White.
+
+## 18. ¿Qué peso tienen, entonces, los aciertos y las dificultades?
 
 Pesan por su precisión, documentación, contexto y resultado, no por cantidad de relatos. La imprenta identificada ofrece más que una calamidad genérica; una advertencia que influye en las decisiones recibe una confirmación menos independiente. La comparación histórica incompleta impide asignar probabilidades ficticias.
 
-La misma regla conserva el problema de 1856 sin borrar la defensa condicional. Los anuncios que todavía pueden cumplirse dentro de su plazo o entre sus destinatarios permanecen abiertos: no son aciertos comprobados ni fracasos cerrados.
+La misma regla conserva el problema de 1856 sin borrar la defensa condicional. El cuadro de 1843 añade una dificultad diferente: no un pronóstico nuevo incumplido, sino una atribución explícita de dirección divina a un proceso que contenía un error. Y las grandes expectativas escatológicas que no fijan plazo permanecen abiertas: no son aciertos comprobados ni fracasos cerrados.
 
-## 17. ¿Qué queda demostrado por las predicciones de Ellen White?
+## 19. ¿Qué queda demostrado por las predicciones de Ellen White?
 
 **No hemos encontrado un caso que reúna con claridad documentación anterior, contenido específico, un resultado improbable e información difícil de obtener normalmente.** Eso limita la prueba favorable; no vuelve irrelevantes todos los aciertos.
 
@@ -162,7 +182,7 @@ La advertencia sobre la *Review and Herald* identifica la institución y mencion
 
 **La declaración de 1856, en cambio, conserva un incumplimiento literal establecido y adverso para la atribución del mensaje.** La defensa condicional tiene antecedentes en 1868 y 1883, anteriores a la muerte del último posible asistente. Pero ya respondía a una demora y no demuestra qué entendieron los destinatarios en 1856. Por eso la clasificación como profecía falsa sigue discutida, sin que esa discusión borre la dificultad seria ni decida automáticamente todo el ministerio.
 
-El balance es mixto, no equilibrado por una suma de casos: hay anticipaciones concretas con apoyo limitado y una expectativa atribuida a revelación que no ocurrió en su sentido ordinario. La siguiente prueba buscará otra clase de información: hechos privados o lejanos que White aparentemente conoció sin recibir noticias de ellos.
+El balance es mixto, no equilibrado por una suma de casos: hay anticipaciones concretas con apoyo limitado, una expectativa atribuida a revelación que no ocurrió en su sentido ordinario, una atribución de dirección divina a un cuadro que contenía un error y predicciones escatológicas centrales que continúan abiertas. La siguiente prueba buscará otra clase de información: hechos privados o lejanos que White aparentemente conoció sin recibir noticias de ellos.
 
 [^1]: Herbert E. Douglass, *Messenger of the Lord* (Pacific Press, 1998; EPUB proporcionado, metadato digital 2013), cap. 43, y *Profecías dramáticas de Elena de White* (ACES, 2009), caps. 1–6; Walter T. Rea, *The White Lie* (M. & R. Publications, 1982), sección sobre la visión de 1856. Son guías para localizar afirmaciones; las notas siguientes remiten a documentos anteriores o a las defensas primarias cuando corresponde.
 
@@ -211,3 +231,7 @@ El balance es mixto, no equilibrado por una suma de casos: hay anticipaciones co
 [^23]: White, *Testimony for the Church—No. 16* (Battle Creek, **1868**), **p. 98**, [facsímil de primera impresión](https://www.truthseeker.church/_files/ugd/ff8319_b171182453c04652b03cbae45a1c3d6d.pdf), portada y pasaje cotejados en imagen. La oración sobre demora se reimprime en *Testimonies*, t. 2, pp. 193–194 (la referencia abreviada a p. 194 de [*Apparent Delay*](https://whiteestate.org/about/issues1/unusual/unfulfilled-predictions/ref-lib/apparent-delay/) exige leer desde la página anterior). Adelanta el antecedente respecto de Ms 4, 1883; no retrotrae una condición específica a 1856 ni prueba la recepción original.
 
 [^24]: James Buchanan, [cuarto mensaje anual, 3-XII-1860, reproducción textual del Miller Center](https://millercenter.org/the-presidency/presidential-speeches/december-3-1860-fourth-annual-message), párrafos sobre la potestad de coerción de un estado, desde “But if we possessed this power…”. Documento primario por autoría y fecha, accesible aquí por transcripción moderna; no autógrafo ni prueba de lectura por White. Advierte sangre, recursos y reconciliación en un conflicto fraternal; no predice la misma secuencia o duración de Parkville.
+
+[^25]: Ellen G. White, [*The Present Truth*, 1 de noviembre de 1850, párr. 10](https://m.egwwritings.org/en/book/517.76), visión fechada el 23 de septiembre de 1850: «The Lord showed me that the 1843 chart was directed by his hand»; compárese la formulación ampliada de [*A Sketch of the Christian Experience and Views of Ellen G. White* (1851)](https://m.egwwritings.org/en/book/3.437), donde afirma que la mano divina «hid a mistake in some of the figures» hasta ser retirada. La publicación de 1851 no debe confundirse con la fecha de la visión.
+
+[^26]: Ellen G. White, [*The Great Controversy*, pp. 448–449](https://m.egwwritings.org/en/book/132.1960), sobre imposición legal del domingo en Estados Unidos, y [pp. 588–590](https://m.egwwritings.org/en/translate/132.2635/192), sobre protestantismo estadounidense, espiritismo y poder romano. Son afirmaciones escatológicas publicadas sin fecha calendario de cumplimiento.
