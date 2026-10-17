@@ -10,7 +10,7 @@ Sí, a más tardar el 20 de diciembre de 1845. Ese día escribió a Enoch Jacobs
 
 En una reunión en Battle Creek, el 2 de octubre de 1904, un informe de W. E. Cornell le atribuye esta frase: «No soy, como dije ayer, profeta». Añadió que sólo pretendía ser mensajera de Dios. Leída sola, puede entenderse como una negación de la función, no sólo del título. Conocemos la frase por una reproducción de 1906, no por el informe original.[^2]
 
-Sus explicaciones posteriores son claras. En enero de 1905 escribió que nunca había asumido el título de profetisa, aunque otros la llamaran así, porque su trabajo incluía más que eso. En 1906 precisó que lo que quiso decir fue «no reclamo el título de profeta», y escribió que su comisión abarcaba «la obra de un profeta», pero no terminaba allí.[^3]
+Sus explicaciones posteriores son claras. En enero de 1905 escribió que nunca había asumido el título de profetisa, aunque otros la llamaran así, porque su trabajo incluía más que eso. En 1906 precisó que lo que quiso decir fue «no pretendo ser profetisa», y escribió que su comisión abarcaba «la obra de un profeta», pero no terminaba allí.[^3]
 
 Está establecido que en 1905 y 1906 afirmó una función profética. Es probable que en 1904 quisiera distinguir título y función, aunque la frase conservada podía comunicar otra cosa.
 

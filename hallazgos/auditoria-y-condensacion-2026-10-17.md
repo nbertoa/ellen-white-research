@@ -22,7 +22,7 @@ Ninguna de las cinco cambió la conclusión, pero dos explican mejor por qué la
 
 ## ¿Qué se quitó y dónde está?
 
-Se quitaron las cautelas repetidas, las secciones de autodefensa metodológica de cada capítulo, las tablas de trabajo (cronologías de testigos, matrices H1–H3, inventarios de pares), los casos de menor peso y el historial de cotejo dentro de las notas. Se conservaron todos los casos que inclinan el balance y todos los casos favorables.
+Se quitaron las cautelas repetidas, las secciones de autodefensa metodológica de cada capítulo, las tablas de trabajo (cronologías de testigos, matrices H1–H3, inventarios de pares), los casos de menor peso y el historial de cotejo dentro de las notas. Se conservaron todos los casos que inclinan el balance y todos los casos favorables con algún peso probatorio; de los favorables sólo se omitió una observación menor sobre la estricnina, que no distingue entre explicaciones.
 
 La versión extensa completa está en el historial del repositorio, en el commit `4217d00`, y las fichas de investigación de `hallazgos/` siguen intactas. Nada se borró del expediente; sólo de la edición de lectura.
 
@@ -34,3 +34,13 @@ La versión extensa completa está en el historial del repositorio, en el commit
 ## ¿Qué resultado dio la validación?
 
 `scripts/manuscrito.py` terminó con 0 errores y 0 advertencias. Todos los títulos y subtítulos son preguntas y usan «Elena G. de White».
+
+## ¿Qué corrigió la segunda revisión del mismo día?
+
+Se volvió a leer la edición completa y se compararon todos sus números y fechas con la versión extensa. No aparecieron datos nuevos sin respaldo. Se corrigió lo siguiente:
+
+- **Capítulo 16, §6:** la diferencia entre 1856 y Marcos 9:1 no está en que el anuncio de White nombre a un grupo de presentes (Marcos 9:1 también lo hace), sino en que el acontecimiento de 1856 no admite otra lectura que la segunda venida.
+- **Capítulo 16, §10:** la atribución a Dios está documentada desde sus primeros escritos de 1845, no «desde los diecisiete años».
+- **Capítulo 15, §7:** se restituyó que Prescott admitió que el problema podía no ser intencional.
+- **Capítulo 3, §2:** la frase de 1906 se traduce como «no pretendo ser profetisa», más cerca del original.
+- **Capítulo 7, §8:** se restituyó el pronóstico de 1855 sobre el grupo del *Messenger of Truth*, un caso favorable menor que se había omitido.

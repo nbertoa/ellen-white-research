@@ -18,7 +18,7 @@ Que sus escritos mezclen visiones, información humana, fuentes y edición está
 
 ## 3. ¿Pasa las pruebas doctrinales básicas?
 
-Las tres que pueden aplicarse sin resolver 1844, sí o al menos no las reprueba:
+De las tres que pueden aplicarse sin resolver 1844, pasa dos y no reprueba la tercera:
 
 - **Deuteronomio 13:** no invita a seguir a otros dioses. Exhorta a amar al Dios de la Biblia y a buscar a Jesucristo.[^2]
 - **1 Juan 4:** confiesa a Jesucristo venido en carne; describe a Jesús como un ser humano real.[^3]
@@ -36,7 +36,7 @@ Ninguno reúne todo lo necesario: registro seguro anterior, detalle preciso, inf
 
 Dos pesan más que el resto.
 
-**El anuncio de 1856.** White dijo que un ángel le mostró que algunos de los presentes en una conferencia estarían vivos para ser trasladados en la venida de Jesús. Ninguno lo está. El anuncio no expresa condición. La defensa condicional existe desde 1868 y 1883, antes de que murieran todos, pero no demuestra que los oyentes de 1856 la entendieran así. Bajo el criterio de Deuteronomio 18 aplicado al texto tal como se publicó, el anuncio no pasa la prueba.[^5]
+**El anuncio de 1856.** White dijo que un ángel le mostró que algunos de los presentes en una conferencia estarían vivos para ser trasladados en la venida de Jesús. Ninguno sigue vivo. El anuncio no expresa condición. La defensa condicional existe desde 1868 y 1883, antes de que murieran todos, pero no demuestra que los oyentes de 1856 la entendieran así. Bajo el criterio de Deuteronomio 18 aplicado al texto tal como se publicó, el anuncio no pasa la prueba.[^5]
 
 **El folleto de 1864 sobre la masturbación.** Atribuyó a esa práctica enfermedades graves y muerte temprana, con un mecanismo que no se sostiene, y el pasaje central empieza con «me ha sido mostrado». Negar la infalibilidad personal no resuelve un error sustancial atribuido a revelación.[^6]
 
@@ -48,7 +48,7 @@ Es la objeción más fuerte a este libro, y hay que enfrentarla. En el Nuevo Tes
 
 El libro no puede esquivar esta pregunta, porque el capítulo 2 fijó que el criterio vale para toda profecía. Los intérpretes cristianos han dado respuestas a esos pasajes: que «generación» puede referirse a la destrucción de Jerusalén en el año 70, que la promesa a «algunos de los presentes» se refiere a la transfiguración que sigue en el relato, y que el «nosotros» de Pablo expresa una esperanza sin fijar quiénes sobrevivirían. Esas respuestas son discutidas y no se resuelven aquí.
 
-Lo que sí se puede decir es dónde está la diferencia con 1856. El anuncio de White se refiere a un grupo concreto reunido en una sala en una fecha y a un acontecimiento que no admite otro cumplimiento: algunos de ellos serían trasladados vivos en la segunda venida. Esa precisión deja menos margen de interpretación que los textos bíblicos citados. Pero el principio tiene que ser el mismo para todos. Un lector que piense que esos pasajes bíblicos tienen el mismo problema debería, para ser coherente, aplicar el mismo juicio a ambos o relajar el criterio para ambos. Si lo relaja, 1856 pesa menos. Aun así, la conclusión no descansa sólo en 1856: el error médico de 1864 la sostiene por otra vía.
+Lo que sí se puede decir es dónde está la diferencia con 1856. No está en el grupo: Marcos 9:1 también habla de «algunos de los que están aquí». Está en el acontecimiento. «Ver el reino de Dios venido con poder» admite lecturas que no son la segunda venida, como la transfiguración o la resurrección. El anuncio de 1856 no las admite: algunos de los presentes serían «trasladados en la venida de Jesús». Esa precisión deja menos margen de interpretación. Pero el principio tiene que ser el mismo para todos. Un lector que piense que esos pasajes bíblicos tienen el mismo problema debería, para ser coherente, aplicar el mismo juicio a ambos o relajar el criterio para ambos. Si lo relaja, 1856 pesa menos. Aun así, la conclusión no descansa sólo en 1856: el error médico de 1864 la sostiene por otra vía.
 
 Algo parecido vale para el error médico. Los autores bíblicos también escribieron con la ciencia de su época. El capítulo 12 explica por qué este libro distingue entre describir un fenómeno con lenguaje común y presentar como mostrado por Dios un mecanismo causal falso para advertir a madres sobre la muerte de sus hijos. Y deja dicho que ese criterio, aplicado a la Biblia, tendría que dar el mismo resultado.
 
@@ -82,7 +82,7 @@ La tabla no se suma. Muestra qué pesa y qué falta.
 
 ## 10. ¿Fue sincera?
 
-Probablemente, aunque no se puede probar en cada episodio. Atribuyó sus experiencias a Dios desde los diecisiete años y lo sostuvo toda su vida, a menudo con costos. Un crítico de 1847 que no creía en sus visiones tampoco la acusó de mentir. No hay una cadena documental de fabricación deliberada.[^11]
+Probablemente, aunque no se puede probar en cada episodio. Atribuyó sus experiencias a Dios desde sus primeros escritos, de 1845, y lo sostuvo toda su vida, a menudo con costos. Un crítico de 1847 que no creía en sus visiones tampoco la acusó de mentir. No hay una cadena documental de fabricación deliberada.[^11]
 
 Pero no se puede descartar una posición intermedia: un núcleo sincero con episodios en que usó su autoridad para ganar un conflicto o negó más de lo que correspondía. Bolton, el diezmo y la negación de 1897 son casos donde eso podría haber ocurrido. Los documentos no permiten decidirlo.
 

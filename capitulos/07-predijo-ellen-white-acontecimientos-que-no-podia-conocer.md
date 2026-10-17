@@ -44,6 +44,8 @@ Es una afirmación concreta y comprobable. Pero ella ya había visitado la zona,
 
 En 1862 advirtió a Moses Hull que su interés por el espiritismo lo apartaría de la fe, y Hull dejó el adventismo. Pero su inclinación ya era conocida, incluso por los médiums. Una advertencia que busca cambiar la conducta y luego se cumple tampoco es una prueba limpia.[^9]
 
+Algo parecido pasa con un grupo disidente. En 1855 escribió que los editores del periódico *The Messenger of Truth* harían menos daño fuera del movimiento y que no había que contestarles; en 1858 ese periódico ya había cerrado. El pronóstico general está documentado. El detalle de que se pelearían entre ellos «en menos de seis semanas» sólo aparece en un recuerdo escrito décadas después.[^15]
+
 ## 9. ¿Puede una profecía ser verdadera aunque no ocurra?
 
 Sí, si era condicional, como la de Jonás. Pero, como se fijó en el capítulo 2, la condición tiene que poder reconocerse en el anuncio o en su contexto, no agregarse después del fracaso.
@@ -86,3 +88,4 @@ El balance es mixto. Hay advertencias anteriores y concretas que merecen peso, u
 [^12]: Ellen G. White, [*Review and Herald*, 31 de julio de 1888, p. 482](https://text.egwwritings.org/read/821.9045).
 [^13]: Ellen G. White, [*The Present Truth*, 1 de noviembre de 1850](https://m.egwwritings.org/en/book/517.76); [*A Sketch of the Christian Experience and Views* (1851)](https://m.egwwritings.org/en/book/3.437); *Early Writings*, p. 74.
 [^14]: Ellen G. White, [*The Great Controversy*, pp. 448–449 y 588–590](https://m.egwwritings.org/en/book/132.1960).
+[^15]: Ellen G. White, [*Testimony for the Church—No. 1* (1855), p. 11](https://text.egwwritings.org/read/12674.42), luego 1T 122–123; [*Review and Herald*, 14 de enero de 1858](https://documents.adventistarchives.org/Periodicals/RH/RH18580114-V11-10.pdf); J. N. Loughborough, [*The Prophetic Gift in the Gospel Church* (1905)](https://text.egwwritings.org/read/1617.370), para el recuerdo tardío.

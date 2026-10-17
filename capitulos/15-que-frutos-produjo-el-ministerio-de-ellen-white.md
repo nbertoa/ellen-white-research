@@ -38,7 +38,7 @@ En 1895 defendió que mujeres fueran apartadas para el servicio con imposición 
 
 ## 7. ¿Qué costo tenía reconocer sus errores?
 
-Este es el problema mejor documentado. En 1915 W. W. Prescott escribió a W. C. White que había errores en libros autorizados y que se priorizaba evitar el escándalo sobre informar con verdad.[^13] En la Conferencia Bíblica de 1919, docentes y dirigentes discutieron si podían decir a sus alumnos que esos libros no eran autoridad final en historia. J. N. Anderson planteó que callar comprometía la honestidad; Daniells recordó que años antes ni siquiera habría sido seguro conversarlo.[^14]
+Este es el problema mejor documentado. En 1915 W. W. Prescott escribió a W. C. White que había errores en libros autorizados y que se priorizaba evitar el escándalo sobre informar con verdad. Admitió que eso podía no ser intencional; no es una acusación de fraude contra ella.[^13] En la Conferencia Bíblica de 1919, docentes y dirigentes discutieron si podían decir a sus alumnos que esos libros no eran autoridad final en historia. J. N. Anderson planteó que callar comprometía la honestidad; Daniells recordó que años antes ni siquiera habría sido seguro conversarlo.[^14]
 
 El costo siguió después de su muerte. En 1980 Walter Rea perdió su puesto pastoral y sus credenciales mientras acusaba públicamente a White de plagio; un dirigente dijo que su actuación lo volvía incapaz de servir como ministro.[^15] El mismo año Desmond Ford perdió las suyas, aunque por discutir el juicio investigador, no a White directamente.[^16]
 
