@@ -1,41 +1,41 @@
 # Prólogo — ¿Qué hacemos cuando alguien dice que Dios le habló?
 
-Hay afirmaciones religiosas que no piden mucho. Alguien dice que un libro lo ayudó o que una oración le dio paz, y podemos valorarlo sin decidir qué pasó fuera de esa persona.
+Algunas frases religiosas no nos piden mucho. Si alguien dice que un libro lo ayudó o que una oración le dio paz, podemos creerle sin preguntar más.
 
-Pero hay una afirmación que pide más: **«Dios me mostró esto».**
+Pero hay una frase que pide más: **«Dios me mostró esto».**
 
-Quien dice eso habla del origen de un mensaje. Y si el mensaje después corrige, aconseja, interpreta la Biblia o pide obediencia, preguntar por su origen deja de ser un detalle.
+Quien dice eso está hablando de dónde viene un mensaje. Y si después ese mensaje corrige a otros, da consejos o pide obediencia, preguntar de dónde viene se vuelve importante.
 
-Elena G. de White hizo esa afirmación durante setenta años. Millones de lectores creen que tuvo un don profético. Otros la ven como una líder religiosa sincera pero equivocada. Otros, como una impostora. Este libro intenta responder con documentos cuál de esas descripciones se sostiene mejor.
+Elena G. de White dijo esa frase durante setenta años. Millones de personas creen que fue profeta. Otras piensan que fue una líder religiosa sincera pero equivocada. Otras, que fue una impostora. Este libro busca, con documentos, cuál de esas tres ideas se sostiene mejor.
 
 ## ¿Por qué no alcanza con decir «yo creo» o «yo no creo»?
 
-Porque su pretensión contiene afirmaciones que se pueden examinar.
+Porque mucho de lo que ella dijo se puede comprobar.
 
-Si anunció un hecho futuro, podemos ver qué dijo, cuándo y qué ocurrió. Si dijo saber algo que no podía saber, podemos buscar quién pudo contárselo. Si presentó una enseñanza como mostrada por Dios, podemos comprobar si era correcta y de dónde pudo salir. Si sus visiones se contaron de distintas maneras con los años, podemos comparar las versiones. Si usó libros de otros autores, podemos ver cuánto y qué implica.
+Si anunció algo del futuro, podemos ver qué dijo, cuándo lo dijo y qué pasó después. Si dijo saber algo que no podía saber, podemos buscar quién pudo contárselo. Si dijo que Dios le mostró una enseñanza, podemos ver si era correcta y de dónde pudo sacarla. Si contó sus visiones de distintas maneras con los años, podemos comparar los relatos. Si usó libros de otros autores, podemos ver cuánto.
 
-Nada de eso exige decidir antes si lo sobrenatural existe. Primero se puede averiguar qué pasó.
+Para todo eso no hace falta decidir antes si existen los milagros. Primero se puede averiguar qué pasó.
 
-## ¿Por qué cuesta tanto investigar a una figura querida o rechazada?
+## ¿Por qué cuesta tanto estudiar a alguien tan querido o tan rechazado?
 
-Porque los documentos llegan mezclados con historias familiares, experiencias de fe, instituciones y décadas de polémica. Eso produce dos reflejos. Uno es proteger: ante un documento incómodo, buscar enseguida la lectura que salve lo que ya creíamos. El otro es acusar: ante un error o una fuente literaria, ver enseguida un engaño.
+Porque los documentos vienen mezclados con recuerdos de familia, experiencias de fe, instituciones y años de discusiones. Eso nos empuja a dos reacciones. Una es defender: ante un documento incómodo, buscar enseguida una lectura que salve lo que ya creíamos. La otra es atacar: ante un error o un texto copiado, ver enseguida un engaño.
 
-Los dos se entienden. Ninguno es un buen método.
+Las dos se entienden. Ninguna sirve para investigar.
 
 ## ¿Qué haría falta para concluir a favor o en contra?
 
-A favor, haría falta un conjunto de casos que los procesos humanos no expliquen bien. Por ejemplo, predicciones anteriores, precisas e improbables, o información difícil de obtener por medios normales. También respuestas convincentes a los casos adversos. No haría falta que nunca se equivocara en una opinión ni que cada frase fuera dictada; ella misma no afirmó eso.
+Para concluir a favor harían falta casos que no se puedan explicar de manera normal. Por ejemplo, anuncios escritos antes de un hecho, precisos y difíciles de adivinar. O datos que ella no tenía cómo conocer. También harían falta buenas respuestas a los casos en contra. No haría falta que nunca se equivocara ni que Dios le dictara cada palabra: ella misma nunca dijo eso.
 
-En contra, haría falta evidencia concreta: una predicción presentada como divina que falló, una afirmación falsa atribuida con claridad a revelación, o pruebas de fabricación consciente. Un error no prueba fraude. Una fuente literaria no prueba engaño. Una experiencia difícil de explicar tampoco prueba que Dios la causara.
+Para concluir en contra harían falta pruebas concretas. Por ejemplo, un anuncio presentado como de Dios que no se cumplió. O una afirmación falsa que ella dijo, con claridad, que Dios le había mostrado. O pruebas de que inventaba a propósito. Un error no prueba que mintió. Usar un libro ajeno no prueba un engaño. Y algo difícil de explicar tampoco prueba que lo hizo Dios.
 
-## ¿Por qué importa distinguir sinceridad y autenticidad?
+## ¿Por qué importa separar ser sincera de ser profeta?
 
-Porque una persona puede estar profundamente convencida y equivocarse sobre el origen de lo que vivió. Muchas discusiones saltan entre «profeta de Dios» y «mentirosa». En el medio hay una posibilidad muy humana: **creer sinceramente que Dios habló cuando la experiencia surgió de otros procesos.**
+Porque una persona puede estar totalmente convencida y aun así equivocarse sobre de dónde viene lo que vive. Muchas discusiones saltan de «profeta de Dios» a «mentirosa». En el medio hay una posibilidad muy humana: **creer de verdad que Dios habló cuando la experiencia tuvo otro origen.**
 
-Si esa fuera la mejor explicación, no haría verdadera su pretensión. Significaría que se equivocó sobre el origen de sus mensajes sin estar mintiendo.
+Si eso fuera lo que pasó, no la haría profeta. Querría decir que se equivocó sobre el origen de sus mensajes, pero sin mentir.
 
 ## ¿Qué clase de libro es éste?
 
-No es una defensa adventista ni un ataque. Es una investigación documental para lectores que no quieren volverse especialistas. Detrás de cada capítulo hay fechas, ediciones, manuscritos y testigos. En el texto se busca que todo eso aclare en lugar de confundir.
+No es una defensa adventista ni un ataque. Es una investigación con documentos, escrita para personas que no son especialistas. Detrás de cada capítulo hay fechas, ediciones, cartas y testigos. El texto intenta que todo eso aclare, no que confunda.
 
-La conclusión del último capítulo debería salir del camino recorrido, no de una idea decidida en la primera página. Y el camino exige algo incómodo: **estar dispuestos a encontrar una respuesta distinta de la que esperábamos.**
+La conclusión del último capítulo tiene que salir del camino recorrido, no de una idea decidida en la primera página. Y ese camino pide algo incómodo: **estar dispuestos a encontrar una respuesta distinta de la que esperábamos.**

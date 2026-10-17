@@ -4,11 +4,11 @@ Repositorio de investigación del libro cuya pregunta central es:
 
 > **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
 
-La respuesta del capítulo 16: la pretensión profética no quedó demostrada. La explicación mejor apoyada, con confianza moderada, es que vivió experiencias religiosas reales, de origen humano, y las interpretó sinceramente como revelaciones. El fraude consciente generalizado recibe menos apoyo todavía.
+La respuesta del capítulo 16: no quedó demostrado que fuera profeta. La explicación con más apoyo, con una confianza moderada, es que vivió experiencias religiosas reales, de origen humano, y creyó sinceramente que eran revelaciones de Dios. Que haya mentido a propósito en todo tiene todavía menos apoyo.
 
 ## ¿Cómo se organiza el repositorio?
 
-- `capitulos/`: manuscrito del libro (edición condensada, unas 19.700 palabras de cuerpo).
+- `capitulos/`: manuscrito del libro (edición condensada y en lenguaje sencillo, unas 22.500 palabras de cuerpo).
 - `hallazgos/`: fichas de investigación, auditorías y cotejos, con todo el detalle que el manuscrito resume.
 - `metodologia/`: criterios, orden del manuscrito y guía de estilo.
 - `scripts/manuscrito.py`: ensambla y valida la edición de lectura.
@@ -22,7 +22,7 @@ Para cada cuestión importante:
 3. reconstruir fecha, contexto y destinatario;
 4. buscar el mejor argumento a favor y la mejor objeción;
 5. determinar qué queda demostrado;
-6. distinguir entre establecido, probable, posible e indeterminado.
+6. distinguir entre probado, probable, posible y no se sabe.
 
 Pregunta de control: **¿qué evidencia podría demostrar que esta conclusión está equivocada?**
 
@@ -35,7 +35,7 @@ Pregunta de control: **¿qué evidencia podría demostrar que esta conclusión e
 
 ## ¿Cómo se escribe el libro?
 
-Investigación profunda detrás de una lectura sencilla. Cada capítulo responde su pregunta en el primer párrafo, presenta sólo los casos que pesan y dice cada cautela una vez. Todos los títulos y subtítulos son preguntas. La regla de simetría exige la misma prueba a favor y en contra, también cuando el criterio se aplica a la Biblia.
+Investigación profunda detrás de una lectura sencilla. Frases cortas, palabras de todos los días y cada término técnico explicado. Cada capítulo responde su pregunta en el primer párrafo, presenta sólo los casos que pesan y dice cada cautela una vez. Todos los títulos y subtítulos son preguntas. La regla de simetría exige la misma prueba a favor y en contra, también cuando el criterio se aplica a la Biblia.
 
 ## ¿Qué contiene cada capítulo?
 
@@ -43,20 +43,20 @@ Investigación profunda detrás de una lectura sencilla. Cada capítulo responde
 |---|---|
 | 1. Definiciones | Una visión o una impresión no prueban por sí solas una revelación; usar fuentes no refuta la inspiración. |
 | 2. Credenciales | Criterios bíblicos: contenido, predicciones, condicionalidad, origen, frutos e interés. Valen también para la Biblia. |
-| 3. Su pretensión | Afirmó recibir mensajes de Dios con autoridad, en lenguaje propio, sin infalibilidad personal y bajo la Biblia. |
-| 4. Primeras visiones | Públicas desde 1845; núcleo temprano estable con revisiones; ligadas a la puerta cerrada hasta 1849. |
-| 5. Fenómenos físicos | Núcleo de trance probable; apnea prolongada y fuerza sobrehumana no establecidas. |
-| 6. Explicaciones | Trance religioso describe la forma; ni epilepsia, ni fraude, ni origen divino quedan probados. |
-| 7. Predicciones | Dos advertencias favorables; el anuncio de 1856 no se cumplió y es una dificultad seria. |
-| 8. Conocimiento oculto | Faulkhead y Salamanca conservan interés; ningún caso excluye vías ordinarias. |
-| 9. Fuentes ajenas | Uso establecido (Conybeare y Howson, Wylie, 31,4 % de unidades en la muestra de Veltman). |
-| 10. Dependencia e inspiración | Préstamos históricos compatibles; posible falsa atribución en 1879 y 1890. |
-| 11. Autoría | Textos de base suyos; forma y orden con fuerte colaboración; compilaciones póstumas sin su aprobación. |
-| 12. Errores | Errores históricos corregidos, geología incorrecta y error médico de 1864 presentado como mostrado. |
-| 13. Contradicciones | Cambios de consejo; cuatro tensiones abiertas, sin dos revelaciones opuestas demostradas. |
-| 14. Conducta | Sin enriquecimiento demostrado; el problema es el uso de la autoridad. |
-| 15. Frutos | Servicio, educación y misión reales; costo de reconocer errores en público. |
-| 16. Conclusión | Pretensión no confirmada; explicación humana sincera mejor apoyada, con confianza moderada. |
+| 3. Lo que ella decía | Que Dios le daba mensajes, que los contaba con sus palabras, que había que obedecerlos, que no era infalible y que la Biblia estaba primero. |
+| 4. Primeras visiones | En público desde 1845; lo central se mantuvo, pero se borraron frases; hasta 1849 se usaron para sostener la puerta cerrada. |
+| 5. Lo que pasaba en el cuerpo | Un trance es probable; no está probado que dejara de respirar por mucho tiempo ni que tuviera fuerza sobrehumana. |
+| 6. Explicaciones | Un trance religioso explica cómo se veían; no quedan probados ni la epilepsia, ni el fraude, ni que vinieran de Dios. |
+| 7. Predicciones | Dos advertencias a su favor; el anuncio de 1856 no se cumplió y es un problema serio. |
+| 8. Cosas que no podía saber | Faulkhead y Salamanca siguen siendo interesantes; en ningún caso se descarta que alguien le contara. |
+| 9. Libros de otros | Probado que los usó (Conybeare y Howson, Wylie, 31,4 % de las unidades en la muestra de Veltman). |
+| 10. Libros de otros e inspiración | Usarlos para historia encaja con lo que ella dijo; en 1879 y 1890 es posible que presentara como de Dios palabras de un libro. |
+| 11. Quién escribió | Los textos de base son suyos; la forma y el orden, con mucha ayuda; los libros de extractos posteriores a 1915 no los aprobó ella. |
+| 12. Errores | Errores de historia corregidos, una explicación equivocada de los volcanes y un error médico de 1864 presentado como mostrado por Dios. |
+| 13. Contradicciones | Cambió consejos; quedan cuatro choques sin resolver, pero no dos revelaciones contrarias. |
+| 14. Su vida | No hay pruebas de que se hiciera rica; el problema es cómo usó su autoridad. |
+| 15. Frutos | Salud, educación y misión reales; costaba mucho reconocer sus errores en público. |
+| 16. Conclusión | No quedó confirmado que fuera profeta; la explicación humana sincera tiene más apoyo, con confianza moderada. |
 
 ## ¿Cuál es el estado actual?
 

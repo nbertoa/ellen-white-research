@@ -1,66 +1,66 @@
 # Capítulo 3 — ¿Qué afirmó Elena G. de White sobre su propio don y sobre el origen y la autoridad de sus mensajes?
 
-Elena G. de White afirmó que Dios le daba visiones e instrucciones, que las expresaba con palabras propias y que los testimonios que identificaba como enviados por Dios debían obedecerse. También negó que todo lo que decía o escribía fuera inspirado y puso a la Biblia como norma. Antes de evaluar esa pretensión hay que reconstruirla con exactitud: no sería justo juzgar una más fuerte que la que hizo, ni rebajarla después para protegerla.
+Elena G. de White decía que Dios le daba visiones y mensajes. Decía que los contaba con sus propias palabras y que, cuando ella presentaba un mensaje como enviado por Dios, había que obedecerlo. También decía que no todo lo que escribía venía de Dios y que la Biblia estaba por encima de sus escritos. Antes de juzgarla hay que entender bien qué decía. No sería justo juzgarla por algo más fuerte que lo que dijo, ni rebajar lo que dijo para defenderla.
 
-## 1. ¿Atribuyó desde el comienzo sus visiones a Dios?
+## 1. ¿Dijo desde el principio que sus visiones venían de Dios?
 
-Sí, a más tardar el 20 de diciembre de 1845. Ese día escribió a Enoch Jacobs, director de *The Day-Star*, que Dios le había mostrado «en santa visión» el viaje del pueblo adventista hacia la ciudad santa. Jacobs publicó la carta el 24 de enero de 1846. Es el relato en primera persona más antiguo que se conoce. Cómo contó la experiencia antes, en privado, sigue indeterminado.[^1]
+Sí. A más tardar el 20 de diciembre de 1845. Ese día le escribió a Enoch Jacobs, director del periódico *The Day-Star*, que Dios le había mostrado «en santa visión» el camino del pueblo adventista hacia el cielo. Jacobs publicó la carta el 24 de enero de 1846. Es el relato más antiguo escrito por ella que se conoce. Cómo lo contó antes, en privado, no se sabe.[^1]
 
-## 2. ¿Negó ser profetisa?
+## 2. ¿Negó alguna vez ser profeta?
 
-En una reunión en Battle Creek, el 2 de octubre de 1904, un informe de W. E. Cornell le atribuye esta frase: «No soy, como dije ayer, profeta». Añadió que sólo pretendía ser mensajera de Dios. Leída sola, puede entenderse como una negación de la función, no sólo del título. Conocemos la frase por una reproducción de 1906, no por el informe original.[^2]
+En una reunión en Battle Creek, el 2 de octubre de 1904, según un informe de W. E. Cornell, dijo: «No soy, como dije ayer, profeta». Agregó que sólo pretendía ser una mensajera de Dios. Leída sola, la frase puede entenderse como que negaba ser profeta. Pero la conocemos por una copia de 1906, no por el informe original.[^2]
 
-Sus explicaciones posteriores son claras. En enero de 1905 escribió que nunca había asumido el título de profetisa, aunque otros la llamaran así, porque su trabajo incluía más que eso. En 1906 precisó que lo que quiso decir fue «no pretendo ser profetisa», y escribió que su comisión abarcaba «la obra de un profeta», pero no terminaba allí.[^3]
+Después lo explicó con claridad. En enero de 1905 escribió que nunca había usado el título de profetisa, aunque otros la llamaran así, porque su trabajo incluía más cosas. En 1906 aclaró que había querido decir «no pretendo ser profetisa», y escribió que su tarea incluía «la obra de un profeta», pero iba más allá.[^3]
 
-Está establecido que en 1905 y 1906 afirmó una función profética. Es probable que en 1904 quisiera distinguir título y función, aunque la frase conservada podía comunicar otra cosa.
+Está **probado** que en 1905 y 1906 dijo que tenía una tarea de profeta. Es **probable** que en 1904 quisiera rechazar el título, no la tarea, aunque la frase que se conserva podía entenderse de otra manera.
 
-## 3. ¿Qué autoridad atribuyó a sus testimonios?
+## 3. ¿Cuánta autoridad les daba a sus mensajes?
 
-Una autoridad muy fuerte. En 1882, ante quienes reducían sus cartas a opiniones personales, sostuvo que el Espíritu la había impulsado a escribir y que sus artículos religiosos presentaban lo que se le había abierto en visión, no meramente ideas propias. Comparó a quienes debilitaban la confianza en los testimonios con la rebelión de Coré. En 1889 escribió que rechazar el testimonio que se le había encargado era rechazar al Señor que lo enviaba.[^4]
+Muchísima. En 1882 algunos decían que sus cartas eran simples opiniones. Ella respondió que el Espíritu de Dios la había movido a escribir, y que sus artículos contaban lo que Dios le había mostrado en visión, no sólo ideas suyas. Comparó a quienes hacían perder la confianza en sus mensajes con los rebeldes del tiempo de Moisés. En 1889 escribió que rechazar su mensaje era rechazar a Dios, que lo enviaba.[^4]
 
-Esas frases se refieren a la clase de cartas, testimonios y artículos que relacionaba con su comisión, no a cada nota doméstica. Pero sobre esa clase la pretensión es inequívoca: **venían de Dios y debían obedecerse por eso.**
+Esas frases no hablan de cada nota de la casa. Hablan de las cartas y mensajes que ella relacionaba con su tarea. Pero sobre esos mensajes era muy clara: **venían de Dios y había que obedecerlos por eso.**
 
-## 4. ¿Admitía que sus testimonios fueran una obra humana sincera?
+## 4. ¿Aceptaba que sus mensajes pudieran ser algo humano pero sincero?
 
-No. En *Testimonios para la iglesia*, tomo 4, p. 230, escribió: «Esta obra es de Dios, o no lo es. Dios no hace nada en sociedad con Satanás». Los testimonios, dijo, eran del Espíritu de Dios o del diablo. En el tomo 5, p. 661, puso sus testimonios en continuidad con la manera en que Dios habló por profetas y apóstoles.[^5]
+No. En *Testimonios para la iglesia*, tomo 4, página 230, escribió: «Esta obra es de Dios, o no lo es. Dios no hace nada en sociedad con Satanás». Para ella, sus mensajes venían del Espíritu de Dios o del diablo. En el tomo 5, página 661, puso sus mensajes en la misma línea que los de los profetas y apóstoles de la Biblia.[^5]
 
-Esta investigación no está obligada a aceptar que sólo existen esas dos causas. Una experiencia religiosa sincera de origen humano es una tercera posibilidad que se examinará con evidencia. Pero si esa posibilidad resultara la mejor apoyada, no sería una versión suave de lo que White afirmaba: significaría que su atribución divina era equivocada.
+Este libro no está obligado a aceptar que sólo existan esas dos opciones. Hay una tercera: una experiencia religiosa sincera, pero de origen humano. Se va a examinar con pruebas. Pero hay que ser claros: si esa tercera opción fuera la correcta, no sería una forma suave de darle la razón. Querría decir que se equivocó al decir que sus mensajes venían de Dios.
 
-## 5. ¿Dijo que todo lo que escribía estaba inspirado?
+## 5. ¿Decía que todo lo que escribía venía de Dios?
 
-No. En 1909 le señalaron que había dado un número equivocado de habitaciones de un sanatorio. Respondió que ese dato era una opinión humana, que nunca se le había revelado el número exacto de habitaciones y que debía escribir cartas comunes y transmitir información de otros sin que eso fuera inspiración especial. Llamó un gran error mezclar lo sagrado con lo común.[^6]
+No. En 1909 le hicieron notar que había dado mal el número de habitaciones de un sanatorio. Respondió que ese número era una opinión humana, que Dios nunca le había revelado cuántas habitaciones tenía ningún sanatorio, y que escribía muchas cartas comunes con datos que le daban otros. Dijo que era un gran error mezclar lo sagrado con lo común.[^6]
 
-Lo que no aclara es cómo clasificar un escrito que mezcla información humana con una advertencia que ella atribuía a Dios.
+Lo que no explicó es qué hacer con un escrito que mezcla datos humanos con un mensaje que ella decía que venía de Dios.
 
-## 6. ¿Necesitaba una visión nueva para cada consejo?
+## 6. ¿Necesitaba una visión para cada consejo?
 
-No, según ella. En 1889 explicó que Dios le había mostrado durante años principios y peligros, y que eso le permitía aplicar esa luz a casos nuevos. Admitió que una noticia humana podía motivar un consejo, como Pablo escribió a Corinto después de recibir noticias de la casa de Cloé.[^7]
+No, según ella. En 1889 explicó que Dios le había mostrado durante años principios y peligros, y que eso le permitía aconsejar en casos nuevos. Admitió que a veces un consejo nacía de una noticia que le llegaba por otras personas. Lo comparó con Pablo, que escribió a los corintios después de enterarse de sus problemas por la familia de Cloé.[^7]
 
-Esta explicación no demuestra que la revelación de los principios ocurriera. Tampoco permite reclasificar después cualquier mensaje problemático como «aplicación humana».
+Esto no prueba que Dios le haya mostrado esos principios. Y tampoco permite decir, cada vez que un mensaje sale mal, que «era sólo un consejo humano».
 
-## 7. ¿Afirmó que Dios le dictaba las palabras?
+## 7. ¿Decía que Dios le dictaba las palabras?
 
-No. En 1867 escribió que las palabras con que describía lo visto eran suyas, salvo las que le hablaba un ángel, que siempre ponía entre comillas. En 1906 rechazó la creencia de David Paulson de que cada palabra suya, pública o privada, fuera tan inspirada como los Diez Mandamientos.[^8]
+No. En 1867 escribió que las palabras con que contaba sus visiones eran suyas, salvo las que le decía un ángel, que siempre ponía entre comillas. En 1906 rechazó la idea del doctor David Paulson, que creía que cada palabra que ella decía era tan inspirada como los Diez Mandamientos.[^8]
 
-También reconoció ayuda editorial: James White corregía gramática y repeticiones, y sus asistentes preparaban copias, sin permiso para añadir ideas. Y en la introducción de *El conflicto de los siglos* (*The Great Controversy*) de 1888 admitió que usó palabras de historiadores sin dar en algunos casos crédito específico.[^9]
+También reconoció ayuda para escribir. Su esposo, James White, corregía la gramática y las repeticiones, y sus ayudantes pasaban en limpio los textos, sin permiso para agregar ideas. Y en la introducción de *El conflicto de los siglos* (*The Great Controversy*), de 1888, admitió que usó palabras de historiadores y que a veces no dijo de quién eran.[^9]
 
-La excepción de 1867 importa en las dos direcciones: permite una redacción humana y, a la vez, reserva una categoría más fuerte para las palabras atribuidas a un ángel.
+Lo que dijo en 1867 importa por dos lados. Permite que la redacción sea humana. Pero también dice que las palabras de un ángel son otra cosa, más fuerte.
 
-## 8. ¿Afirmó ser infalible?
+## 8. ¿Decía que nunca se equivocaba?
 
-No. En 1895 escribió: «En cuanto a la infalibilidad, nunca la he reclamado; sólo Dios es infalible». Esa frase se refiere a su persona. No vuelve irrelevante un error en algo que ella atribuyó concretamente a Dios.[^10]
+No. En 1895 escribió: «En cuanto a la infalibilidad, nunca la he reclamado; sólo Dios es infalible». Esa frase habla de ella como persona. No vuelve menos grave un error en algo que ella dijo que Dios le había mostrado.[^10]
 
-## 9. ¿Qué lugar dio a la Biblia?
+## 9. ¿Qué lugar le daba a la Biblia?
 
-El de norma. En 1888 escribió que las Escrituras son la regla para probar toda enseñanza y experiencia, y que el Espíritu no fue dado para reemplazarlas. En 1889 dijo que sus testimonios no traían nueva regla de fe, sino que aplicaban la Biblia. En 1903 escribió que el Señor había dado «una luz menor para guiar a hombres y mujeres a la luz mayor». Por el contexto inmediato, la luz mayor es probablemente la Biblia y la menor, sus libros.[^11]
+El primero. En 1888 escribió que la Biblia es la regla para examinar toda enseñanza y toda experiencia, y que el Espíritu no vino a reemplazarla. En 1889 dijo que sus mensajes no traían reglas nuevas, sino que aplicaban la Biblia. En 1903 escribió que Dios había dado «una luz menor para guiar a hombres y mujeres a la luz mayor». Por lo que dice alrededor de esa frase, la luz mayor es probablemente la Biblia y la menor, sus libros.[^11]
 
-Pero esa primacía de la Biblia no volvía opcionales los testimonios. Su estructura era jerárquica: la Biblia como regla doctrinal; los testimonios como advertencias y correcciones enviadas por Dios.
+Pero poner a la Biblia primero no volvía optativos sus mensajes. Para ella había un orden: la Biblia como regla, y sus mensajes como avisos y correcciones que también venían de Dios.
 
-## 10. ¿Qué pretensión queda para someter a prueba?
+## 10. ¿Qué es, entonces, lo que hay que poner a prueba?
 
-> **Elena G. de White afirmó que Dios le dio una comisión que incluía la función profética. Sostuvo que recibía visiones e instrucciones divinas, que las expresaba en lenguaje humano y que podía aplicar luz anterior a casos nuevos con ayuda de información ordinaria. Distinguió esos mensajes de los asuntos comunes, reclamó obediencia para los testimonios que identificaba como enviados por Dios y presentó la Biblia como norma.**
+> **Elena G. de White decía que Dios le había dado una tarea que incluía la de profeta. Decía que recibía visiones y mensajes de Dios, que los contaba con palabras humanas y que podía aplicar lo que Dios ya le había mostrado a casos nuevos, a veces con datos que le daban otras personas. Separaba esos mensajes de las cosas comunes, pedía obediencia para los mensajes que presentaba como de Dios y ponía a la Biblia por encima.**
 
-Es más estrecha que «todo lo que escribió fue dictado por Dios» y mucho más fuerte que «fue una autora cristiana que daba consejos». Por ser concreta se puede investigar. La pregunta decisiva será esta: **¿hay contenidos de origen humano demostrable que ella presentó como recibidos de Dios?**
+Eso es menos que «Dios le dictó todo», pero mucho más que «era una escritora cristiana que daba consejos». Justamente por ser concreto se puede investigar. La pregunta clave va a ser esta: **¿hay cosas que salieron de una fuente humana y que ella presentó como mostradas por Dios?**
 
 [^1]: Ellen G. Harmon, carta a Enoch Jacobs, Portland, 20 de diciembre de 1845, publicada en *The Day-Star*, 24 de enero de 1846, pp. 31–32; [reproducción del Heritage Research Center, Loma Linda University](https://library.llu.edu/day-star-letter-written-december-20-1845-portland-maine-by-sister-harmon-bro-jacobs-account-of-first-vision).
 [^2]: W. E. Cornell, informe DF 108a, transmitido en A. G. Daniells a W. C. White, 23-V-1906, según Arthur L. White, [*The Early Elmshaven Years*, 5BIO 354–355](https://text.egwwritings.org/amp/read/675.2617). No se cuenta con el informe original.

@@ -1,70 +1,70 @@
 # Capítulo 12 — ¿Cometió Elena G. de White errores en asuntos de historia, ciencia y salud?
 
-Sí. Hay errores históricos que se corrigieron en 1911, una explicación de los volcanes que no se sostiene y afirmaciones médicas equivocadas. También hay consejos de salud acertados. El caso más serio es el folleto de 1864 sobre la masturbación: atribuye enfermedades graves a una causa equivocada y presenta parte de eso como algo que le fue mostrado.
+Sí. Hay errores de historia que se corrigieron en 1911, una explicación de los volcanes que no se sostiene y afirmaciones médicas equivocadas. También hay consejos de salud acertados. El caso más serio es el folleto de 1864 sobre la masturbación. Le echa la culpa de enfermedades graves a una causa equivocada, y presenta parte de eso como algo que Dios le mostró.
 
 ## 1. ¿Qué hace falta para hablar de un error?
 
-Una afirmación identificable, saber qué quería decir y evidencia independiente para contrastarla. Decir que «el sol salió» no es defender una astronomía. Decir que «esta práctica provoca estas enfermedades» sí es una afirmación médica, aunque esté escrita para madres. Y en cada caso se separan tres preguntas: **¿era correcta? ¿podía saberse por medios normales? ¿qué origen le atribuyó ella?**
+Una afirmación concreta, saber qué quería decir y pruebas de afuera para compararla. Decir que «el sol salió» no es defender una idea sobre los astros. Decir que «esta costumbre provoca estas enfermedades» sí es una afirmación médica, aunque esté escrita para madres. Y en cada caso se separan tres preguntas: **¿era correcto? ¿se podía saber de manera normal? ¿de dónde dijo ella que venía?**
 
-Ella misma negó ser infalible y reconoció datos humanos equivocados, como el número de habitaciones de un sanatorio. Eso no vuelve irrelevante un error en algo que atribuyó a revelación.[^1]
+Ella misma dijo que no era infalible y reconoció datos humanos equivocados, como el número de habitaciones de un sanatorio. Pero eso no hace que dé igual un error en algo que ella dijo que Dios le había mostrado.[^1]
 
-## 2. ¿Hubo errores históricos?
+## 2. ¿Se equivocó en historia?
 
-Sí. En 1888 *El conflicto de los siglos* decía que los valdenses fueron «los primeros de todos los pueblos de Europa» en tener una traducción de las Escrituras. Es falso: la traducción gótica de Wulfila es del siglo IV. En 1911, tras una objeción de W. W. Prescott, el texto pasó a «entre los primeros».[^2] No se halló una afirmación de White de que ese dato le fuera revelado.
+Sí. En 1888, *El conflicto de los siglos* decía que los valdenses (un grupo cristiano de los Alpes) fueron «los primeros de todos los pueblos de Europa» en tener la Biblia traducida a su idioma. Es falso: la traducción gótica de Wulfila es del siglo IV. En 1911, después de que W. W. Prescott lo marcara, el texto pasó a decir «entre los primeros».[^2] No se encontró ningún texto en que White dijera que ese dato se lo había mostrado Dios.
 
-Otras revisiones también corrigieron contenido: el papa pasó de «se titula» a «ha sido titulado» de cierta forma, y «todo fue destruido» pasó a «buscó destruir todo».[^3]
+En otras revisiones también se corrigió el contenido, no sólo el estilo. Sobre el papa, «se titula» de cierta manera pasó a «ha sido titulado». Y «todo fue destruido» pasó a «buscó destruir todo».[^3]
 
-El relato de la Revolución Francesa es más difícil. En 1888 hablaba de un decreto nacional que prohibió la Biblia en 1793 y se revocó tres años y medio después. La persecución religiosa fue real, pero el 6 de diciembre de 1793 la Convención aprobó un decreto que protegía formalmente la libertad de cultos. La revisión de 1911 cambió las palabras sin resolver el problema. El error viene probablemente del historiador William Russell, que White usó. Es un error histórico real; como error de una revelación concreta, menos seguro.[^4]
+El relato de la Revolución Francesa es más difícil. En 1888 hablaba de una ley nacional que prohibió la Biblia en 1793 y que se anuló tres años y medio después. La persecución religiosa fue real. Pero el 6 de diciembre de 1793, el gobierno revolucionario aprobó una ley que protegía en los papeles la libertad de culto. La revisión de 1911 cambió las palabras, pero no arregló el problema. El error probablemente viene del historiador William Russell, que White usó. Es un error de historia real. Que sea el error de una revelación concreta es menos seguro.[^4]
 
 ## 3. ¿Y en ciencia?
 
-En 1864 explicó que bosques enterrados formaron carbón y aceite, que éstos arden bajo tierra, queman caliza, funden hierro y, al mezclarse con agua, causan terremotos y volcanes. El origen vegetal del carbón es correcto y existen incendios subterráneos de carbón. Pero la explicación general de los volcanes es científicamente incorrecta: el volcanismo es magma del interior de la Tierra. El relato se presenta en un marco revelatorio, con un «vi», aunque no se puede saber qué eslabón dijo haber visto.[^5]
+En 1864 explicó que bosques enterrados formaron carbón y petróleo. Que eso arde bajo tierra, quema piedra caliza y derrite hierro. Y que, al mezclarse con agua, provoca terremotos y volcanes. Es cierto que el carbón viene de plantas, y existen incendios de carbón bajo tierra. Pero la explicación de los volcanes está mal: los volcanes son roca derretida (magma) que sube del interior de la Tierra. Ella lo cuenta como algo que vio («vi»), aunque no se puede saber qué parte de la explicación decía haber visto.[^5]
 
-## 4. ¿Por qué no se evalúa la edad de la Tierra?
+## 4. ¿Por qué no se analiza la edad de la Tierra?
 
-En el mismo libro de 1864 presentó como mostrado que la primera semana fue una semana común, defendió una Tierra de unos seis mil años y escribió que se le había mostrado que la geología no podía probar nada sin la historia bíblica.[^6]
+En el mismo libro de 1864 presentó como algo que Dios le mostró que la primera semana de la creación fue una semana común. Defendió que la Tierra tiene unos seis mil años. Y escribió que se le había mostrado que la geología (la ciencia que estudia la Tierra) no podía probar nada sin la historia de la Biblia.[^6]
 
-Este libro no hace una evaluación completa de la cronología de la Tierra, porque exigiría otra investigación. Pero esa exclusión tiene un costo, y no se esconde: la geología estándar sostiene una Tierra de miles de millones de años y no considera equivalente una de seis mil. Para un lector que acepta esa geología, incluir el caso **reforzaría** la conclusión crítica.[^7]
+Este libro no analiza a fondo la edad de la Tierra, porque haría falta otra investigación entera. Pero dejarlo afuera tiene un costo, y no se esconde. La geología actual dice que la Tierra tiene miles de millones de años y no acepta una Tierra de seis mil. Para un lector que acepta esa geología, este caso **haría más fuerte** la conclusión en contra.[^7]
 
 ## 5. ¿Qué pasa con la «amalgamación»?
 
-En 1864 escribió sobre la «amalgamación del hombre y la bestia» y dijo que podía verse en variedades de animales y en «ciertas razas» humanas. La frase admite leer cruces entre humanos y animales, que no tienen base biológica, o mezclas dentro de cada grupo. Uriah Smith ya la defendió en 1868 con categorías raciales desacreditadas, pero Smith no es White. El caso queda **ambiguo**.[^8]
+En 1864 escribió sobre la «amalgamación del hombre y la bestia», es decir, una mezcla entre personas y animales. Dijo que podía verse en algunas variedades de animales y en «ciertas razas» de personas. La frase se puede leer como cruces entre personas y animales, que no tienen ninguna base en la biología. O como mezclas dentro de cada grupo. Uriah Smith ya la defendió en 1868 con ideas sobre razas que hoy están desacreditadas, pero Smith no es White. El caso **no es claro**.[^8]
 
-En astronomía no se halló un error seguro en los pasajes examinados.
+Sobre los astros no se encontró un error seguro en los textos revisados.
 
 ## 6. ¿Qué consejos de salud eran acertados?
 
-Varios. Su advertencia contra el tabaco es un caso favorable importante. También tienen base real sus consejos contra el alcohol y a favor del ejercicio, la ventilación, la higiene y una alimentación basada en vegetales.[^9]
+Varios. Su advertencia contra el tabaco es un caso importante a su favor. También tienen base real sus consejos contra el alcohol y a favor del ejercicio, el aire puro, la higiene y una comida basada en vegetales.[^9]
 
-Pero esas ideas ya circulaban. Sylvester Graham, Larkin Coles, James C. Jackson y Dio Lewis las publicaban antes de su visión sobre salud de 1863, y en febrero de ese año la familia White aplicó a sus hijos un tratamiento de Jackson publicado en la *Review*.[^10] Adelantarse a la aceptación general no es conocer algo inaccesible. No se halló un consejo a la vez correcto, preciso y fuera del alcance de las fuentes de su época.
+Pero esas ideas ya circulaban. Sylvester Graham, Larkin Coles, James C. Jackson y Dio Lewis las publicaban antes de su visión sobre la salud, de 1863. Y en febrero de ese año, la familia White usó con sus hijos un tratamiento de Jackson publicado en la *Review*.[^10] Adelantarse a lo que después aceptó todo el mundo no es saber algo imposible de saber. No se encontró ningún consejo que fuera a la vez correcto, preciso e imposible de sacar de los libros de su época.
 
-## 7. ¿Qué afirmó sobre la masturbación?
+## 7. ¿Qué dijo sobre la masturbación?
 
-En *An Appeal to Mothers* (1864) escribió: «Me ha sido mostrado que los niños que practican la complacencia propia antes de la pubertad» pagarían las consecuencias en esa etapa. Atribuyó al hábito enfermedades del hígado, los pulmones, la columna y los riñones, «humores cancerosos», tuberculosis, pérdida de memoria y vista y muerte temprana.[^11]
+En *An Appeal to Mothers* («Un llamado a las madres», 1864), escribió: «Me ha sido mostrado que los niños que practican la complacencia propia antes de la pubertad» pagarían las consecuencias en esa etapa. Le echó la culpa a esa costumbre de enfermedades del hígado, los pulmones, la columna y los riñones, de «humores cancerosos», de tuberculosis, de perder la memoria y la vista, y de morir joven.[^11]
 
-Hay que leerla con justicia: hablaba de hábitos persistentes, no de una sola vez, y no dijo que cada persona sufriría todo. Pero la relación causal está y es incorrecta. La medicina actual no confirma que la masturbación cause esas enfermedades. Era una idea extendida en la medicina de su época, no un descubrimiento suyo.[^12]
+Hay que leerla con justicia. Hablaba de una costumbre repetida, no de una sola vez. Y no dijo que cada persona iba a sufrir todo eso. Pero dice que esa costumbre causa esas enfermedades, y eso es falso. La medicina actual no confirma que la masturbación cause esas enfermedades. Era una idea muy común en la medicina de su época, no algo que ella descubrió.[^12]
 
-La defensa de Herbert E. Douglass apela a la conducta compulsiva y a la pérdida de zinc. Ninguna de las dos confirma ese conjunto de enfermedades, y la explicación por pérdida seminal no alcanza a lo que dijo de las mujeres.[^13]
+Herbert E. Douglass la defiende de dos maneras: habla de la conducta compulsiva (cuando la persona no puede parar) y de la pérdida de zinc. Ninguna de las dos confirma esa lista de enfermedades. Y lo del semen no explica lo que dijo de las mujeres.[^13]
 
-Lo decisivo es la atribución: el pasaje central empieza con «me ha sido mostrado», en el original de 1864, no en una compilación posterior. No se halló evidencia de que una asistente agregara la lista. Es **una afirmación causal sustancialmente incorrecta presentada como algo mostrado.** Negar la infalibilidad personal no resuelve eso.
+Lo que decide el caso es a quién le atribuye el contenido. La parte central empieza con «me ha sido mostrado», en el folleto original de 1864, no en un libro armado después. No se encontraron pruebas de que una ayudante agregara la lista. Es **una afirmación sobre las causas de enfermedades, en lo principal falsa, presentada como algo que Dios le mostró.** Decir que ella no era infalible no lo resuelve.
 
-## 8. ¿No escribieron también los autores bíblicos con la ciencia de su época?
+## 8. ¿Los autores de la Biblia no escribieron también con la ciencia de su época?
 
-Es la mejor objeción a este punto. Jesús llamó a la semilla de mostaza la más pequeña de todas, y la Biblia describe el mundo con la cosmología de su tiempo.[^14] ¿Por qué no aplicar a White la misma comprensión?
+Es la mejor objeción en este punto. Jesús dijo que la semilla de mostaza era la más pequeña de todas, y la Biblia describe el mundo como lo entendían en su tiempo.[^14] ¿Por qué no tener con White la misma comprensión?
 
-Este libro traza la diferencia así: describir un fenómeno con el lenguaje común de la época no es lo mismo que presentar como mostrado por Dios un mecanismo causal concreto de enfermedad y usarlo para advertir a madres que sus hijos morirían. Pero el criterio tiene que valer en ambas direcciones. Si un texto bíblico presentara como revelada una causa médica falsa para fundar una orden, el problema sería el mismo. Un lector puede pesar esta diferencia de otra manera; lo que no puede es aplicar un estándar a White y otro a la Biblia.
+Este libro marca la diferencia así. Una cosa es describir algo con las palabras comunes de la época. Otra es presentar como mostrada por Dios una causa concreta de enfermedades, y usarla para advertir a madres que sus hijos morirían. Pero la regla tiene que valer para los dos lados. Si un texto de la Biblia presentara como revelada una causa médica falsa para dar una orden, el problema sería el mismo. Un lector puede pesar esta diferencia de otra manera. Lo que no puede hacer es medir a White con una regla y a la Biblia con otra.
 
-## 9. ¿Qué dijo sobre los medicamentos?
+## 9. ¿Qué dijo sobre los remedios?
 
-En 1864 denunció con razón medicamentos peligrosos de su época, como el mercurio y la estricnina. Pero también escribió que se le había mostrado que las drogas causaban más muertes que todas las demás causas juntas, y que «las drogas nunca curan la enfermedad», sólo cambian su forma y lugar.[^15] La primera cifra no tiene respaldo. La segunda es falsa incluso para su época: la quinina ya trataba la malaria.[^16]
+En 1864 denunció, con razón, remedios peligrosos de su época, como el mercurio y la estricnina. Pero también escribió que se le había mostrado que los remedios mataban más gente que todas las demás causas juntas, y que «las drogas nunca curan la enfermedad», sólo le cambian la forma y el lugar.[^15] Lo primero no tiene pruebas. Lo segundo era falso incluso en su época: la quinina ya se usaba para curar la malaria.[^16]
 
 ## 10. ¿Y la carne y el cáncer?
 
-Hay hoy evidencia de que la carne procesada aumenta el riesgo de algunos cánceres, y Coles ya relacionaba carne y cáncer en 1853. Pero White también escribió que al comer carne se transmiten «gérmenes» cancerosos, y eso no tiene apoyo: algunos virus favorecen ciertos cánceres, pero el cáncer de un animal no se contagia al comerlo.[^17] Sobre el café y el té, su advertencia de que son estimulantes tiene base; la de un daño inevitable para todo consumo, no.[^18]
+Hoy hay pruebas de que la carne procesada (como fiambres y embutidos) aumenta el riesgo de algunos cánceres. Y Coles ya relacionaba la carne con el cáncer en 1853. Pero White también escribió que al comer carne se pasan «gérmenes» de cáncer, y eso no tiene apoyo. Algunos virus ayudan a que aparezcan ciertos cánceres, pero el cáncer de un animal no se contagia al comerlo.[^17] Sobre el café y el té, tenía razón en que son estimulantes. No la tenía en que siempre hacen daño, tome uno lo que tome.[^18]
 
-## 11. ¿Qué permite concluir el conjunto?
+## 11. ¿Qué se puede concluir de todo esto?
 
-Hubo errores históricos corregidos, una explicación geológica incorrecta, consejos sanitarios útiles pero disponibles en su época y medicina equivocada. Lo que más pesa no es la cantidad de errores, sino el error sustancial atribuido con claridad a revelación: la masturbación. Es, con 1856, una de las dos dificultades principales del libro.
+Hubo errores de historia que se corrigieron, una explicación equivocada sobre la Tierra, consejos de salud útiles pero que ya se conocían en su época, y medicina equivocada. Lo que más pesa no es cuántos errores hay. Es un error importante que ella dijo claramente que Dios le había mostrado: el de la masturbación. Junto con el anuncio de 1856, es uno de los dos problemas principales de este libro.
 
 [^1]: Ellen G. White, [Ms 107, 1909](https://text.egwwritings.org/amp/read/14074.9768001); Lt 10, 1895; véase el capítulo 3.
 [^2]: *The Great Controversy* (1888 y 1911), p. 65; [Prescott a W. C. White, 26 de abril de 1910](https://whiteestate.org/about/issues1/ref-lib/add-docs/gc-prescott/); Uppsala University Library, [*The history of Codex argenteus*](https://www.uu.se/en/library/visit-and-contact/exhibitions/codex-argenteus/the-history-of-codex-argenteus).

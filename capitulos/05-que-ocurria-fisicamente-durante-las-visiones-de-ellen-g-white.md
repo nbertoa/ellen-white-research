@@ -1,75 +1,75 @@
 # Capítulo 5 — ¿Qué ocurría físicamente durante las visiones de Elena G. de White?
 
-Quienes vieron a Elena G. de White en visión describieron un estado inusual: ojos abiertos y fijos, poca respuesta al entorno, gestos, rigidez muscular y una respiración que no lograban percibir. Ese núcleo es probable. Lo extraordinario —horas sin respirar, fuerza sobrehumana, una Biblia de ocho kilos sostenida media hora— no está establecido. Y casi todos los detalles famosos se escribieron décadas después.
+Quienes vieron a Elena G. de White en visión describieron algo poco común. Tenía los ojos abiertos y fijos y casi no reaccionaba a lo que pasaba alrededor. Hacía gestos, tenía los músculos rígidos y no se le notaba la respiración. Esa parte básica es probable. Lo extraordinario no está probado: horas sin respirar, una fuerza sobrehumana o una Biblia de ocho kilos sostenida media hora. Y casi todos los detalles famosos se escribieron décadas después.
 
-## 1. ¿Qué se decía que ocurría?
+## 1. ¿Qué se decía que pasaba?
 
-En 1868 James White, su esposo, publicó cuatro rasgos: perdía conciencia del entorno; no respiraba durante toda la visión, que podía durar de quince minutos a tres horas; sus músculos se volvían rígidos aunque hacía gestos libres; y al terminar todo le parecía oscuro.[^1] En 1874 George I. Butler añadió ojos abiertos sin parpadear y pulso normal.[^2] En 1892 J. N. Loughborough describió una secuencia más definida, con una fuerza que llamó «sobrehumana».[^3]
+En 1868 su esposo, James White, publicó cuatro rasgos. No se daba cuenta de lo que pasaba alrededor. No respiraba en toda la visión, que podía durar de quince minutos a tres horas. Sus músculos se ponían rígidos, aunque movía los brazos con libertad. Y al terminar todo le parecía oscuro.[^1] En 1874 George I. Butler agregó que tenía los ojos abiertos sin parpadear y el pulso normal.[^2] En 1892 J. N. Loughborough describió los pasos con más detalle y habló de una fuerza «sobrehumana».[^3]
 
-Estos textos establecen lo que dirigentes adventistas **afirmaban** haber visto. No establecen que cada detalle ocurriera en cada visión. James era el esposo y principal defensor; Butler defendía, no describía un episodio; Loughborough escribió cuarenta años después de su primera observación.
+Estos textos prueban lo que algunos líderes adventistas **decían** haber visto. No prueban que cada detalle pasara en cada visión. James era su esposo y su principal defensor. Butler la defendía; no estaba contando una visión concreta. Loughborough escribió cuarenta años después de verla por primera vez.
 
-## 2. ¿Qué dicen los registros más antiguos?
+## 2. ¿Qué dicen los papeles más antiguos?
 
-El informe del juicio de Atkinson, de 1845, la describe acostada en el suelo dando mensajes, pero no menciona ojos inmóviles, falta de respiración ni fuerza extraordinaria.[^4] Ese silencio no prueba que no ocurrieran; el juicio era sobre otra cosa. Pero impide decir que los rasgos espectaculares estén certificados desde el principio.
+El informe del juicio de Atkinson, de 1845, la describe acostada en el suelo dando mensajes. No dice nada de ojos quietos, de que no respirara ni de una fuerza fuera de lo común.[^4] Que no lo diga no prueba que no pasara, porque el juicio trataba de otra cosa. Pero no permite afirmar que esos rasgos llamativos estén confirmados desde el principio.
 
-Joseph Bates la observó varias veces antes de 1847 buscando engaño o mesmerismo y terminó convencido. Tampoco dice haberle tomado el pulso ni medido su respiración.[^5]
+Joseph Bates la observó varias veces antes de 1847. Buscaba un engaño o una hipnosis (el mesmerismo) y terminó convencido. Tampoco dice que le haya tomado el pulso ni controlado la respiración.[^5]
 
-Una carta atribuida a James White, fechada en agosto de 1848, dice que en una visión reciente estuvo hora y media sin respirar. La conocemos por una copia de fecha no comprobada. Si la fecha es correcta, es un testimonio temprano, no una medición.[^6]
+Hay una carta que se le atribuye a James White, con fecha de agosto de 1848. Dice que en una visión reciente estuvo hora y media sin respirar. Sólo la conocemos por una copia, y no se pudo comprobar la fecha. Si la fecha es correcta, es un testimonio temprano. Pero alguien que mira no es lo mismo que una medición.[^6]
 
-## 3. ¿Tenía los ojos abiertos y no respondía al entorno?
+## 3. ¿Tenía los ojos abiertos y no reaccionaba?
 
-Es **probable** en algunas visiones. Varios testigos describen una mirada abierta, fija y elevada, y una respuesta muy reducida a lo que pasaba alrededor, aunque hablaba y se movía. Que nunca parpadeara es una formulación absoluta que nadie cronometró; sigue **indeterminada**.[^7]
+Es **probable** que pasara en algunas visiones. Varios testigos cuentan que tenía la mirada abierta, fija y hacia arriba, y que casi no reaccionaba a lo que pasaba alrededor, aunque hablaba y se movía. Que «nunca parpadeaba» es una frase absoluta, y nadie la cronometró. Eso **no se sabe**.[^7]
 
-## 4. ¿Tenía una fuerza extraordinaria?
+## 4. ¿Tenía una fuerza fuera de lo común?
 
-Varios recuerdos describen una rigidez que impedía doblarle un brazo. El caso más citado lo cuenta Loughborough: un vecino cantero intentó doblarle el brazo apoyando la rodilla y no pudo. Se publicó casi treinta años después, sin declaración del cantero, y Loughborough le dio dos fechas distintas en 1891 y 1892.[^8]
+Varios recuerdos cuentan que tenía el brazo tan rígido que no se lo podían doblar. El caso más citado lo cuenta Loughborough: un vecino que trabajaba la piedra quiso doblarle el brazo, apoyando la rodilla, y no pudo. Se publicó casi treinta años después, sin una declaración de ese vecino. Y Loughborough le puso una fecha en 1891 y otra distinta en 1892.[^8]
 
-La rigidez que sorprendió a los presentes es **probable**. Que superara la capacidad humana es **indeterminado**: la impresión de fuerza no equivale a medirla.
+Es **probable** que estuviera tan rígida que sorprendía a los presentes. Que tuviera más fuerza que cualquier persona **no se sabe**: sentir que alguien es muy fuerte no es lo mismo que medirlo.
 
 ## 5. ¿Dejaba de respirar?
 
-Los presentes hicieron pruebas informales: mirar el pecho, poner un espejo o una vela frente a la boca, taparle la nariz y la boca. D. T. Bourdeau escribió en 1891 que en 1857 le cerró nariz y boca «unos diez minutos» sin cambio. Lo escribió treinta y cuatro años después y no sabemos cómo midió el tiempo.[^9]
+Los presentes hacían pruebas caseras: mirarle el pecho, ponerle un espejo o una vela delante de la boca, taparle la nariz y la boca. D. T. Bourdeau escribió en 1891 que en 1857 le tapó la nariz y la boca «unos diez minutos» y ella siguió igual. Lo escribió treinta y cuatro años después, y no sabemos cómo midió el tiempo.[^9]
 
-Los relatos sobre médicos tienen el mismo límite. Ninguno de los médicos dejó un informe. Todo lo que sabemos de ellos viene de recuerdos de creyentes escritos entre treinta y cuarenta años después. En el caso de Tyrone, el narrador tenía veintiún años y aún no era médico.[^10]
+Con los médicos pasa lo mismo. Ningún médico dejó un informe escrito. Todo lo que sabemos de ellos son recuerdos de creyentes, escritos entre treinta y cuarenta años después. En el caso de Tyrone, el que lo contó tenía veintiún años y todavía no era médico.[^10]
 
-Además, las fuentes divergen en lo central. Butler dijo que el pulso era normal; Merritt G. Kellogg, que había presenciado visiones, escribió en 1906 que el pulso casi se detenía y que la respiración era débil e infrecuente, salvo cuando hablaba.[^11]
+Además, los testigos no coinciden en lo principal. Butler dijo que el pulso era normal. Merritt G. Kellogg, que también vio visiones, escribió en 1906 que el pulso casi se paraba y que respiraba poco y débil, menos cuando hablaba.[^11]
 
-Hay también un límite físico. Hablar requiere mover aire. «Hablaba» y «no se movía nada de aire» no pueden ser literalmente verdaderos a la vez. Lo más probable es que los presentes usaran «no respiraba» para decir «no vimos respirar normalmente». Una persona sana contiene la respiración decenas de segundos, no decenas de minutos, y menos hablando y moviéndose.[^12]
+Y el cuerpo tiene un límite. Para hablar hay que mover aire. «Hablaba» y «no le entraba ni le salía aire» no pueden ser verdad al mismo tiempo. Lo más probable es que «no respiraba» quisiera decir «no la vimos respirar como siempre». Una persona sana puede aguantar la respiración algunas decenas de segundos, no decenas de minutos. Y mucho menos hablando y moviéndose.[^12]
 
-Es **probable** que no se percibiera respiración normal. Una apnea de minutos u horas **no está establecida**.
+Es **probable** que no se le notara la respiración normal. Que dejara de respirar por completo (lo que los médicos llaman apnea) durante minutos u horas **no está probado**.
 
 ## 6. ¿Qué pasó con las Biblias?
 
-Hay dos historias. La mejor documentada es la de Randolph, en el invierno de 1845–1846: según Otis Nichols, testigo presente, el dueño de casa le puso encima una Biblia abierta y ella la sostuvo, pasó páginas y señaló textos sin mirar. Nichols lo publicó quince años después. La prueba con la Biblia es **probable**; que señalara correctamente los textos es **posible**, sin confirmación independiente.[^13]
+Hay dos historias. La mejor documentada pasó en Randolph, en el invierno de 1845 a 1846. Otis Nichols, que estaba presente, contó que el dueño de casa le puso encima una Biblia abierta. Ella la sostuvo, pasó páginas y señaló versículos sin mirar. Nichols lo publicó quince años después. Es **probable** que la prueba con la Biblia ocurriera. Que señalara bien los versículos es **posible**, pero nadie más lo confirma.[^13]
 
-La más famosa es la Biblia de la familia Harmon, de unos 8,4 kilos, que habría sostenido con el brazo extendido durante media hora. El objeto existe. La historia aparece impresa por primera vez en 1891, cuarenta y seis años después, contada por Loughborough, que no estuvo presente. En 1919, A. G. Daniells advirtió que estos relatos podían crecer con el tiempo. La hazaña sigue **indeterminada**.[^14]
+La más famosa es la Biblia de la familia Harmon, que pesa unos 8,4 kilos. Se cuenta que la sostuvo con el brazo estirado durante media hora. La Biblia existe. Pero la historia se publicó por primera vez en 1891, cuarenta y seis años después. La contó Loughborough, que no estaba ahí. En 1919, A. G. Daniells avisó que estas historias podían agrandarse con el tiempo. Si eso pasó, **no se sabe**.[^14]
 
-## 7. ¿Cuántos testigos son independientes?
+## 7. ¿Cuántos testigos son de verdad independientes?
 
-Menos de los que parece. James White publicó la descripción general; Butler y Loughborough la repitieron; varias declaraciones de la década de 1890 se reunieron a pedido de Loughborough dentro de la misma comunidad. Hay varios testigos de ocasiones distintas, pero no decenas de registros contemporáneos independientes.[^15]
+Menos de los que parece. James White publicó la descripción general. Butler y Loughborough la repitieron. Varias declaraciones de la década de 1890 se juntaron porque las pidió Loughborough, dentro de la misma comunidad. Hay varios testigos de ocasiones distintas, pero no decenas de testimonios escritos en el momento y sin relación entre sí.[^15]
 
-Tampoco hay testigos hostiles presenciales que confirmen los fenómenos. Los críticos del siglo XIX que propusieron causas médicas no habían visto las visiones.[^16]
+Tampoco hay testigos en contra que hayan estado presentes y confirmen lo que pasaba. Los críticos del siglo XIX que pensaron en causas médicas nunca vieron una visión.[^16]
 
-## 8. ¿Siguieron los fenómenos toda su vida?
+## 8. ¿Le pasó esto toda la vida?
 
-No. Las manifestaciones corporales llamativas pertenecen a las primeras décadas; la última «visión abierta» registrada es de 1884. Después White siguió atribuyendo a Dios sueños e impresiones nocturnas. Daniells, defensor convencido, admitió en 1919 que los fenómenos físicos no acompañaron el don en los últimos años. Por eso no pueden ser condición necesaria de su autenticidad.[^17]
+No. Las señales físicas llamativas son de las primeras décadas. La última «visión abierta» registrada, es decir, con el cuerpo en trance delante de otros, es de 1884. Después siguió diciendo que Dios le hablaba en sueños y en impresiones de noche. Daniells, que creía firmemente en ella, admitió en 1919 que en sus últimos años las señales físicas ya no aparecían. Por eso no pueden ser una condición para que el don sea verdadero.[^17]
 
-## 9. ¿Qué demostrarían los fenómenos aunque fueran reales?
+## 9. ¿Qué probarían esas señales aunque fueran reales?
 
-Que ocurrió algo inusual, no quién lo causó. En muchas tradiciones religiosas se han descrito trances con insensibilidad, rigidez y respiración alterada. La pregunta por el origen se decide con los mensajes, no con el cuerpo.
+Que pasaba algo fuera de lo común, no quién lo causaba. En muchas religiones se han descrito trances en los que la persona no siente, se pone rígida y respira distinto. De dónde venían los mensajes se decide mirando los mensajes, no el cuerpo.
 
-| Afirmación | Evaluación |
+| Lo que se dice | Cómo queda |
 |---|---|
 | Ojos abiertos y fijos en algunas visiones | Probable |
-| Poca respuesta al entorno, con gestos y habla | Probable |
-| Rigidez muscular que sorprendía | Probable |
-| Fuerza literalmente sobrehumana | Indeterminado |
-| No se percibía respiración normal | Probable |
-| Ausencia total de aire durante minutos u horas | No establecido |
+| Casi no reaccionaba, aunque hablaba y hacía gestos | Probable |
+| Rigidez que sorprendía a los presentes | Probable |
+| Fuerza de verdad sobrehumana | No se sabe |
+| No se le notaba la respiración normal | Probable |
+| Nada de aire durante minutos u horas | No probado |
 | Prueba con una Biblia abierta en Randolph | Probable |
-| Biblia Harmon sostenida media hora | Indeterminado |
-| Una enfermedad concreta como causa | Indeterminado |
-| Los fenómenos prueban que Dios era la causa | No demostrado |
+| Biblia Harmon sostenida media hora | No se sabe |
+| Una enfermedad concreta como causa | No se sabe |
+| Las señales prueban que Dios era la causa | No probado |
 
 [^1]: James White, *Life Incidents* (Battle Creek, 1868), pp. 272–273, [edición digital](https://www.gutenberg.org/files/61394/61394-h/61394-h.htm).
 [^2]: George I. Butler, «Visions and Prophecy», *Review and Herald*, 9 de junio de 1874, pp. 201–202, [facsímil](https://documents.adventistarchives.org/Periodicals/RH/RH18740609-V43-26.pdf).

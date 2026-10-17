@@ -73,6 +73,18 @@ Se prefieren frases completas y directas:
 
 Se evitará encadenar etiquetas como si fueran notas de laboratorio cuando una oración natural puede comunicar el mismo grado de certeza.
 
+## ¿Cómo se logra un lenguaje simple?
+
+Desde la revisión del 17 de octubre de 2026, el manuscrito se escribe para que lo entienda cualquier lector sin formación especial:
+
+- frases cortas, de una idea cada una (como referencia, menos de 25 palabras);
+- palabras de todos los días: «decir que venía de Dios» en lugar de «atribución», «maneras normales de enterarse» en lugar de «vías ordinarias»;
+- cada término técnico se explica la primera vez que aparece (mesmerismo, apnea, diezmo, puerta cerrada);
+- los grados de certeza usan siempre las mismas cuatro palabras: **probado**, **probable**, **posible** y **no se sabe**;
+- las notas no se simplifican: conservan las referencias completas.
+
+Simplificar nunca puede cambiar un hecho, una fecha, un número ni el grado de certeza.
+
 ## ¿Qué largo debe tener cada capítulo?
 
-Desde la condensación del 17 de octubre de 2026, el manuscrito busca lo más corto que conserve los hechos, los grados de certeza y lo que juega en contra. Como referencia: entre 650 y 1.400 palabras de cuerpo por capítulo y unas 2.200 en el capítulo 16. Cada capítulo responde su pregunta en el primer párrafo, presenta sólo los casos que inclinan el balance y deja el detalle documental en `hallazgos/`. Las tablas se usan sólo cuando resumen un resultado; las tablas de trabajo quedan fuera de la edición de lectura.
+Desde la condensación del 17 de octubre de 2026, el manuscrito busca lo más corto que conserve los hechos, los grados de certeza y lo que juega en contra. Como referencia: entre 700 y 1.600 palabras de cuerpo por capítulo y unas 2.600 en el capítulo 16, después de la revisión de lenguaje simple. Cada capítulo responde su pregunta en el primer párrafo, presenta sólo los casos que inclinan el balance y deja el detalle documental en `hallazgos/`. Las tablas se usan sólo cuando resumen un resultado; las tablas de trabajo quedan fuera de la edición de lectura.

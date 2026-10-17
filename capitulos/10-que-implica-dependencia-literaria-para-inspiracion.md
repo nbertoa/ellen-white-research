@@ -1,62 +1,62 @@
-# Capítulo 10 — ¿Qué implica su dependencia literaria para sus afirmaciones de inspiración?
+# Capítulo 10 — ¿Qué significa para su inspiración que usara libros de otros?
 
-Usar fuentes no contradice por sí mismo la inspiración, y la mayor parte de los préstamos históricos encaja con lo que White reconoció. La dificultad está en otro lugar: en al menos dos casos, palabras tomadas de libros anteriores aparecen dentro de escenas que ella presentó como visiones, y en uno de ellos como palabras que un guía celestial le mandaba decir. Es una **posible falsa atribución de origen**. No está demostrada, porque faltan borradores que muestren cómo se compusieron.
+Usar libros de otros no quiere decir, por sí solo, que algo no sea inspirado. Y casi todo lo que tomó para sus libros de historia encaja con lo que White reconoció. El problema está en otro lado. En al menos dos casos, palabras sacadas de libros anteriores aparecen dentro de escenas que ella presentó como visiones. En uno de ellos, como palabras que un guía del cielo le mandaba decir. Es **posible que haya dicho que algo venía de Dios cuando venía de un libro**. No está probado, porque faltan borradores que muestren cómo se escribieron esos textos.
 
-## 1. ¿Qué haría falta para una contradicción?
+## 1. ¿Qué haría falta para que haya una contradicción?
 
-Tres cosas juntas: un contenido que depende de una fuente humana, una afirmación de White sobre el origen de **ese mismo contenido** y una incompatibilidad real entre ambas. Usar a un historiador y decir que Dios guió el mensaje general de un libro no se contradicen. Usar a un historiador y decir que ese mismo dato llegó sin ninguna información humana, sí. Y aun una contradicción documental no prueba una mentira consciente.
+Tres cosas juntas. Que un texto salga de un libro humano. Que White diga de dónde viene **ese mismo texto**. Y que las dos cosas no puedan ser verdad a la vez. Usar a un historiador y decir que Dios guió el mensaje general de un libro no se contradicen. Usar a un historiador y decir que ese mismo dato llegó sin ninguna ayuda humana, sí. Y aunque los documentos muestren una contradicción, eso no prueba que mintiera a propósito.
 
-## 2. ¿Puede un escrito inspirado usar fuentes?
+## 2. ¿Puede un escrito inspirado usar libros de otros?
 
-Sí, dentro de la premisa cristiana del libro. Lucas dice que investigó; Reyes y Crónicas remiten a registros anteriores; los evangelios sinópticos comparten relatos y frases; Judas cita una tradición que aparece en 1 Enoc.[^1] Pero ninguno de esos casos presenta como voz o visión una información obtenida de otra manera.
+Sí, si se parte de la fe cristiana, como hace este libro. Lucas dice que investigó. Reyes y Crónicas mandan a leer registros anteriores. Mateo, Marcos y Lucas comparten relatos y frases. Judas cita una tradición que aparece en un libro antiguo llamado 1 Enoc.[^1] Pero en ninguno de esos casos se presenta como voz o visión algo que se supo de otra manera.
 
-## 3. ¿Cómo describió White su propio trabajo?
+## 3. ¿Cómo describía White su propio trabajo?
 
-Con tres elementos: mensajes recibidos de Dios, palabras humanas para expresarlos y autoridad religiosa. En 1867 dijo que las palabras eran suyas, **salvo las de un ángel**, que ponía entre comillas. En 1860 explicó que no recordaba todo al salir de una visión y que las escenas volvían mientras escribía. En 1885 pidió libros de historia bíblica que le dieran «el orden de los acontecimientos». En 1888 reconoció haber usado palabras de historiadores.[^2]
+Con tres partes: mensajes que recibía de Dios, palabras humanas para contarlos y autoridad religiosa. En 1867 dijo que las palabras eran suyas, **menos las de un ángel**, que ponía entre comillas. En 1860 explicó que, al salir de una visión, no se acordaba de todo, y que las escenas le volvían mientras escribía. En 1885 pidió libros de historia bíblica que le dieran «el orden de los acontecimientos». En 1888 reconoció que había usado palabras de historiadores.[^2]
 
-Con ese modelo, la dependencia del capítulo 9 en libros de historia **no es una contradicción**: encaja con lo que ella reconoció.
+Si se mira así, lo que tomó para sus libros de historia, visto en el capítulo 9, **no es una contradicción**. Encaja con lo que ella misma reconoció.
 
-## 4. ¿Qué pasa cuando una advertencia atribuida a Dios usa un texto anterior?
+## 4. ¿Qué pasa cuando un consejo que dice venir de Dios usa un texto anterior?
 
-En un testimonio de 1882, el mismo donde defendía el origen divino de sus mensajes, hay una exhortación muy cercana a *Night Scenes in the Bible*, de Daniel March: la duda que exige conocimiento perfecto nunca cede a la fe. La dependencia está documentada. Pero ella no presentó cada oración como palabras oídas en visión, sino el mensaje como presentado por el Señor. Encaja con un mensaje redactado con material ajeno.[^3]
+En un mensaje de 1882, el mismo en que defendía que sus mensajes venían de Dios, hay un consejo muy parecido a un pasaje de *Night Scenes in the Bible*, de Daniel March: la duda que pide saberlo todo nunca le deja lugar a la fe. Está probado que lo tomó de ahí. Pero ella no dijo que cada frase fueran palabras oídas en una visión. Dijo que el mensaje se lo había mostrado el Señor. Encaja con un mensaje escrito usando palabras de otro.[^3]
 
 ## 5. ¿Qué muestra la escena del juicio de 1879?
 
-Una dificultad mayor. White fechó la experiencia en la madrugada del 23 de octubre de 1879 y la publicó en 1880: dijo que vio escenas del juicio final. En ellas el juez habla en primera persona del amor de Cristo, de su muerte para borrar el registro de iniquidad, de la oscuridad del sepulcro y de la vergüenza aceptada para recuperar a la oveja perdida.[^4]
+Un problema más grande. White dijo que la madrugada del 23 de octubre de 1879 vio escenas del juicio final, y lo publicó en 1880. En esas escenas, el juez habla en primera persona. Habla del amor de Cristo, de que murió para borrar la lista de pecados, de la oscuridad de la tumba y de la vergüenza que aceptó para recuperar a la oveja perdida.[^4]
 
-Esa misma secuencia está en *Walks and Homes of Jesus*, de March (1866), donde la cruz «parece decirnos» esas palabras. White la adapta y amplía. March escribió una apelación imaginada; White la pone en boca de un personaje dentro de una visión.
+Esa misma serie de ideas está en *Walks and Homes of Jesus*, de March, de 1866. Ahí es la cruz la que «parece decirnos» esas palabras. White las adapta y les agrega. March escribió un llamado imaginado. White lo pone en boca de un personaje dentro de una visión.
 
-La dependencia es **establecida**. Pudo usar la frase de March para expresar algo que sí vivió, o una lectura pudo reaparecer en la experiencia, o la escena pudo construirse con literatura. El paralelo no decide entre esas opciones.
+Está **probado** que el texto sale de March. Hay tres posibilidades. Pudo usar las palabras de March para contar algo que vivió de verdad. Algo que había leído pudo volver a aparecer en la experiencia. O la escena pudo armarse con lo que había leído. El parecido no permite elegir entre las tres.
 
-## 6. ¿Es más precisa la atribución del diario de 1890?
+## 6. ¿Es más claro el caso del diario de 1890?
 
-Sí. En la entrada del 21 de noviembre de 1890 cuenta que se durmió después de orar y que fue enseñada por Dios. Su guía le ordena: «habla las palabras que te doy». Dentro de ese discurso aparece una explicación —Dios nunca conduce a sus hijos de otra manera que la que ellos elegirían si pudieran ver como él ve— tomada del comentario de F. W. Krummacher en *Elijah the Tishbite* (edición inglesa de 1847).[^5]
+Sí. En lo que escribió el 21 de noviembre de 1890 cuenta que se durmió después de orar y que Dios le enseñó. Su guía le ordena: «habla las palabras que te doy». Dentro de ese discurso hay una explicación: Dios nunca lleva a sus hijos por otro camino que el que ellos elegirían si pudieran ver como él ve. Esa explicación sale del comentario de F. W. Krummacher en *Elijah the Tishbite* (edición en inglés de 1847).[^5]
 
-Aquí la explicación «sólo afirmaba que el mensaje general era inspirado» no alcanza: el texto habla de las palabras que debía decir. La dependencia está **establecida**. Si la incorporó al escribir, si la había asimilado antes o si se atribuyó erróneamente un origen sobrenatural sigue **indeterminado**. Es la objeción más seria de este capítulo.
+Acá no sirve decir «ella sólo decía que el mensaje general venía de Dios»: el texto habla de las palabras que tenía que decir. Está **probado** que esa parte sale de Krummacher. **No se sabe** si la agregó al escribir, si la tenía incorporada de antes o si pensó, equivocada, que venía de Dios. Es la objeción más seria de este capítulo.
 
 ## 7. ¿Qué cambia en el caso de Queensland?
 
-En notas de viaje de 1898, publicadas en 1899, White refiere un discurso del «Gran Maestro» a ministros. Parte del pasaje sigue una introducción de Heman Humphrey de 1836. El White Estate explicó que unas comillas añadidas en ediciones posteriores hacían parecer que el discurso continuaba más de lo debido. El impreso de 1899 confirma que faltan esas comillas, pero la dependencia alcanza también los primeros párrafos. Mover una comilla no resuelve todo.[^6]
+En unas notas de viaje de 1898, publicadas en 1899, White cuenta un discurso del «Gran Maestro» a unos pastores. Parte del texto sigue una introducción que Heman Humphrey escribió en 1836. El White Estate explicó que en ediciones posteriores se agregaron unas comillas que hacían parecer que el discurso seguía más de lo que seguía. El texto impreso en 1899 confirma que esas comillas no estaban. Pero lo tomado de Humphrey también aparece en los primeros párrafos. Mover unas comillas no lo resuelve todo.[^6]
 
-## 8. ¿Reconoció alguna vez que una lectura precedía a un sueño?
+## 8. ¿Reconoció alguna vez que leyó algo antes de un sueño?
 
-Sí, y eso limita la crítica. En 1903 contó que leyó la historia de un barco frente a un iceberg y que después tuvo una escena nocturna semejante, con una aplicación religiosa. No ocultó la lectura. Y en 1904 escribió que intentaría repetir «en palabras finitas» lo que dijo un mensajero, aunque lo puso entre comillas: sus comillas no siempre eran una transcripción literal.[^7] Estos datos favorecen una lectura benigna en general, pero no documentan cómo se redactaron 1879 y 1890.
+Sí, y eso pone un límite a la crítica. En 1903 contó que leyó la historia de un barco frente a un iceberg y que después, de noche, vio una escena parecida con una enseñanza religiosa. No escondió lo que había leído. Y en 1904 escribió que intentaría repetir «en palabras finitas» lo que había dicho un mensajero, aunque lo puso entre comillas. O sea que sus comillas no siempre querían decir que eran las palabras exactas.[^7] Estos datos ayudan a pensar bien de ella en general. Pero no muestran cómo se escribieron los textos de 1879 y 1890.
 
-## 9. ¿Qué pasa con su negación de lecturas sobre salud?
+## 9. ¿Qué pasa con que dijera que no había leído libros de salud?
 
-En 1867 afirmó que no había leído obras de salud antes de escribir sus primeros textos sobre el tema, para que no se dijera que su luz venía de médicos. En uno de esos textos, de 1864, describe el tabaco con una frase muy cercana a la de un libro de John C. Gunn. Pero la misma frase circulaba en la propia *Review* en mayo de 1864. Hay antecedente del lenguaje; no hay prueba de que leyera a Gunn.[^8] La negación sigue siendo verificable y no ha sido refutada.
+En 1867 dijo que no había leído libros de salud antes de sus primeros escritos sobre el tema, para que nadie dijera que lo había sacado de los médicos. En uno de esos textos, de 1864, describe el tabaco con una frase muy parecida a la de un libro de John C. Gunn. Pero esa misma frase había salido en la propia *Review* en mayo de 1864. Hay una frase anterior parecida, pero no hay pruebas de que leyera a Gunn.[^8] Lo que dijo se puede comprobar, y nadie mostró que fuera falso.
 
 ## 10. ¿Qué negó en 1897?
 
-En abril de 1897 negó haber sacado **todo** de otros libros. En junio rechazó la acusación de que recogía cosas de libros y las enviaba como algo mostrado por el Señor. Si esa segunda negación excluía cualquier incorporación de ese tipo, el diario de 1890 sería un contraejemplo importante. Si negaba que sus mensajes fueran fabricados con lecturas, no. La carta no permite decidirlo.[^9]
+En abril de 1897 negó haber sacado **todo** de otros libros. En junio rechazó la acusación de que juntaba cosas de libros y las mandaba como si se las hubiera mostrado el Señor. Si con eso quería decir que nunca hizo nada así, el diario de 1890 sería un ejemplo en contra importante. Si quería decir que sus mensajes no estaban fabricados con lecturas, no. La carta no permite saber cuál de las dos.[^9]
 
 ## 11. ¿Qué se puede concluir?
 
-La defensa adventista explica bien los préstamos históricos y distingue mensaje y redacción. Su límite es presentar como demostrado lo que sólo es posible: que Dios pudiera guiar la selección no prueba que lo hiciera.
+Los defensores adventistas explican bien lo que tomó para sus libros de historia, y separan el mensaje de la manera de escribirlo. Su límite es presentar como probado lo que sólo es posible: que Dios *pudiera* guiar lo que ella elegía no prueba que lo hiciera.
 
-La crítica tiene razón en que los cruces de 1879 y 1890 son más graves que cualquier cantidad de datos históricos prestados. Su límite es que un antecedente literario no reconstruye la experiencia ni prueba intención.
+Los críticos tienen razón en que los casos de 1879 y 1890 son más graves que cualquier cantidad de datos de historia tomados de otros libros. Su límite es que un texto anterior parecido no muestra cómo fue la experiencia ni prueba que ella quisiera engañar.
 
-Harían falta borradores que mostraran cómo una lectura se convirtió en un relato de revelación, o una nota anterior a la lectura que la contuviera. Mientras no aparezcan, el origen humano del lenguaje tiene más respaldo que cualquier explicación particular de la experiencia.
+Harían falta borradores que mostraran cómo algo leído se convirtió en el relato de una revelación. O una nota, escrita antes de leer ese libro, que ya tuviera el contenido. Mientras no aparezcan, hay más pruebas de que las palabras vinieron de libros humanos que de cualquier explicación concreta de lo que ella vivió.
 
 [^1]: Lucas 1:1-4; 1 Reyes 11:41; 2 Crónicas 9:29; Marcos 2:1-12; Mateo 9:1-8; Lucas 5:17-26; Judas 14-15; [1 Enoc 1:9](https://sacred-texts.com/book/the-book-of-enoch/read/chapter-i).
 [^2]: Ellen G. White, [*Review and Herald*, 8 de octubre de 1867, p. 260](https://m.egwwritings.org/en/book/821.726); [*Spiritual Gifts* 2 (1860), pp. 292–293](https://m.egwwritings.org/en/book/105.1115); [Lt 38, 1885, párr. 30](https://m.egwwritings.org/en/book/14054.3943001); [*The Great Controversy* (1888), prólogo, pp. g–h](https://m.egwwritings.org/en/book/133.18).

@@ -1,64 +1,64 @@
 # Capítulo 6 — ¿Qué podría explicar las visiones de Elena G. de White?
 
-La descripción que mejor encaja con lo observado es la de un trance o estado de absorción religiosa intensa, vivido dentro de una cultura que conocía esas experiencias y les daba sentido. Esa descripción explica cómo se veían las visiones, no qué las causaba ni de dónde salía su contenido. La epilepsia es posible pero tiene poco apoyo; el fraude no tiene evidencia; el origen divino tampoco tiene una prueba independiente en estos datos.
+Lo que mejor encaja con lo que vieron los testigos es un trance: un estado de concentración religiosa muy intensa, vivido en un ambiente que conocía esas experiencias y les daba un sentido. Eso explica cómo se veían las visiones. No explica qué las causaba ni de dónde salía lo que ella veía. La epilepsia es posible, pero tiene poco apoyo. No hay pruebas de fraude. Y estos datos tampoco dan una prueba aparte de que vinieran de Dios.
 
-## 1. ¿Qué tendría que explicar una buena hipótesis?
+## 1. ¿Qué tiene que explicar una buena respuesta?
 
-Que las visiones empezaron a los diecisiete años, en plena crisis posterior a octubre de 1844. Que ella narraba escenas y mensajes con sentido religioso. Que los testigos la veían apartada del entorno pero hablando a personas concretas. Que los episodios duraban tiempos variables y que, con los años, las visiones públicas dieron paso a sueños nocturnos.[^1]
+Varias cosas. Las visiones empezaron a los diecisiete años, en plena crisis después de octubre de 1844. Ella contaba escenas y mensajes con sentido religioso. Los testigos la veían desconectada de lo que pasaba alrededor, pero hablándoles a personas concretas. Las visiones duraban tiempos distintos. Y con los años, las visiones delante de la gente dejaron lugar a sueños de noche.[^1]
 
-Para cada propuesta vale la misma pregunta: si ésta fuera la causa, ¿qué otros signos esperaríamos, y aparecen en los documentos?
+Para cada explicación se hace la misma pregunta: si ésta fuera la causa, ¿qué otras señales tendríamos que ver? ¿Aparecen en los documentos?
 
-## 2. ¿Pudo causarlas el golpe de su infancia?
+## 2. ¿Pudo causarlas el golpe que recibió de chica?
 
-A los nueve años una compañera le arrojó una piedra a la cara. Ellen contó que quedó inconsciente, que su madre le dijo que pasó tres semanas en estupor y que tuvo una larga convalecencia. Ese relato apareció desarrollado en 1860, más de veinte años después. El núcleo del golpe es **probable**; la gravedad neurológica, **indeterminada**.[^2]
+A los nueve años, una compañera le tiró una piedra a la cara. Ellen contó que quedó inconsciente, que su madre le dijo que estuvo tres semanas como dormida y que tardó mucho en recuperarse. Contó esto con detalle en 1860, más de veinte años después. Que hubo un golpe es **probable**. Cuánto le afectó al cerebro **no se sabe**.[^2]
 
-Un traumatismo grave aumenta el riesgo de epilepsia, pero un riesgo estadístico no diagnostica a una persona. Entre el golpe y las visiones pasaron siete u ocho años sin un registro de crisis repetidas. Además, ella contó que antes de 1844, durante una oración, sintió gozo, rigidez y desconexión del entorno: ya conocía estados de absorción religiosa antes de ser visionaria.[^3]
+Un golpe fuerte en la cabeza aumenta el riesgo de epilepsia. Pero un riesgo no es un diagnóstico. Entre el golpe y las visiones pasaron siete u ocho años sin que se registraran ataques repetidos. Además, ella contó que antes de 1844, mientras oraba, sintió una gran alegría, se puso rígida y se desconectó de lo que la rodeaba. O sea, ya había vivido esos estados de concentración religiosa antes de tener visiones.[^3]
 
-## 3. ¿Encajan con una forma de epilepsia?
+## 3. ¿Pudo ser una forma de epilepsia?
 
-En 1981 el pediatra Delbert Hodder propuso crisis parciales complejas; en 1985 Molleurus Couperus defendió una relación con el golpe. Ambos trabajaron con relatos publicados, sin expediente clínico.[^4]
+En 1981, el pediatra Delbert Hodder propuso un tipo de ataque epiléptico que no hace caer ni convulsionar, sino que cambia la conciencia (crisis parciales complejas). En 1985, Molleurus Couperus lo relacionó con el golpe. Los dos trabajaron con relatos publicados, sin una historia clínica.[^4]
 
-Hay un mecanismo real: algunas crisis focales incluyen sensaciones de presencia, éxtasis o imágenes. Pero el salto de «puede pasar» a «pasó aquí» es grande. La dificultad mayor es la duración. Un estudio con video y electroencefalograma midió una mediana de 42,5 segundos para ese tipo de crisis, y la mayoría duró menos de cinco minutos. **Si fueran fiables** las duraciones de quince minutos a horas, no encajarían con una crisis habitual. Pero esas duraciones son recuerdos, y no pueden aceptarse como medición sólo cuando debilitan una explicación natural.[^5]
+Es algo que puede pasar: algunos de esos ataques traen la sensación de una presencia, mucha alegría o imágenes. Pero de «puede pasar» a «pasó acá» hay un salto grande. El mayor problema es cuánto duraban. Un estudio que filmó esos ataques y midió la actividad del cerebro encontró que la mitad duraba menos de 42,5 segundos, y la mayoría menos de cinco minutos. **Si fueran ciertas** las visiones de quince minutos a horas, no encajarían con un ataque común. Pero esas duraciones son recuerdos. No se pueden tomar como medición sólo cuando sirven para descartar una explicación natural.[^5]
 
-El comité adventista de 1984 afirmó que era imposible que esas crisis explicaran las visiones. Esa seguridad tampoco se puede demostrar sin registros cerebrales.[^6] La epilepsia sigue siendo **posible**, con apoyo limitado.
+En 1984, un comité adventista dijo que era imposible que esos ataques explicaran las visiones. Esa seguridad tampoco se puede demostrar sin estudios del cerebro.[^6] La epilepsia sigue siendo **posible**, con poco apoyo.
 
-## 4. ¿Describe mejor el caso un trance religioso?
+## 4. ¿Se parece más a un trance religioso?
 
-Sí, en cuanto a la forma. Un estado de trance o absorción puede incluir atención apartada del entorno, mirada fija, movimientos y la convicción de haber recibido un mensaje, sin enfermedad ni fingimiento. Encaja con lo que ella misma contó de su adolescencia y con lo que vieron los testigos. El mismo estudio de duración registró episodios de origen psicológico de más de treinta minutos: la duración larga no descarta todas las alternativas naturales.[^7]
+Sí, en la forma. En un trance, la persona puede estar desconectada de lo que pasa, tener la mirada fija, moverse y quedar convencida de que recibió un mensaje, sin estar enferma y sin fingir. Eso encaja con lo que ella contó de su adolescencia y con lo que vieron los testigos. El mismo estudio registró episodios de origen psicológico de más de treinta minutos. Así que una visión larga no descarta todas las explicaciones naturales.[^7]
 
-Pero «trance» dice cómo pudo verse, no por qué ocurría ni qué generaba cada escena. Si se usara para explicar cualquier cosa, dejaría de poder ponerse a prueba.
+Pero «trance» dice cómo pudo verse, no por qué pasaba ni de dónde salía cada escena. Si se usara para explicar cualquier cosa, ya no se podría poner a prueba.
 
 ## 5. ¿Era conocida esa experiencia en su ambiente?
 
-Sí. Las caídas, los trances, los sueños y los mensajes visionarios formaban parte de ciertos avivamientos protestantes estadounidenses. El juicio de Atkinson muestra un grupo que cantaba, caía, tenía visiones y discutía mensajes particulares. La historiadora Ann Taves estudió cómo una misma experiencia podía leerse como acción divina, enfermedad o entusiasmo según quién la mirara.[^8]
+Sí. En algunos movimientos protestantes de Estados Unidos era común que la gente cayera al suelo, entrara en trance, tuviera sueños y diera mensajes de visiones. El juicio de Atkinson muestra un grupo que cantaba, se caía, tenía visiones y discutía mensajes para personas concretas. La historiadora Ann Taves estudió cómo una misma experiencia podía verse como obra de Dios, como enfermedad o como exceso de entusiasmo, según quién la mirara.[^8]
 
-William Foy, un predicador afroamericano, publicó en 1845 dos visiones extensas de 1842, con testigos. Muestra que el fenómeno tenía paralelos previos bien fechados. El folleto de Foy no puede explicar por sí solo una experiencia anterior a su publicación, aunque pudo influir en la redacción posterior. El caso de Hazen Foss depende de una carta de Ellen de 1890, cuarenta y seis años después, y no permite comparar contenidos.[^9]
+William Foy, un predicador afroamericano, publicó en 1845 dos visiones largas que tuvo en 1842, con testigos. Eso muestra que antes de ella ya había casos parecidos con fecha segura. El folleto de Foy, por sí solo, no puede explicar una experiencia de ella que fue anterior a su publicación, aunque pudo influir en cómo la escribió después. El caso de Hazen Foss depende de una carta de Ellen de 1890, cuarenta y seis años después, y no permite comparar lo que vieron.[^9]
 
-## 6. ¿Cuánto pudieron influir el chasco y el estudio en grupo?
+## 6. ¿Cuánto pesaron la desilusión de 1844 y el estudio en grupo?
 
-Mucho en la interpretación y en el contenido. La primera visión respondía exactamente a la pregunta urgente de su grupo: ¿había guiado Dios el movimiento de 1844?
+Mucho, en cómo entendía las visiones y en lo que decían. La primera visión respondía justo a la pregunta urgente de su grupo: ¿Dios había guiado el movimiento de 1844?
 
-Hay un patrón posterior más preciso. En 1904 Ellen recordó que en las conferencias bíblicas de los primeros años, cuando el grupo se trababa, una visión explicaba los textos. En 1855 hay un caso concreto: J. N. Andrews estudió cuándo empezaba el sábado, concluyó que a la puesta del sol y convenció a casi todos; Ellen y Joseph Bates seguían con la práctica de las seis de la tarde; después, una visión de Ellen confirmó la puesta del sol.[^10]
+Más adelante aparece algo más preciso. En 1904, Ellen recordó que en las reuniones de estudio de la Biblia de los primeros años, cuando el grupo no podía avanzar, una visión aclaraba los textos. En 1855 hay un caso concreto. J. N. Andrews estudió a qué hora empezaba el sábado. Concluyó que empezaba a la puesta del sol y convenció a casi todos. Ellen y Joseph Bates seguían empezándolo a las seis de la tarde. Después, una visión de Ellen confirmó la puesta del sol.[^10]
 
-El caso corta en dos direcciones. A favor de un origen profético: la visión corrigió la opinión que ella todavía tenía. A favor de una explicación humana: la solución ya estaba estudiada y presentada antes de la visión, así que no prueba acceso a información independiente.
+Este caso se puede leer de dos maneras. A favor de que venía de Dios: la visión corrigió lo que ella todavía pensaba. A favor de una explicación humana: la respuesta ya estaba estudiada y presentada antes de la visión. Así que no prueba que ella supiera algo por otro camino.
 
-## 7. ¿Pudo equivocarse sinceramente sobre el origen?
+## 7. ¿Pudo creer sinceramente que venían de Dios sin que fuera así?
 
-Sí. Una experiencia vívida, involuntaria, vivida en oración y con imágenes bíblicas, puede interpretarse de buena fe como venida de Dios. Esta explicación predice convicción sostenida, mensajes ajustados a las preocupaciones del grupo y ausencia de preparación engañosa, y esos tres rasgos aparecen. El hermano que en 1847 llamó «ensueños religiosos» a las visiones no la creía deshonesta.[^11]
+Sí. Una experiencia muy vívida, que no se busca, que llega en oración y con imágenes de la Biblia, se puede entender de buena fe como algo que viene de Dios. Si esto fue lo que pasó, esperaríamos tres cosas: que ella estuviera convencida toda la vida, que los mensajes respondieran a lo que preocupaba al grupo y que no hubiera preparación para engañar. Las tres aparecen. El hermano que en 1847 llamó «ensueños religiosos» a las visiones no pensaba que ella fuera deshonesta.[^11]
 
-Su límite: no explica de antemano una información verdaderamente inaccesible, si apareciera. Y la sinceridad no se observa directamente.
+El límite de esta explicación es que no explicaría un dato que ella de verdad no pudiera conocer, si apareciera uno. Y la sinceridad no se puede ver directamente.
 
-## 8. ¿Hay evidencia de fraude?
+## 8. ¿Hay pruebas de fraude?
 
-No en estos documentos. No hay confesión, cómplice, preparación secreta ni un episodio temprano en que se descubriera una actuación. Bates la observó buscando engaño y no lo halló. La persistencia y el carácter público de las experiencias vuelven difícil una teoría de fingimiento sostenido, aunque nadie queda absuelto por parecer sincero. El fraude es **lógicamente posible**, no probable con esta evidencia.[^12]
+No en estos documentos. No hay confesión, ni cómplices, ni preparación a escondidas, ni un caso temprano en que la descubrieran actuando. Bates la observó buscando un engaño y no lo encontró. Ella tuvo estas experiencias durante años y delante de la gente, y eso hace difícil pensar que fingiera todo el tiempo. Aunque parecer sincero no deja libre de sospecha a nadie. El fraude **puede pensarse**, pero con estas pruebas no es probable.[^12]
 
-## 9. ¿Debe haber una sola causa?
+## 9. ¿Tiene que haber una sola causa?
 
-No. Una oración juvenil con rigidez, un trance público en 1845 y un sueño en 1890 pueden pertenecer a categorías distintas. Y cada experiencia tiene niveles: el estado del cuerpo, el contenido formado con recuerdos e imágenes, y la interpretación de su origen. Explicar uno no resuelve los otros.
+No. Una oración de joven en la que se puso rígida, un trance en público en 1845 y un sueño en 1890 pueden ser cosas distintas. Y cada experiencia tiene tres partes: lo que le pasaba al cuerpo, lo que veía (armado con recuerdos e imágenes) y lo que ella pensaba sobre de dónde venía. Explicar una parte no explica las otras.
 
-## 10. ¿Hay evidencia positiva de que la fuente fuera divina?
+## 10. ¿Hay pruebas de que vinieran de Dios?
 
-No en estos datos. Que ella y sus testigos atribuyeran las experiencias a Dios documenta su creencia, no la causa. Lo extraño del cuerpo tampoco dice quién envió el mensaje. Un origen divino se pondría a prueba con el contenido: anuncios fechados antes de hechos improbables o información inaccesible confirmada después. Eso es lo que examinan los capítulos 7 y 8.
+No en estos datos. Que ella y sus testigos dijeran que venían de Dios muestra lo que creían, no la causa. Que el cuerpo hiciera cosas raras tampoco dice quién mandaba el mensaje. Para saber si venían de Dios hay que mirar lo que decían: anuncios escritos antes de hechos difíciles de adivinar, o datos que ella no podía conocer y que después se confirmaron. Eso es lo que revisan los capítulos 7 y 8.
 
 [^1]: James White, *Life Incidents* (1868), pp. 272–273, [edición digital](https://www.gutenberg.org/files/61394/61394-h/61394-h.htm); W. C. White, 17 de diciembre de 1905, [transcripción](https://whiteestate.org/legacy/issues-visionsofegw-html/).
 [^2]: Ellen G. White, *Spiritual Gifts*, vol. 2 (1860), pp. 7–9, [texto](https://ellenwhiteresearch.com/works/2SG).

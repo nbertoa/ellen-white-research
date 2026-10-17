@@ -4,35 +4,37 @@ Este libro intenta responder una pregunta:
 
 > **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
 
-La respuesta llega en el capítulo 16, pero no se esconde: la pretensión profética no queda confirmada. La explicación mejor apoyada es que White vivió experiencias religiosas reales, de origen humano, y las interpretó sinceramente como revelaciones. Esa conclusión tiene confianza moderada, no alta. Los quince capítulos anteriores muestran cómo se llegó a ella y dónde podría estar equivocada.
+La respuesta está en el capítulo 16, pero no hace falta esperar para conocerla. No quedó demostrado que fuera profeta. Lo que mejor explica los documentos es esto: vivió experiencias religiosas reales, que tenían un origen humano, y creyó con sinceridad que venían de Dios. No es una conclusión segura del todo; es la más probable. Los capítulos 1 a 15 muestran cómo se llegó a ella y dónde podría estar equivocada.
 
-## ¿Qué quieren decir «establecido», «probable», «posible» e «indeterminado»?
+## ¿Qué quieren decir «probado», «probable», «posible» y «no se sabe»?
 
-Son grados de seguridad sobre los hechos.
+Son cuatro grados de seguridad. Se usan en todo el libro.
 
-- **Establecido:** los documentos permiten afirmarlo con seguridad.
-- **Probable:** es la mejor explicación, pero queda una duda relevante.
-- **Posible:** encaja con los datos, sin razones para preferirlo.
-- **Indeterminado:** los documentos no permiten decidir.
+- **Probado:** los documentos lo muestran con seguridad.
+- **Probable:** es lo más razonable, pero queda alguna duda.
+- **Posible:** puede ser, pero no hay razones para preferirlo.
+- **No se sabe:** los documentos no alcanzan para decidir.
 
-Sirven para no decir «sabemos» cuando sólo podemos decir «parece».
+Sirven para no decir «sabemos» cuando en realidad sólo podemos decir «parece».
 
-## ¿Por qué se separan el hecho, la interpretación y la explicación?
+## ¿Por qué se separan los hechos de su explicación?
 
-Porque son cosas distintas. Que White escribió una frase es un hecho. Qué quiso decir es una interpretación. Por qué la escribió —revelación, lectura, memoria, error sincero o engaño— es una explicación que hay que demostrar.
+Porque son cosas distintas. Que White escribió una frase es un hecho. Qué quiso decir con esa frase es una interpretación. Por qué la escribió es otra pregunta: pudo venir de Dios, de un libro, de su memoria, de un error sincero o de un engaño. Esa última pregunta es la que hay que demostrar.
 
-## ¿Qué fuentes pesan más?
+## ¿Qué fuentes valen más?
 
-Las cartas, manuscritos, diarios, periódicos y primeras ediciones de la época pesan más que los recuerdos escritos décadas después. Un testigo directo pesa más que cinco autores que repiten su relato. Walter Rea sirve para localizar las críticas y Herbert E. Douglass para reconstruir la defensa adventista. Ninguno de los dos decide un caso: decide el documento.
+Valen más las cartas, diarios, periódicos y libros de la misma época que los recuerdos escritos muchos años después. Un testigo directo vale más que cinco autores que repiten lo que él contó.
 
-## ¿Qué es la regla de simetría?
+Dos autores aparecen seguido. Walter Rea, un crítico, ayuda a encontrar las acusaciones. Herbert E. Douglass, un defensor adventista, ayuda a conocer las respuestas. Ninguno de los dos decide nada: decide el documento.
 
-Aplicar la misma exigencia a favor y en contra. Una experiencia no es sobrenatural sólo porque no tengamos una explicación natural a mano. Tampoco queda refutada porque exista una explicación natural posible. Un error no prueba fraude y una fuente literaria no prueba engaño.
+## ¿Qué es la regla de la balanza pareja?
 
-## ¿Qué deja fuera este libro?
+Pedir la misma prueba a favor y en contra. Algo no es un milagro sólo porque no tengamos una explicación a mano. Y tampoco deja de serlo sólo porque podamos imaginar una explicación natural. Un error no prueba que alguien mintió. Usar un libro ajeno no prueba un engaño.
 
-Deja fuera el examen bíblico completo de las doctrinas de 1844, el santuario y el juicio investigador. Según los propios criterios del libro, esa es una prueba importante, y exige otra investigación. Tampoco evalúa a fondo la edad de la Tierra. Por eso el veredicto es parcial, y el capítulo 16 explica qué costo tiene cada exclusión.
+## ¿Qué deja afuera este libro?
 
-## ¿Qué podría cambiar la conclusión?
+Deja afuera el examen bíblico completo de tres enseñanzas adventistas: la fecha de 1844, el santuario celestial y el juicio investigador. Según los propios criterios del libro, eso también cuenta para saber si alguien es profeta, pero necesita otra investigación. Tampoco estudia a fondo la edad de la Tierra. Por eso la respuesta es parcial, y el capítulo 16 explica qué se pierde al dejar eso afuera.
 
-Nuevos documentos. Un anuncio fechado antes de un hecho imposible de prever, o un borrador que muestre una revelación fabricada, moverían el balance en direcciones opuestas. Una conclusión que ninguna evidencia pudiera cambiar ya no sería una conclusión de investigación.
+## ¿Qué podría hacer cambiar la conclusión?
+
+Documentos nuevos. Por ejemplo, un anuncio escrito antes de un hecho que nadie podía prever, o un borrador que muestre una revelación inventada. El primero inclinaría la balanza hacia un lado y el segundo hacia el otro. Una conclusión que ningún documento pudiera cambiar ya no sería una investigación.

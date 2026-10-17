@@ -20,11 +20,11 @@ La Nota al lector explica la escala de evidencia, la regla de simetría, la jera
 7. [¿Predijo Elena G. de White acontecimientos que no podía conocer?](../capitulos/07-predijo-ellen-white-acontecimientos-que-no-podia-conocer.md)
 8. [¿Conoció Elena G. de White cosas que no podía saber por medios normales?](../capitulos/08-conocio-ellen-white-cosas-que-no-podia-saber-por-medios-normales.md)
 9. [¿Utilizó Elena G. de White escritos de otros autores?](../capitulos/09-utilizo-ellen-white-escritos-de-otros-autores.md)
-10. [¿Qué implica su dependencia literaria para sus afirmaciones de inspiración?](../capitulos/10-que-implica-dependencia-literaria-para-inspiracion.md)
+10. [¿Qué significa para su inspiración que usara libros de otros?](../capitulos/10-que-implica-dependencia-literaria-para-inspiracion.md)
 11. [¿Hasta qué punto podemos atribuir a Elena G. de White los libros publicados bajo su nombre?](../capitulos/11-hasta-que-punto-podemos-atribuir-a-ellen-white-los-libros-publicados-bajo-su-nombre.md)
 12. [¿Cometió Elena G. de White errores en asuntos de historia, ciencia y salud?](../capitulos/12-cometio-ellen-white-errores-en-asuntos-de-historia-ciencia-y-salud.md)
 13. [¿Se contradijo Elena G. de White?](../capitulos/13-se-contradijo-ellen-white.md)
-14. [¿Qué revela la vida y conducta de Elena G. de White sobre su pretensión profética?](../capitulos/14-que-revela-su-vida-y-conducta-sobre-su-pretension-profetica.md)
+14. [¿Qué muestra la vida de Elena G. de White sobre si fue profeta?](../capitulos/14-que-revela-su-vida-y-conducta-sobre-su-pretension-profetica.md)
 15. [¿Qué frutos produjo el ministerio de Elena G. de White?](../capitulos/15-que-frutos-produjo-el-ministerio-de-ellen-white.md)
 16. [¿Qué explicación encaja mejor con toda la evidencia?](../capitulos/16-que-explicacion-encaja-mejor-con-toda-la-evidencia.md)
 

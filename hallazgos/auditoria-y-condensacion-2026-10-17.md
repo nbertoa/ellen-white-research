@@ -44,3 +44,14 @@ Se volvió a leer la edición completa y se compararon todos sus números y fech
 - **Capítulo 15, §7:** se restituyó que Prescott admitió que el problema podía no ser intencional.
 - **Capítulo 3, §2:** la frase de 1906 se traduce como «no pretendo ser profetisa», más cerca del original.
 - **Capítulo 7, §8:** se restituyó el pronóstico de 1855 sobre el grupo del *Messenger of Truth*, un caso favorable menor que se había omitido.
+
+## ¿Qué cambió la revisión de lenguaje simple?
+
+Se reescribió el cuerpo de los 19 archivos para que lo entienda cualquier lector:
+
+- frases cortas, de una idea cada una: las oraciones de más de 30 palabras bajaron a unas 40 en todo el libro;
+- palabras de todos los días en lugar de términos técnicos («decir que venía de Dios» por «atribución», «maneras normales de enterarse» por «vías ordinarias»), y explicación de los que quedan (mesmerismo, apnea, diezmo, transfiguración, juicio investigador);
+- los cuatro grados de certeza pasaron a llamarse **probado, probable, posible y no se sabe** en todo el libro, también en las tablas de los capítulos 5 y 16;
+- los títulos de los capítulos 10 y 14 se simplificaron («¿Qué significa para su inspiración que usara libros de otros?» y «¿Qué muestra la vida de Elena G. de White sobre si fue profeta?»); los nombres de archivo no cambiaron.
+
+No se cambió ningún hecho, fecha, número ni grado de certeza. Las notas al pie quedaron idénticas: se comprobó con un script que las definiciones de notas de cada archivo coinciden línea por línea con la versión anterior. El cuerpo creció de unas 19.700 a unas 22.500 palabras, porque explicar con palabras simples a veces lleva más palabras. La validación terminó con 0 errores y 0 advertencias.

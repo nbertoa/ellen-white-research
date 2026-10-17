@@ -19,7 +19,7 @@ Para cada cuestión importante:
 5. buscar la mejor objeción;
 6. buscar la mejor respuesta a esa objeción;
 7. determinar qué queda realmente demostrado;
-8. distinguir entre establecido, probable, posible e indeterminado.
+8. distinguir entre probado, probable, posible y no se sabe.
 
 Preguntar siempre:
 
@@ -222,7 +222,7 @@ La conclusión debe tener exactamente el grado de seguridad que permita la evide
 
 Registrar qué documento se cotejó y por qué soporte: autógrafo, copia, facsímil, transcripción, edición electrónica, compilación o reproducción secundaria. Separar fecha atribuida al mensaje, redacción, copia, publicación, envío y recepción. Una fecha de catálogo no autentica todos esos momentos. Usar la página impresa de la edición consultada.
 
-Cada balance debe identificar hecho, interpretación e hipótesis; grado establecido, probable, posible o indeterminado; documento faltante; y evidencia que podría cambiarlo. Los rótulos antiguos «fuerte», «alto» y «moderado» describen confianza editorial, no sustituyen esos cuatro grados. El capítulo vigente controla la aplicación del criterio; una ficha o auditoría anterior se conserva como antecedente y no se cuenta como evidencia adicional.
+Cada balance debe identificar hecho, interpretación e hipótesis; grado probado, probable, posible o no se sabe; documento faltante; y evidencia que podría cambiarlo. Los rótulos antiguos «fuerte», «alto» y «moderado» describen confianza editorial, no sustituyen esos cuatro grados. El capítulo vigente controla la aplicación del criterio; una ficha o auditoría anterior se conserva como antecedente y no se cuenta como evidencia adicional.
 
 Aplicar la misma fiabilidad a duración, respiración, atención y recuperación cuando se comparan causas. Una incompatibilidad con fisiología ordinaria no demuestra por sí sola error del relato ni milagro. Primero decidir cuánto está documentado; después evaluar causalidad.
 

@@ -1,78 +1,78 @@
 # Capítulo 7 — ¿Predijo Elena G. de White acontecimientos que no podía conocer?
 
-No se encontró un caso que reúna todo lo que haría falta: un anuncio documentado antes, preciso, improbable y fuera del alcance de la información normal. Hay dos advertencias favorables que merecen peso real: el fuego en la casa editora de la *Review and Herald* y las propiedades baratas para sanatorios en California. Y hay una dificultad seria: el anuncio de 1856 de que algunos presentes vivirían hasta el regreso de Jesús no se cumplió.
+No se encontró ningún caso que tenga todo lo que haría falta: un anuncio escrito antes, preciso, difícil de adivinar y que ella no pudiera saber por las noticias o por otras personas. Hay dos advertencias a su favor que pesan de verdad: el incendio de la casa editora de la *Review and Herald* y las propiedades baratas para sanatorios en California. Y hay un problema serio: en 1856 anunció que algunos de los presentes vivirían hasta que volviera Jesús, y eso no pasó.
 
-## 1. ¿Qué tendría que mostrar una predicción?
+## 1. ¿Qué tendría que tener una predicción?
 
-Una carta fechada y recibida antes del hecho, que nombre lugar, suceso y plazo, que se cumpla tal como se anunció, que nadie pudiera deducir de las noticias y que los destinatarios no pudieran provocar. Cuantos más de esos elementos falten, más modesta es la conclusión. Además se distinguirán la fecha de la visión, la del escrito y la del hecho.
+Una carta con fecha, que llegó antes del hecho. Que diga el lugar, lo que va a pasar y cuándo. Que se cumpla tal como se anunció. Que nadie pudiera deducirlo de las noticias. Y que quienes la recibieron no pudieran hacer que se cumpliera. Cuantas más de esas cosas falten, menos prueba. También hay que separar tres fechas: la de la visión, la del escrito y la del hecho.
 
-## 2. ¿Anunció la Guerra Civil?
+## 2. ¿Anunció la Guerra Civil de Estados Unidos?
 
-El 12 de enero de 1861, en Parkville, Michigan, White habría anunciado una guerra con muchos muertos. El relato detallado lo publicó Loughborough en 1892, diciendo que venía de su diario; ese diario de 1861 no se ha localizado.[^1] Y para ese día ya se habían separado Carolina del Sur, Misisipi, Florida y Alabama, y se había disparado contra un barco que abastecía Fort Sumter. El peligro ya era visible.[^2]
+Se cuenta que el 12 de enero de 1861, en Parkville, Michigan, anunció una guerra con muchos muertos. El relato con detalles lo publicó Loughborough en 1892, y dijo que lo sacaba de su diario. Ese diario de 1861 no se encontró.[^1] Además, para ese día ya se habían separado del país Carolina del Sur, Misisipi, Florida y Alabama, y ya le habían disparado a un barco que llevaba provisiones a Fort Sumter. El peligro ya estaba a la vista.[^2]
 
-En agosto de 1861 publicó «Slavery and the War», un texto firme y anterior al desenlace. Puso la esclavitud en el centro del conflicto y advirtió que no habría victoria fácil. Pero la derrota de Bull Run ya había frustrado esa expectativa en julio. Es un juicio moral y político valioso, no una predicción de lo que nadie podía saber.[^3]
+En agosto de 1861 publicó «Slavery and the War» («La esclavitud y la guerra»). Es un texto firme y anterior al final de la guerra. Dijo que la esclavitud era el centro del conflicto y avisó que no habría una victoria fácil. Pero en julio, con la derrota del Norte en Bull Run, ya se había visto que no sería fácil. Es una opinión moral y política valiosa, no una predicción de algo que nadie podía saber.[^3]
 
-**Resultado:** probable advertencia de un conflicto grave; valor predictivo limitado.
+**Resultado:** probablemente avisó de una guerra grave, pero como predicción vale poco.
 
-## 3. ¿Dijo que Inglaterra declararía la guerra a Estados Unidos?
+## 3. ¿Dijo que Inglaterra le declararía la guerra a Estados Unidos?
 
-En 1862 escribió que Inglaterra evaluaba atacar a un país debilitado y que actuaría *si* le convenía. Terminó: «Cuando Inglaterra declare la guerra», habrá confusión general. Inglaterra no la declaró. Si «cuando» anuncia un hecho seguro, la predicción falló; si cierra el razonamiento condicional del párrafo, no. La crisis del *Trent*, de fines de 1861, ya había puesto el tema en las noticias. **Resultado:** indeterminado.[^4]
+En 1862 escribió que Inglaterra estaba pensando si atacar a un país debilitado y que lo haría *si* le convenía. Y terminó: «Cuando Inglaterra declare la guerra», habrá confusión en todos lados. Inglaterra no la declaró. Si «cuando» quería decir que seguro iba a pasar, falló. Si cerraba la idea del «si» del mismo párrafo, no falló. Además, el tema ya estaba en las noticias desde fines de 1861, por un choque entre los dos países por el barco *Trent*. **Resultado:** no se sabe.[^4]
 
 ## 4. ¿Qué pasa con Jerusalén?
 
-En 1851 escribió que la antigua Jerusalén «nunca volvería a ser edificada», en una discusión contra adventistas que querían ir allí antes de la segunda venida. Si hablaba de la ciudad física, su crecimiento posterior es un problema; si hablaba de la restauración religiosa que esos adventistas esperaban, sigue **indeterminado**.[^5]
+En 1851 escribió que la antigua Jerusalén «nunca volvería a ser edificada». Lo dijo discutiendo con adventistas que querían ir allá antes de que volviera Cristo. Si hablaba de la ciudad, que después creció, es un problema. Si hablaba de la restauración religiosa que esos adventistas esperaban, **no se sabe**.[^5]
 
 ## 5. ¿Predijo el incendio de la Review and Herald?
 
-Es el caso favorable más fuerte. En una carta de octubre de 1901 a los responsables de la casa editora de Battle Creek escribió que casi temía abrir la *Review* y ver que Dios la había limpiado por fuego, y que, «a menos que haya una reforma, una calamidad alcanzará a la casa editora». La edición posterior indica que se leyó a la junta en noviembre de 1901. El edificio se incendió el 30 de diciembre de 1902.[^6]
+Es el caso más fuerte a su favor. En octubre de 1901 escribió una carta a los encargados de la casa editora de Battle Creek. Dijo que casi tenía miedo de abrir la *Review* y ver que Dios la había limpiado con fuego, y que, «a menos que haya una reforma, una calamidad alcanzará a la casa editora». Según la edición posterior, la carta se leyó a la junta directiva en noviembre de 1901. El edificio se incendió el 30 de diciembre de 1902.[^6]
 
-Hay institución concreta, mención del fuego y fecha anterior **probable**; falta cotejar el original y el acta de recepción. Pero la advertencia era condicional y sin plazo, y una imprenta de 1900 tenía riesgo ordinario de incendio. **Resultado:** coincidencia real y favorable; no requiere necesariamente información sobrenatural.
+Nombra una institución concreta, habla de fuego y es **probable** que se escribiera antes. Falta revisar la carta original y el acta que muestre que se recibió. Pero la advertencia tenía una condición («a menos que haya una reforma») y no tenía fecha. Además, en 1900 una imprenta corría un riesgo de incendio normal. **Resultado:** una coincidencia real y a su favor, que no necesita por fuerza una información venida de Dios.
 
-El incendio del sanatorio de Battle Creek, en febrero de ese mismo año, no tiene un anuncio comparable anterior.
+El sanatorio de Battle Creek también se incendió, en febrero de ese mismo año, pero no hay un aviso parecido escrito antes.
 
 ## 6. ¿Y San Francisco?
 
-Un manuscrito fechado en 1902 advierte juicios sobre San Francisco y Oakland, sin mencionar terremoto, incendio ni fecha. El terremoto de 1906 golpeó San Francisco; en 1908 la propia White escribió que Oakland había sido preservada, y en julio de 1906 negó haber predicho el terremoto. **Resultado:** coincidencia amplia e incompleta.[^7]
+Un escrito con fecha de 1902 avisa que vendrían castigos sobre San Francisco y Oakland. No habla de terremoto, de incendio ni de fecha. El terremoto de 1906 golpeó San Francisco. En 1908 ella misma escribió que Oakland se había salvado. Y en julio de 1906 negó haber predicho el terremoto. **Resultado:** una coincidencia vaga e incompleta.[^7]
 
 ## 7. ¿Predijo propiedades baratas para sanatorios?
 
-En octubre de 1902 escribió que en el sur de California se ofrecerían propiedades aptas para sanatorios «a mucho menos que su costo original». Paradise Valley, que había costado unos 25.000 dólares, se compró en 1904 por 4.000.[^8]
+En octubre de 1902 escribió que en el sur de California se ofrecerían propiedades que servían para sanatorios «a mucho menos que su costo original». Paradise Valley había costado unos 25.000 dólares y se compró en 1904 por 4.000.[^8]
 
-Es una afirmación concreta y comprobable. Pero ella ya había visitado la zona, la propiedad estaba en venta, una sequía hacía bajar los precios y ella misma y sus colaboradores buscaron las propiedades. El cumplimiento dependió en parte de los destinatarios. **Resultado:** favorable, sin excluir explicaciones ordinarias.
+Es algo concreto que se puede comprobar. Pero ella ya conocía la zona, la propiedad estaba en venta, una sequía hacía bajar los precios, y ella y su gente salieron a buscar las propiedades. Que se cumpliera dependió en parte de los que recibieron el mensaje. **Resultado:** a su favor, pero se puede explicar de manera normal.
 
-## 8. ¿Hay predicciones personales comprobables?
+## 8. ¿Hay predicciones sobre personas que se puedan comprobar?
 
-En 1862 advirtió a Moses Hull que su interés por el espiritismo lo apartaría de la fe, y Hull dejó el adventismo. Pero su inclinación ya era conocida, incluso por los médiums. Una advertencia que busca cambiar la conducta y luego se cumple tampoco es una prueba limpia.[^9]
+En 1862 le advirtió a Moses Hull que su interés por el espiritismo (la práctica de comunicarse con los muertos) lo alejaría de la fe. Hull dejó el adventismo. Pero ya se sabía que le atraía el tema; hasta los médiums lo sabían. Y una advertencia que busca que alguien cambie, y después se cumple, tampoco es una prueba limpia.[^9]
 
-Algo parecido pasa con un grupo disidente. En 1855 escribió que los editores del periódico *The Messenger of Truth* harían menos daño fuera del movimiento y que no había que contestarles; en 1858 ese periódico ya había cerrado. El pronóstico general está documentado. El detalle de que se pelearían entre ellos «en menos de seis semanas» sólo aparece en un recuerdo escrito décadas después.[^15]
+Algo parecido pasa con un grupo que se separó. En 1855 escribió que los que hacían el periódico *The Messenger of Truth* harían menos daño fuera del movimiento y que no había que contestarles. En 1858 ese periódico ya había cerrado. Esa predicción general está escrita. El detalle de que se pelearían entre ellos «en menos de seis semanas» sólo aparece en un recuerdo escrito décadas después.[^15]
 
-## 9. ¿Puede una profecía ser verdadera aunque no ocurra?
+## 9. ¿Puede ser verdadera una profecía que no se cumple?
 
-Sí, si era condicional, como la de Jonás. Pero, como se fijó en el capítulo 2, la condición tiene que poder reconocerse en el anuncio o en su contexto, no agregarse después del fracaso.
+Sí, si tenía una condición, como la de Jonás. Pero, como se vio en el capítulo 2, esa condición tiene que verse en el anuncio o en lo que se dijo en ese momento. No se puede agregar después de que el anuncio falló.
 
 ## 10. ¿Qué pasó con el anuncio de 1856?
 
-En una conferencia en Battle Creek, el 27 de mayo de 1856, White dijo haber visto a los presentes. Un ángel le dijo: «Algunos, alimento para gusanos; algunos, sujetos de las siete últimas plagas; algunos estarán vivos y permanecerán sobre la tierra para ser trasladados en la venida de Jesús». Se publicó ese mismo año.[^10]
+En una reunión en Battle Creek, el 27 de mayo de 1856, White dijo que había visto a los presentes. Un ángel le dijo: «Algunos, alimento para gusanos; algunos, sujetos de las siete últimas plagas; algunos estarán vivos y permanecerán sobre la tierra para ser trasladados en la venida de Jesús». Se publicó ese mismo año.[^10]
 
-El anuncio habla de los asistentes de esa reunión y de la segunda venida, y no expresa ninguna condición. Hoy no queda ninguno vivo y la venida no ocurrió. **Está establecido** que no se cumplió en su sentido literal.
+El anuncio habla de los que estaban en esa reunión y del regreso de Jesús, y no pone ninguna condición. Hoy no queda ninguno vivo, y Jesús no volvió. **Está probado** que, tomado al pie de la letra, no se cumplió.
 
-La defensa adventista apela a la condicionalidad. White la formuló antes de que murieran todos los asistentes: en 1868 explicó la demora por la falta de preparación de los creyentes, y en 1883 escribió que las promesas y amenazas de Dios son condicionales y que Cristo habría vuelto antes si su pueblo hubiera cumplido su misión.[^11] No es una excusa inventada al final.
+Los defensores adventistas dicen que el anuncio tenía una condición. White habló de eso antes de que murieran todos los que estaban en la reunión. En 1868 explicó que Jesús se demoraba porque los creyentes no estaban preparados. En 1883 escribió que lo que Dios promete y lo que Dios advierte tiene condiciones, y que Cristo habría vuelto antes si su pueblo hubiera cumplido su tarea.[^11] No es una excusa inventada al final.
 
-Pero esa explicación es general y posterior. No demuestra que los asistentes de 1856 entendieran «algunos vivirán» como «algunos vivirán si la iglesia cumple». **El anuncio de 1856 es una dificultad seria para la atribución profética de ese mensaje.** Si esa misma lógica alcanza también a anuncios del Nuevo Testamento sobre la cercanía del fin es una pregunta que se examina en el capítulo 16.
+Pero esa explicación es general y llegó después. No muestra que los que estaban en 1856 entendieran «algunos vivirán» como «algunos vivirán si la iglesia cumple». **El anuncio de 1856 es un problema serio para decir que ese mensaje vino de Dios.** El capítulo 16 examina si esta misma forma de razonar alcanza también a anuncios del Nuevo Testamento sobre que el fin estaba cerca.
 
-En 1888 volvió a escribir que algunos de los creyentes de entonces vivirían para ver la venida. Esta vez no lo atribuyó a una visión. Muestra la persistencia de la expectativa; no suma un segundo oráculo fallido.[^12]
+En 1888 volvió a escribir que algunos de los creyentes de ese momento vivirían para ver a Jesús volver. Esta vez no dijo que lo había visto en visión. Muestra que seguía esperándolo pronto. No es un segundo mensaje de Dios que falló.[^12]
 
-## 11. ¿Qué implica que atribuyera a Dios un cuadro con un error?
+## 11. ¿Qué significa que dijera que Dios guió un cuadro con un error?
 
-En una visión de 1850 dijo haber visto que el cuadro profético de 1843 había sido «dirigido por la mano del Señor» y que su mano «ocultó un error en algunas de las cifras» hasta retirarse.[^13] No es una predicción suya fallida. Es otra cosa: atribuye a Dios el ocultamiento de un error. La mejor defensa lo lee como providencia que obra a través de una comprensión humana incompleta. La dificultad es que el texto va más allá de «Dios permitió un error».
+En una visión de 1850, dijo haber visto que el cuadro profético de 1843 (un gráfico con fechas que usaban los seguidores de Miller) había sido «dirigido por la mano del Señor». Y que la mano de Dios «ocultó un error en algunas de las cifras» hasta que la retiró.[^13] No es una predicción suya que falló. Es otra cosa: dice que Dios escondió un error. La mejor defensa dice que Dios obró a pesar de que la gente entendía las cosas a medias. El problema es que el texto dice más que «Dios permitió un error».
 
-## 12. ¿Qué pasa con las predicciones que siguen abiertas?
+## 12. ¿Qué pasa con las predicciones que todavía no se cumplieron?
 
-En *El conflicto de los siglos* anunció una ley dominical en Estados Unidos y una alianza entre protestantismo, espiritismo y Roma. No tienen fecha. No cuentan como aciertos ni como fracasos, pero tampoco pueden quedar abiertas para siempre sin preguntar qué las haría imposibles.[^14]
+En *El conflicto de los siglos* anunció una ley en Estados Unidos que obligaría a guardar el domingo, y una alianza entre protestantes, espiritistas y la Iglesia de Roma. No tienen fecha. No cuentan como aciertos ni como fallos. Pero tampoco pueden quedar abiertas para siempre sin preguntarse qué tendría que pasar para que ya no pudieran cumplirse.[^14]
 
-## 13. ¿Qué queda demostrado?
+## 13. ¿Qué queda claro?
 
-El balance es mixto. Hay advertencias anteriores y concretas que merecen peso, una expectativa atribuida a revelación que no se cumplió, una atribución a Dios de un error en el cuadro de 1843 y anuncios abiertos. Ningún caso demuestra conocimiento sobrenatural.
+El resultado es mezclado. Hay advertencias escritas antes y concretas que merecen tenerse en cuenta. Hay un anuncio que ella presentó como venido de Dios y no se cumplió. Hay un texto que dice que Dios escondió un error en el cuadro de 1843. Y hay anuncios que siguen abiertos. Ningún caso prueba que supiera cosas por un camino sobrenatural.
 
 [^1]: J. N. Loughborough, *Rise and Progress of the Seventh-day Adventists* (1892), pp. 236–237, [facsímil](https://documents.adventistarchives.org/Books/RP1892.pdf); el [inventario de sus papeles](https://centerforadventistresearch.org/wp-content/uploads/2023/03/John-N.-Loughborough-Papers-327.pdf) no lista un diario de 1861.
 [^2]: American Historical Association, [«Chronology of Major Events Leading to Secession Crisis»](https://www.historians.org/teaching-learning/aha-historical-collections/16-months-to-sumter/chronology-of-major-events-leading-to-secession-crisis/).

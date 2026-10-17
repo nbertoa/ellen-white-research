@@ -1,58 +1,58 @@
 # Capítulo 13 — ¿Se contradijo Elena G. de White?
 
-Cambió consejos y prácticas importantes, y varias acusaciones de contradicción desaparecen al leer el documento completo. Pero quedan cuatro tensiones sin resolver: los medicamentos que «nunca curan» frente a otros «tan eficaces»; una negación de 1897 sobre el uso de libros; la regla pública del diezmo frente a sus excepciones; y la puerta cerrada de 1849 frente a su negación de 1874. No se halló un caso claro de dos revelaciones que ordenen lo contrario bajo las mismas condiciones.
+Cambió consejos y costumbres importantes. Y varias acusaciones de contradicción desaparecen cuando se lee el documento completo. Pero quedan cuatro choques sin resolver. Uno: los remedios que «nunca curan» frente a otros «tan eficaces». Dos: lo que negó en 1897 sobre el uso de libros. Tres: la regla pública del diezmo frente a sus excepciones. Cuatro: la puerta cerrada de 1849 frente a lo que negó en 1874. No se encontró un caso claro de dos revelaciones que ordenen lo contrario en la misma situación.
 
 ## 1. ¿Qué haría falta para decir que se contradijo?
 
-Dos declaraciones auténticas que no puedan ser verdaderas a la vez sobre el mismo asunto, el mismo período y condiciones comparables. Cambiar de opinión, corregir un error o dar consejos distintos a personas distintas no es lo mismo. La regla vale para los dos lados: la crítica no puede borrar una salvedad que está en el texto, y la defensa no puede agregar una que no está.
+Dos frases verdaderamente suyas que no puedan ser ciertas a la vez, sobre el mismo tema, en la misma época y en situaciones parecidas. Cambiar de opinión, corregir un error o darles consejos distintos a personas distintas no es lo mismo. La regla vale para los dos lados. Los críticos no pueden borrar una aclaración que está en el texto. Y los defensores no pueden agregar una que no está.
 
 ## 2. ¿Dijo primero que se podía comer cerdo y después que Dios lo prohibía?
 
-No exactamente. En 1858 reprendió a una pareja por hacer de su abstinencia de cerdo una prueba de fidelidad, y añadió que si Dios requería esa abstinencia se lo enseñaría a todo su pueblo. En 1864 escribió que Dios nunca destinó el cerdo a ser comido «bajo ninguna circunstancia».[^1] Hay un cambio real de instrucción, pero el texto de 1858 ya dejaba abierta una enseñanza posterior. **Desarrollo compatible.**
+No exactamente. En 1858 retó a una pareja porque convertían el no comer cerdo en una prueba de fidelidad a Dios. Y agregó que, si Dios quería que no se comiera, se lo enseñaría a todo su pueblo. En 1864 escribió que Dios nunca quiso que el cerdo se comiera «bajo ninguna circunstancia».[^1] Hay un cambio real en lo que indicaba. Pero el texto de 1858 ya dejaba abierta la puerta a una enseñanza posterior. **Un cambio que no choca con lo anterior.**
 
-## 3. ¿Fue coherente su dieta personal?
+## 3. ¿Comió siempre igual?
 
-No fue uniforme. En 1869 dijo que no había cambiado su curso «ni una partícula» desde que adoptó la reforma de salud. Pero un diario de 1873 registra carne durante un viaje sin provisiones, y en 1894 adoptó una exclusión más estricta en su casa.[^2] En una carta de 1896 dijo no usar carne desde hacía dos años y, en el mismo párrafo, que comía pescado cuando podía conseguirlo: usaba «carne» y «pescado» como categorías distintas, sin ocultar nada.[^3]
+No. En 1869 dijo que no había cambiado su manera de comer «ni una partícula» desde que empezó la reforma de salud. Pero un diario de 1873 cuenta que comió carne durante un viaje en el que no tenían otra comida. Y en 1894 dejó de usarla en su casa de manera más estricta.[^2] En una carta de 1896 dijo que hacía dos años que no comía carne y, en el mismo párrafo, que comía pescado cuando conseguía. Para ella, «carne» y «pescado» eran cosas distintas, y no escondía nada.[^3]
 
-Su abstinencia no fue continua desde 1863. Si alguna descripción suya de su pasado fue demasiado amplia, lo examina el capítulo 14.
+No dejó la carne de manera continua desde 1863. Si alguna vez contó su pasado de una manera demasiado general, lo examina el capítulo 14.
 
 ## 4. ¿Prohibió y permitió a la vez la manteca y los huevos?
 
-Sí, para casos distintos, y lo explicó. En 1901 escribió a Daniel Kress, debilitado por una dieta muy restrictiva, que la manteca no debía ponerse en la mesa común porque algunos abusarían, pero que él podía usar un poco; y que podía comer huevos de gallinas sanas. Explicó que sus advertencias anteriores sobre los huevos iban dirigidas a familias con otro problema.[^4] La explicación de 1901 es posterior y no prueba cómo entendían los lectores de 1869 la advertencia original, pero este par no es una contradicción.
+Sí, para casos distintos, y lo explicó. En 1901 le escribió a Daniel Kress, que estaba débil por una dieta muy estricta. Le dijo que la manteca no tenía que ponerse en la mesa de todos, porque algunos abusarían, pero que él podía usar un poco. Y que podía comer huevos de gallinas sanas. Explicó que sus advertencias anteriores sobre los huevos eran para familias con otro problema.[^4] Esa explicación es de 1901 y no muestra cómo entendieron los lectores de 1869 la advertencia original. Pero este caso no es una contradicción.
 
-## 5. ¿Qué pasa con los medicamentos que «nunca curan»?
+## 5. ¿Qué pasa con los remedios que «nunca curan»?
 
-Aquí hay una tensión real. En 1864 escribió: «Las drogas nunca curan la enfermedad». En 1890 aconsejó usarlas cada vez menos, porque rara vez eran necesarias, y en 1899 volvió a afirmar que nunca curan.[^5] Un manuscrito catalogado en 1903 dice que el agua, el aire y las hierbas sencillas serían «tan eficaces» como las drogas de la ciencia.[^6]
+Acá hay un choque real. En 1864 escribió: «Las drogas nunca curan la enfermedad». En 1890 aconsejó usarlas cada vez menos, porque casi nunca hacían falta. Y en 1899 volvió a decir que nunca curan.[^5] Un escrito ordenado en 1903 dice que el agua, el aire y las hierbas sencillas serían «tan eficaces» como los remedios de la ciencia.[^6]
 
-Si «tan eficaces» reconoce que las drogas curan, choca con «nunca curan». La defensa puede leerlo como una comparación de resultados sin atribuir la curación a la droga. Pero esa distinción no está en el texto. **Posible contradicción.** Un recuerdo de su hijo, de 1935, de que aceptó dar quinina a un niño con malaria, muestra una excepción práctica; no es un escrito suyo.[^7]
+Si «tan eficaces» reconoce que los remedios curan, choca con «nunca curan». Los defensores pueden leerlo como una comparación de resultados, sin decir que el remedio es el que cura. Pero esa diferencia no está en el texto. **Posible contradicción.** En 1935 su hijo recordó que ella aceptó darle quinina a un chico con malaria. Eso muestra una excepción en la práctica, pero es un recuerdo de él, no un escrito de ella.[^7]
 
 ## 6. ¿Negó usar libros después de reconocer que los usaba?
 
-En 1888 reconoció haber usado palabras de historiadores. En abril de 1897 negó haber sacado **todo** de otros libros, cosa compatible con lo anterior. Pero en junio rechazó la acusación de que recogía cosas de libros y las enviaba como algo que el Señor le había mostrado.[^8] Frente al diario de 1890, donde palabras de Krummacher aparecen dichas por un guía celestial (capítulo 10), esa negación tiene un problema si se entiende en sentido amplio. **Posible contradicción.**
+En 1888 reconoció que había usado palabras de historiadores. En abril de 1897 negó haber sacado **todo** de otros libros, y eso no choca con lo anterior. Pero en junio rechazó la acusación de que juntaba cosas de libros y las mandaba como si el Señor se las hubiera mostrado.[^8] En el diario de 1890, palabras de Krummacher aparecen dichas por un guía del cielo (capítulo 10). Frente a eso, lo que negó en 1897 tiene un problema si se lo entiende de manera amplia. **Posible contradicción.**
 
 ## 7. ¿Corregir un libro es contradecirse?
 
-No necesariamente. Pasar de «los primeros» a «entre los primeros», o de «millones» a «multitudes», corrige o reduce una afirmación sin negarla literalmente. El peso de esas correcciones ya está en el capítulo 12: un libro con autoridad religiosa contenía errores que se corrigieron con trabajo humano.[^9]
+No por fuerza. Pasar de «los primeros» a «entre los primeros», o de «millones» a «multitudes», corrige o achica una afirmación, pero no dice lo contrario. Lo que pesan esas correcciones ya se vio en el capítulo 12: un libro con autoridad religiosa tenía errores, y se corrigieron con trabajo humano.[^9]
 
-## 8. ¿Cambió sus consejos sobre el vestido y la escuela?
+## 8. ¿Cambió sus consejos sobre la ropa y la escuela?
 
-Sí, y son cambios de política. El vestido que condenó en 1863 era otro, más corto, que el que propuso en 1867; pero después dejó de promover el suyo por los conflictos que generaba.[^10] En 1872 escribió que los padres debían ser los únicos maestros hasta los ocho o diez años; en 1904 aprobó escuela para niños más chicos y explicó por qué.[^11] Ninguno de los dos es una orden opuesta para la misma situación.
+Sí, y son cambios de criterio. El vestido que criticó en 1863 era otro, más corto que el que propuso en 1867. Pero después dejó de promover el suyo por las peleas que causaba.[^10] En 1872 escribió que los padres tenían que ser los únicos maestros de sus hijos hasta los ocho o diez años. En 1904 aprobó que fueran a la escuela niños más chicos, y explicó por qué.[^11] Ninguno de los dos casos es una orden contraria para la misma situación.
 
-## 9. ¿Respetó su propia regla del diezmo?
+## 9. ¿Cumplió ella su propia regla del diezmo?
 
-Es una de las tensiones más serias. En 1896 escribió que nadie, ni siquiera un ministro, debía retener el diezmo para usarlo según su propio juicio, «ni siquiera en lo que considere la obra del Señor». En 1905 contó que desde hacía años se le había indicado destinar su diezmo a ministros desatendidos, blancos y negros; que había recibido diezmos de otros con ese fin; y pidió que no se difundiera.[^12]
+Es uno de los choques más serios. El diezmo es la décima parte de lo que uno gana, que se da a la iglesia. En 1896 escribió que nadie, ni siquiera un pastor, debía quedarse con el diezmo para usarlo como le pareciera, «ni siquiera en lo que considere la obra del Señor». En 1905 contó que desde hacía años se le había indicado dar su diezmo a pastores abandonados, blancos y negros. Que había recibido diezmos de otras personas para eso. Y pidió que no se contara.[^12]
 
-La defensa distingue el juicio propio de una comisión especial recibida de Dios, y señala que el dinero fue a ministros. Pero la regla de 1896 no menciona excepciones, y la defensa tiene que explicar por qué las donantes que ella aprobó no entraban en la prohibición. **Posible contradicción.**
+Los defensores dicen que una cosa es el juicio propio y otra un encargo especial de Dios, y que el dinero fue a pastores. Pero la regla de 1896 no habla de excepciones. Y los defensores tienen que explicar por qué las mujeres que donaron con su aprobación no entraban en la prohibición. **Posible contradicción.**
 
 ## 10. ¿Y la puerta cerrada?
 
-En 1849 publicó visiones que unían la puerta cerrada con los mandamientos y otra en la que no hallaba angustia por los pecadores porque «el tiempo de su salvación ha pasado». En 1874 escribió que nunca tuvo una visión de que no se convertirían más pecadores (capítulo 4). Son compatibles sólo si «su salvación» se refería a un grupo limitado, y el texto de 1849 no lo aclara. **Tensión real, de alcance indeterminado.**
+En 1849 publicó visiones que unían la puerta cerrada con los mandamientos. Y otra en la que no encontraba angustia por los pecadores, porque «el tiempo de su salvación ha pasado». En 1874 escribió que nunca tuvo una visión de que no se convertirían más pecadores (capítulo 4). Las dos cosas sólo encajan si «su salvación» hablaba de un grupo limitado, y el texto de 1849 no lo aclara. **Un choque real; no se sabe hasta dónde llega.**
 
-## 11. ¿Qué peso tiene todo esto?
+## 11. ¿Cuánto pesa todo esto?
 
-No todos los cambios valen lo mismo. Un recuerdo impreciso, una corrección histórica o un consejo distinto para un enfermo pesan poco. Los medicamentos, la negación de 1897, el diezmo y la puerta cerrada pesan más, porque tocan afirmaciones causales fuertes, el origen de sus mensajes o instrucciones presentadas como divinas.
+No todos los cambios valen lo mismo. Un recuerdo impreciso, una corrección de historia o un consejo distinto para un enfermo pesan poco. Los remedios, lo que negó en 1897, el diezmo y la puerta cerrada pesan más. Tocan afirmaciones fuertes sobre causas de enfermedades, sobre de dónde venían sus mensajes o sobre órdenes que presentaba como de Dios.
 
-Que no se encontraran dos revelaciones opuestas no prueba que todo sea coherente ni que venga de Dios. Y la coherencia interna no repara el anuncio incumplido de 1856. El capítulo siguiente pasa de los textos a la vida.
+Que no se encontraran dos revelaciones contrarias no prueba que todo sea coherente ni que venga de Dios. Y que sea coherente no arregla el anuncio de 1856 que no se cumplió. El capítulo siguiente pasa de los textos a su vida.
 
 [^1]: Ellen G. White, testimonio del 21 de octubre de 1858, [1T 206–207](https://ellenwhiteresearch.com/works/1T/38); [*Spiritual Gifts* 4a (1864), p. 124](https://ellenwhiteresearch.com/works/4aSG/39).
 [^2]: Ellen G. White, [discurso del 6 de marzo de 1869](https://text.egwwritings.org/amp/read/13786.6), luego 2T 371–372; Ms 12, 1873, en [reproducción del White Estate](https://text.egwwritings.org/read/776.1331); Lt 76, 1895.
