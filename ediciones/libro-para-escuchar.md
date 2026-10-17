@@ -77,45 +77,45 @@ Y eso pide algo incómodo, también a mí: estar dispuesto a encontrar una respu
 
 # Capítulo 1 — ¿Qué significan inspiración, iluminación, revelación, impresión del Espíritu, guía del Espíritu, profecía y don de profecía?
 
-En febrero de 1845, en un pueblo de Maine llamado Atkinson, varios testigos vieron a una joven de diecisiete años acostada en el suelo, como en trance. Era **Elena G. de White**, que entonces se llamaba Ellen Harmon. Algunos creían que Dios le mostraba cómo estaban espiritualmente otras personas. Otros pensaban que era fanatismo. El juez que escuchó a esos testigos no tenía que decidir si ella era profeta. Este libro sí.¹
+En febrero de 1845, en un pueblo de Maine llamado Atkinson, varios testigos vieron a una joven de diecisiete años acostada en el suelo, como en trance. Era **Elena G. de White**, que entonces se llamaba Ellen Harmon. Algunos creían que Dios le mostraba cómo estaban espiritualmente otras personas. Otros pensaban que era fanatismo. El juez que escuchó a esos testigos no tenía que decidir si ella era profeta. Este libro sí.
 
 Primero hay que aclarar las palabras. «Tuvo una visión», «fue inspirada», «recibió una revelación» y «tenía el don de profecía» no significan lo mismo. Si las usamos como si fueran iguales, la respuesta queda decidida por las palabras que elegimos.
 
 ## 1. ¿Qué diferencia hay entre una impresión, la guía del Espíritu y la iluminación?
 
-Una **impresión** es algo que se siente por dentro: «sentí que tenía que hacer esto y pensé que venía de Dios». Puede venir de Dios, pero también de la memoria, de un deseo o de la intuición. En Ezequiel 13, Dios condena a quienes hablaban desde su propio corazón y decían que era palabra de Dios. Estar muy seguro no prueba de dónde viene algo.²
+Una **impresión** es algo que se siente por dentro: «sentí que tenía que hacer esto y pensé que venía de Dios». Puede venir de Dios, pero también de la memoria, de un deseo o de la intuición. En Ezequiel 13, Dios condena a quienes hablaban desde su propio corazón y decían que era palabra de Dios. Estar muy seguro no prueba de dónde viene algo.
 
-La **guía del Espíritu** es algo más amplio. En Romanos 8 y Gálatas 5 describe una vida guiada por Dios, no una técnica para recibir información. La **iluminación**, en este libro, quiere decir que Dios ayuda a entender o aplicar algo que ya estaba disponible, sin dar información nueva.³
+La **guía del Espíritu** es algo más amplio. En Romanos 8 y Gálatas 5 describe una vida guiada por Dios, no una técnica para recibir información. La **iluminación**, en este libro, quiere decir que Dios ayuda a entender o aplicar algo que ya estaba disponible, sin dar información nueva.
 
 Ninguna de las tres convierte a alguien en profeta.
 
 ## 2. ¿Puede un escrito inspirado usar libros de otros?
 
-Sí. Al comienzo de su evangelio, Lucas cuenta que leyó relatos anteriores, habló con testigos e investigó con cuidado (Lucas capítulo 1, versículos 1 al 4). Ese trabajo humano no impidió que su libro fuera parte de la Biblia.⁴
+Sí. Al comienzo de su evangelio, Lucas cuenta que leyó relatos anteriores, habló con testigos e investigó con cuidado (Lucas capítulo 1, versículos 1 al 4). Ese trabajo humano no impidió que su libro fuera parte de la Biblia.
 
 De ahí sale una regla para todo el libro: **usar libros de otros no prueba, por sí solo, que algo no sea inspirado.** Pero tampoco da igual de dónde salió cada cosa. Si alguien dice que Dios le mostró un dato y ese dato aparece antes en un libro, hay que preguntar: ¿dijo la verdad sobre de dónde lo sacó?
 
 ## 3. ¿Todo lo que dice un profeta viene de Dios?
 
-No. En Segundo de Samuel 7, el profeta Natán aprueba el plan del rey David de construir un templo. Esa misma noche Dios le habla, y Natán vuelve con un mensaje distinto. El relato separa la opinión de Natán del mensaje que viene de Dios.⁵
+No. En Segundo de Samuel 7, el profeta Natán aprueba el plan del rey David de construir un templo. Esa misma noche Dios le habla, y Natán vuelve con un mensaje distinto. El relato separa la opinión de Natán del mensaje que viene de Dios.
 
 Por eso un error común de White no pesa igual que un error en algo que ella dijo que Dios le había mostrado.
 
 ## 4. ¿Tener una visión prueba que Dios habló?
 
-No. Una visión o un sueño son una forma de vivir una experiencia. Números capítulo 12, versículo 6 dice que Dios puede hablar así. Pero Jeremías 23 habla de visiones que no vienen de Dios.⁶
+No. Una visión o un sueño son una forma de vivir una experiencia. Números capítulo 12, versículo 6 dice que Dios puede hablar así. Pero Jeremías 23 habla de visiones que no vienen de Dios.
 
 Por eso se separan cuatro cosas: lo que la persona dice que vio, qué cree que significa, de dónde dice que viene y qué obediencia pide. Pasar de «tuvo una experiencia extraordinaria» a «Dios habló» necesita una prueba en el medio.
 
 ## 5. ¿Qué diferencia hay entre decir que uno es profeta y serlo de verdad?
 
-**Profetizar** no es sólo anunciar el futuro. En Primera de Corintios 14, la profecía anima, corrige y consuela. Los profetas del Antiguo Testamento denuncian injusticias, llaman a cambiar y, a veces, anuncian lo que va a pasar.⁷
+**Profetizar** no es sólo anunciar el futuro. En Primera de Corintios 14, la profecía anima, corrige y consuela. Los profetas del Antiguo Testamento denuncian injusticias, llaman a cambiar y, a veces, anuncian lo que va a pasar.
 
-Si alguien dice «Dios me reveló esto», está **afirmando** algo. Que de verdad sea un mensaje de Dios hay que demostrarlo. Balaam y Caifás dijeron palabras que la Biblia trata como proféticas, pero no eran profetas fieles. Una frase verdadera no garantiza toda una vida.⁸
+Si alguien dice «Dios me reveló esto», está **afirmando** algo. Que de verdad sea un mensaje de Dios hay que demostrarlo. Balaam y Caifás dijeron palabras que la Biblia trata como proféticas, pero no eran profetas fieles. Una frase verdadera no garantiza toda una vida.
 
 ## 6. ¿Un profeta tendría que escribir parte de la Biblia?
 
-No. Agabo, las hijas de Felipe y los profetas de Antioquía profetizaron sin escribir libros bíblicos. Además, el Nuevo Testamento pide dos cosas a la vez: no despreciar las profecías y examinarlo todo (Primera de Tesalonicenses capítulo 5, versículos 20 al 21). Eso descarta dos errores: pensar que una profecía tiene que ser Biblia, y pensar que lo que no es Biblia no puede venir de Dios.⁹
+No. Agabo, las hijas de Felipe y los profetas de Antioquía profetizaron sin escribir libros bíblicos. Además, el Nuevo Testamento pide dos cosas a la vez: no despreciar las profecías y examinarlo todo (Primera de Tesalonicenses capítulo 5, versículos 20 al 21). Eso descarta dos errores: pensar que una profecía tiene que ser Biblia, y pensar que lo que no es Biblia no puede venir de Dios.
 
 ## 7. ¿Qué pregunta queda?
 
@@ -129,23 +129,23 @@ No se van a sumar puntos. Una sola prueba fuerte puede pesar más que muchas his
 
 ## 1. ¿Puede haber profetas después de los apóstoles?
 
-Según la Biblia, es posible. El Nuevo Testamento habla de profetas que no eran apóstoles ni escribieron libros: Agabo, las hijas de Felipe, los profetas de Antioquía. Los adventistas agregan otros textos. Joel 2 dice que «sus hijos y sus hijas profetizarán». Y Apocalipsis capítulo 12, versículo 17 y capítulo 19, versículo 10 relacionan «el testimonio de Jesús» con «el espíritu de profecía».¹
+Según la Biblia, es posible. El Nuevo Testamento habla de profetas que no eran apóstoles ni escribieron libros: Agabo, las hijas de Felipe, los profetas de Antioquía. Los adventistas agregan otros textos. Joel 2 dice que «sus hijos y sus hijas profetizarán». Y Apocalipsis capítulo 12, versículo 17 y capítulo 19, versículo 10 relacionan «el testimonio de Jesús» con «el espíritu de profecía».
 
 Eso alcanza para investigar a alguien que dice ser profeta después de los apóstoles, sin descartarlo por la fecha. Pero no prueba que Apocalipsis hable de una iglesia del siglo XIX ni de **Elena G. de White**. La Iglesia Adventista dice que sí en su Creencia Fundamental 18. Eso muestra cómo la iglesia entiende los textos, no que los entienda bien.
 
 ## 2. ¿Puede alguien acertar y no venir de Dios?
 
-Sí. Deuteronomio 13 dice que hay que rechazar a un profeta que acierta una señal pero invita a seguir a otros dioses. Acertar no basta: importa qué enseña.²
+Sí. Deuteronomio 13 dice que hay que rechazar a un profeta que acierta una señal pero invita a seguir a otros dioses. Acertar no basta: importa qué enseña.
 
-Primera de Juan 4 agrega otra prueba: no viene de Dios quien niega que Jesucristo vino como hombre de carne y hueso. Pasar esta prueba tampoco convierte a nadie en profeta, porque cualquier cristiano la pasa.³
+Primera de Juan 4 agrega otra prueba: no viene de Dios quien niega que Jesucristo vino como hombre de carne y hueso. Pasar esta prueba tampoco convierte a nadie en profeta, porque cualquier cristiano la pasa.
 
 Si un mensaje contradijera la Biblia con claridad, pesaría mucho. Pero una diferencia entre interpretaciones cristianas no es una contradicción, salvo que se demuestre qué dice de verdad el texto bíblico.
 
 ## 3. ¿Qué pasa si un anuncio no se cumple?
 
-Deuteronomio capítulo 18, versículos 20 al 22 lo dice claro: si alguien anuncia algo en nombre de Dios y no pasa, Dios no habló. Esta prueba es más fuerte cuando el anuncio es concreto, se puede comprobar, se presenta como de Dios y no tiene condiciones. Muchos aciertos no tapan un anuncio de Dios que falló.⁴
+Deuteronomio capítulo 18, versículos 20 al 22 lo dice claro: si alguien anuncia algo en nombre de Dios y no pasa, Dios no habló. Esta prueba es más fuerte cuando el anuncio es concreto, se puede comprobar, se presenta como de Dios y no tiene condiciones. Muchos aciertos no tapan un anuncio de Dios que falló.
 
-Pero la Biblia también tiene anuncios con condiciones. Jeremías 18 explica que Dios puede retirar un castigo anunciado si un pueblo cambia. Jonás anuncia que Nínive será destruida en cuarenta días, sin decir «si no cambian». La ciudad cambia y la destrucción no llega. Isaías le dice al rey Ezequías, de parte de Dios: «vas a morir». Tampoco agrega una condición. Ezequías ora, y Dios le da quince años más.⁵
+Pero la Biblia también tiene anuncios con condiciones. Jeremías 18 explica que Dios puede retirar un castigo anunciado si un pueblo cambia. Jonás anuncia que Nínive será destruida en cuarenta días, sin decir «si no cambian». La ciudad cambia y la destrucción no llega. Isaías le dice al rey Ezequías, de parte de Dios: «vas a morir». Tampoco agrega una condición. Ezequías ora, y Dios le da quince años más.
 
 Entonces, «no pasó» no siempre quiere decir «Dios no lo dijo». La pregunta es **si la condición formaba parte del anuncio desde el principio**. Para saberlo se busca, en este orden:
 
@@ -162,27 +162,27 @@ Esta regla vale para cualquier profecía, también para las de la Biblia. Si se 
 
 ## 4. ¿Puede una revelación nueva contradecir una anterior?
 
-En Primero de Reyes 13, un anciano le dice a un profeta que un ángel le dio una orden contraria a la que Dios ya le había dado. El relato aclara que el anciano mentía. Que algo se presente como revelación no lo libra de ser examinado.⁶
+En Primero de Reyes 13, un anciano le dice a un profeta que un ángel le dio una orden contraria a la que Dios ya le había dado. El relato aclara que el anciano mentía. Que algo se presente como revelación no lo libra de ser examinado.
 
 ## 5. ¿Importa de dónde sale el mensaje?
 
-Sí. Deuteronomio 18 prohíbe la adivinación y consultar a los muertos. Jeremías 23 condena a quienes dicen que es palabra de Dios lo que sale de su propia cabeza, y a quienes «roban» palabras de otros. El problema no es usar un libro. El problema es **decir que algo viene de Dios cuando vino de otro lado**.⁷
+Sí. Deuteronomio 18 prohíbe la adivinación y consultar a los muertos. Jeremías 23 condena a quienes dicen que es palabra de Dios lo que sale de su propia cabeza, y a quienes «roban» palabras de otros. El problema no es usar un libro. El problema es **decir que algo viene de Dios cuando vino de otro lado**.
 
 Esa diferencia será central en todo el libro: **usar un libro ajeno no es lo mismo que mentir sobre de dónde salió un mensaje.**
 
 ## 6. ¿Hay que examinar incluso a un profeta que uno acepta?
 
-Sí. Primera de Tesalonicenses 5 pide estar abiertos y examinar. Primera de Corintios 14 manda que otros evalúen lo que dice un profeta, y aclara que el profeta puede controlarse a sí mismo. Nadie puede decir que su mensaje no se discute porque le vino de forma irresistible.⁸
+Sí. Primera de Tesalonicenses 5 pide estar abiertos y examinar. Primera de Corintios 14 manda que otros evalúen lo que dice un profeta, y aclara que el profeta puede controlarse a sí mismo. Nadie puede decir que su mensaje no se discute porque le vino de forma irresistible.
 
 ## 7. ¿Qué significa conocer a un profeta por sus frutos?
 
-Jesús dijo que a los falsos profetas se los reconoce por sus frutos (Mateo capítulo 7, versículos 15 al 23). Eso incluye cómo vive el profeta y qué produce su enseñanza. No quiere decir fama, crecimiento ni éxito. Un profeta tampoco tiene que ser perfecto: importa cómo vive en general, si hace daño y qué hace cuando se equivoca.⁹
+Jesús dijo que a los falsos profetas se los reconoce por sus frutos (Mateo capítulo 7, versículos 15 al 23). Eso incluye cómo vive el profeta y qué produce su enseñanza. No quiere decir fama, crecimiento ni éxito. Un profeta tampoco tiene que ser perfecto: importa cómo vive en general, si hace daño y qué hace cuando se equivoca.
 
-Miqueas 3 agrega el tema del dinero: condena a profetas que cambian el mensaje según les paguen. Recibir un sueldo no prueba nada. El problema es que el dinero cambie el mensaje.¹⁰
+Miqueas 3 agrega el tema del dinero: condena a profetas que cambian el mensaje según les paguen. Recibir un sueldo no prueba nada. El problema es que el dinero cambie el mensaje.
 
 ## 8. ¿Ser sincero alcanza para ser profeta?
 
-No. Ezequiel 13 habla de personas que decían «Dios dijo» sin que Dios las hubiera enviado, y no aclara si eran sinceras o no. Ser sincero es una prueba contra el fraude, pero no prueba que Dios hable. Y que exista una explicación psicológica posible no prueba que Dios no hizo nada.¹¹
+No. Ezequiel 13 habla de personas que decían «Dios dijo» sin que Dios las hubiera enviado, y no aclara si eran sinceras o no. Ser sincero es una prueba contra el fraude, pero no prueba que Dios hable. Y que exista una explicación psicológica posible no prueba que Dios no hizo nada.
 
 ## 9. ¿Qué pruebas se van a usar?
 
@@ -200,55 +200,55 @@ Elena G. de White decía que Dios le daba visiones y mensajes. Decía que los co
 
 ## 1. ¿Dijo desde el principio que sus visiones venían de Dios?
 
-Sí. A más tardar el 20 de diciembre de 1845. Ese día le escribió a Enoch Jacobs, director del periódico *The Day-Star*, que Dios le había mostrado «en santa visión» el camino del pueblo adventista hacia el cielo. Jacobs publicó la carta el 24 de enero de 1846. Es el relato más antiguo escrito por ella que se conoce. Cómo lo contó antes, en privado, no se sabe.¹
+Sí. A más tardar el 20 de diciembre de 1845. Ese día le escribió a Enoch Jacobs, director del periódico *The Day-Star*, que Dios le había mostrado «en santa visión» el camino del pueblo adventista hacia el cielo. Jacobs publicó la carta el 24 de enero de 1846. Es el relato más antiguo escrito por ella que se conoce. Cómo lo contó antes, en privado, no se sabe.
 
 ## 2. ¿Negó alguna vez ser profeta?
 
-En una reunión en Battle Creek, el 2 de octubre de 1904, según un informe de W. E. Cornell, dijo: «No soy, como dije ayer, profeta». Agregó que sólo pretendía ser una mensajera de Dios. Leída sola, la frase puede entenderse como que negaba ser profeta. Pero la conocemos por una copia de 1906, no por el informe original.²
+En una reunión en Battle Creek, el 2 de octubre de 1904, según un informe de W. E. Cornell, dijo: «No soy, como dije ayer, profeta». Agregó que sólo pretendía ser una mensajera de Dios. Leída sola, la frase puede entenderse como que negaba ser profeta. Pero la conocemos por una copia de 1906, no por el informe original.
 
-Después lo explicó con claridad. En enero de 1905 escribió que nunca había usado el título de profetisa, aunque otros la llamaran así, porque su trabajo incluía más cosas. En 1906 aclaró que había querido decir «no pretendo ser profetisa», y escribió que su tarea incluía «la obra de un profeta», pero iba más allá.³
+Después lo explicó con claridad. En enero de 1905 escribió que nunca había usado el título de profetisa, aunque otros la llamaran así, porque su trabajo incluía más cosas. En 1906 aclaró que había querido decir «no pretendo ser profetisa», y escribió que su tarea incluía «la obra de un profeta», pero iba más allá.
 
 Está **probado** que en 1905 y 1906 dijo que tenía una tarea de profeta. Es **probable** que en 1904 quisiera rechazar el título, no la tarea, aunque la frase que se conserva podía entenderse de otra manera.
 
 ## 3. ¿Cuánta autoridad les daba a sus mensajes?
 
-Muchísima. En 1882 algunos decían que sus cartas eran simples opiniones. Ella respondió que el Espíritu de Dios la había movido a escribir, y que sus artículos contaban lo que Dios le había mostrado en visión, no sólo ideas suyas. Comparó a quienes hacían perder la confianza en sus mensajes con los rebeldes del tiempo de Moisés. En 1889 escribió que rechazar su mensaje era rechazar a Dios, que lo enviaba.⁴
+Muchísima. En 1882 algunos decían que sus cartas eran simples opiniones. Ella respondió que el Espíritu de Dios la había movido a escribir, y que sus artículos contaban lo que Dios le había mostrado en visión, no sólo ideas suyas. Comparó a quienes hacían perder la confianza en sus mensajes con los rebeldes del tiempo de Moisés. En 1889 escribió que rechazar su mensaje era rechazar a Dios, que lo enviaba.
 
 Esas frases no hablan de cada nota de la casa. Hablan de las cartas y mensajes que ella relacionaba con su tarea. Pero sobre esos mensajes era muy clara: **venían de Dios y había que obedecerlos por eso.**
 
 ## 4. ¿Aceptaba que sus mensajes pudieran ser algo humano pero sincero?
 
-No. En *Testimonios para la iglesia*, tomo 4, página 230, escribió: «Esta obra es de Dios, o no lo es. Dios no hace nada en sociedad con Satanás». Para ella, sus mensajes venían del Espíritu de Dios o del diablo. En el tomo 5, página 661, puso sus mensajes en la misma línea que los de los profetas y apóstoles de la Biblia.⁵
+No. En *Testimonios para la iglesia*, tomo 4, página 230, escribió: «Esta obra es de Dios, o no lo es. Dios no hace nada en sociedad con Satanás». Para ella, sus mensajes venían del Espíritu de Dios o del diablo. En el tomo 5, página 661, puso sus mensajes en la misma línea que los de los profetas y apóstoles de la Biblia.
 
 Este libro no está obligado a aceptar que sólo existan esas dos opciones. Hay una tercera: una experiencia religiosa sincera, pero de origen humano. Se va a examinar con pruebas. Pero hay que ser claros: si esa tercera opción fuera la correcta, no sería una forma suave de darle la razón. Querría decir que se equivocó al decir que sus mensajes venían de Dios.
 
 ## 5. ¿Decía que todo lo que escribía venía de Dios?
 
-No. En 1909 le hicieron notar que había dado mal el número de habitaciones de un sanatorio. Respondió que ese número era una opinión humana, que Dios nunca le había revelado cuántas habitaciones tenía ningún sanatorio, y que escribía muchas cartas comunes con datos que le daban otros. Dijo que era un gran error mezclar lo sagrado con lo común.⁶
+No. En 1909 le hicieron notar que había dado mal el número de habitaciones de un sanatorio. Respondió que ese número era una opinión humana, que Dios nunca le había revelado cuántas habitaciones tenía ningún sanatorio, y que escribía muchas cartas comunes con datos que le daban otros. Dijo que era un gran error mezclar lo sagrado con lo común.
 
 Lo que no explicó es qué hacer con un escrito que mezcla datos humanos con un mensaje que ella decía que venía de Dios.
 
 ## 6. ¿Necesitaba una visión para cada consejo?
 
-No, según ella. En 1889 explicó que Dios le había mostrado durante años principios y peligros, y que eso le permitía aconsejar en casos nuevos. Admitió que a veces un consejo nacía de una noticia que le llegaba por otras personas. Lo comparó con Pablo, que escribió a los corintios después de enterarse de sus problemas por la familia de Cloé.⁷
+No, según ella. En 1889 explicó que Dios le había mostrado durante años principios y peligros, y que eso le permitía aconsejar en casos nuevos. Admitió que a veces un consejo nacía de una noticia que le llegaba por otras personas. Lo comparó con Pablo, que escribió a los corintios después de enterarse de sus problemas por la familia de Cloé.
 
 Esto no prueba que Dios le haya mostrado esos principios. Y tampoco permite decir, cada vez que un mensaje sale mal, que «era sólo un consejo humano».
 
 ## 7. ¿Decía que Dios le dictaba las palabras?
 
-No. En 1867 escribió que las palabras con que contaba sus visiones eran suyas, salvo las que le decía un ángel, que siempre ponía entre comillas. En 1906 rechazó la idea del doctor David Paulson, que creía que cada palabra que ella decía era tan inspirada como los Diez Mandamientos.⁸
+No. En 1867 escribió que las palabras con que contaba sus visiones eran suyas, salvo las que le decía un ángel, que siempre ponía entre comillas. En 1906 rechazó la idea del doctor David Paulson, que creía que cada palabra que ella decía era tan inspirada como los Diez Mandamientos.
 
-También reconoció ayuda para escribir. Su esposo, James White, corregía la gramática y las repeticiones, y sus ayudantes pasaban en limpio los textos, sin permiso para agregar ideas. Y en la introducción de *El conflicto de los siglos* (*The Great Controversy*), de 1888, admitió que usó palabras de historiadores y que a veces no dijo de quién eran.⁹
+También reconoció ayuda para escribir. Su esposo, James White, corregía la gramática y las repeticiones, y sus ayudantes pasaban en limpio los textos, sin permiso para agregar ideas. Y en la introducción de *El conflicto de los siglos* (*The Great Controversy*), de 1888, admitió que usó palabras de historiadores y que a veces no dijo de quién eran.
 
 Lo que dijo en 1867 importa por dos lados. Permite que la redacción sea humana. Pero también dice que las palabras de un ángel son otra cosa, más fuerte.
 
 ## 8. ¿Decía que nunca se equivocaba?
 
-No. En 1895 escribió: «En cuanto a la infalibilidad, nunca la he reclamado; sólo Dios es infalible». Esa frase habla de ella como persona. No vuelve menos grave un error en algo que ella dijo que Dios le había mostrado.¹⁰
+No. En 1895 escribió: «En cuanto a la infalibilidad, nunca la he reclamado; sólo Dios es infalible». Esa frase habla de ella como persona. No vuelve menos grave un error en algo que ella dijo que Dios le había mostrado.
 
 ## 9. ¿Qué lugar le daba a la Biblia?
 
-El primero. En 1888 escribió que la Biblia es la regla para examinar toda enseñanza y toda experiencia, y que el Espíritu no vino a reemplazarla. En 1889 dijo que sus mensajes no traían reglas nuevas, sino que aplicaban la Biblia. En 1903 escribió que Dios había dado «una luz menor para guiar a hombres y mujeres a la luz mayor». Por lo que dice alrededor de esa frase, la luz mayor es probablemente la Biblia y la menor, sus libros.¹¹
+El primero. En 1888 escribió que la Biblia es la regla para examinar toda enseñanza y toda experiencia, y que el Espíritu no vino a reemplazarla. En 1889 dijo que sus mensajes no traían reglas nuevas, sino que aplicaban la Biblia. En 1903 escribió que Dios había dado «una luz menor para guiar a hombres y mujeres a la luz mayor». Por lo que dice alrededor de esa frase, la luz mayor es probablemente la Biblia y la menor, sus libros.
 
 Pero poner a la Biblia primero no volvía optativos sus mensajes. Para ella había un orden: la Biblia como regla, y sus mensajes como avisos y correcciones que también venían de Dios.
 
@@ -264,57 +264,57 @@ En febrero de 1845, Ellen Harmon ya contaba visiones en público, delante de gen
 
 ## 1. ¿Cuándo empezaron las visiones?
 
-El documento más antiguo escrito por gente de afuera es el informe de un juicio, publicado el 7 de marzo de 1845. Varios testigos contaron que la noche del 15 de febrero, en Atkinson, Maine, una joven de Portland entraba en estados que llamaban visiones y daba mensajes a personas concretas. Está **probado** que para esa fecha ya actuaba en público como visionaria.¹
+El documento más antiguo escrito por gente de afuera es el informe de un juicio, publicado el 7 de marzo de 1845. Varios testigos contaron que la noche del 15 de febrero, en Atkinson, Maine, una joven de Portland entraba en estados que llamaban visiones y daba mensajes a personas concretas. Está **probado** que para esa fecha ya actuaba en público como visionaria.
 
-La fecha de la primera visión aparece por escrito en 1847. James White y la propia Ellen dicen que fue en diciembre de 1844, y ella repite el mes en 1851.² Pero en 1874 Ellen recordó que no tuvo visiones hasta «enero o febrero», sin poder decir cuál. Es un recuerdo de treinta años después y vale menos, pero existe.³ **Diciembre de 1844 es probable**, no seguro.
+La fecha de la primera visión aparece por escrito en 1847. James White y la propia Ellen dicen que fue en diciembre de 1844, y ella repite el mes en 1851. Pero en 1874 Ellen recordó que no tuvo visiones hasta «enero o febrero», sin poder decir cuál. Es un recuerdo de treinta años después y vale menos, pero existe. **Diciembre de 1844 es probable**, no seguro.
 
 ## 2. ¿Qué estaba pasando entonces?
 
-Miles de seguidores del predicador William Miller esperaban que Cristo volviera alrededor del 22 de octubre de 1844. Cuando no volvió, se dividieron. Algunos aceptaron que se habían equivocado; el propio Miller terminó diciendo que esa fecha no significaba nada. Otros, como el pequeño grupo de James White, siguieron creyendo que Dios los había guiado.⁴
+Miles de seguidores del predicador William Miller esperaban que Cristo volviera alrededor del 22 de octubre de 1844. Cuando no volvió, se dividieron. Algunos aceptaron que se habían equivocado; el propio Miller terminó diciendo que esa fecha no significaba nada. Otros, como el pequeño grupo de James White, siguieron creyendo que Dios los había guiado.
 
-Las visiones no eran algo raro en ese ambiente. Un predicador llamado William Foy había publicado en 1845 dos visiones que tuvo en 1842. Al mismo tiempo, en mayo de 1845 los principales líderes de Miller declararon que no confiaban en visiones nuevas que no coincidieran con la Biblia.⁵
+Las visiones no eran algo raro en ese ambiente. Un predicador llamado William Foy había publicado en 1845 dos visiones que tuvo en 1842. Al mismo tiempo, en mayo de 1845 los principales líderes de Miller declararon que no confiaban en visiones nuevas que no coincidieran con la Biblia.
 
 ## 3. ¿Qué decía el primer relato?
 
-El primer relato escrito por ella es la carta a Enoch Jacobs del 20 de diciembre de 1845, publicada en enero de 1846. La carta original se perdió. Cuenta que, mientras oraba, se sintió elevada sobre el mundo y vio al pueblo adventista caminando por un sendero alto hacia la ciudad de Dios. Detrás de ellos había una luz, que un ángel llamó «el clamor de medianoche», y gracias a ella podían avanzar. Los que decían que Dios no los había guiado perdían la luz y caían al mundo oscuro.⁶
+El primer relato escrito por ella es la carta a Enoch Jacobs del 20 de diciembre de 1845, publicada en enero de 1846. La carta original se perdió. Cuenta que, mientras oraba, se sintió elevada sobre el mundo y vio al pueblo adventista caminando por un sendero alto hacia la ciudad de Dios. Detrás de ellos había una luz, que un ángel llamó «el clamor de medianoche», y gracias a ella podían avanzar. Los que decían que Dios no los había guiado perdían la luz y caían al mundo oscuro.
 
-El mensaje central era claro: **lo vivido en 1844 había sido de Dios, y quien lo negara perdía el camino.** Ese mismo mensaje ya aparece en una carta de James White de agosto de 1845, escrita antes que la de Ellen.⁷
+El mensaje central era claro: **lo vivido en 1844 había sido de Dios, y quien lo negara perdía el camino.** Ese mismo mensaje ya aparece en una carta de James White de agosto de 1845, escrita antes que la de Ellen.
 
 ## 4. ¿Cambió el relato con los años?
 
-Sí. Las tres primeras ediciones, de 1846 y 1847, son casi iguales. En 1851 se borraron algunas frases. Una de ellas comparaba a los que caían con «todo el mundo impío que Dios había rechazado», una frase que daba a entender que la salvación estaba muy cerrada. También se quitó un pasaje largo sobre el templo. En 1860 se suavizaron palabras y el relato se dividió en dos visiones distintas.⁸
+Sí. Las tres primeras ediciones, de 1846 y 1847, son casi iguales. En 1851 se borraron algunas frases. Una de ellas comparaba a los que caían con «todo el mundo impío que Dios había rechazado», una frase que daba a entender que la salvación estaba muy cerrada. También se quitó un pasaje largo sobre el templo. En 1860 se suavizaron palabras y el relato se dividió en dos visiones distintas.
 
 Decir que la visión se inventó años después sería falso: lo central ya estaba en 1845. Decir que nunca se cambió también sería falso. Por qué se borraron esas frases no se sabe.
 
-Además hay parecidos concretos con otros textos. Foy cuenta que un ángel abre una puerta con bisagras «relucientes». En la primera versión de White, Jesús abre una puerta con bisagras «doradas», y en 1851 pasan a ser «relucientes». La imagen de siete montañas con rosas y lirios coincide con un libro antiguo llamado Segundo de Esdras (capítulo 2, versículo 19). Los parecidos están **probados**. Si vienen de algo que leyó, de algo que escuchó o de imágenes comunes en ese ambiente, no se sabe.⁹
+Además hay parecidos concretos con otros textos. Foy cuenta que un ángel abre una puerta con bisagras «relucientes». En la primera versión de White, Jesús abre una puerta con bisagras «doradas», y en 1851 pasan a ser «relucientes». La imagen de siete montañas con rosas y lirios coincide con un libro antiguo llamado Segundo de Esdras (capítulo 2, versículo 19). Los parecidos están **probados**. Si vienen de algo que leyó, de algo que escuchó o de imágenes comunes en ese ambiente, no se sabe.
 
 ## 5. ¿Qué tuvieron que ver estas visiones con la «puerta cerrada»?
 
 Mucho. Después de 1844, muchos seguidores de Miller creían en la «puerta cerrada»: que la oportunidad de salvarse se había terminado para quienes estaban fuera del movimiento.
 
-Los documentos muestran que las visiones de Ellen se usaron para sostener esa idea. En abril de 1846, Otis Nichols, que la apoyaba, le escribió a Miller que el mensaje de Ellen enseñaba que la tarea con «la iglesia y el mundo» había terminado.¹⁰ En 1847, Ellen le contó a Joseph Bates que, después de una visión de febrero de 1845, la mayoría de los presentes quedó «firme» en la puerta cerrada.¹¹ En marzo de 1849 dijo que había visto que los mandamientos y el testimonio de Jesús «relacionados con la puerta cerrada» no se podían separar. Y en agosto de 1849 publicó una visión en la que buscaba la angustia que antes sentía por los pecadores y no la encontraba, «porque el tiempo de su salvación ha pasado».¹²
+Los documentos muestran que las visiones de Ellen se usaron para sostener esa idea. En abril de 1846, Otis Nichols, que la apoyaba, le escribió a Miller que el mensaje de Ellen enseñaba que la tarea con «la iglesia y el mundo» había terminado. En 1847, Ellen le contó a Joseph Bates que, después de una visión de febrero de 1845, la mayoría de los presentes quedó «firme» en la puerta cerrada. En marzo de 1849 dijo que había visto que los mandamientos y el testimonio de Jesús «relacionados con la puerta cerrada» no se podían separar. Y en agosto de 1849 publicó una visión en la que buscaba la angustia que antes sentía por los pecadores y no la encontraba, «porque el tiempo de su salvación ha pasado».
 
-En 1874 escribió: «Con mis hermanos, después de que pasó el tiempo en el 44, sí creí que no se convertirían más pecadores. Pero nunca tuve una visión de que no se convertirían más pecadores».¹³
+En 1874 escribió: «Con mis hermanos, después de que pasó el tiempo en el 44, sí creí que no se convertirían más pecadores. Pero nunca tuve una visión de que no se convertirían más pecadores».
 
 ¿Se contradice? Depende de quiénes eran los que, en 1849, ya no podían salvarse. Los defensores dicen que hablaba sólo de quienes habían rechazado a sabiendas el mensaje de 1844. Los críticos responden que el texto no dice eso y suena más amplio. Está **probado** que en 1849 seguía uniendo sus visiones con la puerta cerrada. **No se sabe** si quería decir que nadie más podía salvarse. La tensión con lo que escribió en 1874 es real. Hay otro texto, la llamada «visión de Camden», que no se usa aquí porque no está claro que sea auténtico.
 
 ## 6. ¿Qué vieron los testigos en Atkinson?
 
-El arresto no tuvo que ver con las visiones. El detenido fue Israel Dammon, el que dirigía las reuniones. Lo acusaron de vago, porque él y su grupo vivían a costa de los vecinos y aconsejaban dejar de trabajar porque el fin estaba cerca. El ayudante del sheriff tuvo que forzar la puerta y pedir ayuda dos veces, porque el grupo se resistía.¹⁴
+El arresto no tuvo que ver con las visiones. El detenido fue Israel Dammon, el que dirigía las reuniones. Lo acusaron de vago, porque él y su grupo vivían a costa de los vecinos y aconsejaban dejar de trabajar porque el fin estaba cerca. El ayudante del sheriff tuvo que forzar la puerta y pedir ayuda dos veces, porque el grupo se resistía.
 
-Los testigos, a favor y en contra, contaron que Ellen estaba acostada en el suelo durante horas. Cada tanto se incorporaba para darles mensajes a personas concretas, a veces urgentes, sobre bautizarse para no perderse. Dos de sus seguidores dijeron que le creían porque había descrito bien su situación o la de su esposa. El informe cuenta también gritos, besos y gente que gateaba, pero ningún testigo dice que Ellen hiciera esas cosas.¹⁵
+Los testigos, a favor y en contra, contaron que Ellen estaba acostada en el suelo durante horas. Cada tanto se incorporaba para darles mensajes a personas concretas, a veces urgentes, sobre bautizarse para no perderse. Dos de sus seguidores dijeron que le creían porque había descrito bien su situación o la de su esposa. El informe cuenta también gritos, besos y gente que gateaba, pero ningún testigo dice que Ellen hiciera esas cosas.
 
 El informe **prueba** que ella actuaba en público en un ambiente ruidoso y de mucha emoción. Eso es muy distinto de la oración tranquila que ella contó en 1851 al describir su primera visión. El informe no mide nada sobre su respiración ni su fuerza, y no dice qué causaba lo que veían.
 
 ## 7. ¿Coincide lo que ella recordó después con el informe del juicio?
 
-En lo básico sí; en la explicación, no. En 1860 Ellen contó que el poder de Dios dejó a Dammon sin fuerzas y que nadie podía moverlo. El ayudante del sheriff declaró bajo juramento, en 1845, que varias mujeres se agarraron de Dammon y que tuvo que pedir refuerzos. Para saber qué pasó, vale más el testimonio de ese momento. No hace falta acusarla de mentir: la memoria puede guardar un hecho real y darle otra explicación.¹⁶
+En lo básico sí; en la explicación, no. En 1860 Ellen contó que el poder de Dios dejó a Dammon sin fuerzas y que nadie podía moverlo. El ayudante del sheriff declaró bajo juramento, en 1845, que varias mujeres se agarraron de Dammon y que tuvo que pedir refuerzos. Para saber qué pasó, vale más el testimonio de ese momento. No hace falta acusarla de mentir: la memoria puede guardar un hecho real y darle otra explicación.
 
 ## 8. ¿Qué pensaron otros adventistas?
 
-Hubo de todo. James White la defendió desde 1845. Pero en un folleto de 1847 incluyó la opinión de un hermano que no pensaba que ella mintiera. Para ese hermano, las visiones eran «ensueños religiosos»: momentos en que, muy concentrada, su imaginación desarrollaba lo que más le preocupaba. Es una explicación natural, respetuosa y de esa misma época.¹⁷
+Hubo de todo. James White la defendió desde 1845. Pero en un folleto de 1847 incluyó la opinión de un hermano que no pensaba que ella mintiera. Para ese hermano, las visiones eran «ensueños religiosos»: momentos en que, muy concentrada, su imaginación desarrollaba lo que más le preocupaba. Es una explicación natural, respetuosa y de esa misma época.
 
-Joseph Bates, otro líder, al principio pensó que podía ser debilidad física o una especie de hipnosis que entonces se llamaba mesmerismo. La observó varias veces buscando un engaño y en 1847 dijo que se había convencido de que era obra de Dios. Su testimonio muestra que hubo dudas reales, pero no es un examen médico.¹⁸
+Joseph Bates, otro líder, al principio pensó que podía ser debilidad física o una especie de hipnosis que entonces se llamaba mesmerismo. La observó varias veces buscando un engaño y en 1847 dijo que se había convencido de que era obra de Dios. Su testimonio muestra que hubo dudas reales, pero no es un examen médico.
 
 ## 9. ¿Qué queda claro?
 
@@ -328,55 +328,55 @@ Quienes vieron a Elena G. de White en visión describieron algo poco común. Ten
 
 ## 1. ¿Qué se decía que pasaba?
 
-En 1868 su esposo, James White, publicó cuatro rasgos. No se daba cuenta de lo que pasaba alrededor. No respiraba en toda la visión, que podía durar de quince minutos a tres horas. Sus músculos se ponían rígidos, aunque movía los brazos con libertad. Y al terminar todo le parecía oscuro.¹ En 1874 George I. Butler agregó que tenía los ojos abiertos sin parpadear y el pulso normal.² En 1892 J. N. Loughborough describió los pasos con más detalle y habló de una fuerza «sobrehumana».³
+En 1868 su esposo, James White, publicó cuatro rasgos. No se daba cuenta de lo que pasaba alrededor. No respiraba en toda la visión, que podía durar de quince minutos a tres horas. Sus músculos se ponían rígidos, aunque movía los brazos con libertad. Y al terminar todo le parecía oscuro. En 1874 George I. Butler agregó que tenía los ojos abiertos sin parpadear y el pulso normal. En 1892 J. N. Loughborough describió los pasos con más detalle y habló de una fuerza «sobrehumana».
 
 Estos textos prueban lo que algunos líderes adventistas **decían** haber visto. No prueban que cada detalle pasara en cada visión. James era su esposo y su principal defensor. Butler la defendía; no estaba contando una visión concreta. Loughborough escribió cuarenta años después de verla por primera vez.
 
 ## 2. ¿Qué dicen los papeles más antiguos?
 
-El informe del juicio de Atkinson, de 1845, la describe acostada en el suelo dando mensajes. No dice nada de ojos quietos, de que no respirara ni de una fuerza fuera de lo común.⁴ Que no lo diga no prueba que no pasara, porque el juicio trataba de otra cosa. Pero no permite afirmar que esos rasgos llamativos estén confirmados desde el principio.
+El informe del juicio de Atkinson, de 1845, la describe acostada en el suelo dando mensajes. No dice nada de ojos quietos, de que no respirara ni de una fuerza fuera de lo común. Que no lo diga no prueba que no pasara, porque el juicio trataba de otra cosa. Pero no permite afirmar que esos rasgos llamativos estén confirmados desde el principio.
 
-Joseph Bates la observó varias veces antes de 1847. Buscaba un engaño o una hipnosis (el mesmerismo) y terminó convencido. Tampoco dice que le haya tomado el pulso ni controlado la respiración.⁵
+Joseph Bates la observó varias veces antes de 1847. Buscaba un engaño o una hipnosis (el mesmerismo) y terminó convencido. Tampoco dice que le haya tomado el pulso ni controlado la respiración.
 
-Hay una carta que se le atribuye a James White, con fecha de agosto de 1848. Dice que en una visión reciente estuvo hora y media sin respirar. Sólo la conocemos por una copia, y no se pudo comprobar la fecha. Si la fecha es correcta, es un testimonio temprano. Pero alguien que mira no es lo mismo que una medición.⁶
+Hay una carta que se le atribuye a James White, con fecha de agosto de 1848. Dice que en una visión reciente estuvo hora y media sin respirar. Sólo la conocemos por una copia, y no se pudo comprobar la fecha. Si la fecha es correcta, es un testimonio temprano. Pero alguien que mira no es lo mismo que una medición.
 
 ## 3. ¿Tenía los ojos abiertos y no reaccionaba?
 
-Es **probable** que pasara en algunas visiones. Varios testigos cuentan que tenía la mirada abierta, fija y hacia arriba, y que casi no reaccionaba a lo que pasaba alrededor, aunque hablaba y se movía. Que «nunca parpadeaba» es una frase absoluta, y nadie la cronometró. Eso **no se sabe**.⁷
+Es **probable** que pasara en algunas visiones. Varios testigos cuentan que tenía la mirada abierta, fija y hacia arriba, y que casi no reaccionaba a lo que pasaba alrededor, aunque hablaba y se movía. Que «nunca parpadeaba» es una frase absoluta, y nadie la cronometró. Eso **no se sabe**.
 
 ## 4. ¿Tenía una fuerza fuera de lo común?
 
-Varios recuerdos cuentan que tenía el brazo tan rígido que no se lo podían doblar. El caso más citado lo cuenta Loughborough: un vecino que trabajaba la piedra quiso doblarle el brazo, apoyando la rodilla, y no pudo. Se publicó casi treinta años después, sin una declaración de ese vecino. Y Loughborough le puso una fecha en 1891 y otra distinta en 1892.⁸
+Varios recuerdos cuentan que tenía el brazo tan rígido que no se lo podían doblar. El caso más citado lo cuenta Loughborough: un vecino que trabajaba la piedra quiso doblarle el brazo, apoyando la rodilla, y no pudo. Se publicó casi treinta años después, sin una declaración de ese vecino. Y Loughborough le puso una fecha en 1891 y otra distinta en 1892.
 
 Es **probable** que estuviera tan rígida que sorprendía a los presentes. Que tuviera más fuerza que cualquier persona **no se sabe**: sentir que alguien es muy fuerte no es lo mismo que medirlo.
 
 ## 5. ¿Dejaba de respirar?
 
-Los presentes hacían pruebas caseras: mirarle el pecho, ponerle un espejo o una vela delante de la boca, taparle la nariz y la boca. D. T. Bourdeau escribió en 1891 que en 1857 le tapó la nariz y la boca «unos diez minutos» y ella siguió igual. Lo escribió treinta y cuatro años después, y no sabemos cómo midió el tiempo.⁹
+Los presentes hacían pruebas caseras: mirarle el pecho, ponerle un espejo o una vela delante de la boca, taparle la nariz y la boca. D. T. Bourdeau escribió en 1891 que en 1857 le tapó la nariz y la boca «unos diez minutos» y ella siguió igual. Lo escribió treinta y cuatro años después, y no sabemos cómo midió el tiempo.
 
-Con los médicos pasa lo mismo. Ningún médico dejó un informe escrito. Todo lo que sabemos de ellos son recuerdos de creyentes, escritos entre treinta y cuarenta años después. En el caso de Tyrone, el que lo contó tenía veintiún años y todavía no era médico.¹⁰
+Con los médicos pasa lo mismo. Ningún médico dejó un informe escrito. Todo lo que sabemos de ellos son recuerdos de creyentes, escritos entre treinta y cuarenta años después. En el caso de Tyrone, el que lo contó tenía veintiún años y todavía no era médico.
 
-Además, los testigos no coinciden en lo principal. Butler dijo que el pulso era normal. Merritt G. Kellogg, que también vio visiones, escribió en 1906 que el pulso casi se paraba y que respiraba poco y débil, menos cuando hablaba.¹¹
+Además, los testigos no coinciden en lo principal. Butler dijo que el pulso era normal. Merritt G. Kellogg, que también vio visiones, escribió en 1906 que el pulso casi se paraba y que respiraba poco y débil, menos cuando hablaba.
 
-Y el cuerpo tiene un límite. Para hablar hay que mover aire. «Hablaba» y «no le entraba ni le salía aire» no pueden ser verdad al mismo tiempo. Lo más probable es que «no respiraba» quisiera decir «no la vimos respirar como siempre». Una persona sin entrenamiento aguanta la respiración algunas decenas de segundos. Con entrenamiento especial se llega a unos pocos minutos. Nada de eso alcanza para convertir estos recuerdos en una prueba de que no respiró durante largo rato, y mucho menos hablando y moviéndose.¹²
+Y el cuerpo tiene un límite. Para hablar hay que mover aire. «Hablaba» y «no le entraba ni le salía aire» no pueden ser verdad al mismo tiempo. Lo más probable es que «no respiraba» quisiera decir «no la vimos respirar como siempre». Una persona sin entrenamiento aguanta la respiración algunas decenas de segundos. Con entrenamiento especial se llega a unos pocos minutos. Nada de eso alcanza para convertir estos recuerdos en una prueba de que no respiró durante largo rato, y mucho menos hablando y moviéndose.
 
 Es **probable** que no se le notara la respiración normal. Que dejara de respirar por completo (lo que los médicos llaman apnea) durante minutos u horas **no está probado**.
 
 ## 6. ¿Qué pasó con las Biblias?
 
-Hay dos historias. La mejor documentada pasó en Randolph, en el invierno de 1845 a 1846. Otis Nichols, que estaba presente, contó que el dueño de casa le puso encima una Biblia abierta. Ella la sostuvo, pasó páginas y señaló versículos sin mirar. Nichols lo publicó quince años después. Es **probable** que la prueba con la Biblia ocurriera. Que señalara bien los versículos es **posible**, pero nadie más lo confirma.¹³
+Hay dos historias. La mejor documentada pasó en Randolph, en el invierno de 1845 a 1846. Otis Nichols, que estaba presente, contó que el dueño de casa le puso encima una Biblia abierta. Ella la sostuvo, pasó páginas y señaló versículos sin mirar. Nichols lo publicó quince años después. Es **probable** que la prueba con la Biblia ocurriera. Que señalara bien los versículos es **posible**, pero nadie más lo confirma.
 
-La más famosa es la Biblia de la familia Harmon, que pesa unos 8,4 kilos. Se cuenta que la sostuvo con el brazo estirado durante media hora. La Biblia existe. Pero la historia se publicó por primera vez en 1891, cuarenta y seis años después. La contó Loughborough, que no estaba ahí. En 1919, A. G. Daniells avisó que estas historias podían agrandarse con el tiempo. Si eso pasó, **no se sabe**.¹⁴
+La más famosa es la Biblia de la familia Harmon, que pesa unos 8,4 kilos. Se cuenta que la sostuvo con el brazo estirado durante media hora. La Biblia existe. Pero la historia se publicó por primera vez en 1891, cuarenta y seis años después. La contó Loughborough, que no estaba ahí. En 1919, A. G. Daniells avisó que estas historias podían agrandarse con el tiempo. Si eso pasó, **no se sabe**.
 
 ## 7. ¿Cuántos testigos son de verdad independientes?
 
-Menos de los que parece. James White publicó la descripción general. Butler y Loughborough la repitieron. Varias declaraciones de la década de 1890 se juntaron porque las pidió Loughborough, dentro de la misma comunidad. Hay varios testigos de ocasiones distintas, pero no decenas de testimonios escritos en el momento y sin relación entre sí.¹⁵
+Menos de los que parece. James White publicó la descripción general. Butler y Loughborough la repitieron. Varias declaraciones de la década de 1890 se juntaron porque las pidió Loughborough, dentro de la misma comunidad. Hay varios testigos de ocasiones distintas, pero no decenas de testimonios escritos en el momento y sin relación entre sí.
 
-Tampoco hay testigos en contra que hayan estado presentes y confirmen lo que pasaba. Los críticos del siglo XIX que pensaron en causas médicas nunca vieron una visión.¹⁶
+Tampoco hay testigos en contra que hayan estado presentes y confirmen lo que pasaba. Los críticos del siglo XIX que pensaron en causas médicas nunca vieron una visión.
 
 ## 8. ¿Le pasó esto toda la vida?
 
-No. Las señales físicas llamativas son de las primeras décadas. La última «visión abierta» registrada, es decir, con el cuerpo en trance delante de otros, es de 1884. Después siguió diciendo que Dios le hablaba en sueños y en impresiones de noche. Daniells, que creía firmemente en ella, admitió en 1919 que en sus últimos años las señales físicas ya no aparecían. Por eso no pueden ser una condición para que el don sea verdadero.¹⁷
+No. Las señales físicas llamativas son de las primeras décadas. La última «visión abierta» registrada, es decir, con el cuerpo en trance delante de otros, es de 1884. Después siguió diciendo que Dios le hablaba en sueños y en impresiones de noche. Daniells, que creía firmemente en ella, admitió en 1919 que en sus últimos años las señales físicas ya no aparecían. Por eso no pueden ser una condición para que el don sea verdadero.
 
 ## 9. ¿Qué probarían esas señales aunque fueran reales?
 
@@ -401,53 +401,53 @@ Me parece que lo que mejor encaja con lo que vieron los testigos es un trance: u
 
 ## 1. ¿Qué tiene que explicar una buena respuesta?
 
-Varias cosas. Las visiones empezaron a los diecisiete años, en plena crisis después de octubre de 1844. Ella contaba escenas y mensajes con sentido religioso. Los testigos la veían desconectada de lo que pasaba alrededor, pero hablándoles a personas concretas. Las visiones duraban tiempos distintos. Y con los años, las visiones delante de la gente dejaron lugar a sueños de noche.¹
+Varias cosas. Las visiones empezaron a los diecisiete años, en plena crisis después de octubre de 1844. Ella contaba escenas y mensajes con sentido religioso. Los testigos la veían desconectada de lo que pasaba alrededor, pero hablándoles a personas concretas. Las visiones duraban tiempos distintos. Y con los años, las visiones delante de la gente dejaron lugar a sueños de noche.
 
 Para cada explicación se hace la misma pregunta: si ésta fuera la causa, ¿qué otras señales tendríamos que ver? ¿Aparecen en los documentos?
 
 ## 2. ¿Pudo causarlas el golpe que recibió de chica?
 
-A los nueve años, una compañera le tiró una piedra a la cara. Ellen contó que quedó inconsciente, que su madre le dijo que estuvo tres semanas como dormida y que tardó mucho en recuperarse. Contó esto con detalle en 1860, más de veinte años después. Que hubo un golpe es **probable**. Cuánto le afectó al cerebro **no se sabe**.²
+A los nueve años, una compañera le tiró una piedra a la cara. Ellen contó que quedó inconsciente, que su madre le dijo que estuvo tres semanas como dormida y que tardó mucho en recuperarse. Contó esto con detalle en 1860, más de veinte años después. Que hubo un golpe es **probable**. Cuánto le afectó al cerebro **no se sabe**.
 
-Un golpe fuerte en la cabeza aumenta el riesgo de epilepsia. Pero un riesgo no es un diagnóstico. Entre el golpe y las visiones pasaron siete u ocho años sin que se registraran ataques repetidos. Además, ella contó que antes de 1844, mientras oraba, sintió una gran alegría, se puso rígida y se desconectó de lo que la rodeaba. O sea, ya había vivido esos estados de concentración religiosa antes de tener visiones.³
+Un golpe fuerte en la cabeza aumenta el riesgo de epilepsia. Pero un riesgo no es un diagnóstico. Entre el golpe y las visiones pasaron siete u ocho años sin que se registraran ataques repetidos. Además, ella contó que antes de 1844, mientras oraba, sintió una gran alegría, se puso rígida y se desconectó de lo que la rodeaba. O sea, ya había vivido esos estados de concentración religiosa antes de tener visiones.
 
 ## 3. ¿Pudo ser una forma de epilepsia?
 
-En 1981, el pediatra Delbert Hodder propuso un tipo de ataque epiléptico que no hace caer ni convulsionar, sino que cambia la conciencia (crisis parciales complejas). En 1985, Molleurus Couperus lo relacionó con el golpe. Los dos trabajaron con relatos publicados, sin una historia clínica.⁴
+En 1981, el pediatra Delbert Hodder propuso un tipo de ataque epiléptico que no hace caer ni convulsionar, sino que cambia la conciencia (crisis parciales complejas). En 1985, Molleurus Couperus lo relacionó con el golpe. Los dos trabajaron con relatos publicados, sin una historia clínica.
 
-Es algo que puede pasar: algunos de esos ataques traen la sensación de una presencia, mucha alegría o imágenes. Pero de «puede pasar» a «pasó acá» hay un salto grande. El mayor problema es cuánto duraban. Un estudio que filmó esos ataques y midió la actividad del cerebro encontró que la mitad duraba menos de 42,5 segundos, y la mayoría menos de cinco minutos. **Si fueran ciertas** las visiones de quince minutos a horas, no encajarían con un ataque común. Pero esas duraciones son recuerdos. No se pueden tomar como medición sólo cuando sirven para descartar una explicación natural.⁵
+Es algo que puede pasar: algunos de esos ataques traen la sensación de una presencia, mucha alegría o imágenes. Pero de «puede pasar» a «pasó acá» hay un salto grande. El mayor problema es cuánto duraban. Un estudio que filmó esos ataques y midió la actividad del cerebro encontró que la mitad duraba menos de 42,5 segundos, y la mayoría menos de cinco minutos. **Si fueran ciertas** las visiones de quince minutos a horas, no encajarían con un ataque común. Pero esas duraciones son recuerdos. No se pueden tomar como medición sólo cuando sirven para descartar una explicación natural.
 
-En 1984, un comité adventista dijo que era imposible que esos ataques explicaran las visiones. Esa seguridad tampoco se puede demostrar sin estudios del cerebro.⁶ La epilepsia sigue siendo **posible**, con poco apoyo.
+En 1984, un comité adventista dijo que era imposible que esos ataques explicaran las visiones. Esa seguridad tampoco se puede demostrar sin estudios del cerebro. La epilepsia sigue siendo **posible**, con poco apoyo.
 
 ## 4. ¿Se parece más a un trance religioso?
 
-Sí, en la forma. En un trance, la persona puede estar desconectada de lo que pasa, tener la mirada fija, moverse y quedar convencida de que recibió un mensaje, sin estar enferma y sin fingir. Eso encaja con lo que ella contó de su adolescencia y con lo que vieron los testigos. El mismo estudio registró episodios de origen psicológico de más de treinta minutos. Así que una visión larga no descarta todas las explicaciones naturales.⁷
+Sí, en la forma. En un trance, la persona puede estar desconectada de lo que pasa, tener la mirada fija, moverse y quedar convencida de que recibió un mensaje, sin estar enferma y sin fingir. Eso encaja con lo que ella contó de su adolescencia y con lo que vieron los testigos. El mismo estudio registró episodios de origen psicológico de más de treinta minutos. Así que una visión larga no descarta todas las explicaciones naturales.
 
 Pero «trance» dice cómo pudo verse, no por qué pasaba ni de dónde salía cada escena. Si se usara para explicar cualquier cosa, ya no se podría poner a prueba.
 
 ## 5. ¿Era conocida esa experiencia en su ambiente?
 
-Sí. En algunos movimientos protestantes de Estados Unidos era común que la gente cayera al suelo, entrara en trance, tuviera sueños y diera mensajes de visiones. El juicio de Atkinson muestra un grupo que cantaba, se caía, tenía visiones y discutía mensajes para personas concretas. La historiadora Ann Taves estudió cómo una misma experiencia podía verse como obra de Dios, como enfermedad o como exceso de entusiasmo, según quién la mirara.⁸
+Sí. En algunos movimientos protestantes de Estados Unidos era común que la gente cayera al suelo, entrara en trance, tuviera sueños y diera mensajes de visiones. El juicio de Atkinson muestra un grupo que cantaba, se caía, tenía visiones y discutía mensajes para personas concretas. La historiadora Ann Taves estudió cómo una misma experiencia podía verse como obra de Dios, como enfermedad o como exceso de entusiasmo, según quién la mirara.
 
-William Foy, un predicador afroamericano, publicó en 1845 dos visiones largas que tuvo en 1842, con testigos. Eso muestra que antes de ella ya había casos parecidos con fecha segura. El folleto de Foy, por sí solo, no puede explicar una experiencia de ella que fue anterior a su publicación, aunque pudo influir en cómo la escribió después. El caso de Hazen Foss depende de una carta de Ellen de 1890, cuarenta y seis años después, y no permite comparar lo que vieron.⁹
+William Foy, un predicador afroamericano, publicó en 1845 dos visiones largas que tuvo en 1842, con testigos. Eso muestra que antes de ella ya había casos parecidos con fecha segura. El folleto de Foy, por sí solo, no puede explicar una experiencia de ella que fue anterior a su publicación, aunque pudo influir en cómo la escribió después. El caso de Hazen Foss depende de una carta de Ellen de 1890, cuarenta y seis años después, y no permite comparar lo que vieron.
 
 ## 6. ¿Cuánto pesaron la desilusión de 1844 y el estudio en grupo?
 
 Mucho, en cómo entendía las visiones y en lo que decían. La primera visión respondía justo a la pregunta urgente de su grupo: ¿Dios había guiado el movimiento de 1844?
 
-Más adelante aparece algo más preciso. En 1904, Ellen recordó que en las reuniones de estudio de la Biblia de los primeros años, cuando el grupo no podía avanzar, una visión aclaraba los textos. En 1855 hay un caso concreto. J. N. Andrews estudió a qué hora empezaba el sábado. Concluyó que empezaba a la puesta del sol y convenció a casi todos. Ellen y Joseph Bates seguían empezándolo a las seis de la tarde. Después, una visión de Ellen confirmó la puesta del sol.¹⁰
+Más adelante aparece algo más preciso. En 1904, Ellen recordó que en las reuniones de estudio de la Biblia de los primeros años, cuando el grupo no podía avanzar, una visión aclaraba los textos. En 1855 hay un caso concreto. J. N. Andrews estudió a qué hora empezaba el sábado. Concluyó que empezaba a la puesta del sol y convenció a casi todos. Ellen y Joseph Bates seguían empezándolo a las seis de la tarde. Después, una visión de Ellen confirmó la puesta del sol.
 
 Este caso se puede leer de dos maneras. A favor de que venía de Dios: la visión corrigió lo que ella todavía pensaba. A favor de una explicación humana: la respuesta ya estaba estudiada y presentada antes de la visión. Así que no prueba que ella supiera algo por otro camino.
 
 ## 7. ¿Pudo creer sinceramente que venían de Dios sin que fuera así?
 
-Sí. Una experiencia muy vívida, que no se busca, que llega en oración y con imágenes de la Biblia, se puede entender de buena fe como algo que viene de Dios. Si esto fue lo que pasó, esperaríamos tres cosas: que ella estuviera convencida toda la vida, que los mensajes respondieran a lo que preocupaba al grupo y que no hubiera preparación para engañar. Las tres aparecen. El hermano que en 1847 llamó «ensueños religiosos» a las visiones no pensaba que ella fuera deshonesta.¹¹
+Sí. Una experiencia muy vívida, que no se busca, que llega en oración y con imágenes de la Biblia, se puede entender de buena fe como algo que viene de Dios. Si esto fue lo que pasó, esperaríamos tres cosas: que ella estuviera convencida toda la vida, que los mensajes respondieran a lo que preocupaba al grupo y que no hubiera preparación para engañar. Las tres aparecen. El hermano que en 1847 llamó «ensueños religiosos» a las visiones no pensaba que ella fuera deshonesta.
 
 El límite de esta explicación es que no explicaría un dato que ella de verdad no pudiera conocer, si apareciera uno. Y la sinceridad no se puede ver directamente.
 
 ## 8. ¿Hay pruebas de fraude?
 
-No en estos documentos. No hay confesión, ni cómplices, ni preparación a escondidas, ni un caso temprano en que la descubrieran actuando. Bates la observó buscando un engaño y no lo encontró. Ella tuvo estas experiencias durante años y delante de la gente, y eso hace difícil pensar que fingiera todo el tiempo. Aunque parecer sincero no deja libre de sospecha a nadie. El fraude **puede pensarse**, pero con estas pruebas no es probable.¹²
+No en estos documentos. No hay confesión, ni cómplices, ni preparación a escondidas, ni un caso temprano en que la descubrieran actuando. Bates la observó buscando un engaño y no lo encontró. Ella tuvo estas experiencias durante años y delante de la gente, y eso hace difícil pensar que fingiera todo el tiempo. Aunque parecer sincero no deja libre de sospecha a nadie. El fraude **puede pensarse**, pero con estas pruebas no es probable.
 
 ## 9. ¿Tiene que haber una sola causa?
 
@@ -467,23 +467,23 @@ Una carta con fecha, que llegó antes del hecho. Que diga el lugar, lo que va a 
 
 ## 2. ¿Anunció la Guerra Civil de Estados Unidos?
 
-Se cuenta que el 12 de enero de 1861, en Parkville, Michigan, anunció una guerra con muchos muertos. El relato con detalles lo publicó Loughborough en 1892, y dijo que lo sacaba de su diario. Ese diario de 1861 no se encontró.¹ Además, para ese día ya se habían separado del país Carolina del Sur, Misisipi, Florida y Alabama, y ya le habían disparado a un barco que llevaba provisiones a Fort Sumter. El peligro ya estaba a la vista.²
+Se cuenta que el 12 de enero de 1861, en Parkville, Michigan, anunció una guerra con muchos muertos. El relato con detalles lo publicó Loughborough en 1892, y dijo que lo sacaba de su diario. Ese diario de 1861 no se encontró. Además, para ese día ya se habían separado del país Carolina del Sur, Misisipi, Florida y Alabama, y ya le habían disparado a un barco que llevaba provisiones a Fort Sumter. El peligro ya estaba a la vista.
 
-En agosto de 1861 publicó «Slavery and the War» («La esclavitud y la guerra»). Es un texto firme y anterior al final de la guerra. Dijo que la esclavitud era el centro del conflicto y avisó que no habría una victoria fácil. Pero en julio, con la derrota del Norte en Bull Run, ya se había visto que no sería fácil. Es una opinión moral y política valiosa, no una predicción de algo que nadie podía saber.³
+En agosto de 1861 publicó «Slavery and the War» («La esclavitud y la guerra»). Es un texto firme y anterior al final de la guerra. Dijo que la esclavitud era el centro del conflicto y avisó que no habría una victoria fácil. Pero en julio, con la derrota del Norte en Bull Run, ya se había visto que no sería fácil. Es una opinión moral y política valiosa, no una predicción de algo que nadie podía saber.
 
 **Resultado:** probablemente avisó de una guerra grave, pero como predicción vale poco.
 
 ## 3. ¿Dijo que Inglaterra le declararía la guerra a Estados Unidos?
 
-En 1862 escribió que Inglaterra estaba pensando si atacar a un país debilitado y que lo haría *si* le convenía. Y terminó: «Cuando Inglaterra declare la guerra», habrá confusión en todos lados. Inglaterra no la declaró. Si «cuando» quería decir que seguro iba a pasar, falló. Si cerraba la idea del «si» del mismo párrafo, no falló. Además, el tema ya estaba en las noticias desde fines de 1861, por un choque entre los dos países por el barco *Trent*. **Resultado:** no se sabe.⁴
+En 1862 escribió que Inglaterra estaba pensando si atacar a un país debilitado y que lo haría *si* le convenía. Y terminó: «Cuando Inglaterra declare la guerra», habrá confusión en todos lados. Inglaterra no la declaró. Si «cuando» quería decir que seguro iba a pasar, falló. Si cerraba la idea del «si» del mismo párrafo, no falló. Además, el tema ya estaba en las noticias desde fines de 1861, por un choque entre los dos países por el barco *Trent*. **Resultado:** no se sabe.
 
 ## 4. ¿Qué pasa con Jerusalén?
 
-En 1851 escribió que la antigua Jerusalén «nunca volvería a ser edificada». Lo dijo discutiendo con adventistas que querían ir allá antes de que volviera Cristo. Si hablaba de la ciudad, que después creció, es un problema. Si hablaba de la restauración religiosa que esos adventistas esperaban, **no se sabe**.⁵
+En 1851 escribió que la antigua Jerusalén «nunca volvería a ser edificada». Lo dijo discutiendo con adventistas que querían ir allá antes de que volviera Cristo. Si hablaba de la ciudad, que después creció, es un problema. Si hablaba de la restauración religiosa que esos adventistas esperaban, **no se sabe**.
 
 ## 5. ¿Predijo el incendio de la Review and Herald?
 
-Es el caso más fuerte a su favor. En octubre de 1901 escribió una carta a los encargados de la casa editora de Battle Creek. Dijo que casi tenía miedo de abrir la *Review* y ver que Dios la había limpiado con fuego, y que, «a menos que haya una reforma, una calamidad alcanzará a la casa editora». Según la edición posterior, la carta se leyó a la junta directiva en noviembre de 1901. El edificio se incendió el 30 de diciembre de 1902.⁶
+Es el caso más fuerte a su favor. En octubre de 1901 escribió una carta a los encargados de la casa editora de Battle Creek. Dijo que casi tenía miedo de abrir la *Review* y ver que Dios la había limpiado con fuego, y que, «a menos que haya una reforma, una calamidad alcanzará a la casa editora». Según la edición posterior, la carta se leyó a la junta directiva en noviembre de 1901. El edificio se incendió el 30 de diciembre de 1902.
 
 Nombra una institución concreta, habla de fuego y es **probable** que se escribiera antes. Falta revisar la carta original y el acta que muestre que se recibió. Pero la advertencia tenía una condición («a menos que haya una reforma») y no tenía fecha. Además, en 1900 una imprenta corría un riesgo de incendio normal. **Resultado:** una coincidencia real y a su favor, que no necesita por fuerza una información venida de Dios.
 
@@ -491,19 +491,19 @@ El sanatorio de Battle Creek también se incendió, en febrero de ese mismo año
 
 ## 6. ¿Y San Francisco?
 
-Un escrito con fecha de 1902 avisa que vendrían castigos sobre San Francisco y Oakland. No habla de terremoto, de incendio ni de fecha. El terremoto de 1906 golpeó San Francisco. En 1908 ella misma escribió que Oakland se había salvado. Y en julio de 1906 negó haber predicho el terremoto. **Resultado:** una coincidencia vaga e incompleta.⁷
+Un escrito con fecha de 1902 avisa que vendrían castigos sobre San Francisco y Oakland. No habla de terremoto, de incendio ni de fecha. El terremoto de 1906 golpeó San Francisco. En 1908 ella misma escribió que Oakland se había salvado. Y en julio de 1906 negó haber predicho el terremoto. **Resultado:** una coincidencia vaga e incompleta.
 
 ## 7. ¿Predijo propiedades baratas para sanatorios?
 
-En octubre de 1902 escribió que en el sur de California se ofrecerían propiedades que servían para sanatorios «a mucho menos que su costo original». Paradise Valley había costado unos 25.000 dólares y se compró en 1904 por 4.000.⁸
+En octubre de 1902 escribió que en el sur de California se ofrecerían propiedades que servían para sanatorios «a mucho menos que su costo original». Paradise Valley había costado unos 25.000 dólares y se compró en 1904 por 4.000.
 
 Es algo concreto que se puede comprobar. Pero ella ya conocía la zona, la propiedad estaba en venta, una sequía hacía bajar los precios, y ella y su gente salieron a buscar las propiedades. Que se cumpliera dependió en parte de los que recibieron el mensaje. **Resultado:** a su favor, pero se puede explicar de manera normal.
 
 ## 8. ¿Hay predicciones sobre personas que se puedan comprobar?
 
-En 1862 le advirtió a Moses Hull que su interés por el espiritismo (la práctica de comunicarse con los muertos) lo alejaría de la fe. Hull dejó el adventismo. Pero ya se sabía que le atraía el tema; hasta los médiums lo sabían. Y una advertencia que busca que alguien cambie, y después se cumple, tampoco es una prueba limpia.⁹
+En 1862 le advirtió a Moses Hull que su interés por el espiritismo (la práctica de comunicarse con los muertos) lo alejaría de la fe. Hull dejó el adventismo. Pero ya se sabía que le atraía el tema; hasta los médiums lo sabían. Y una advertencia que busca que alguien cambie, y después se cumple, tampoco es una prueba limpia.
 
-Algo parecido pasa con un grupo que se separó. En 1855 escribió que los que hacían el periódico *The Messenger of Truth* harían menos daño fuera del movimiento y que no había que contestarles. En 1858 ese periódico ya había cerrado. Esa predicción general está escrita. El detalle de que se pelearían entre ellos «en menos de seis semanas» sólo aparece en un recuerdo escrito décadas después.¹⁵
+Algo parecido pasa con un grupo que se separó. En 1855 escribió que los que hacían el periódico *The Messenger of Truth* harían menos daño fuera del movimiento y que no había que contestarles. En 1858 ese periódico ya había cerrado. Esa predicción general está escrita. El detalle de que se pelearían entre ellos «en menos de seis semanas» sólo aparece en un recuerdo escrito décadas después.
 
 ## 9. ¿Puede ser verdadera una profecía que no se cumple?
 
@@ -511,25 +511,25 @@ Sí, si tenía una condición, como la de Jonás. Pero, como se vio en el capít
 
 ## 10. ¿Qué pasó con el anuncio de 1856?
 
-En una reunión en Battle Creek, el 27 de mayo de 1856, White dijo que había visto a los presentes. Un ángel le dijo: «Algunos, alimento para gusanos; algunos, sujetos de las siete últimas plagas; algunos estarán vivos y permanecerán sobre la tierra para ser trasladados en la venida de Jesús». Se publicó ese mismo año.¹⁰
+En una reunión en Battle Creek, el 27 de mayo de 1856, White dijo que había visto a los presentes. Un ángel le dijo: «Algunos, alimento para gusanos; algunos, sujetos de las siete últimas plagas; algunos estarán vivos y permanecerán sobre la tierra para ser trasladados en la venida de Jesús». Se publicó ese mismo año.
 
 El anuncio habla de los que estaban en esa reunión y del regreso de Jesús, y no pone ninguna condición. Hoy no queda ninguno vivo, y Jesús no volvió. **Está probado** que, tomado al pie de la letra, no se cumplió.
 
-Los defensores adventistas dicen que el anuncio tenía una condición. White habló de eso antes de que murieran todos los que estaban en la reunión. En 1868 explicó que Jesús se demoraba porque los creyentes no estaban preparados. En 1883 escribió que lo que Dios promete y lo que Dios advierte tiene condiciones, y que Cristo habría vuelto antes si su pueblo hubiera cumplido su tarea.¹¹ No es una excusa inventada al final.
+Los defensores adventistas dicen que el anuncio tenía una condición. White habló de eso antes de que murieran todos los que estaban en la reunión. En 1868 explicó que Jesús se demoraba porque los creyentes no estaban preparados. En 1883 escribió que lo que Dios promete y lo que Dios advierte tiene condiciones, y que Cristo habría vuelto antes si su pueblo hubiera cumplido su tarea. No es una excusa inventada al final.
 
 Y la Biblia tiene anuncios sin condición escrita que igual cambiaron. Isaías le dijo a Ezequías «vas a morir», Ezequías oró y Dios le dio quince años más (Segundo de Reyes 20; Isaías 38). Jeremías 18 dice que Dios también puede retirar algo bueno que prometió si el pueblo no responde. Por eso no alcanza con decir «no tenía condición escrita, así que falló».
 
 Pero hay una diferencia. En los casos de la Biblia, el mismo relato cuenta el cambio y su razón en ese momento: Ezequías ora y el profeta vuelve con otro mensaje. En 1856 no hay nada parecido. La explicación de White es general y llegó años después. No muestra que los que estaban en 1856 entendieran «algunos vivirán» como «algunos vivirán si la iglesia cumple». **El anuncio de 1856 es un problema serio para decir que ese mensaje vino de Dios, aunque no es una refutación cerrada.** El capítulo 16 examina si esta misma forma de razonar alcanza también a anuncios del Nuevo Testamento sobre que el fin estaba cerca.
 
-En 1888 volvió a escribir que algunos de los creyentes de ese momento vivirían para ver a Jesús volver. Esta vez no dijo que lo había visto en visión. Muestra que seguía esperándolo pronto. No es un segundo mensaje de Dios que falló.¹²
+En 1888 volvió a escribir que algunos de los creyentes de ese momento vivirían para ver a Jesús volver. Esta vez no dijo que lo había visto en visión. Muestra que seguía esperándolo pronto. No es un segundo mensaje de Dios que falló.
 
 ## 11. ¿Qué significa que dijera que Dios guió un cuadro con un error?
 
-En una visión de 1850, dijo haber visto que el cuadro profético de 1843 (un gráfico con fechas que usaban los seguidores de Miller) había sido «dirigido por la mano del Señor». Y que la mano de Dios «ocultó un error en algunas de las cifras» hasta que la retiró.¹³ No es una predicción suya que falló. Es otra cosa: dice que Dios escondió un error. La mejor defensa dice que Dios obró a pesar de que la gente entendía las cosas a medias. El problema es que el texto dice más que «Dios permitió un error».
+En una visión de 1850, dijo haber visto que el cuadro profético de 1843 (un gráfico con fechas que usaban los seguidores de Miller) había sido «dirigido por la mano del Señor». Y que la mano de Dios «ocultó un error en algunas de las cifras» hasta que la retiró. No es una predicción suya que falló. Es otra cosa: dice que Dios escondió un error. La mejor defensa dice que Dios obró a pesar de que la gente entendía las cosas a medias. El problema es que el texto dice más que «Dios permitió un error».
 
 ## 12. ¿Qué pasa con las predicciones que todavía no se cumplieron?
 
-En *El conflicto de los siglos* anunció una ley en Estados Unidos que obligaría a guardar el domingo, y una alianza entre protestantes, espiritistas y la Iglesia de Roma. No tienen fecha. No cuentan como aciertos ni como fallos. Pero tampoco pueden quedar abiertas para siempre sin preguntarse qué tendría que pasar para que ya no pudieran cumplirse.¹⁴
+En *El conflicto de los siglos* anunció una ley en Estados Unidos que obligaría a guardar el domingo, y una alianza entre protestantes, espiritistas y la Iglesia de Roma. No tienen fecha. No cuentan como aciertos ni como fallos. Pero tampoco pueden quedar abiertas para siempre sin preguntarse qué tendría que pasar para que ya no pudieran cumplirse.
 
 ## 13. ¿Qué queda claro?
 
@@ -545,41 +545,41 @@ Que White dijo algo concreto antes de que se supiera. Y que, después de revisar
 
 ## 2. ¿Dijo que Dios le mostraba pecados ocultos?
 
-Sí, en algunos casos.¹ Pero en 1889 también reconoció que a veces daba un consejo a partir de cartas o noticias, y que no tenía una visión nueva para cada caso.² Por eso, cuando dice «me fue mostrado», hay que mirar el contexto: ¿habla del dato concreto o de una idea general?
+Sí, en algunos casos. Pero en 1889 también reconoció que a veces daba un consejo a partir de cartas o noticias, y que no tenía una visión nueva para cada caso. Por eso, cuando dice «me fue mostrado», hay que mirar el contexto: ¿habla del dato concreto o de una idea general?
 
-Tenía muchas maneras de enterarse de las cosas. Los White viajaban y se quedaban en casas de los miembros. Les llegaban cartas a su casa. Su hijo William se ocupaba de parte de las cartas. Todo eso está documentado. Pero no prueba que hubiera un sistema armado para hacer pasar noticias por revelaciones.³
+Tenía muchas maneras de enterarse de las cosas. Los White viajaban y se quedaban en casas de los miembros. Les llegaban cartas a su casa. Su hijo William se ocupaba de parte de las cartas. Todo eso está documentado. Pero no prueba que hubiera un sistema armado para hacer pasar noticias por revelaciones.
 
 ## 3. ¿Qué pasó con Nathaniel Faulkhead?
 
-Faulkhead era el tesorero de la casa editora adventista de Melbourne, en Australia, y un dirigente importante de la masonería. El 13 de diciembre de 1892, White le leyó un mensaje sobre su relación con las logias masónicas. Dijo que lo había escrito meses antes. Él aceptó el reto y reconoció que era miembro de cinco logias.⁴
+Faulkhead era el tesorero de la casa editora adventista de Melbourne, en Australia, y un dirigente importante de la masonería. El 13 de diciembre de 1892, White le leyó un mensaje sobre su relación con las logias masónicas. Dijo que lo había escrito meses antes. Él aceptó el reto y reconoció que era miembro de cinco logias.
 
-Que fuera masón no era un secreto: sus compañeros lo sabían. Lo llamativo es otra cosa. Según una carta de White escrita poco después, mientras hablaba hizo un gesto, y Faulkhead les dijo a otros que era una seña secreta de un grado de los masones. En 1908, él mismo recordó que la interrumpió para preguntarle si sabía qué seña había hecho, y que ella pareció sorprendida.⁵
+Que fuera masón no era un secreto: sus compañeros lo sabían. Lo llamativo es otra cosa. Según una carta de White escrita poco después, mientras hablaba hizo un gesto, y Faulkhead les dijo a otros que era una seña secreta de un grado de los masones. En 1908, él mismo recordó que la interrumpió para preguntarle si sabía qué seña había hecho, y que ella pareció sorprendida.
 
-Es **probable** que Faulkhead reconociera un gesto de su grupo. No hay pruebas de que alguien se lo hubiera enseñado a ella. Pero tampoco se sabe exactamente cómo era el gesto, ni qué tan secreto era, y no se puede descartar una casualidad. Además, según registros masónicos, volvió a entrar a la masonería en 1896 y seguía siendo miembro cuando murió. Eso no dice nada sobre si fue sincero en 1892.⁶
+Es **probable** que Faulkhead reconociera un gesto de su grupo. No hay pruebas de que alguien se lo hubiera enseñado a ella. Pero tampoco se sabe exactamente cómo era el gesto, ni qué tan secreto era, y no se puede descartar una casualidad. Además, según registros masónicos, volvió a entrar a la masonería en 1896 y seguía siendo miembro cuando murió. Eso no dice nada sobre si fue sincero en 1892.
 
 ## 4. ¿Describió una reunión privada de la noche anterior?
 
-El 7 de marzo de 1891, en Battle Creek, un grupo de dirigentes discutió hasta tarde qué línea debía seguir el periódico *The American Sentinel*. White no estuvo. A la mañana siguiente, delante de los pastores, describió una discusión. Varios de los que habían estado la reconocieron como esa reunión. White dijo que la había visto en una visión de noviembre de 1890, en Salamanca, Nueva York.⁷
+El 7 de marzo de 1891, en Battle Creek, un grupo de dirigentes discutió hasta tarde qué línea debía seguir el periódico *The American Sentinel*. White no estuvo. A la mañana siguiente, delante de los pastores, describió una discusión. Varios de los que habían estado la reconocieron como esa reunión. White dijo que la había visto en una visión de noviembre de 1890, en Salamanca, Nueva York.
 
-Lo que pasó la mañana del 8 de marzo está **probado**. Lo que falta es probar que los detalles estaban escritos antes de la reunión. El propio White Estate, que cuida sus escritos, reconoce que lo principal de su diario de 1890 parece haberse escrito en 1891. Y no se sabe cuánto estaba escrito antes de la reunión.⁸
+Lo que pasó la mañana del 8 de marzo está **probado**. Lo que falta es probar que los detalles estaban escritos antes de la reunión. El propio White Estate, que cuida sus escritos, reconoce que lo principal de su diario de 1890 parece haberse escrito en 1891. Y no se sabe cuánto estaba escrito antes de la reunión.
 
-Además, hubo una oportunidad concreta de que se enterara. Su hijo William estuvo en la reunión de esa noche y pasó por la habitación de su madre antes de acompañarla. No hay constancia de que le contara nada, y otros testigos dicen que ella ya estaba escribiendo antes de que él llegara.⁹ Un testigo recordó que el día anterior ella intentó tres veces contar la escena y no pudo. Eso apoya la versión tradicional, pero es sólo un recuerdo.
+Además, hubo una oportunidad concreta de que se enterara. Su hijo William estuvo en la reunión de esa noche y pasó por la habitación de su madre antes de acompañarla. No hay constancia de que le contara nada, y otros testigos dicen que ella ya estaba escribiendo antes de que él llegara. Un testigo recordó que el día anterior ella intentó tres veces contar la escena y no pudo. Eso apoya la versión tradicional, pero es sólo un recuerdo.
 
 **Resultado:** está probado que la describió temprano. Si la sabía de antes, y si alguien pudo contársela, no se sabe.
 
 ## 5. ¿Reconoció a un desconocido y su pecado oculto?
 
-Loughborough contó que en Rochester, en 1852, White habló de un hombre que no estaba presente y que no cumplía uno de los mandamientos. Seis semanas después lo reconoció y él confesó. La historia aparece en 1884, y él mismo la amplía en 1892 y en 1909: agrega cuál era el mandamiento, el lugar y que coincidía el día. Todas las versiones vienen del mismo testigo. **Resultado:** posible.¹⁰
+Loughborough contó que en Rochester, en 1852, White habló de un hombre que no estaba presente y que no cumplía uno de los mandamientos. Seis semanas después lo reconoció y él confesó. La historia aparece en 1884, y él mismo la amplía en 1892 y en 1909: agrega cuál era el mandamiento, el lugar y que coincidía el día. Todas las versiones vienen del mismo testigo. **Resultado:** posible.
 
 ## 6. ¿Qué prueban las historias de cartas cerradas?
 
-En el caso más contado, el que no abrió la carta no fue ella, sino el que la recibió, Stephen Smith. La leyó veintiocho años después y le pareció acertada. No se encontró ningún caso en que ella recibiera una carta cerrada y se conserven el sobre, su respuesta y la confirmación de alguien de afuera.¹¹
+En el caso más contado, el que no abrió la carta no fue ella, sino el que la recibió, Stephen Smith. La leyó veintiocho años después y le pareció acertada. No se encontró ningún caso en que ella recibiera una carta cerrada y se conserven el sobre, su respuesta y la confirmación de alguien de afuera.
 
 ## 7. ¿Retó alguna vez a la persona equivocada?
 
-Sí. En 1883, E. P. Daniels publicó que White lo había retado por algo que había hecho otro pastor, porque alguien le había pasado una noticia equivocada. Según Daniels, ella misma le dijo de dónde había sacado la información y no dijo que lo hubiera visto en visión.¹²
+Sí. En 1883, E. P. Daniels publicó que White lo había retado por algo que había hecho otro pastor, porque alguien le había pasado una noticia equivocada. Según Daniels, ella misma le dijo de dónde había sacado la información y no dijo que lo hubiera visto en visión.
 
-Está **probado** que se equivocó como consejera. No está probado que tuviera una visión equivocada. Algo parecido pasa con Nathan Fuller, un pastor cuya grave conducta sexual se descubrió en 1869 sin que White la hubiera denunciado antes. Lo que ella escribió sobre el caso es de después.¹³
+Está **probado** que se equivocó como consejera. No está probado que tuviera una visión equivocada. Algo parecido pasa con Nathan Fuller, un pastor cuya grave conducta sexual se descubrió en 1869 sin que White la hubiera denunciado antes. Lo que ella escribió sobre el caso es de después.
 
 ## 8. ¿Había un grupo que le pasaba datos para que parecieran revelaciones?
 
@@ -599,41 +599,41 @@ No alcanza con que hablen del mismo tema o del mismo versículo. Queda claro cua
 
 ## 2. ¿Hay un caso claro?
 
-Sí. En *Sketches from the Life of Paul* (1883), el capítulo sobre Éfeso sigue en varias partes a *The Life and Epistles of St. Paul*, de W. J. Conybeare y J. S. Howson. Coinciden varias cosas, en el mismo orden: lo que se explica sobre Apolos y los discípulos de Juan, cómo se presenta la ciudad por el culto a la diosa Diana y la magia, y cómo se describen el templo y los signos mágicos. Hechos 19 no trae por sí solo todo eso. En febrero de 1883, antes de publicar su libro, White recomendó en público el de ellos.¹
+Sí. En *Sketches from the Life of Paul* (1883), el capítulo sobre Éfeso sigue en varias partes a *The Life and Epistles of St. Paul*, de W. J. Conybeare y J. S. Howson. Coinciden varias cosas, en el mismo orden: lo que se explica sobre Apolos y los discípulos de Juan, cómo se presenta la ciudad por el culto a la diosa Diana y la magia, y cómo se describen el templo y los signos mágicos. Hechos 19 no trae por sí solo todo eso. En febrero de 1883, antes de publicar su libro, White recomendó en público el de ellos.
 
 Pero el libro también tiene varias páginas propias sobre el Espíritu y la vida cristiana. Este caso no permite decir qué porcentaje de todo el libro sale de otro.
 
-Se cuenta que el libro se dejó de imprimir porque amenazaron con hacer juicio. Eso no está probado. En 1924, la editorial que publicaba a Conybeare y Howson en Estados Unidos respondió que no creía haber reclamado nada.²
+Se cuenta que el libro se dejó de imprimir porque amenazaron con hacer juicio. Eso no está probado. En 1924, la editorial que publicaba a Conybeare y Howson en Estados Unidos respondió que no creía haber reclamado nada.
 
 ## 3. ¿Hay pruebas de que ella misma trabajó con el libro de otro?
 
-Sí. Donald McAdams comparó tres textos: un borrador escrito a mano por White sobre Jan Hus, el libro *The History of Protestantism*, de Wylie, y el capítulo impreso de *El conflicto de los siglos* (*The Great Controversy*) de 1888. En la parte que estudió, el borrador de ella sigue en gran parte a Wylie: los mismos hechos elegidos, el mismo orden y el mismo lenguaje, más resumido. Herbert E. Douglass, el principal defensor adventista, lo reconoce.³
+Sí. Donald McAdams comparó tres textos: un borrador escrito a mano por White sobre Jan Hus, el libro *The History of Protestantism*, de Wylie, y el capítulo impreso de *El conflicto de los siglos* (*The Great Controversy*) de 1888. En la parte que estudió, el borrador de ella sigue en gran parte a Wylie: los mismos hechos elegidos, el mismo orden y el mismo lenguaje, más resumido. Herbert E. Douglass, el principal defensor adventista, lo reconoce.
 
 Por eso no se puede echarle toda la culpa a una secretaria. Tampoco prueba que Wylie fuera su única fuente ni que cada frase del libro sea de ella.
 
 ## 4. ¿Qué pasó con el libro sobre Jesús?
 
-La propia Iglesia Adventista le encargó un estudio a Fred Veltman. Él eligió al azar 15 de los 87 capítulos de *El Deseado de todas las gentes* y los comparó con vidas de Cristo escritas antes. Dividió el texto en unidades. Encontró que **823 de 2.624 unidades, el 31,4 %,** dependían en algún grado de otros libros. En otras 1.612 unidades (61,4 %) no se encontró parecido con los libros revisados. Eso no prueba que sean de ella: sólo que no apareció una fuente. Las 189 restantes (7,2 %) eran citas de la Biblia.⁴
+La propia Iglesia Adventista le encargó un estudio a Fred Veltman. Él eligió al azar 15 de los 87 capítulos de *El Deseado de todas las gentes* y los comparó con vidas de Cristo escritas antes. Dividió el texto en unidades. Encontró que **823 de 2.624 unidades, el 31,4 %,** dependían en algún grado de otros libros. En otras 1.612 unidades (61,4 %) no se encontró parecido con los libros revisados. Eso no prueba que sean de ella: sólo que no apareció una fuente. Las 189 restantes (7,2 %) eran citas de la Biblia.
 
 Ese número tiene límites claros. No es el porcentaje de palabras copiadas: incluye influencias débiles y frases dichas con otras palabras. No vale para todos sus libros. Y Veltman avisó que se queda corto, porque sólo buscó en vidas de Cristo de esa época. Tampoco sirven como medición los números muy altos que dan algunos críticos ni los muy bajos que dan algunos defensores.
 
 ## 5. ¿Cuándo empezó y cómo cambió?
 
-Los parecidos tempranos con Foy, vistos en el capítulo 4, no alcanzan para decir cuándo empezó a usar textos de otros de manera comprobable. En 1867 White dijo que no había leído libros de salud antes de sus primeros escritos sobre el tema, y que después sí los leyó y publicó partes de ellos en *How to Live*. Donde más usa libros de otros es en los libros de historia bíblica y de la Reforma, escritos entre las décadas de 1870 y 1890.⁵
+Los parecidos tempranos con Foy, vistos en el capítulo 4, no alcanzan para decir cuándo empezó a usar textos de otros de manera comprobable. En 1867 White dijo que no había leído libros de salud antes de sus primeros escritos sobre el tema, y que después sí los leyó y publicó partes de ellos en *How to Live*. Donde más usa libros de otros es en los libros de historia bíblica y de la Reforma, escritos entre las décadas de 1870 y 1890.
 
 ## 6. ¿Lo reconoció en público?
 
-En parte. En la introducción de *El conflicto de los siglos*, de 1888, escribió que había citado palabras de historiadores cuando resumían bien un tema, y que a veces no dijo de quién eran. Es un reconocimiento real, y anterior a las discusiones del siglo XX. Pero habla sólo de ese libro, no dice cada fuente y no menciona, por ejemplo, lo que tomó para *El Deseado de todas las gentes*.⁶
+En parte. En la introducción de *El conflicto de los siglos*, de 1888, escribió que había citado palabras de historiadores cuando resumían bien un tema, y que a veces no dijo de quién eran. Es un reconocimiento real, y anterior a las discusiones del siglo XX. Pero habla sólo de ese libro, no dice cada fuente y no menciona, por ejemplo, lo que tomó para *El Deseado de todas las gentes*.
 
-En 1911, para la nueva edición, se agregaron más de 400 referencias a 88 autores y se cambiaron algunas citas, con su aprobación.⁷
+En 1911, para la nueva edición, se agregaron más de 400 referencias a 88 autores y se cambiaron algunas citas, con su aprobación.
 
 ## 7. ¿Cuánto hicieron sus ayudantes?
 
-Bastante. Marian Davis eligió y ordenó material para *El Deseado de todas las gentes*. Otras ayudantes buscaron referencias y corrigieron. Pero, como muestra el borrador sobre Hus, ellas no explican todo lo que se tomó de otros libros. El capítulo 11 revisa quién hizo qué.⁸
+Bastante. Marian Davis eligió y ordenó material para *El Deseado de todas las gentes*. Otras ayudantes buscaron referencias y corrigieron. Pero, como muestra el borrador sobre Hus, ellas no explican todo lo que se tomó de otros libros. El capítulo 11 revisa quién hizo qué.
 
 ## 8. ¿Era normal escribir así en el siglo XIX?
 
-Las reglas para citar eran menos estrictas que hoy. Pero en 1864 el mismo periódico adventista se quejó porque otra publicación había sacado un himno de Annie R. Smith con el nombre de otra persona. O sea que en su ambiente sí importaba decir de quién era cada texto. A mí me parece que llamarlo «plagio» o no llamarlo así no resuelve nada. Lo que importa acá es otra cosa: qué dijo White sobre de dónde salía lo que escribía.⁹
+Las reglas para citar eran menos estrictas que hoy. Pero en 1864 el mismo periódico adventista se quejó porque otra publicación había sacado un himno de Annie R. Smith con el nombre de otra persona. O sea que en su ambiente sí importaba decir de quién era cada texto. A mí me parece que llamarlo «plagio» o no llamarlo así no resuelve nada. Lo que importa acá es otra cosa: qué dijo White sobre de dónde salía lo que escribía.
 
 # Capítulo 10 — ¿Qué significa para su inspiración que usara libros de otros?
 
@@ -645,21 +645,21 @@ Tres cosas juntas. Que un texto salga de un libro humano. Que White diga de dón
 
 ## 2. ¿Puede un escrito inspirado usar libros de otros?
 
-Sí, si se parte de la fe cristiana, como hace este libro. Lucas dice que investigó. Reyes y Crónicas mandan a leer registros anteriores. Mateo, Marcos y Lucas comparten relatos y frases. Judas cita una tradición que aparece en un libro antiguo llamado Primero de Enoc.¹ Pero en ninguno de esos casos se presenta como voz o visión algo que se supo de otra manera.
+Sí, si se parte de la fe cristiana, como hace este libro. Lucas dice que investigó. Reyes y Crónicas mandan a leer registros anteriores. Mateo, Marcos y Lucas comparten relatos y frases. Judas cita una tradición que aparece en un libro antiguo llamado Primero de Enoc. Pero en ninguno de esos casos se presenta como voz o visión algo que se supo de otra manera.
 
 ## 3. ¿Cómo describía White su propio trabajo?
 
-Con tres partes: mensajes que recibía de Dios, palabras humanas para contarlos y autoridad religiosa. En 1867 dijo que las palabras eran suyas, **menos las de un ángel**, que ponía entre comillas. En 1860 explicó que, al salir de una visión, no se acordaba de todo, y que las escenas le volvían mientras escribía. En 1885 pidió libros de historia bíblica que le dieran «el orden de los acontecimientos». En 1888 reconoció que había usado palabras de historiadores.²
+Con tres partes: mensajes que recibía de Dios, palabras humanas para contarlos y autoridad religiosa. En 1867 dijo que las palabras eran suyas, **menos las de un ángel**, que ponía entre comillas. En 1860 explicó que, al salir de una visión, no se acordaba de todo, y que las escenas le volvían mientras escribía. En 1885 pidió libros de historia bíblica que le dieran «el orden de los acontecimientos». En 1888 reconoció que había usado palabras de historiadores.
 
 Si se mira así, lo que tomó para sus libros de historia, visto en el capítulo 9, **no es una contradicción**. Encaja con lo que ella misma reconoció.
 
 ## 4. ¿Qué pasa cuando un consejo que dice venir de Dios usa un texto anterior?
 
-En un mensaje de 1882, el mismo en que defendía que sus mensajes venían de Dios, hay un consejo muy parecido a un pasaje de *Night Scenes in the Bible*, de Daniel March: la duda que pide saberlo todo nunca le deja lugar a la fe. Está probado que lo tomó de ahí. Pero ella no dijo que cada frase fueran palabras oídas en una visión. Dijo que el mensaje se lo había mostrado el Señor. Encaja con un mensaje escrito usando palabras de otro.³
+En un mensaje de 1882, el mismo en que defendía que sus mensajes venían de Dios, hay un consejo muy parecido a un pasaje de *Night Scenes in the Bible*, de Daniel March: la duda que pide saberlo todo nunca le deja lugar a la fe. Está probado que lo tomó de ahí. Pero ella no dijo que cada frase fueran palabras oídas en una visión. Dijo que el mensaje se lo había mostrado el Señor. Encaja con un mensaje escrito usando palabras de otro.
 
 ## 5. ¿Qué muestra la escena del juicio de 1879?
 
-Un problema más grande. White dijo que la madrugada del 23 de octubre de 1879 vio escenas del juicio final, y lo publicó en 1880. En esas escenas, el juez habla en primera persona. Habla del amor de Cristo, de que murió para borrar la lista de pecados, de la oscuridad de la tumba y de la vergüenza que aceptó para recuperar a la oveja perdida.⁴
+Un problema más grande. White dijo que la madrugada del 23 de octubre de 1879 vio escenas del juicio final, y lo publicó en 1880. En esas escenas, el juez habla en primera persona. Habla del amor de Cristo, de que murió para borrar la lista de pecados, de la oscuridad de la tumba y de la vergüenza que aceptó para recuperar a la oveja perdida.
 
 Esa misma serie de ideas está en *Walks and Homes of Jesus*, de March, de 1866. Ahí es la cruz la que «parece decirnos» esas palabras. White las adapta y les agrega. March escribió un llamado imaginado. White lo pone en boca de un personaje dentro de una visión.
 
@@ -667,25 +667,25 @@ Está **probado** que el texto sale de March. Hay tres posibilidades. Pudo usar 
 
 ## 6. ¿Es más claro el caso del diario de 1890?
 
-Sí. En lo que escribió el 21 de noviembre de 1890 cuenta que se durmió después de orar y que Dios le enseñó. Su guía le ordena: «habla las palabras que te doy». Dentro de ese discurso hay una explicación: Dios nunca lleva a sus hijos por otro camino que el que ellos elegirían si pudieran ver como él ve. Esa explicación sale del comentario de F. W. Krummacher en *Elijah the Tishbite* (edición en inglés de 1847).⁵
+Sí. En lo que escribió el 21 de noviembre de 1890 cuenta que se durmió después de orar y que Dios le enseñó. Su guía le ordena: «habla las palabras que te doy». Dentro de ese discurso hay una explicación: Dios nunca lleva a sus hijos por otro camino que el que ellos elegirían si pudieran ver como él ve. Esa explicación sale del comentario de F. W. Krummacher en *Elijah the Tishbite* (edición en inglés de 1847).
 
 Acá no sirve decir «ella sólo decía que el mensaje general venía de Dios»: el texto habla de las palabras que tenía que decir. Está **probado** que esa parte sale del texto de Krummacher. No se sabe si ella leyó ese libro o lo tomó de otro que lo citaba, porque no hay constancia de cuándo ni dónde lo leyó. Y **no se sabe** si la agregó al escribir, si la tenía incorporada de antes o si pensó, equivocada, que venía de Dios. Es la objeción más seria de este capítulo.
 
 ## 7. ¿Qué cambia en el caso de Queensland?
 
-En unas notas de viaje de 1898, publicadas en 1899, White cuenta un discurso del «Gran Maestro» a unos pastores. Parte del texto sigue una introducción que Heman Humphrey escribió en 1836. El White Estate explicó que en ediciones posteriores se agregaron unas comillas que hacían parecer que el discurso seguía más de lo que seguía. El texto impreso en 1899 confirma que esas comillas no estaban. Pero lo tomado de Humphrey también aparece en los primeros párrafos. Mover unas comillas no lo resuelve todo.⁶
+En unas notas de viaje de 1898, publicadas en 1899, White cuenta un discurso del «Gran Maestro» a unos pastores. Parte del texto sigue una introducción que Heman Humphrey escribió en 1836. El White Estate explicó que en ediciones posteriores se agregaron unas comillas que hacían parecer que el discurso seguía más de lo que seguía. El texto impreso en 1899 confirma que esas comillas no estaban. Pero lo tomado de Humphrey también aparece en los primeros párrafos. Mover unas comillas no lo resuelve todo.
 
 ## 8. ¿Reconoció alguna vez que leyó algo antes de un sueño?
 
-Sí, y eso pone un límite a la crítica. En 1903 contó que leyó la historia de un barco frente a un iceberg y que después, de noche, vio una escena parecida con una enseñanza religiosa. No escondió lo que había leído. Y en 1904 escribió que intentaría repetir «en palabras finitas» lo que había dicho un mensajero, aunque lo puso entre comillas. O sea que sus comillas no siempre querían decir que eran las palabras exactas.⁷ Estos datos ayudan a pensar bien de ella en general. Pero no muestran cómo se escribieron los textos de 1879 y 1890.
+Sí, y eso pone un límite a la crítica. En 1903 contó que leyó la historia de un barco frente a un iceberg y que después, de noche, vio una escena parecida con una enseñanza religiosa. No escondió lo que había leído. Y en 1904 escribió que intentaría repetir «en palabras finitas» lo que había dicho un mensajero, aunque lo puso entre comillas. O sea que sus comillas no siempre querían decir que eran las palabras exactas. Estos datos ayudan a pensar bien de ella en general. Pero no muestran cómo se escribieron los textos de 1879 y 1890.
 
 ## 9. ¿Qué pasa con que dijera que no había leído libros de salud?
 
-En 1867 dijo que no había leído libros de salud antes de sus primeros escritos sobre el tema, para que nadie dijera que lo había sacado de los médicos. En uno de esos textos, de 1864, describe el tabaco con una frase muy parecida a la de un libro de John C. Gunn. Pero esa misma frase había salido en la propia *Review* en mayo de 1864. Hay una frase anterior parecida, pero no hay pruebas de que leyera a Gunn.⁸ Lo que dijo se puede comprobar, y nadie mostró que fuera falso.
+En 1867 dijo que no había leído libros de salud antes de sus primeros escritos sobre el tema, para que nadie dijera que lo había sacado de los médicos. En uno de esos textos, de 1864, describe el tabaco con una frase muy parecida a la de un libro de John C. Gunn. Pero esa misma frase había salido en la propia *Review* en mayo de 1864. Hay una frase anterior parecida, pero no hay pruebas de que leyera a Gunn. Lo que dijo se puede comprobar, y nadie mostró que fuera falso.
 
 ## 10. ¿Qué negó en 1897?
 
-En abril de 1897 negó haber sacado **todo** de otros libros. En junio rechazó la acusación de que juntaba cosas de libros y las mandaba como si se las hubiera mostrado el Señor. Si con eso quería decir que nunca hizo nada así, el diario de 1890 sería un ejemplo en contra importante. Si quería decir que sus mensajes no estaban fabricados con lecturas, no. La carta no permite saber cuál de las dos.⁹
+En abril de 1897 negó haber sacado **todo** de otros libros. En junio rechazó la acusación de que juntaba cosas de libros y las mandaba como si se las hubiera mostrado el Señor. Si con eso quería decir que nunca hizo nada así, el diario de 1890 sería un ejemplo en contra importante. Si quería decir que sus mensajes no estaban fabricados con lecturas, no. La carta no permite saber cuál de las dos.
 
 ## 11. ¿Qué se puede concluir?
 
@@ -701,33 +701,33 @@ Gran parte del material es de ella. Pero la forma, el orden y algunos datos de s
 
 ## 1. ¿Qué podían hacer sus ayudantes?
 
-Más que corregir la ortografía. En 1900 su hijo, W. C. White, explicó la regla. Los que pasaban en limpio los textos corregían la gramática y las repeticiones. Las ayudantes con experiencia, como Marian Davis y Fannie Bolton, podían pasar oraciones, párrafos o partes enteras de un escrito de ella a otro, sin agregar ideas propias. Según él, su madre revisaba las copias.¹ Pero mover una parte de lugar puede cambiar lo que entiende el lector. Por eso hay que mirar casos concretos.
+Más que corregir la ortografía. En 1900 su hijo, W. C. White, explicó la regla. Los que pasaban en limpio los textos corregían la gramática y las repeticiones. Las ayudantes con experiencia, como Marian Davis y Fannie Bolton, podían pasar oraciones, párrafos o partes enteras de un escrito de ella a otro, sin agregar ideas propias. Según él, su madre revisaba las copias. Pero mover una parte de lugar puede cambiar lo que entiende el lector. Por eso hay que mirar casos concretos.
 
 ## 2. ¿Cuánto de *El Deseado de todas las gentes* hizo Marian Davis?
 
-Gran parte del armado. En 1893 Davis contó que trabajaba con treinta cuadernos de recortes, unos cincuenta manuscritos y miles de páginas. Elegía y ordenaba textos anteriores. Cuando veía que faltaba algo, le pedía a White textos nuevos. Acortaba párrafos y cambiaba cómo empezaban. White seguía escribiendo, no aceptaba todos los pedidos y llamaba a Davis su *bookmaker*, «la que arma mis libros». En 1895 Davis le aseguró que no saldría nada sin su aprobación.²
+Gran parte del armado. En 1893 Davis contó que trabajaba con treinta cuadernos de recortes, unos cincuenta manuscritos y miles de páginas. Elegía y ordenaba textos anteriores. Cuando veía que faltaba algo, le pedía a White textos nuevos. Acortaba párrafos y cambiaba cómo empezaban. White seguía escribiendo, no aceptaba todos los pedidos y llamaba a Davis su *bookmaker*, «la que arma mis libros». En 1895 Davis le aseguró que no saldría nada sin su aprobación.
 
-Un caso muestra cuánto pesaban esas decisiones. En 1895 se pensó en sacar un pasaje de White sobre una primera corona de espinas, para que no pareciera que chocaba con el relato de la Biblia. No se sabe quién lo decidió.³
+Un caso muestra cuánto pesaban esas decisiones. En 1895 se pensó en sacar un pasaje de White sobre una primera corona de espinas, para que no pareciera que chocaba con el relato de la Biblia. No se sabe quién lo decidió.
 
 **Probado:** Davis tomó decisiones importantes sobre qué entraba y en qué orden, y White escribió textos nuevos mientras tanto. **Probable:** White aprobó el libro en general. **No se sabe:** quién decidió cada frase.
 
 ## 3. ¿Qué pasa con lo que dijo Fannie Bolton?
 
-Bolton trabajó con White entre 1887 y 1897, con cortes, peleas y momentos en que se desdijo. En 1901 escribió que algunos textos de White necesitaban pocos arreglos y otros muchos, y que cuando antes se había desdicho no estaba convencida.⁴ Lo que dice muestra que las ayudantes arreglaban bastante los textos, no que inventaran libros.
+Bolton trabajó con White entre 1887 y 1897, con cortes, peleas y momentos en que se desdijo. En 1901 escribió que algunos textos de White necesitaban pocos arreglos y otros muchos, y que cuando antes se había desdicho no estaba convencida. Lo que dice muestra que las ayudantes arreglaban bastante los textos, no que inventaran libros.
 
-La idea de que Bolton escribió entero *El camino a Cristo* llega por gente que lo contó mucho después. Y el libro tiene textos de White escritos antes de que llegara Bolton. No se encontró una serie de documentos que pruebe que una ayudante escribió algo importante que se publicó como de White sin que ella lo controlara.⁵
+La idea de que Bolton escribió entero *El camino a Cristo* llega por gente que lo contó mucho después. Y el libro tiene textos de White escritos antes de que llegara Bolton. No se encontró una serie de documentos que pruebe que una ayudante escribió algo importante que se publicó como de White sin que ella lo controlara.
 
 ## 4. ¿Cómo cambió *El conflicto de los siglos*?
 
-Pasó por varias versiones: un relato corto de 1858, un tomo de 1884, una versión más larga de 1888 y la revisión de 1911. Para la de 1911, W. W. Prescott marcó errores. Varios ayudantes revisaron las citas. Se agregaron más de cuatrocientas referencias, se cambiaron citas y se cambiaron palabras. No todo fue estilo. En el relato de la Revolución Francesa, «prohibió la Palabra de Dios» pasó a ser «abolió el culto a la Deidad».⁶
+Pasó por varias versiones: un relato corto de 1858, un tomo de 1884, una versión más larga de 1888 y la revisión de 1911. Para la de 1911, W. W. Prescott marcó errores. Varios ayudantes revisaron las citas. Se agregaron más de cuatrocientas referencias, se cambiaron citas y se cambiaron palabras. No todo fue estilo. En el relato de la Revolución Francesa, «prohibió la Palabra de Dios» pasó a ser «abolió el culto a la Deidad».
 
-En julio de 1911, White escribió que había revisado y aprobado los cambios con cuidado. Eso muestra que los supervisó, no que los leyó línea por línea.⁷
+En julio de 1911, White escribió que había revisado y aprobado los cambios con cuidado. Eso muestra que los supervisó, no que los leyó línea por línea.
 
 ## 5. ¿Y los últimos libros y los libros de extractos?
 
-Hasta enero de 1915 seguía leyendo *Profetas y reyes* y sugiriendo qué poner. En febrero se quebró un hueso y ya no pudo seguir. Murió en julio. Los dos últimos capítulos se terminaron con escritos que tenía guardados, y el libro salió en 1917.⁸
+Hasta enero de 1915 seguía leyendo *Profetas y reyes* y sugiriendo qué poner. En febrero se quebró un hueso y ya no pudo seguir. Murió en julio. Los dos últimos capítulos se terminaron con escritos que tenía guardados, y el libro salió en 1917.
 
-Después de su muerte, los encargados de sus escritos publicaron libros armados con partes de escritos anteriores. Libros como *Evangelismo* (1946) los armó una comisión. Los textos son de White. Pero qué se eligió y en qué orden, no.⁹
+Después de su muerte, los encargados de sus escritos publicaron libros armados con partes de escritos anteriores. Libros como *Evangelismo* (1946) los armó una comisión. Los textos son de White. Pero qué se eligió y en qué orden, no.
 
 ## 6. ¿Qué se puede decir que es de ella?
 
@@ -741,45 +741,45 @@ Sí. Hay errores de historia que se corrigieron en 1911, una explicación de los
 
 Una afirmación concreta, saber qué quería decir y pruebas de afuera para compararla. Decir que «el sol salió» no es defender una idea sobre los astros. Decir que «esta costumbre provoca estas enfermedades» sí es una afirmación médica, aunque esté escrita para madres. Y en cada caso se separan tres preguntas: **¿era correcto? ¿se podía saber de manera normal? ¿de dónde dijo ella que venía?**
 
-Ella misma dijo que no era infalible y reconoció datos humanos equivocados, como el número de habitaciones de un sanatorio. Pero eso no hace que dé igual un error en algo que ella dijo que Dios le había mostrado.¹
+Ella misma dijo que no era infalible y reconoció datos humanos equivocados, como el número de habitaciones de un sanatorio. Pero eso no hace que dé igual un error en algo que ella dijo que Dios le había mostrado.
 
 ## 2. ¿Se equivocó en historia?
 
-Sí. En 1888, *El conflicto de los siglos* decía que los valdenses (un grupo cristiano de los Alpes) fueron «los primeros de todos los pueblos de Europa» en tener la Biblia traducida a su idioma. Es falso: la traducción gótica de Wulfila es del siglo IV. En 1911, después de que W. W. Prescott lo marcara, el texto pasó a decir «entre los primeros».² No se encontró ningún texto en que White dijera que ese dato se lo había mostrado Dios.
+Sí. En 1888, *El conflicto de los siglos* decía que los valdenses (un grupo cristiano de los Alpes) fueron «los primeros de todos los pueblos de Europa» en tener la Biblia traducida a su idioma. Es falso: la traducción gótica de Wulfila es del siglo IV. En 1911, después de que W. W. Prescott lo marcara, el texto pasó a decir «entre los primeros». No se encontró ningún texto en que White dijera que ese dato se lo había mostrado Dios.
 
-En otras revisiones también se corrigió el contenido, no sólo el estilo. Sobre el papa, «se titula» de cierta manera pasó a «ha sido titulado». Y «todo fue destruido» pasó a «buscó destruir todo».³
+En otras revisiones también se corrigió el contenido, no sólo el estilo. Sobre el papa, «se titula» de cierta manera pasó a «ha sido titulado». Y «todo fue destruido» pasó a «buscó destruir todo».
 
-El relato de la Revolución Francesa es más difícil. En 1888 hablaba de una ley nacional que prohibió la Biblia en 1793 y que se anuló tres años y medio después. La persecución religiosa fue real. Pero el 6 de diciembre de 1793, el gobierno revolucionario aprobó una ley que protegía en los papeles la libertad de culto. La revisión de 1911 cambió las palabras, pero no arregló el problema. El error probablemente viene del historiador William Russell, que White usó. Es un error de historia real. Que sea el error de una revelación concreta es menos seguro.⁴
+El relato de la Revolución Francesa es más difícil. En 1888 hablaba de una ley nacional que prohibió la Biblia en 1793 y que se anuló tres años y medio después. La persecución religiosa fue real. Pero el 6 de diciembre de 1793, el gobierno revolucionario aprobó una ley que protegía en los papeles la libertad de culto. La revisión de 1911 cambió las palabras, pero no arregló el problema. El error probablemente viene del historiador William Russell, que White usó. Es un error de historia real. Que sea el error de una revelación concreta es menos seguro.
 
 ## 3. ¿Y en ciencia?
 
-En 1864 explicó que bosques enterrados formaron carbón y petróleo. Que eso arde bajo tierra, quema piedra caliza y derrite hierro. Y que, al mezclarse con agua, provoca terremotos y volcanes. Es cierto que el carbón viene de plantas, y existen incendios de carbón bajo tierra. Pero la explicación de los volcanes está mal: los volcanes son roca derretida (magma) que sube del interior de la Tierra. Ella lo cuenta como algo que vio («vi»), aunque no se puede saber qué parte de la explicación decía haber visto.⁵
+En 1864 explicó que bosques enterrados formaron carbón y petróleo. Que eso arde bajo tierra, quema piedra caliza y derrite hierro. Y que, al mezclarse con agua, provoca terremotos y volcanes. Es cierto que el carbón viene de plantas, y existen incendios de carbón bajo tierra. Pero la explicación de los volcanes está mal: los volcanes son roca derretida (magma) que sube del interior de la Tierra. Ella lo cuenta como algo que vio («vi»), aunque no se puede saber qué parte de la explicación decía haber visto.
 
 ## 4. ¿Por qué no se analiza la edad de la Tierra?
 
-En el mismo libro de 1864 presentó como algo que Dios le mostró que la primera semana de la creación fue una semana común. Defendió que la Tierra tiene unos seis mil años. Y escribió que se le había mostrado que la geología (la ciencia que estudia la Tierra) no podía probar nada sin la historia de la Biblia.⁶
+En el mismo libro de 1864 presentó como algo que Dios le mostró que la primera semana de la creación fue una semana común. Defendió que la Tierra tiene unos seis mil años. Y escribió que se le había mostrado que la geología (la ciencia que estudia la Tierra) no podía probar nada sin la historia de la Biblia.
 
-Este libro no analiza a fondo la edad de la Tierra, porque haría falta otra investigación entera. Pero dejarlo afuera tiene un costo, y no se esconde. La geología actual dice que la Tierra tiene miles de millones de años y no acepta una Tierra de seis mil. Para un lector que acepta esa geología, este caso **haría más fuerte** la conclusión en contra.⁷
+Este libro no analiza a fondo la edad de la Tierra, porque haría falta otra investigación entera. Pero dejarlo afuera tiene un costo, y no se esconde. La geología actual dice que la Tierra tiene miles de millones de años y no acepta una Tierra de seis mil. Para un lector que acepta esa geología, este caso **haría más fuerte** la conclusión en contra.
 
 ## 5. ¿Qué pasa con la «amalgamación»?
 
-En 1864 escribió sobre la «amalgamación del hombre y la bestia», es decir, una mezcla entre personas y animales. Dijo que podía verse en algunas variedades de animales y en «ciertas razas» de personas. La frase se puede leer como cruces entre personas y animales, que no tienen ninguna base en la biología. O como mezclas dentro de cada grupo. Uriah Smith ya la defendió en 1868 con ideas sobre razas que hoy están desacreditadas, pero Smith no es White. El caso **no es claro**.⁸
+En 1864 escribió sobre la «amalgamación del hombre y la bestia», es decir, una mezcla entre personas y animales. Dijo que podía verse en algunas variedades de animales y en «ciertas razas» de personas. La frase se puede leer como cruces entre personas y animales, que no tienen ninguna base en la biología. O como mezclas dentro de cada grupo. Uriah Smith ya la defendió en 1868 con ideas sobre razas que hoy están desacreditadas, pero Smith no es White. El caso **no es claro**.
 
 Sobre los astros no se encontró un error seguro en los textos revisados.
 
 ## 6. ¿Qué consejos de salud eran acertados?
 
-Varios. Su advertencia contra el tabaco es un caso importante a su favor. También tienen base real sus consejos contra el alcohol y a favor del ejercicio, el aire puro, la higiene y una comida basada en vegetales.⁹
+Varios. Su advertencia contra el tabaco es un caso importante a su favor. También tienen base real sus consejos contra el alcohol y a favor del ejercicio, el aire puro, la higiene y una comida basada en vegetales.
 
-Pero esas ideas ya circulaban. Sylvester Graham, Larkin Coles, James C. Jackson y Dio Lewis las publicaban antes de su visión sobre la salud, de 1863. Y en febrero de ese año, la familia White usó con sus hijos un tratamiento de Jackson publicado en la *Review*.¹⁰ Adelantarse a lo que después aceptó todo el mundo no es saber algo imposible de saber. No se encontró ningún consejo que fuera a la vez correcto, preciso e imposible de sacar de los libros de su época.
+Pero esas ideas ya circulaban. Sylvester Graham, Larkin Coles, James C. Jackson y Dio Lewis las publicaban antes de su visión sobre la salud, de 1863. Y en febrero de ese año, la familia White usó con sus hijos un tratamiento de Jackson publicado en la *Review*. Adelantarse a lo que después aceptó todo el mundo no es saber algo imposible de saber. No se encontró ningún consejo que fuera a la vez correcto, preciso e imposible de sacar de los libros de su época.
 
 ## 7. ¿Qué dijo sobre la masturbación?
 
-En *An Appeal to Mothers* («Un llamado a las madres», 1864), escribió: «Me ha sido mostrado que los niños que practican la complacencia propia antes de la pubertad» pagarían las consecuencias en esa etapa. Le echó la culpa a esa costumbre de enfermedades del hígado, los pulmones, la columna y los riñones, de «humores cancerosos», de tuberculosis, de perder la memoria y la vista, y de morir joven.¹¹
+En *An Appeal to Mothers* («Un llamado a las madres», 1864), escribió: «Me ha sido mostrado que los niños que practican la complacencia propia antes de la pubertad» pagarían las consecuencias en esa etapa. Le echó la culpa a esa costumbre de enfermedades del hígado, los pulmones, la columna y los riñones, de «humores cancerosos», de tuberculosis, de perder la memoria y la vista, y de morir joven.
 
-Hay que leerla con justicia. Hablaba de una costumbre repetida, no de una sola vez. Y no dijo que cada persona iba a sufrir todo eso. Pero dice que esa costumbre causa esas enfermedades, y eso es falso. La medicina actual no confirma que la masturbación cause esas enfermedades. Era una idea muy común en la medicina de su época, no algo que ella descubrió.¹²
+Hay que leerla con justicia. Hablaba de una costumbre repetida, no de una sola vez. Y no dijo que cada persona iba a sufrir todo eso. Pero dice que esa costumbre causa esas enfermedades, y eso es falso. La medicina actual no confirma que la masturbación cause esas enfermedades. Era una idea muy común en la medicina de su época, no algo que ella descubrió.
 
-Herbert E. Douglass la defiende de dos maneras: habla de la conducta compulsiva (cuando la persona no puede parar) y de la pérdida de zinc. Ninguna de las dos confirma esa lista de enfermedades. Y lo del semen no explica lo que dijo de las mujeres.¹³
+Herbert E. Douglass la defiende de dos maneras: habla de la conducta compulsiva (cuando la persona no puede parar) y de la pérdida de zinc. Ninguna de las dos confirma esa lista de enfermedades. Y lo del semen no explica lo que dijo de las mujeres.
 
 Lo que decide el caso es a quién le atribuye el contenido. La parte central empieza con «me ha sido mostrado», en el folleto original de 1864, no en un libro armado después. No se encontraron pruebas de que una ayudante agregara la lista. Está **probado** que presentó como mostrado por Dios lo central: que esa costumbre causaba graves daños al cuerpo y podía llevar a la enfermedad y a la muerte. No se puede probar que cada enfermedad de la lista le haya sido mostrada una por una. Pero lo central ya es **una afirmación sobre las causas de enfermedades, falsa, presentada como algo que Dios le mostró.** Decir que ella no era infalible no lo resuelve.
 
@@ -787,17 +787,17 @@ Tampoco se conoce el libro concreto del que lo sacó. Lo que se sabe es que esas
 
 ## 8. ¿Los autores de la Biblia no escribieron también con la ciencia de su época?
 
-Es la mejor objeción en este punto. Jesús dijo que la semilla de mostaza era la más pequeña de todas, y la Biblia describe el mundo como lo entendían en su tiempo.¹⁴ ¿Por qué no tener con White la misma comprensión?
+Es la mejor objeción en este punto. Jesús dijo que la semilla de mostaza era la más pequeña de todas, y la Biblia describe el mundo como lo entendían en su tiempo. ¿Por qué no tener con White la misma comprensión?
 
 Yo marco la diferencia así. Una cosa es describir algo con las palabras comunes de la época. Otra es presentar como mostrada por Dios una causa concreta de enfermedades, y usarla para advertir a madres que sus hijos morirían. Pero la regla tiene que valer para los dos lados. Si un texto de la Biblia presentara como revelada una causa médica falsa para dar una orden, el problema sería el mismo. Un lector puede pesar esta diferencia de otra manera. Lo que no puede hacer es medir a White con una regla y a la Biblia con otra.
 
 ## 9. ¿Qué dijo sobre los remedios?
 
-En 1864 denunció, con razón, remedios peligrosos de su época, como el mercurio y la estricnina. Pero también escribió que se le había mostrado que los remedios mataban más gente que todas las demás causas juntas, y que «las drogas nunca curan la enfermedad», sólo le cambian la forma y el lugar.¹⁵ Lo primero no tiene pruebas. Lo segundo era falso incluso en su época: la quinina ya se usaba para curar la malaria.¹⁶
+En 1864 denunció, con razón, remedios peligrosos de su época, como el mercurio y la estricnina. Pero también escribió que se le había mostrado que los remedios mataban más gente que todas las demás causas juntas, y que «las drogas nunca curan la enfermedad», sólo le cambian la forma y el lugar. Lo primero no tiene pruebas. Lo segundo era falso incluso en su época: la quinina ya se usaba para curar la malaria.
 
 ## 10. ¿Y la carne y el cáncer?
 
-Hoy hay pruebas de que la carne procesada (como fiambres y embutidos) aumenta el riesgo de algunos cánceres. Y Coles ya relacionaba la carne con el cáncer en 1853. Pero White también escribió que al comer carne se pasan «gérmenes» de cáncer, y eso no tiene apoyo. Algunos virus ayudan a que aparezcan ciertos cánceres, pero el cáncer de un animal no se contagia al comerlo.¹⁷ Sobre el café y el té, tenía razón en que son estimulantes. No la tenía en que siempre hacen daño, tome uno lo que tome.¹⁸
+Hoy hay pruebas de que la carne procesada (como fiambres y embutidos) aumenta el riesgo de algunos cánceres. Y Coles ya relacionaba la carne con el cáncer en 1853. Pero White también escribió que al comer carne se pasan «gérmenes» de cáncer, y eso no tiene apoyo. Algunos virus ayudan a que aparezcan ciertos cánceres, pero el cáncer de un animal no se contagia al comerlo. Sobre el café y el té, tenía razón en que son estimulantes. No la tenía en que siempre hacen daño, tome uno lo que tome.
 
 ## 11. ¿Qué se puede concluir de todo esto?
 
@@ -813,39 +813,39 @@ Dos frases verdaderamente suyas que no puedan ser ciertas a la vez, sobre el mis
 
 ## 2. ¿Dijo primero que se podía comer cerdo y después que Dios lo prohibía?
 
-No exactamente. En 1858 retó a una pareja porque convertían el no comer cerdo en una prueba de fidelidad a Dios. Y agregó que, si Dios quería que no se comiera, se lo enseñaría a todo su pueblo. En 1864 escribió que Dios nunca quiso que el cerdo se comiera «bajo ninguna circunstancia».¹ Hay un cambio real en lo que indicaba. Pero el texto de 1858 ya dejaba abierta la puerta a una enseñanza posterior. **Un cambio que no choca con lo anterior.**
+No exactamente. En 1858 retó a una pareja porque convertían el no comer cerdo en una prueba de fidelidad a Dios. Y agregó que, si Dios quería que no se comiera, se lo enseñaría a todo su pueblo. En 1864 escribió que Dios nunca quiso que el cerdo se comiera «bajo ninguna circunstancia». Hay un cambio real en lo que indicaba. Pero el texto de 1858 ya dejaba abierta la puerta a una enseñanza posterior. **Un cambio que no choca con lo anterior.**
 
 ## 3. ¿Comió siempre igual?
 
-No. En 1869 dijo que no había cambiado su manera de comer «ni una partícula» desde que empezó la reforma de salud. Pero un diario de 1873 cuenta que comió carne durante un viaje en el que no tenían otra comida. Y en 1894 dejó de usarla en su casa de manera más estricta.² En una carta de 1896 dijo que hacía dos años que no comía carne y, en el mismo párrafo, que comía pescado cuando conseguía. Para ella, «carne» y «pescado» eran cosas distintas, y no escondía nada.³
+No. En 1869 dijo que no había cambiado su manera de comer «ni una partícula» desde que empezó la reforma de salud. Pero un diario de 1873 cuenta que comió carne durante un viaje en el que no tenían otra comida. Y en 1894 dejó de usarla en su casa de manera más estricta. En una carta de 1896 dijo que hacía dos años que no comía carne y, en el mismo párrafo, que comía pescado cuando conseguía. Para ella, «carne» y «pescado» eran cosas distintas, y no escondía nada.
 
 No dejó la carne de manera continua desde 1863. Si alguna vez contó su pasado de una manera demasiado general, lo examina el capítulo 14.
 
 ## 4. ¿Prohibió y permitió a la vez la manteca y los huevos?
 
-Sí, para casos distintos, y lo explicó. En 1901 le escribió a Daniel Kress, que estaba débil por una dieta muy estricta. Le dijo que la manteca no tenía que ponerse en la mesa de todos, porque algunos abusarían, pero que él podía usar un poco. Y que podía comer huevos de gallinas sanas. Explicó que sus advertencias anteriores sobre los huevos eran para familias con otro problema.⁴ Esa explicación es de 1901 y no muestra cómo entendieron los lectores de 1869 la advertencia original. Pero este caso no es una contradicción.
+Sí, para casos distintos, y lo explicó. En 1901 le escribió a Daniel Kress, que estaba débil por una dieta muy estricta. Le dijo que la manteca no tenía que ponerse en la mesa de todos, porque algunos abusarían, pero que él podía usar un poco. Y que podía comer huevos de gallinas sanas. Explicó que sus advertencias anteriores sobre los huevos eran para familias con otro problema. Esa explicación es de 1901 y no muestra cómo entendieron los lectores de 1869 la advertencia original. Pero este caso no es una contradicción.
 
 ## 5. ¿Qué pasa con los remedios que «nunca curan»?
 
-Acá hay un choque real. En 1864 escribió: «Las drogas nunca curan la enfermedad». En 1890 aconsejó usarlas cada vez menos, porque casi nunca hacían falta. Y en 1899 volvió a decir que nunca curan.⁵ Un escrito ordenado en 1903 dice que el agua, el aire y las hierbas sencillas serían «tan eficaces» como los remedios de la ciencia.⁶
+Acá hay un choque real. En 1864 escribió: «Las drogas nunca curan la enfermedad». En 1890 aconsejó usarlas cada vez menos, porque casi nunca hacían falta. Y en 1899 volvió a decir que nunca curan. Un escrito ordenado en 1903 dice que el agua, el aire y las hierbas sencillas serían «tan eficaces» como los remedios de la ciencia.
 
-Si «tan eficaces» reconoce que los remedios curan, choca con «nunca curan». Los defensores pueden leerlo como una comparación de resultados, sin decir que el remedio es el que cura. Pero esa diferencia no está en el texto. **Posible contradicción.** En 1935 su hijo recordó que ella aceptó darle quinina a un chico con malaria. Eso muestra una excepción en la práctica, pero es un recuerdo de él, no un escrito de ella.⁷
+Si «tan eficaces» reconoce que los remedios curan, choca con «nunca curan». Los defensores pueden leerlo como una comparación de resultados, sin decir que el remedio es el que cura. Pero esa diferencia no está en el texto. **Posible contradicción.** En 1935 su hijo recordó que ella aceptó darle quinina a un chico con malaria. Eso muestra una excepción en la práctica, pero es un recuerdo de él, no un escrito de ella.
 
 ## 6. ¿Negó usar libros después de reconocer que los usaba?
 
-En 1888 reconoció que había usado palabras de historiadores. En abril de 1897 negó haber sacado **todo** de otros libros, y eso no choca con lo anterior. Pero en junio rechazó la acusación de que juntaba cosas de libros y las mandaba como si el Señor se las hubiera mostrado.⁸ En el diario de 1890, palabras de Krummacher aparecen dichas por un guía del cielo (capítulo 10). Frente a eso, lo que negó en 1897 tiene un problema si se lo entiende de manera amplia. **Posible contradicción.**
+En 1888 reconoció que había usado palabras de historiadores. En abril de 1897 negó haber sacado **todo** de otros libros, y eso no choca con lo anterior. Pero en junio rechazó la acusación de que juntaba cosas de libros y las mandaba como si el Señor se las hubiera mostrado. En el diario de 1890, palabras de Krummacher aparecen dichas por un guía del cielo (capítulo 10). Frente a eso, lo que negó en 1897 tiene un problema si se lo entiende de manera amplia. **Posible contradicción.**
 
 ## 7. ¿Corregir un libro es contradecirse?
 
-No por fuerza. Pasar de «los primeros» a «entre los primeros», o de «millones» a «multitudes», corrige o achica una afirmación, pero no dice lo contrario. Lo que pesan esas correcciones ya se vio en el capítulo 12: un libro con autoridad religiosa tenía errores, y se corrigieron con trabajo humano.⁹
+No por fuerza. Pasar de «los primeros» a «entre los primeros», o de «millones» a «multitudes», corrige o achica una afirmación, pero no dice lo contrario. Lo que pesan esas correcciones ya se vio en el capítulo 12: un libro con autoridad religiosa tenía errores, y se corrigieron con trabajo humano.
 
 ## 8. ¿Cambió sus consejos sobre la ropa y la escuela?
 
-Sí, y son cambios de criterio. El vestido que criticó en 1863 era otro, más corto que el que propuso en 1867. Pero después dejó de promover el suyo por las peleas que causaba.¹⁰ En 1872 escribió que los padres tenían que ser los únicos maestros de sus hijos hasta los ocho o diez años. En 1904 aprobó que fueran a la escuela niños más chicos, y explicó por qué.¹¹ Ninguno de los dos casos es una orden contraria para la misma situación.
+Sí, y son cambios de criterio. El vestido que criticó en 1863 era otro, más corto que el que propuso en 1867. Pero después dejó de promover el suyo por las peleas que causaba. En 1872 escribió que los padres tenían que ser los únicos maestros de sus hijos hasta los ocho o diez años. En 1904 aprobó que fueran a la escuela niños más chicos, y explicó por qué. Ninguno de los dos casos es una orden contraria para la misma situación.
 
 ## 9. ¿Cumplió ella su propia regla del diezmo?
 
-Es uno de los choques más serios. El diezmo es la décima parte de lo que uno gana, que se da a la iglesia. En 1896 escribió que nadie, ni siquiera un pastor, debía quedarse con el diezmo para usarlo como le pareciera, «ni siquiera en lo que considere la obra del Señor». En 1905 contó que desde hacía años se le había indicado dar su diezmo a pastores abandonados, blancos y negros. Que había recibido diezmos de otras personas para eso. Y pidió que no se contara.¹²
+Es uno de los choques más serios. El diezmo es la décima parte de lo que uno gana, que se da a la iglesia. En 1896 escribió que nadie, ni siquiera un pastor, debía quedarse con el diezmo para usarlo como le pareciera, «ni siquiera en lo que considere la obra del Señor». En 1905 contó que desde hacía años se le había indicado dar su diezmo a pastores abandonados, blancos y negros. Que había recibido diezmos de otras personas para eso. Y pidió que no se contara.
 
 Los defensores dicen que una cosa es el juicio propio y otra un encargo especial de Dios, y que el dinero fue a pastores. Pero la regla de 1896 no habla de excepciones. Y los defensores tienen que explicar por qué las mujeres que donaron con su aprobación no entraban en la prohibición. **Posible contradicción.**
 
@@ -869,39 +869,39 @@ No que sea perfecto: la Biblia cuenta pecados graves de profetas. Importaría mu
 
 ## 2. ¿Se hizo rica con su trabajo religioso?
 
-No hay pruebas de eso. Cobraba un sueldo y recibía dinero por sus libros, y tenía casa, terrenos y derechos sobre sus libros. Pero les pagaba a sus ayudantes, a los traductores y a la imprenta. Cuando murió, en 1915, debía unos 21.500 dólares más de lo que valían sus bienes, según cuentas hechas a partir de la tasación del juzgado.¹ En su testamento de 1912 le dejó a cada hijo un 10 % de lo que ganaran sus libros, y el resto a quienes les debía y a obras de la iglesia.²
+No hay pruebas de eso. Cobraba un sueldo y recibía dinero por sus libros, y tenía casa, terrenos y derechos sobre sus libros. Pero les pagaba a sus ayudantes, a los traductores y a la imprenta. Cuando murió, en 1915, debía unos 21.500 dólares más de lo que valían sus bienes, según cuentas hechas a partir de la tasación del juzgado. En su testamento de 1912 le dejó a cada hijo un 10 % de lo que ganaran sus libros, y el resto a quienes les debía y a obras de la iglesia.
 
 **Resultado:** no tenía una gran fortuna, pero tampoco se puede decir que no le importara nada el dinero. Faltan las cuentas completas.
 
 ## 3. ¿Se dio a sí misma un permiso especial con el diezmo?
 
-La excepción está documentada (capítulo 13). Dio su diezmo, y el de otras personas, a pastores abandonados, porque dijo que Dios se lo había indicado. Y pidió que no se contara. El dinero fue a esos pastores, no a ella. Pero su razón era un permiso de Dios que nadie más podía comprobar. **Posible privilegio; no está probado que se quedara con el dinero.**³
+La excepción está documentada (capítulo 13). Dio su diezmo, y el de otras personas, a pastores abandonados, porque dijo que Dios se lo había indicado. Y pidió que no se contara. El dinero fue a esos pastores, no a ella. Pero su razón era un permiso de Dios que nadie más podía comprobar. **Posible privilegio; no está probado que se quedara con el dinero.**
 
 ## 4. ¿Su hijo decidía qué mensajes salían?
 
-W. C. White se ocupaba de las cartas y opinaba sobre cuáles mandar. En 1906, el médico W. S. Sadler preguntó cuánto influía. Contó un caso: W. C. no estaba de acuerdo en mandar una nota y su madre aceptó no mandarla, aunque después dijo que se quedó intranquila.⁴ Eso muestra que él participaba en decidir qué se mandaba, no que inventara mensajes.
+W. C. White se ocupaba de las cartas y opinaba sobre cuáles mandar. En 1906, el médico W. S. Sadler preguntó cuánto influía. Contó un caso: W. C. no estaba de acuerdo en mandar una nota y su madre aceptó no mandarla, aunque después dijo que se quedó intranquila. Eso muestra que él participaba en decidir qué se mandaba, no que inventara mensajes.
 
 ## 5. ¿Usó su autoridad contra Fannie Bolton?
 
-Es el caso más delicado. Bolton, su ayudante, discutió con ella sobre cuánto le corregía los textos y qué reconocimiento le correspondía. En 1915, George B. Starr recordó que White le había contado una visión en la que Jesús llamaba a Bolton su enemiga.⁵ Es un recuerdo de muchos años después, no algo escrito por ella.
+Es el caso más delicado. Bolton, su ayudante, discutió con ella sobre cuánto le corregía los textos y qué reconocimiento le correspondía. En 1915, George B. Starr recordó que White le había contado una visión en la que Jesús llamaba a Bolton su enemiga. Es un recuerdo de muchos años después, no algo escrito por ella.
 
 Si una empleada que discutía quién escribía los libros recibía como respuesta una visión de Cristo en su contra, no había manera de discutir de igual a igual. Lo que no se puede saber es si White lo creía de verdad o lo usó a propósito. Si se probara lo segundo, sería una prueba fuerte de fraude. Esa prueba no existe.
 
 ## 6. ¿Qué pasó con Kellogg y el edificio de Chicago?
 
-John Harvey Kellogg, un médico adventista muy conocido, entendió que un reto de White lo acusaba de haber construido un gran edificio en Chicago, y lo negó. En octubre de 1903 White admitió que había creído que el edificio ya existía y que después se enteró de que no. Dijo que la escena mostraba un proyecto que su advertencia había frenado.⁶
+John Harvey Kellogg, un médico adventista muy conocido, entendió que un reto de White lo acusaba de haber construido un gran edificio en Chicago, y lo negó. En octubre de 1903 White admitió que había creído que el edificio ya existía y que después se enteró de que no. Dijo que la escena mostraba un proyecto que su advertencia había frenado.
 
 Reconoció que había entendido mal, pero siguió diciendo que la visión venía de Dios. Eso muestra que podía corregirse. Y a la vez deja la pregunta: ¿por qué una visión de Dios tuvo que volver a explicarse?
 
-Con el mismo Kellogg fue muy firme en 1903: escribió que, cuando él escribió su libro *The Living Temple*, «no estaba bajo la inspiración de Dios». En cambio, en 1910 hubo una discusión sobre cómo entender «el continuo» de Daniel 8. Ahí no dijo qué interpretación era la correcta y pidió que no se usara para medir la fe de nadie.⁷ No resolvía todas las discusiones con una revelación. Pero no hay una regla, aparte de ella misma, que explique cuándo lo hacía y cuándo no.
+Con el mismo Kellogg fue muy firme en 1903: escribió que, cuando él escribió su libro *The Living Temple*, «no estaba bajo la inspiración de Dios». En cambio, en 1910 hubo una discusión sobre cómo entender «el continuo» de Daniel 8. Ahí no dijo qué interpretación era la correcta y pidió que no se usara para medir la fe de nadie. No resolvía todas las discusiones con una revelación. Pero no hay una regla, aparte de ella misma, que explique cuándo lo hacía y cuándo no.
 
 ## 7. ¿Reconocía sus errores?
 
-A veces. En 1901 admitió en público que quizás le había escrito a Kellogg con demasiada dureza. En lo de Chicago admitió su error. Y aprobó correcciones de sus libros.⁸ Pero casi nunca lo reconoció como un error en la profecía. Decía que se había equivocado al entender, al escribir o al aplicar el mensaje.
+A veces. En 1901 admitió en público que quizás le había escrito a Kellogg con demasiada dureza. En lo de Chicago admitió su error. Y aprobó correcciones de sus libros. Pero casi nunca lo reconoció como un error en la profecía. Decía que se había equivocado al entender, al escribir o al aplicar el mensaje.
 
 ## 8. ¿Les pedía a otros no comer carne mientras ella comía a escondidas?
 
-No está probado. Como mostró el capítulo 13, no dejó la carne de manera continua desde 1863. En una carta de 1882 pide arenques y ostras. Bolton contó después que vio ostras escondidas, y Starr lo negó.⁹ Para hablar de hipocresía harían falta tres cosas: una regla que les exigía a otros sin excepciones, una costumbre suya repetida y escondida, y que ella supiera que estaba faltando a la verdad.
+No está probado. Como mostró el capítulo 13, no dejó la carne de manera continua desde 1863. En una carta de 1882 pide arenques y ostras. Bolton contó después que vio ostras escondidas, y Starr lo negó. Para hablar de hipocresía harían falta tres cosas: una regla que les exigía a otros sin excepciones, una costumbre suya repetida y escondida, y que ella supiera que estaba faltando a la verdad.
 
 ## 9. ¿Qué explicación encaja mejor con su conducta?
 
@@ -917,47 +917,47 @@ Ayudó a crear un movimiento que cuidaba la salud, educaba y hacía misiones. Tr
 
 ## 1. ¿Por qué los frutos no son lo mismo que el éxito?
 
-Porque una organización grande puede ayudar o hacer daño, y la cantidad de seguidores no dice cuál de las dos. Jesús dijo que a los falsos profetas se los reconoce por sus frutos (Mateo 7), no por su fama.¹ Además, lo que logra una iglesia entera no es obra de una sola persona. Para decir que algo fue obra de ella hace falta un consejo suyo concreto, decisiones que lo pongan en práctica y pruebas de lo que pasó.
+Porque una organización grande puede ayudar o hacer daño, y la cantidad de seguidores no dice cuál de las dos. Jesús dijo que a los falsos profetas se los reconoce por sus frutos (Mateo 7), no por su fama. Además, lo que logra una iglesia entera no es obra de una sola persona. Para decir que algo fue obra de ella hace falta un consejo suyo concreto, decisiones que lo pongan en práctica y pruebas de lo que pasó.
 
 ## 2. ¿Convirtió el cuidado de la salud en una forma de servir?
 
-Sí, junto con otros. Después de una visión que fechó en diciembre de 1865, propuso en 1866 un lugar donde los enfermos fueran atendidos y aprendieran hábitos sanos. Ese mismo año abrió en Battle Creek el Western Health Reform Institute.² James White, donantes, médicos y, más tarde, John Harvey Kellogg pusieron dinero y tomaron sus propias decisiones. A ella le corresponde un empujón importante, no haberlo fundado sola.
+Sí, junto con otros. Después de una visión que fechó en diciembre de 1865, propuso en 1866 un lugar donde los enfermos fueran atendidos y aprendieran hábitos sanos. Ese mismo año abrió en Battle Creek el Western Health Reform Institute. James White, donantes, médicos y, más tarde, John Harvey Kellogg pusieron dinero y tomaron sus propias decisiones. A ella le corresponde un empujón importante, no haberlo fundado sola.
 
-Un estudio de 2001 siguió a 34.192 adventistas de California entre 1976 y 1988. Encontró que vivían varios años más que otros californianos blancos.³ Eso encaja con los beneficios de las costumbres que ella promovió, como dejar el tabaco y el alcohol. Pero el estudio no midió si leían sus escritos. Y entre ella y esas personas pasaron generaciones de médicos y familias. Además, esos beneficios no hacen correctas sus afirmaciones médicas equivocadas.
+Un estudio de 2001 siguió a 34.192 adventistas de California entre 1976 y 1988. Encontró que vivían varios años más que otros californianos blancos. Eso encaja con los beneficios de las costumbres que ella promovió, como dejar el tabaco y el alcohol. Pero el estudio no midió si leían sus escritos. Y entre ella y esas personas pasaron generaciones de médicos y familias. Además, esos beneficios no hacen correctas sus afirmaciones médicas equivocadas.
 
 ## 3. ¿Qué dejó en educación?
 
-Una manera de educar que unía la Biblia, el trabajo práctico, la salud y la misión. En Australia impulsó la escuela de Avondale, que abrió en 1897 con sus propios maestros, directivos y donantes.⁴ El modelo tuvo que corregirse desde el principio: ya mientras se preparaba, en 1896, se dejó de lado el plan de una escuela de oficios industriales, aunque se mantuvo el trabajo con las manos. Y tenía reglas muy estrictas, con medidas firmes contra los noviazgos entre alumnos. Para algunos significó orden y aprender un oficio. Para otros, menos libertad.⁵
+Una manera de educar que unía la Biblia, el trabajo práctico, la salud y la misión. En Australia impulsó la escuela de Avondale, que abrió en 1897 con sus propios maestros, directivos y donantes. El modelo tuvo que corregirse desde el principio: ya mientras se preparaba, en 1896, se dejó de lado el plan de una escuela de oficios industriales, aunque se mantuvo el trabajo con las manos. Y tenía reglas muy estrictas, con medidas firmes contra los noviazgos entre alumnos. Para algunos significó orden y aprender un oficio. Para otros, menos libertad.
 
-Hay un resultado concreto. Donó lo que ganaba con su libro *Palabras de vida del gran Maestro* para ayudar a escuelas con deudas. En 1901 se informó que más de 10.000 dólares en efectivo se habían usado para pagar la deuda de Union College.⁶
+Hay un resultado concreto. Donó lo que ganaba con su libro *Palabras de vida del gran Maestro* para ayudar a escuelas con deudas. En 1901 se informó que más de 10.000 dólares en efectivo se habían usado para pagar la deuda de Union College.
 
 ## 4. ¿Sus escritos acercaron a la gente a la Biblia y a Cristo?
 
-Hay datos a favor. Una encuesta de 1980 en 193 iglesias de Estados Unidos y Canadá encontró que el 82 % de los que leían a White seguido estudiaba la Biblia todos los días, contra el 47 % de los demás. Y que el 82 % se sentía seguro de estar en paz con Dios, contra el 59 %.⁷ Eso no prueba que leerla fuera la causa: los más comprometidos pueden leer las dos cosas. Y la encuesta dejó afuera a los que ya no iban a la iglesia.
+Hay datos a favor. Una encuesta de 1980 en 193 iglesias de Estados Unidos y Canadá encontró que el 82 % de los que leían a White seguido estudiaba la Biblia todos los días, contra el 47 % de los demás. Y que el 82 % se sentía seguro de estar en paz con Dios, contra el 59 %. Eso no prueba que leerla fuera la causa: los más comprometidos pueden leer las dos cosas. Y la encuesta dejó afuera a los que ya no iban a la iglesia.
 
-Al mismo tiempo, en 1919 el profesor C. L. Benson contó que había pastores que armaban sus sermones más con los escritos de White que con la Biblia.⁸ Ella había dicho que sus escritos tenían que llevar a la Biblia, no reemplazarla. Las dos cosas pudieron pasar a la vez.
+Al mismo tiempo, en 1919 el profesor C. L. Benson contó que había pastores que armaban sus sermones más con los escritos de White que con la Biblia. Ella había dicho que sus escritos tenían que llevar a la Biblia, no reemplazarla. Las dos cosas pudieron pasar a la vez.
 
-Sobre el miedo, la culpa y la obsesión por ser perfecto hay críticas y testimonios que vale la pena escuchar. Pero no hay estudios que permitan medir un daño psicológico y atribuírselo a ella.⁹
+Sobre el miedo, la culpa y la obsesión por ser perfecto hay críticas y testimonios que vale la pena escuchar. Pero no hay estudios que permitan medir un daño psicológico y atribuírselo a ella.
 
 ## 5. ¿Repartió el poder dentro de la iglesia?
 
-Ayudó. En 1901 criticó que unos pocos hombres manejaran toda la obra y pidió que se reorganizara. Eso se hizo entre 1901 y 1903, con A. G. Daniells y muchos otros.¹⁰ Pero repartir las tareas no aseguró que la gente pudiera discutir un mensaje que se consideraba de Dios.
+Ayudó. En 1901 criticó que unos pocos hombres manejaran toda la obra y pidió que se reorganizara. Eso se hizo entre 1901 y 1903, con A. G. Daniells y muchos otros. Pero repartir las tareas no aseguró que la gente pudiera discutir un mensaje que se consideraba de Dios.
 
 ## 6. ¿A quiénes llegó la ayuda?
 
-En 1891 llamó a su iglesia a ayudar a las personas negras del sur de Estados Unidos, aunque ya había líderes negros, como Charles Kinny, que trabajaban antes. Pero en textos publicados en 1909 aconsejó tener lugares de culto separados para blancos y negros en el sur, para evitar ataques en una época de violencia racial. La ayuda convivió con aceptar la separación por raza.¹¹
+En 1891 llamó a su iglesia a ayudar a las personas negras del sur de Estados Unidos, aunque ya había líderes negros, como Charles Kinny, que trabajaban antes. Pero en textos publicados en 1909 aconsejó tener lugares de culto separados para blancos y negros en el sur, para evitar ataques en una época de violencia racial. La ayuda convivió con aceptar la separación por raza.
 
-En 1895 defendió que las mujeres fueran apartadas para servir con la imposición de manos (un gesto de la iglesia para encargar una tarea). En 1898 pidió que se les pagara a las mujeres que trabajaban para la iglesia aunque sus maridos ya cobraran.¹² No se sabe si eso cambió lo que de verdad se les pagaba.
+En 1895 defendió que las mujeres fueran apartadas para servir con la imposición de manos (un gesto de la iglesia para encargar una tarea). En 1898 pidió que se les pagara a las mujeres que trabajaban para la iglesia aunque sus maridos ya cobraran. No se sabe si eso cambió lo que de verdad se les pagaba.
 
 ## 7. ¿Qué costaba reconocer sus errores?
 
-Este es el problema mejor documentado. En 1915, W. W. Prescott le escribió a W. C. White que había errores en libros aprobados, y que se prefería evitar el escándalo antes que decir la verdad. Admitió que eso podía no ser a propósito. No es una acusación de fraude contra ella.¹³ En una reunión de estudio bíblico de 1919, profesores y dirigentes discutieron si podían decirles a sus alumnos que esos libros no eran la última palabra en historia. J. N. Anderson dijo que callarse afectaba la honestidad. Daniells recordó que años antes ni siquiera hubiera sido seguro hablarlo.¹⁴
+Este es el problema mejor documentado. En 1915, W. W. Prescott le escribió a W. C. White que había errores en libros aprobados, y que se prefería evitar el escándalo antes que decir la verdad. Admitió que eso podía no ser a propósito. No es una acusación de fraude contra ella. En una reunión de estudio bíblico de 1919, profesores y dirigentes discutieron si podían decirles a sus alumnos que esos libros no eran la última palabra en historia. J. N. Anderson dijo que callarse afectaba la honestidad. Daniells recordó que años antes ni siquiera hubiera sido seguro hablarlo.
 
-El costo siguió después de que ella murió. En 1980, Walter Rea perdió su cargo de pastor y su permiso para ejercer mientras acusaba en público a White de copiar. Un dirigente dijo que lo que había hecho lo dejaba sin condiciones para ser pastor.¹⁵ Ese mismo año Desmond Ford también perdió su permiso, aunque por discutir una enseñanza adventista sobre el juicio (el «juicio investigador»), no directamente por White.¹⁶
+El costo siguió después de que ella murió. En 1980, Walter Rea perdió su cargo de pastor y su permiso para ejercer mientras acusaba en público a White de copiar. Un dirigente dijo que lo que había hecho lo dejaba sin condiciones para ser pastor. Ese mismo año Desmond Ford también perdió su permiso, aunque por discutir una enseñanza adventista sobre el juicio (el «juicio investigador»), no directamente por White.
 
 ¿Cuánto de esto es culpa de ella? Una parte, compartida. Que dijera que recibía instrucciones de Dios les daba peso a sus retos y hacía costoso no estar de acuerdo. Pero también negó que cada palabra suya fuera inspirada y aprobó que se corrigieran sus libros. Los que la promovían y los que dirigían la iglesia le dieron más autoridad de la que ella reclamaba.
 
-Desde 2015, la Iglesia Adventista dice que sus escritos «hablan con autoridad profética». Ya no los llama «una fuente continua y autorizada de verdad».¹⁷
+Desde 2015, la Iglesia Adventista dice que sus escritos «hablan con autoridad profética». Ya no los llama «una fuente continua y autorizada de verdad».
 
 ## 8. ¿Qué frutos ayudan a decidir?
 
@@ -965,11 +965,11 @@ Pocos. Hospitales, escuelas y una fe viva encajan tanto con un origen divino com
 
 # Capítulo 16 — ¿Qué explicación encaja mejor con toda la evidencia?
 
-Voy a decir de entrada lo que me parece, y después explico por qué. Con lo que encontré hasta hoy, no me alcanza para creer que Elena G. de White haya sido profeta. Creo que ella creyó de verdad que sus mensajes venían de Dios, pero que eran de origen humano. A veces se puede mostrar el libro del que salió lo que decía (March, Wylie, Krummacher). Otras veces, como en el folleto de 1864, lo que dijo coincide con ideas de su época, aunque no se sabe por qué camino le llegaron. Y en casos como Faulkhead o Salamanca, me parece que una explicación humana encaja mejor, aunque no se pueda reconstruir. Qué causaba las visiones mismas, no lo sé. Que algunos mensajes vinieran de Dios y otros no es posible, pero me parece menos probable. Y que haya mentido a propósito es lo que tiene menos apoyo de todo. Este capítulo explica por qué pienso así, dónde puedo estar equivocado y qué preguntas quedan sin responder.
+Voy a decir de entrada lo que me parece y después explicar por qué. Después de examinar las pruebas disponibles, no encuentro fundamentos suficientes para afirmar con seguridad que Elena G. de White haya sido una profeta auténtica. Pero tampoco creo que pueda afirmarse que definitivamente no lo fue. La explicación que hoy me parece más probable es que haya creído sinceramente que recibía mensajes de Dios, aunque al menos algunos parecen haber tenido un origen humano. En unos casos se demuestra el uso de textos anteriores, como los de March, Wylie y Krummacher. En otros, como el folleto de 1864, sus afirmaciones coinciden con ideas de su época, sin que sepamos cómo llegaron a ella. Y casos como Faulkhead y Salamanca siguen abiertos: tampoco ahí se ha reconstruido el origen exacto de los detalles. No sé qué causaba las visiones mismas. Es posible que algunos mensajes vinieran de Dios y otros no, aunque esa explicación hoy me parece menos probable. La hipótesis de que haya mentido deliberadamente sobre el conjunto de su ministerio tiene menos apoyo todavía. Este capítulo explica por qué pienso así, dónde podría estar equivocado y qué preguntas siguen abiertas.
 
 ## 1. ¿Qué es lo que se puso a prueba?
 
-Lo que White decía de verdad (capítulo 3). Que Dios le daba mensajes. Que ella los contaba con sus propias palabras. Y que los mensajes que ella presentaba como enviados por Dios había que obedecerlos. No se puso a prueba la idea de que Dios le dictaba palabra por palabra, porque ella la rechazó. Tampoco la idea de que «escribía consejos útiles», porque ella decía mucho más que eso.¹
+Lo que White decía de verdad (capítulo 3). Que Dios le daba mensajes. Que ella los contaba con sus propias palabras. Y que los mensajes que ella presentaba como enviados por Dios había que obedecerlos. No se puso a prueba la idea de que Dios le dictaba palabra por palabra, porque ella la rechazó. Tampoco la idea de que «escribía consejos útiles», porque ella decía mucho más que eso.
 
 ## 2. ¿Qué explicaciones compiten?
 
@@ -988,21 +988,21 @@ Está **probado** que sus escritos mezclan visiones, datos que le contaban, libr
 
 De las tres que se pueden usar sin resolver lo de 1844, pasa dos y no falla en la tercera:
 
-- **Deuteronomio 13:** no invita a seguir a otros dioses. Llama a amar al Dios de la Biblia y a buscar a Jesucristo.²
-- **Primera de Juan 4:** reconoce que Jesucristo vino como hombre de carne y hueso. Describe a Jesús como un ser humano real.³
+- **Deuteronomio 13:** no invita a seguir a otros dioses. Llama a amar al Dios de la Biblia y a buscar a Jesucristo.
+- **Primera de Juan 4:** reconoce que Jesucristo vino como hombre de carne y hueso. Describe a Jesús como un ser humano real.
 - **Miqueas 3:** está documentado lo que ganaba ella y lo que ganaba su familia. Pero no hay muestras de mensajes que cambiaran según le pagaran.
 
 Esto cuenta a su favor y saca del medio algunas objeciones. Pero no prueba que fuera inspirada: cualquier cristiana podría pasar estas pruebas leyendo la Biblia.
 
 ## 4. ¿Pasa las pruebas que usa la propia iglesia?
 
-La página oficial de la Iglesia Adventista nombra cinco pruebas del don de profecía. Que esté de acuerdo con la Biblia. Que exalte a Jesús como Hijo de Dios (Primera de Juan 4). Que dé buenos frutos. Que glorifique a Dios y no a sí mismo. Y que, si habla del futuro, no haya lugar para el error (Jeremías capítulo 28, versículo 9). La página dice que White cumple esas pruebas.¹⁶ Esa lista está en la página de la iglesia en internet. La declaración formal de fe, la Creencia Fundamental 18, no trae la lista: afirma que el don se manifestó en White y que sus escritos hablan con autoridad profética. El White Estate, que cuida sus escritos, presenta cuatro parecidas y aclara que los anuncios con condiciones, como el de Jonás, pueden no cumplirse.¹⁵
+La página oficial de la Iglesia Adventista nombra cinco pruebas del don de profecía. Que esté de acuerdo con la Biblia. Que exalte a Jesús como Hijo de Dios (Primera de Juan 4). Que dé buenos frutos. Que glorifique a Dios y no a sí mismo. Y que, si habla del futuro, no haya lugar para el error (Jeremías capítulo 28, versículo 9). La página dice que White cumple esas pruebas. Esa lista está en la página de la iglesia en internet. La declaración formal de fe, la Creencia Fundamental 18, no trae la lista: afirma que el don se manifestó en White y que sus escritos hablan con autoridad profética. El White Estate, que cuida sus escritos, presenta cuatro parecidas y aclara que los anuncios con condiciones, como el de Jonás, pueden no cumplirse.
 
 Son casi las mismas pruebas que usa este libro. Pasa la de Jesús. No se encontraron mensajes que la glorifiquen a ella en lugar de a Dios, aunque la autoridad que tuvo sobre otros es un tema aparte (capítulo 14). Los frutos son mezclados. El acuerdo con la Biblia queda abierto, porque este libro no revisó la doctrina. Y la prueba del futuro es la más difícil: la iglesia dice que no puede haber lugar para el error, y el anuncio de 1856 no se cumplió tal como se dijo. La única salida es que tuviera una condición que el texto no menciona. Puede ser, como en el caso de Ezequías (sección 7). Pero si cualquier anuncio que no se cumple pasa a ser condicional, esa prueba ya no puede fallar nunca, y deja de servir como prueba.
 
 ## 5. ¿Qué apoya que sus mensajes vinieran de Dios?
 
-Algunos casos pesan de verdad. En 1901 avisó que, si no había cambios, una calamidad (quizás un fuego) alcanzaría a la casa editora de la *Review and Herald*, y en 1902 se incendió. En 1902 anunció que habría propiedades para sanatorios a mucho menos de lo que habían costado, como pasó con Paradise Valley. Está el gesto masónico que reconoció Faulkhead. Está la reunión de noche en Battle Creek, en 1891, que describió al día siguiente. Y está la visión de 1855 que corrigió lo que ella misma pensaba sobre cuándo empieza el sábado.⁴
+Algunos casos pesan de verdad. En 1901 avisó que, si no había cambios, una calamidad (quizás un fuego) alcanzaría a la casa editora de la *Review and Herald*, y en 1902 se incendió. En 1902 anunció que habría propiedades para sanatorios a mucho menos de lo que habían costado, como pasó con Paradise Valley. Está el gesto masónico que reconoció Faulkhead. Está la reunión de noche en Battle Creek, en 1891, que describió al día siguiente. Y está la visión de 1855 que corrigió lo que ella misma pensaba sobre cuándo empieza el sábado.
 
 Cada uno cumple parte de lo que pide el capítulo 7, y por eso pesa algo. Pero ninguno cumple lo suficiente: un escrito seguro anterior al hecho, detalles precisos, un dato que no pudiera saber de manera normal y un resultado que no dependiera de quienes recibieron el mensaje. En todos queda una explicación normal razonable. No se inventan esas explicaciones para descartar los casos. Pero tampoco se dice que los casos son imposibles de explicar sólo porque no se puede reconstruir todo.
 
@@ -1010,15 +1010,15 @@ Cada uno cumple parte de lo que pide el capítulo 7, y por eso pesa algo. Pero n
 
 Dos pesan más que todos los demás. El más fuerte es el de 1864.
 
-**El folleto de 1864 sobre la masturbación.** Le echó la culpa a esa costumbre de enfermedades graves y de muertes jóvenes, de una manera que no se sostiene. Y la parte central empieza con «me ha sido mostrado». Decir que ella no era infalible no resuelve un error importante que presentó como revelado. Lo que se puede probar como mostrado es lo central (que esa costumbre dañaba gravemente el cuerpo y podía llevar a la muerte), no cada enfermedad de la lista. Pero lo central ya es falso. Tampoco se puede decir que tenía una condición: es una afirmación sobre causas de enfermedades, la misma medicina equivocada que circulaba en su época.⁶
+**El folleto de 1864 sobre la masturbación.** Le echó la culpa a esa costumbre de enfermedades graves y de muertes jóvenes, de una manera que no se sostiene. Y la parte central empieza con «me ha sido mostrado». Decir que ella no era infalible no resuelve un error importante que presentó como revelado. Lo que se puede probar como mostrado es lo central (que esa costumbre dañaba gravemente el cuerpo y podía llevar a la muerte), no cada enfermedad de la lista. Pero lo central ya es falso. Tampoco se puede decir que tenía una condición: es una afirmación sobre causas de enfermedades, la misma medicina equivocada que circulaba en su época.
 
-**El anuncio de 1856.** White dijo que un ángel le mostró que algunos de los que estaban en una reunión seguirían vivos cuando Jesús volviera, y serían llevados al cielo sin morir. Ninguno sigue vivo. El anuncio no pone ninguna condición. Los defensores dicen que tenía una condición, y esa explicación ya existía en 1868 y 1883, antes de que murieran todos. Pero no muestra que los que la escucharon en 1856 la entendieran así. Si se aplica la regla de Deuteronomio 18 al texto tal como se publicó, el anuncio no pasa la prueba. Pero la Biblia tiene anuncios sin condición escrita que igual cambiaron, como el de Ezequías, así que este caso es un problema serio y no una refutación cerrada (sección 7). Eso sí: si se probara que falló, no sería un detalle, porque Deuteronomio capítulo 18, versículo 20 lo carga sobre el profeta y no sólo sobre esa frase.⁵
+**El anuncio de 1856.** White dijo que un ángel le mostró que algunos de los que estaban en una reunión seguirían vivos cuando Jesús volviera, y serían llevados al cielo sin morir. Ninguno sigue vivo. El anuncio no pone ninguna condición. Los defensores dicen que tenía una condición, y esa explicación ya existía en 1868 y 1883, antes de que murieran todos. Pero no muestra que los que la escucharon en 1856 la entendieran así. Si se aplica la regla de Deuteronomio 18 al texto tal como se publicó, el anuncio no pasa la prueba. Pero la Biblia tiene anuncios sin condición escrita que igual cambiaron, como el de Ezequías, así que este caso es un problema serio y no una refutación cerrada (sección 7). Eso sí: si se probara que falló, no sería un detalle, porque Deuteronomio capítulo 18, versículo 20 lo carga sobre el profeta y no sólo sobre esa frase.
 
-Después vienen otros problemas, con menos seguridad. En la escena del juicio de 1879 y en el diario de 1890 aparecen, dentro de visiones, palabras sacadas de libros de Daniel March y de F. W. Krummacher. En el segundo caso, como palabras que un guía le mandaba decir.⁷ En 1850 dijo que la mano de Dios había escondido un error en el cuadro de 1843.⁸ Y sus visiones de 1849 sobre la puerta cerrada siguen chocando con lo que negó en 1874.⁹
+Después vienen otros problemas, con menos seguridad. En la escena del juicio de 1879 y en el diario de 1890 aparecen, dentro de visiones, palabras sacadas de libros de Daniel March y de F. W. Krummacher. En el segundo caso, como palabras que un guía le mandaba decir. En 1850 dijo que la mano de Dios había escondido un error en el cuadro de 1843. Y sus visiones de 1849 sobre la puerta cerrada siguen chocando con lo que negó en 1874.
 
 ## 7. ¿No le pasa a la Biblia lo mismo que al anuncio de 1856?
 
-Es la objeción más fuerte contra este libro, y hay que enfrentarla. En el Nuevo Testamento, Jesús dice que «no pasará esta generación» hasta que todo suceda (Marcos capítulo 13, versículo 30). Y dice que algunos de los que estaban ahí no morirían sin ver el reino de Dios venir con poder (Marcos capítulo 9, versículo 1). Pablo escribe «nosotros los que vivamos» cuando habla de la venida del Señor (Primera de Tesalonicenses capítulo 4, versículo 15).¹⁰ Si a esos textos se les aplicara la regla de 1856 con la misma dureza, ¿no darían el mismo resultado?
+Es la objeción más fuerte contra este libro, y hay que enfrentarla. En el Nuevo Testamento, Jesús dice que «no pasará esta generación» hasta que todo suceda (Marcos capítulo 13, versículo 30). Y dice que algunos de los que estaban ahí no morirían sin ver el reino de Dios venir con poder (Marcos capítulo 9, versículo 1). Pablo escribe «nosotros los que vivamos» cuando habla de la venida del Señor (Primera de Tesalonicenses capítulo 4, versículo 15). Si a esos textos se les aplicara la regla de 1856 con la misma dureza, ¿no darían el mismo resultado?
 
 El libro no puede esquivar esta pregunta, porque el capítulo 2 dijo que la regla vale para cualquier profecía. Los cristianos han dado varias respuestas sobre esos pasajes. Que «generación» puede referirse a la destrucción de Jerusalén en el año 70. Que la promesa a «algunos de los que están aquí» se refiere a la transfiguración, que el relato cuenta enseguida (cuando Jesús se mostró brillante ante tres discípulos). Y que el «nosotros» de Pablo expresa una esperanza, sin decir quiénes iban a estar vivos. Esas respuestas se discuten, y acá no se resuelven.
 
@@ -1070,23 +1070,23 @@ Esta lista no se suma como si fueran puntos. Muestra qué pesa y qué falta.
 
 ## 12. ¿Fue sincera?
 
-Probablemente, aunque no se puede probar en cada caso. Dijo que sus experiencias venían de Dios desde sus primeros escritos, de 1845, y lo sostuvo toda su vida, muchas veces pagando un costo. Un crítico de 1847 que no creía en sus visiones tampoco la acusó de mentir. No hay una serie de documentos que muestre que inventaba a propósito.¹¹
+Probablemente, aunque no se puede probar en cada caso. Dijo que sus experiencias venían de Dios desde sus primeros escritos, de 1845, y lo sostuvo toda su vida, muchas veces pagando un costo. Un crítico de 1847 que no creía en sus visiones tampoco la acusó de mentir. No hay una serie de documentos que muestre que inventaba a propósito.
 
 Pero no se puede descartar una posición intermedia: una base sincera con momentos en que usó su autoridad para ganar una pelea o negó más de lo que correspondía. Lo de Bolton, el diezmo y lo que negó en 1897 son casos donde eso pudo pasar. Los documentos no permiten decidirlo.
 
 ## 13. ¿Qué significa la opción que ella no aceptaba?
 
-White dijo que su obra venía de Dios o del diablo, sin término medio. Esta investigación no tiene por qué aceptar que sólo existan esas dos opciones. Pero la tercera no es una manera suave de darle la razón. Si la explicación humana sincera es la correcta, es falso que esos mensajes vinieran de Dios, aunque ella creyera lo contrario. Ser sincera y tener razón sobre el origen son dos preguntas distintas.¹²
+White dijo que su obra venía de Dios o del diablo, sin término medio. Esta investigación no tiene por qué aceptar que sólo existan esas dos opciones. Pero la tercera no es una manera suave de darle la razón. Si la explicación humana sincera es la correcta, es falso que esos mensajes vinieran de Dios, aunque ella creyera lo contrario. Ser sincera y tener razón sobre el origen son dos preguntas distintas.
 
 ## 14. ¿Qué queda afuera de esta conclusión?
 
 El análisis completo, con la Biblia, de lo que pasó en 1844, del santuario y del juicio investigador (enseñanzas adventistas sobre lo que Cristo hace en el cielo desde 1844). Según las propias reglas del libro, estar de acuerdo con la Biblia en la doctrina es una prueba importante. Por eso la respuesta a la pregunta del título es parcial. Este libro revisa las pruebas que se pueden comparar con documentos históricos, no todas. Si esas enseñanzas chocaran claramente con la Biblia, la objeción sería más fuerte. Si encajaran bien, sumarían apoyo, aunque eso solo no probaría una revelación.
 
-También queda afuera la edad de la Tierra. Para un lector que acepta la geología actual, incluirla haría más fuerte la conclusión en contra (capítulo 12).¹³
+También queda afuera la edad de la Tierra. Para un lector que acepta la geología actual, incluirla haría más fuerte la conclusión en contra (capítulo 12).
 
 ## 15. ¿Qué podría cambiar esta conclusión?
 
-Varias cosas harían más fuerte la explicación de que venía de Dios. Un anuncio con fecha anterior a un hecho preciso y difícil de adivinar, sin ninguna manera normal de saberlo. Un documento de 1856 que muestre que los que escucharon entendían una condición. O un texto de 1849 que diga claramente a quiénes se refería la puerta cerrada. En cambio, un borrador que muestre que ella dijo que algo venía del cielo sabiendo que no era así haría más fuerte la explicación del fraude. Por eso importan los diarios originales, los borradores y las pruebas de cuándo llegaron las cartas, que todavía faltan.¹⁴
+Varias cosas harían más fuerte la explicación de que venía de Dios. Un anuncio con fecha anterior a un hecho preciso y difícil de adivinar, sin ninguna manera normal de saberlo. Un documento de 1856 que muestre que los que escucharon entendían una condición. O un texto de 1849 que diga claramente a quiénes se refería la puerta cerrada. En cambio, un borrador que muestre que ella dijo que algo venía del cielo sabiendo que no era así haría más fuerte la explicación del fraude. Por eso importan los diarios originales, los borradores y las pruebas de cuándo llegaron las cartas, que todavía faltan.
 
 ## 16. ¿Qué significa esto para un adventista?
 
@@ -1096,15 +1096,15 @@ Quien sostenga que fue profeta tiene que explicar el folleto de 1864, el anuncio
 
 ## 17. ¿Qué me parece a mí, después de todo esto?
 
-No estoy seguro de que Elena G. de White haya sido profeta. Con lo que encontré hasta hoy, no me alcanza para creerlo. Lo que más me cierra es esto: creo que ella creyó de verdad que sus mensajes venían de Dios, pero que eran de origen humano. A veces se puede mostrar el libro del que salieron. A veces sólo que coinciden con ideas de su época. Y otras veces me parece que una explicación humana encaja mejor, aunque no se pueda reconstruir de dónde salió cada cosa. Qué causaba las visiones mismas, no lo sé.
+Lo que más pesó para mí fue el folleto de 1864: una afirmación médica equivocada que White presentó como algo mostrado por Dios. Después, el anuncio de 1856, que no se cumplió literalmente. Me parece un problema serio, aunque no cerrado, porque la Biblia también contiene anuncios sin una condición escrita que luego cambiaron, como el de Ezequías. Los textos de 1879 y 1890 procedentes de otros autores, el cuadro de 1843 y la puerta cerrada añaden dificultades, aunque con distintos grados de certeza.
 
-Lo que más pesó para mí es el folleto de 1864: un error médico que ella presentó como mostrado por Dios. Después, el anuncio de 1856, que no se cumplió. Me parece un problema serio, aunque no cerrado, porque en la Biblia también hay anuncios sin condición escrita que igual cambiaron, como el de Ezequías. Los textos de 1879 y 1890 sacados de otros libros, el cuadro de 1843 y la puerta cerrada suman, pero con menos seguridad.
+No quiero esconder lo que juega a favor. El incendio de la *Review and Herald*, Paradise Valley, Faulkhead y Salamanca son casos que me hicieron pensar. Ninguno me obligó a dejar de lado las explicaciones ordinarias, pero tampoco los descarto. Además, este libro no completó el examen bíblico de ciertas doctrinas, y la comparación con los anuncios bíblicos exige usar la misma regla para todos.
 
-No quiero esconder lo que juega a favor. El incendio de la *Review and Herald*, Paradise Valley, Faulkhead y Salamanca son casos que me hicieron pensar. Ninguno me obligó a dejar de lado una explicación normal, pero tampoco los descarto.
+Después de examinar las pruebas disponibles, no encuentro fundamentos suficientes para afirmar con seguridad que Elena G. de White haya sido una profeta auténtica. Pero tampoco creo que pueda afirmarse que definitivamente no lo fue.
 
-Por eso no lo digo con seguridad. Hay casos reales a su favor. La comparación con los anuncios de la Biblia pide usar la misma regla con mucho cuidado. Y la doctrina quedó afuera de este libro. Que sus mensajes vinieran de Dios sigue siendo posible. Que algunos vinieran de Dios y otros no, también, aunque me parece menos probable. Lo que no creo es que haya mentido a propósito: eso es lo que tiene menos apoyo de todo.
+Hay evidencias que juegan a su favor y otras que presentan dificultades importantes. Después de considerar ambas, la explicación que hoy me parece más probable es que ella haya creído sinceramente que recibía mensajes de Dios, aunque al menos algunos de esos mensajes parecen haber tenido un origen humano.
 
-Esto es lo que me parece hoy, no una sentencia. Las pruebas están en estas páginas. Alguien puede pesarlas distinto que yo, y tiene todo el derecho de hacerlo.
+Esta es mi conclusión hasta ahora. No es una sentencia definitiva. Puedo estar equivocado, y estoy dispuesto a cambiar de opinión si aparecen pruebas que justifiquen hacerlo.
 
 # Epílogo — ¿Y ahora qué hago con todo esto?
 
@@ -1135,449 +1135,3 @@ Si este libro despertó preguntas, si dio a conocer algo que no se sabía, si re
 Y queda una pregunta que no es sobre ella, sino sobre cada uno de nosotros:
 
 > **¿Estoy dispuesto a pedirles a mis propias creencias las mismas pruebas que les pido a las de los demás?**
-
-# Notas
-
-Estas son las referencias de cada capítulo, para quien quiera consultar las fuentes. No hace falta escucharlas para seguir el libro.
-
-## Capítulo 1 — ¿Qué significan inspiración, iluminación, revelación, impresión del Espíritu, guía del Espíritu, profecía y don de profecía?
-
-1. «Trial of Elder I. Dammon: Reported for the *Piscataquis Farmer*», *Piscataquis Farmer* (Dover, Maine), 7 de marzo de 1845, pp. 1–2. El proceso juzgó a Israel Dammon, no las visiones de Ellen Harmon; el capítulo 4 reconstruye el informe y sus límites.
-
-2. Ezequiel 13:1-16, especialmente 13:2-7. El texto muestra que la convicción del mensajero no prueba el origen del mensaje.
-
-3. Romanos 8:5-17; Gálatas 5:13-25; Efesios 1:17-18; Lucas 24:45. «Iluminación» se usa como herramienta de trabajo, no como categoría que esos textos definan de manera uniforme.
-
-4. Lucas 1:1-4; Sean A. Adams, «Luke’s Preface and Its Relationship to Greek Historiography», *Journal of Greco-Roman Christianity and Judaism* 3 (2006), pp. 177–191.
-
-5. 2 Samuel 7:1-17. El relato no llama falsa profecía a la primera intervención de Natán.
-
-6. Números 12:6; Jeremías 23:16-32; Ezequiel 13:1-9.
-
-7. 1 Corintios 14:1-6, 24-33; Hechos 11:27-28; 21:10-11.
-
-8. Números 22–24; 31:16; Juan 11:49-52.
-
-9. Hechos 13:1; 21:9-11; 1 Tesalonicenses 5:19-22; 1 Corintios 14:29.
-
-## Capítulo 2 — ¿Qué credenciales debe reunir un profeta auténtico?
-
-1. Hechos 11:27-28; 13:1; 21:9-11; 1 Corintios 12–14; Efesios 4:11-13; Joel 2:28-32; Hechos 2:14-21; Apocalipsis 12:17; 19:10; 22:8-9. Seventh-day Adventist Church, «Belief 18: The Gift of Prophecy», documenta la interpretación adventista; no la prueba.
-
-2. Deuteronomio 13:1-5; Mateo 24:24.
-
-3. 1 Juan 4:1-6; 2 Juan 7-9.
-
-4. Deuteronomio 18:20-22; Jeremías 28:1-17.
-
-5. Jeremías 18:7-10; 26:17-19; Jonás 3:4-10; 2 Reyes 20:1-6; Isaías 38:1-5.
-
-6. 1 Reyes 13:1-32.
-
-7. Deuteronomio 18:9-22; Jeremías 23:16-32, especialmente 23:30. El pasaje condena la falsa atribución; no prohíbe toda dependencia literaria.
-
-8. 1 Tesalonicenses 5:19-22; 1 Corintios 14:29-33.
-
-9. Mateo 7:15-23; 12:33-37.
-
-10. Miqueas 3:5-12.
-
-11. Ezequiel 13:1-23.
-
-## Capítulo 3 — ¿Qué afirmó Elena G. de White sobre su propio don y sobre el origen y la autoridad de sus mensajes?
-
-1. Ellen G. Harmon, carta a Enoch Jacobs, Portland, 20 de diciembre de 1845, publicada en *The Day-Star*, 24 de enero de 1846, pp. 31–32; reproducción del Heritage Research Center, Loma Linda University.
-
-2. W. E. Cornell, informe DF 108a, transmitido en A. G. Daniells a W. C. White, 23-V-1906, según Arthur L. White, *The Early Elmshaven Years*, 5BIO 354–355. No se cuenta con el informe original.
-
-3. Ellen G. White, Lt 55, 1905, a O. A. Olsen, 30 de enero de 1905; aclaración en *Review and Herald*, 26 de enero de 1905; Ms 63, 1906, «A Messenger», 26 de mayo de 1906, publicado en *Review and Herald*, 26 de julio de 1906; Lt 244, 1906, 17 de julio de 1906, párr. 18.
-
-4. Ellen G. White, *Testimony for the Battle Creek Church* (1882), pp. 47–49, luego 5T 66–68; *Testimony for the Church—No. 33* (1889), «An Unwarranted Distinction», pp. 211–219, luego 5T 683–691.
-
-5. Ellen G. White, *Testimonies for the Church*, t. 4, p. 230, transcripción, reproducido en *Testimony* n.º 33 (1889), p. 199; t. 5, p. 661, «The Nature and Influence of the Testimonies».
-
-6. Ellen G. White, Ms 107, 1909, 5 de marzo, párrs. 2, 6 y 11; luego *Selected Messages*, t. 1, pp. 38–39.
-
-7. Ellen G. White, *Testimony for the Church—No. 33* (1889), pp. 211–219, especialmente 5T 686–687.
-
-8. Ellen G. White, «Questions and Answers», *Review and Herald*, 8 de octubre de 1867, p. 260; Lt 206, 1906, a David Paulson, 14 de junio, párrs. 2–3.
-
-9. Ellen G. White, Lt 225, 1906, 8 de julio; *The Great Controversy* (1888), prefacio, p. h, facsímil; edición de 1911, introducción, pp. xi–xii.
-
-10. Ellen G. White, Lt 10, 1895, a F. E. Belden, 9 de junio, párr. 6; *Selected Messages*, t. 1, p. 37.
-
-11. *The Great Controversy* (1888), introducción, pp. d–e; *Testimony for the Church—No. 33* (1889), pp. 192–196; carta abierta del 6 de diciembre de 1902, *Review and Herald*, 20 de enero de 1903. Herbert E. Douglass, *Messenger of the Lord*, pp. 408–409, contempla también la lectura de Cristo como «luz mayor».
-
-## Capítulo 4 — ¿Qué ocurrió realmente en las primeras visiones de Elena G. de White?
-
-1. «Trial of Elder I. Dammon», *Piscataquis Farmer*, 7 de marzo de 1845, pp. 1–2, facsímil y transcripción. El juicio fue el 17 y 18 de febrero.
-
-2. James White, *A Word to the “Little Flock”* (1847), pp. 22–23, facsímil; Ellen G. White a Joseph Bates, Lt 3, 1847, 13 de julio, texto; *A Sketch of the Christian Experience and Views* (1851), p. 5.
-
-3. Ellen G. White, Lt 2c, 1874, 24 de agosto, texto.
-
-4. William Miller, *Apology and Defence* (1845), p. 28, reproducido en *The Shut Door Documents*, entrada 19.
-
-5. William E. Foy, *The Christian Experience of William E. Foy* (Portland, 1845), texto; «Conference of Adventists at New York», *Advent Herald*, 21 de mayo de 1845, p. 118, según Froom, *The Adventist Gift of Prophecy*, pp. 248–249.
-
-6. Ellen G. Harmon a Enoch Jacobs, 20 de diciembre de 1845, *The Day-Star*, 24 de enero de 1846, pp. 31–32; Lt 1, 1845, texto anotado.
-
-7. James White a Enoch Jacobs, 19 de agosto de 1845, *The Day-Star*, 6 de septiembre de 1845, reproducido en *Ellen G. White and the Shut Door Question*, pp. 17–18.
-
-8. Ronald D. Graybill, «Visions and Revisions—Part 1», *Ministry*, febrero de 1994, pp. 11–13; *Spiritual Gifts*, vol. 2 (1860), pp. 30–35 y 52–55.
-
-9. Foy (1845), escena de la puerta, edición textual; *A Word to the “Little Flock”* (1847), pp. 13–17, con las notas de James; *Experience and Views* (1851), p. 11; 2 Esdras 2:19.
-
-10. Otis Nichols a William Miller, 20 de abril de 1846, White Estate DF 439b, transcripción.
-
-11. Ellen G. White a Joseph Bates, Lt 3, 1847, texto.
-
-12. Visión de Topsham, 24 de marzo de 1849, en *Early Writings*, pp. 42–45; *The Present Truth*, agosto de 1849, texto.
-
-13. Ellen G. White a J. N. Loughborough, Lt 2, 1874, 24 de agosto, texto; *Selected Messages*, t. 1, p. 74.
-
-14. *Piscataquis Farmer*, 7 de marzo de 1845, pp. 1–2, testimonios de Joseph Moulton y Benjamin Smith. Dammon fue condenado a diez días y apeló; en una carta de mayo de 1845 dijo que había sido absuelto.
-
-15. Testimonios de Crosby, Lambert, Ayer, Moody, Mason, Doore y Woodbury, *Piscataquis Farmer*, 7 de marzo de 1845; transcripción de Frederick Hoyt, *Spectrum* 17, n.º 5 (1987), pp. 29–36, PDF.
-
-16. *Spiritual Gifts*, vol. 2 (1860), pp. 40–42; declaración de Joseph Moulton, *Piscataquis Farmer*, 7 de marzo de 1845.
-
-17. Carta anónima citada por James White en *A Word to the “Little Flock”* (1847), pp. 22–23.
-
-18. Joseph Bates, «Remarks», en *A Word to the “Little Flock”* (1847), p. 21.
-
-## Capítulo 5 — ¿Qué ocurría físicamente durante las visiones de Elena G. de White?
-
-1. James White, *Life Incidents* (Battle Creek, 1868), pp. 272–273, edición digital.
-
-2. George I. Butler, «Visions and Prophecy», *Review and Herald*, 9 de junio de 1874, pp. 201–202, facsímil.
-
-3. J. N. Loughborough, *Rise and Progress of the Seventh-day Adventists* (1892), pp. 92–96, facsímil.
-
-4. «Trial of Elder I. Dammon», *Piscataquis Farmer*, 7 de marzo de 1845; transcripción del White Estate.
-
-5. Joseph Bates, «Remarks», en *A Word to the ‘Little Flock’* (1847), p. 21, reproducción.
-
-6. James White a Leonard y Elvira Hastings, 26 de agosto de 1848, *The Shut Door Documents*, entrada 32, fuente declarada Record Book 1, pp. 18–20; autógrafo no cotejado.
-
-7. Relato de Otis Nichols en *Spiritual Gifts*, t. 2 (1860), pp. 77–79; Butler (1874); Loughborough (1892); recuerdo de Martha Amadon, *Ministry*, marzo de 1944, p. 4, facsímil.
-
-8. Loughborough, *Rise and Progress* (1892), pp. 247–248; *General Conference Daily Bulletin*, 18 de marzo de 1891, p. 145.
-
-9. Declaración de D. T. Bourdeau, 4 de febrero de 1891, en Loughborough, *Rise and Progress* (1892), p. 97.
-
-10. Declaraciones de M. G. Kellogg (1890), los Lamson (1893), David Seeley (1897), Fowler, Glover y Carpenter (1891), en Loughborough, *Rise and Progress* (1892), pp. 95–97, y *The Great Second Advent Movement* (1905), pp. 207–209; Milton Hook, «Kellogg, Merritt Gardner».
-
-11. Merritt G. Kellogg a John Harvey Kellogg, 3 de junio de 1906, DF 105-k; discusión en *A Critique of the Book Prophetess of Health*.
-
-12. M. J. Parkes, «Breath-holding and its breakpoint», *Experimental Physiology* 91 (2006): 1–15, PubMed; S. B. Gay et al., «Breath-holding capability of adults», *Investigative Radiology* 29 (1994): 848–851, PubMed.
-
-13. Otis Nichols, en *Spiritual Gifts*, t. 2 (1860), pp. 77–79, texto.
-
-14. «The Big Bible», White Estate; Ronald D. Graybill, «The Big Bible, Bigger Still», *Spectrum* 43, n.º 3 (2015): 5–16, PDF; Loughborough, *GC Daily Bulletin*, 18 de marzo de 1891, p. 145; actas de 1919 en *Spectrum* 10, n.º 1 (1979), pp. 23–57.
-
-15. Loughborough, *Rise and Progress* (1892), pp. 92–98.
-
-16. H. E. Carver, *Mrs. E. G. White’s Claims to Divine Inspiration Examined* (1877), transcripción; D. M. Canright, *Life of Mrs. E. G. White* (1919).
-
-17. Actas de la Conferencia Bíblica de 1919, *Spectrum* 10, n.º 1 (1979); resumen documental del White Estate.
-
-## Capítulo 6 — ¿Qué podría explicar las visiones de Elena G. de White?
-
-1. James White, *Life Incidents* (1868), pp. 272–273, edición digital; W. C. White, 17 de diciembre de 1905, transcripción.
-
-2. Ellen G. White, *Spiritual Gifts*, vol. 2 (1860), pp. 7–9, texto.
-
-3. Christensen et al., «Long-term risk of epilepsy after traumatic brain injury in children and young adults», *Lancet* 373 (2009), pp. 1105–1110, PubMed; Ellen G. White, *A Sketch of the Christian Experience and Views* (1851), pp. 3–4, texto.
-
-4. Delbert H. Hodder, «Visions or Partial-Complex Seizures?», *Evangelica* 2, n.º 5 (1981), reproducción; Molleurus Couperus, «The Significance of Ellen White’s Head Injury», *Adventist Currents* 1, n.º 6 (1985), pp. 16–33, reproducción.
-
-5. Larsen et al., «Duration of epileptic seizure types: A data-driven approach», *Epilepsia* 64 (2023), pp. 469–478, texto. El estudio excluyó registros no medibles, incluidos 20 pacientes con estado epiléptico, por lo que no descarta esa forma prolongada.
-
-6. «Did Ellen White Have Complex Partial Seizures? A Committee Report», *Ministry*, agosto de 1984, pp. 24–25, texto; Donald I. Peterson, *Visions or Seizures?* (1988).
-
-7. During et al., «A critical review of dissociative trance and possession disorders», *Canadian Journal of Psychiatry* 56 (2011), pp. 235–242, PubMed; Larsen et al. (2023), tablas 1–2.
-
-8. Ann Taves, *Fits, Trances, and Visions* (Princeton University Press, 1999); *Piscataquis Farmer*, 7 de marzo de 1845.
-
-9. William E. Foy, *The Christian Experience of William E. Foy* (1845), edición textual; Ellen G. White, entrevista de 1906, Ms 131, 1906, extractos; Ellen G. White a Mary Foss, Lt 37, 1890, texto.
-
-10. Ellen G. White, Ms 46, 1904, en *Selected Messages*, t. 1, pp. 206–207; J. N. Andrews, «Time for Commencing the Sabbath», *Review and Herald*, 4 de diciembre de 1855, pp. 76–78; Ellen G. White, 1T 116; James White, *Review and Herald*, 25 de febrero de 1868, p. 168.
-
-11. Carta anónima citada por James White, *A Word to the “Little Flock”* (1847), pp. 22–23.
-
-12. Joseph Bates, «Remarks», en *A Word to the “Little Flock”* (1847), p. 21.
-
-## Capítulo 7 — ¿Predijo Elena G. de White acontecimientos que no podía conocer?
-
-1. J. N. Loughborough, *Rise and Progress of the Seventh-day Adventists* (1892), pp. 236–237, facsímil; el inventario de sus papeles no lista un diario de 1861.
-
-2. American Historical Association, «Chronology of Major Events Leading to Secession Crisis».
-
-3. Ellen G. White, «Slavery and the War», *Review and Herald*, 27 de agosto de 1861; Library of Congress, primera batalla de Bull Run.
-
-4. Ellen G. White, *Testimony for the Church—No. 7* (1862), pp. 3–10, luego 1T 259; Office of the Historian, «The Trent Affair».
-
-5. Ellen G. White, *A Sketch of the Christian Experience and Views* (1851), p. 62; *Early Writings*, p. 75.
-
-6. Ellen G. White, carta 138, 1901, mecanografiada el 16 de octubre, párrs. 8 y 24; *Testimonies for the Church*, t. 8, pp. 91 y 96.
-
-7. Ellen G. White, Ms 114, 1902; *Review and Herald*, 5 de julio de 1906; Ms 25, 1908.
-
-8. Ellen G. White, carta 157, 1902, 13 de octubre, párr. 3; Donna Fosbinder, «Hospital Based Nursing Schools in San Diego», *Journal of San Diego History* 35 (1989); *The Story of Our Health Message*, pp. 337–338. Faltan escrituras y tasaciones contemporáneas.
-
-9. Ellen G. White, carta 11, 1862, a Moses Hull; 1T 426–437.
-
-10. Ellen G. White, *Testimony for the Church—No. 2* (1856), p. 22; 1T 131–132. La traducción es propia.
-
-11. Ellen G. White, *Testimony for the Church—No. 16* (1868), p. 98, luego 2T 193–194; Ms 4, 1883, párrs. 50–53; White Estate sobre 1856.
-
-12. Ellen G. White, *Review and Herald*, 31 de julio de 1888, p. 482.
-
-13. Ellen G. White, *The Present Truth*, 1 de noviembre de 1850; *A Sketch of the Christian Experience and Views* (1851); *Early Writings*, p. 74.
-
-14. Ellen G. White, *The Great Controversy*, pp. 448–449 y 588–590.
-
-15. Ellen G. White, *Testimony for the Church—No. 1* (1855), p. 11, luego 1T 122–123; *Review and Herald*, 14 de enero de 1858; J. N. Loughborough, *The Prophetic Gift in the Gospel Church* (1905), para el recuerdo tardío.
-
-## Capítulo 8 — ¿Conoció Elena G. de White cosas que no podía saber por medios normales?
-
-1. Ellen G. White, *Testimonies for the Church*, t. 3, p. 314.
-
-2. Ellen G. White, *Testimony for the Church—No. 33* (1889), pp. 211–219, luego 5T 683–691.
-
-3. W. C. White, «Statements Regarding Mrs. White and Her Work».
-
-4. Ellen G. White, carta 21b, 1892, párrs. 14–19; *Experiences in Australia*, pp. 69–72; Lester Devine, «Faulkhead, Nathaniel D.».
-
-5. Ellen G. White, carta 46, 1892; Nathaniel Faulkhead, carta del 5 de octubre de 1908, en A. L. White, *The Australian Years*, pp. 52–53.
-
-6. Milton Hook, *Letters to Aussie Colonials*, pp. 3–4; los registros masónicos se conocen por esta reproducción.
-
-7. White Estate, *The Salamanca Vision and the 1890 Diary*, relatos de testigos.
-
-8. Ellen G. White, Ms 40, 1890, «Written in 1891»; *The Salamanca Vision and the 1890 Diary*, introducción.
-
-9. «The Salamanca Experience», que remite a los testimonios de la colección del White Estate.
-
-10. J. N. Loughborough, *Review and Herald*, 4 de marzo de 1884, p. 154; *Rise and Progress* (1892), pp. 171–173; *Pacific Union Recorder*, 15 de julio de 1909, p. 1.
-
-11. E. W. Farnsworth a Ellen G. White, 15 de julio de 1885, en *Ministry*, julio de 1944.
-
-12. E. P. Daniels, respuesta del 25 de julio de 1883, *Review and Herald Supplement*, 14 de agosto de 1883, p. 10.
-
-13. Ellen G. White, *Testimony for the Church*, n.º 18 (1869), luego 2T 449–457; D. M. Canright, *Life of Mrs. E. G. White*, cap. 16.
-
-## Capítulo 9 — ¿Utilizó Elena G. de White escritos de otros autores?
-
-1. Ellen G. White, *Sketches from the Life of Paul* (1883), cap. 13; comparación de Denis Fortin, «EGW and Conybeare»; recomendación en *Signs of the Times*, 22 de febrero de 1883, p. 96.
-
-2. Correspondencia de C. E. Holmes y Thomas Y. Crowell Company, enero de 1924, reproducida por Francis D. Nichol, *Ellen G. White and Her Critics*, pp. 455–457; White Estate, «Ellen G. White and Sources».
-
-3. Donald R. McAdams, «Ellen G. White and the Protestant Historians» (1974, revisado en 1977); Herbert E. Douglass, *Messenger of the Lord* (1998), capítulo sobre *The Great Controversy*.
-
-4. Fred Veltman, *Life of Christ Research Project*, «Summary and Conclusions»; «The Desire of Ages Project: The Conclusions», *Ministry*, diciembre de 1990.
-
-5. Ellen G. White, *Review and Herald*, 8 de octubre de 1867.
-
-6. Ellen G. White, *The Great Controversy* (1888), prefacio, p. h, facsímil; introducción de 1911, pp. xi–xii.
-
-7. W. C. White, declaración del 30 de octubre de 1911; Ellen G. White, carta 57, 1911.
-
-8. Veltman, «Summary and Conclusions»; McAdams (1977).
-
-9. «Plagiarism», *Review and Herald*, 6 de septiembre de 1864, p. 120.
-
-## Capítulo 10 — ¿Qué significa para su inspiración que usara libros de otros?
-
-1. Lucas 1:1-4; 1 Reyes 11:41; 2 Crónicas 9:29; Marcos 2:1-12; Mateo 9:1-8; Lucas 5:17-26; Judas 14-15; 1 Enoc 1:9.
-
-2. Ellen G. White, *Review and Herald*, 8 de octubre de 1867, p. 260; *Spiritual Gifts* 2 (1860), pp. 292–293; Lt 38, 1885, párr. 30; *The Great Controversy* (1888), prólogo, pp. g–h.
-
-3. Daniel March, *Night Scenes in the Bible*, pp. 201–202; Ellen G. White, 5T 68; Walter Rea, *The White Lie* (1982), pp. 52–54.
-
-4. Ellen G. White, *Testimony for the Church*, n.º 29 (1880), «The Judgment», pp. 3–7, luego 4T 384–387; Daniel March, *Walks and Homes of Jesus* (1866), pp. 316–317; Ron Graybill, «The “I Saw” Parallels», *Adventist Review*, 29 de julio de 1982.
-
-5. Ellen G. White, Ms 29a, 1890, entrada del 21 de noviembre; F. W. Krummacher, *Elijah the Tishbite* (Nueva York: Robert Carter, 1847), pp. 20–21.
-
-6. Ellen G. White, Ms 153, 1898; *Review and Herald*, 4 de abril de 1899, pp. 209–210; Heman Humphrey, introducción a John Harris, *The Great Teacher* (1836), pp. xiv–xvii; Ron Graybill, *Adventist Review*, 2 de abril de 1981, y rectificación del 30 de abril de 1981.
-
-7. Ellen G. White, Lt 238, 1903, a A. G. Daniells; Ms 10, 1905, párr. 6.
-
-8. Ellen G. White, Ms 7, 1867; *Spiritual Gifts* 4a (1864), p. 128; John C. Gunn, *New Domestic Physician* (1863), pp. 367–368; «Tobacco-Using. No. 2», *Review and Herald*, 24 de mayo de 1864; Tim Poirier, «Ellen White and Sources: 125 Years Later».
-
-9. Ellen G. White, Lt 25, 1897, 11 de abril; Lt 24, 1897, 25 de junio.
-
-## Capítulo 11 — ¿Hasta qué punto podemos atribuir a Elena G. de White los libros publicados bajo su nombre?
-
-1. W. C. White a G. A. Irwin, 7 de mayo de 1900, exhibición 81 de «How *The Desire of Ages* Was Written».
-
-2. Marian Davis a W. C. White, 29 de marzo de 1893; Ellen G. White a W. C. White, 15 de junio de 1893; Davis a W. C. White, 11 de abril de 1897; Davis a Ellen G. White, 10 de agosto de 1895; Ellen G. White a Irwin, 23 de abril de 1900; exhibiciones 45–81 de la misma colección.
-
-3. Davis a J. E. White, 22 de diciembre de 1895, exhibición 61, misma colección.
-
-4. *The Fannie Bolton Story*; Bolton, «A Confession Concerning the Testimony of Jesus Christ», ca. 1901.
-
-5. White Estate, «Ellen G. White and Sources»; Walter T. Rea, *The White Lie*, cap. 11; Herbert E. Douglass, *Messenger of the Lord*, sección sobre Bolton.
-
-6. «Prescott's Suggestions»; W. C. White, informe del 30 de octubre de 1911.
-
-7. Ellen G. White a F. M. Wilcox, cartas 56 y 57, 25 y 27 de julio de 1911, en «The 1911 Edition».
-
-8. Cartas de Clarence Crisler, enero de 1915, en «The Story of *Prophets and Kings*».
-
-9. Acta del 10 de septiembre de 1944, en «Compilations—What They Are and What They Are Not».
-
-## Capítulo 12 — ¿Cometió Elena G. de White errores en asuntos de historia, ciencia y salud?
-
-1. Ellen G. White, Ms 107, 1909; Lt 10, 1895; véase el capítulo 3.
-
-2. *The Great Controversy* (1888 y 1911), p. 65; Prescott a W. C. White, 26 de abril de 1910; Uppsala University Library, *The history of Codex argenteus*.
-
-3. GC 1888/1911, pp. 50 y 61; Prescott, §§8 y 20.
-
-4. GC 1888/1911, pp. 273 y 286–287; Prescott, §58; decreto del 6 de diciembre de 1793, *Archives parlementaires*, t. 81, p. 30; William Russell, *The History of Modern Europe* (1818), vol. 3, p. 379.
-
-5. Ellen G. White, *Spiritual Gifts*, t. 3 (1864), pp. 79–83; USGS, *About Volcanoes*; E. L. Heffern y D. A. Coates, *Geologic history of natural coal-bed fires* (2004).
-
-6. Ellen G. White, *Spiritual Gifts*, t. 3 (1864), pp. 90–93, transcripción.
-
-7. USGS, «Geologic Time: Age of the Earth».
-
-8. *Spiritual Gifts*, t. 3, pp. 64 y 75, contexto; Uriah Smith, *The Visions of Mrs. E. G. White* (1868), pp. 102–105; Gordon Shigley, «Amalgamation of Man and Beast», *Spectrum* 12, n.º 4 (1982).
-
-9. Ellen G. White, *Spiritual Gifts* 4a (1864), pp. 128–146; *The Ministry of Healing* (1905); OMS, tabaco; OMS, alcohol.
-
-10. Graham, *Lectures on the Science of Human Life* (1839); Coles, *Philosophy of Health* (1853); Jackson, «Diptheria», *Review and Herald*, 17 de febrero de 1863, con nota de James White.
-
-11. Ellen G. White, *An Appeal to Mothers* (1864), facsímil, pp. 17–19 y 27–28; transcripción, ApM 18.1–18.2 y 27.1. La traducción es propia.
-
-12. James Whorton, «The solitary vice», *West J Med* 175 (2001): 66–68; Briken et al., *Sexual Medicine Reviews* 12 (2024): 355–370.
-
-13. Herbert E. Douglass, *Messenger of the Lord*, cap. 43, notas 62–66.
-
-14. Mateo 13:31-32; Marcos 4:30-32.
-
-15. Ellen G. White, *Spiritual Gifts* 4a (1864), pp. 133–134.
-
-16. Gachelin et al., «Evaluating Cinchona bark and quinine for treating and preventing malaria», *Journal of the Royal Society of Medicine* 110 (2017).
-
-17. IARC sobre carne roja y procesada; Coles, *Philosophy of Health* (1853), pp. 67–68; Ellen G. White, *The Ministry of Healing* (1905), p. 313; National Cancer Institute, *Common Cancer Myths and Misconceptions*.
-
-18. Ellen G. White, *The Ministry of Healing*, pp. 326–327; Poole et al., *BMJ* 359 (2017): j5024.
-
-## Capítulo 13 — ¿Se contradijo Elena G. de White?
-
-1. Ellen G. White, testimonio del 21 de octubre de 1858, 1T 206–207; *Spiritual Gifts* 4a (1864), p. 124.
-
-2. Ellen G. White, discurso del 6 de marzo de 1869, luego 2T 371–372; Ms 12, 1873, en reproducción del White Estate; Lt 76, 1895.
-
-3. Ellen G. White, Lt 128, 1896, a Mary Clough Watson, 9 de julio.
-
-4. Ellen G. White, Lt 37, 1901, a los Kress, 29 de mayo, párrs. 2, 7 y 18; *The Ministry of Healing* (1905), pp. 302 y 320.
-
-5. Ellen G. White, *Spiritual Gifts* 4a (1864), p. 134; PH066 (1890), p. 43; *Review and Herald*, 5 de septiembre de 1899.
-
-6. Ellen G. White, Ms 115, catalogado en 1903, encabezado el 4 de septiembre de 1902, párrs. 20 y 29–30.
-
-7. W. C. White, recuerdo del 10 de septiembre de 1935, en *Selected Messages*, t. 2, pp. 282–283.
-
-8. *The Great Controversy* (1888), p. h; Ellen G. White, Lt 25, 1897; Lt 24, 1897.
-
-9. Véase el capítulo 12; Prescott, 26 de abril de 1910.
-
-10. Ellen G. White, 1T 421 (1863); *Review and Herald*, 8 de octubre de 1867; 4T 636–640 (1881); Ms 167, 1897, en dossier documental.
-
-11. Ellen G. White, *Testimony No. 22* (1872), pp. 12–13; Ms 7, 1904, 14 de enero.
-
-12. Ellen G. White, «A Test of Gratitude and Loyalty», *Review and Herald*, 10 de noviembre de 1896; Lt 267, 1905, a G. F. Watson, 22 de enero, párrs. 2–7.
-
-## Capítulo 14 — ¿Qué muestra la vida de Elena G. de White sobre si fue profeta?
-
-1. W. C. White y D. E. Robinson, *Mrs. White's Indebtedness*; *Understanding Ellen White* (2015), cap. 15, «Estate debt resolution». Son reconstrucciones institucionales con criterios distintos.
-
-2. Ellen G. White, «Last Will and Testament», 9 de febrero de 1912.
-
-3. Ellen G. White, Lt 267, 1905.
-
-4. W. S. Sadler, carta a Ellen G. White, 26 de abril de 1906; respuestas de Ellen G. White, Lt 224, 1906 y Lt 234, 1906.
-
-5. Ellen G. White, Lt 7, 1894, a Fannie Bolton; G. B. Starr, declaración del 2 de junio de 1915; M. G. Kellogg, declaración, ca. 1908.
-
-6. Ellen G. White, Lt 239, 1903, 28 de octubre, párrs. 5–6; Lt 135, 1903.
-
-7. Ellen G. White, Lt 232, 1903; Lt 62, 1910, 3 de agosto.
-
-8. Ellen G. White, Ms 43d, 1901.
-
-9. Ellen G. White, Lt 16, 1882, a Mary Kelsey White; testimonios de Bolton y Starr en el dossier del White Estate.
-
-## Capítulo 15 — ¿Qué frutos produjo el ministerio de Elena G. de White?
-
-1. Mateo 7:15-23.
-
-2. Ellen G. White, *Testimonies* 1, «The Health Reform», pp. 485–493, transcripción; «A Great Fact Accomplished», *Review and Herald*, 11 de septiembre de 1866.
-
-3. Gary E. Fraser y David J. Shavlik, «Ten Years of Life: Is It a Matter of Choice?», *Archives of Internal Medicine* 161 (2001): 1645–1652, texto.
-
-4. Ellen G. White, *Manuscript Releases* 8, pp. 249–265; Milton Hook, «Avondale University, Australia».
-
-5. «Report of Committee on Education», *General Conference Bulletin*, 1 de enero de 1896, pp. 655–656; Lt 145, 1897, en 8MR 256.
-
-6. *General Conference Bulletin*, 14 de abril de 1901, pp. 209–211, informe de P. T. Magan.
-
-7. Roger L. Dudley y Des Cummings Jr., «Who reads Ellen White?», *Ministry*, octubre de 1982.
-
-8. C. L. Benson, 30 de julio de 1919, transcripción.
-
-9. Walter T. Rea, *The White Lie* (1982), cap. 2; Büssing et al., «Experience of Spiritual Dryness and Acedia Symptoms in Seventh-Day Adventists», *Journal of Religion and Health* 60 (2021).
-
-10. Ellen G. White, discurso del 2 de abril de 1901, *General Conference Bulletin*, 3 de abril de 1901; Barry Oliver, «The Principles and Process of Denominational Reorganization, 1901–1903».
-
-11. Ellen G. White, «Our Duty to the Colored People», 21 de marzo de 1891; 9T 204–213; sobre Kinny, biografía documental.
-
-12. Ellen G. White, *Review and Herald*, 9 de julio de 1895; Lt 137, 1898.
-
-13. W. W. Prescott a W. C. White, 6 de abril de 1915, en el dossier de Arthur L. White.
-
-14. Actas del 30 de julio y 1 de agosto de 1919, transcripción.
-
-15. David E. Anderson, «Church removes Seventh-day minister», UPI, 20 de noviembre de 1980.
-
-16. Gerhard Pfandl, «Remembering Desmond Ford», *Adventist Review*.
-
-17. Actas de la sesión de la Asociación General, 6 de julio de 2015; Adventist.org, creencia 18.
-
-## Capítulo 16 — ¿Qué explicación encaja mejor con toda la evidencia?
-
-1. Ellen G. White, *Testimony for the Battle Creek Church* (1882), pp. 47–49; Lt 206, 1906; Ms 107, 1909. Véase el capítulo 3.
-
-2. Deuteronomio 13:1-5; Ellen G. White, *Steps to Christ* (1892), cap. 1.
-
-3. 1 Juan 4:1-6; Ellen G. White, *The Desire of Ages* (1898), cap. 4, pp. 48–49.
-
-4. Véanse los capítulos 6, 7 y 8; Ellen G. White, carta 138, 1901, y carta 157, 1902.
-
-5. Ellen G. White, *Testimony for the Church—No. 2* (1856), p. 22; *Testimony* n.º 16 (1868), p. 98; Ms 4, 1883; Herbert E. Douglass, *Messenger of the Lord*, cap. 43; Walter T. Rea, *The White Lie* (1982), pp. 58–59. Véase el capítulo 7.
-
-6. Ellen G. White, *An Appeal to Mothers* (1864), pp. 17–19 y 27–28. Véase el capítulo 12.
-
-7. Ellen G. White, *Testimony*, n.º 29 (1880); Daniel March, *Walks and Homes of Jesus* (1866), pp. 316–317; Ellen G. White, Ms 29a, 1890; F. W. Krummacher, *Elijah the Tishbite* (1847), pp. 20–21. Véase el capítulo 10.
-
-8. Ellen G. White, *The Present Truth*, 1 de noviembre de 1850; *Early Writings*, p. 74. Véase el capítulo 7.
-
-9. Véanse los capítulos 4 y 13.
-
-10. Marcos 9:1; 13:30; Mateo 16:28; 24:34; 1 Tesalonicenses 4:15-17.
-
-11. James White, *A Word to the “Little Flock”* (1847), pp. 22–23. Véanse los capítulos 6 y 14.
-
-12. Ellen G. White, *Testimonies for the Church*, t. 4, p. 230.
-
-13. Ellen G. White, *Spiritual Gifts*, t. 3 (1864), pp. 90–93; USGS, «Geologic Time: Age of the Earth».
-
-14. Véanse los capítulos 5, 7, 8, 10 y 14.
-
-15. Armando Juárez, «Why We Can Have Confidence in the Prophetic Gift Today», sermón del Día del Espíritu de Profecía 2009, Ellen G. White Estate.
-
-16. Seventh-day Adventist Church, «What Is the Gift of Prophecy in the Bible?», sección «How to test the spiritual gift of prophecy».
