@@ -1,39 +1,29 @@
-# Epílogo — ¿Qué hacemos con una conclusión que no es absoluta?
+# Epílogo — ¿Y ahora qué hago con todo esto?
 
-Muchos preferirían una respuesta más limpia: «sí, fue profeta» o «no, fue una impostora». Las pruebas no dan ninguna de las dos. Dan esto: no quedó confirmado que Elena G. de White fuera profeta. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que eran de origen humano: a veces se puede mostrar el libro del que salieron, a veces sólo que coinciden con ideas de su época, y otras veces una explicación humana encaja mejor sin que se pueda reconstruir. Es una respuesta provisional, porque la doctrina quedó afuera. Y no se probó que mintiera a propósito en todo. Esa conclusión nos obliga a sostener juntas cosas que quisiéramos separar.
+Voy a seguir leyendo a Elena G. de White. Me gusta. Me voy a seguir emocionando con los mismos capítulos de *El Deseado de todas las gentes*, como siempre.
 
-## ¿Puede alguien estar equivocado y haber hecho mucho bien?
+Y voy a hacer con ella lo mismo que hago con todo lo que leo: quedarme con lo bueno y dejar lo que no me parezca bueno. «Examinadlo todo; retened lo bueno» (1 Tesalonicenses 5:21).
 
-Sí. Que una idea sea útil y que venga de donde alguien dice son preguntas distintas. Un consejo puede ayudar sin haber sido revelado. Y una persona puede consolar, enseñar y fundar instituciones sin que eso pruebe que Dios le mostró sus mensajes. Tampoco al revés: haber hecho el bien no la deja libre de crítica.
+## ¿Qué lugar tiene la Biblia?
 
-## ¿Puede alguien ser sincero y estar equivocado sobre de dónde vienen sus mensajes?
+El primero, siempre. Ella misma lo decía. Y cualquier afirmación, venga de quien venga, hay que mirarla con todas las pruebas que se puedan juntar y desde todas las disciplinas que tengan algo para aportar: la historia, la medicina, la ciencia, el estudio de los textos. Sólo así se puede ver si las cosas son como se dicen.
 
-Sí. Es justamente una de las posibilidades que este libro tuvo que tomar en serio. Ser sincero no hace verdadero lo que uno dice. Pero cambia el tipo de error. No es lo mismo inventar algo a propósito que vivir una experiencia intensa, mezclada con lecturas y recuerdos, y creer de verdad que Dios la guió.
+## ¿Qué me dejó este estudio?
 
-## ¿Por qué no alcanza con quedarse con lo que nos gusta?
+Me ayudó a pensar con más cuidado. A no creer cualquier cosa que leo o escucho, y a buscar con sinceridad.
 
-Porque la pregunta era si ciertos mensajes vienen de Dios. Si un aviso que acertó cuenta como revelación, una afirmación equivocada presentada de la misma manera también tiene que contar. Decir «ahí habló como humana» sólo cuando se equivoca, sin explicar por qué, es medir con dos reglas distintas. Una explicación que sirve para cualquier resultado ya no se puede poner a prueba.
+## ¿Qué no hace este libro?
 
-## ¿Qué debería hacer quien todavía cree que fue profeta?
+No desautoriza a personas ni a denominaciones. No caricaturiza a nadie, ni a un grupo ni a una persona. Intenta hacer lo contrario: preguntar como un niño, que pregunta sin miedo.
 
-No hacer como si los problemas no existieran. Se puede confiar y tener preguntas a la vez. Pero la confianza no debería depender de no conocer los documentos. La mejor defensa tiene que sostener dos cosas juntas: que hubo mucho trabajo humano y que, en los mensajes que ella presentó como de Dios, Dios habló de verdad. Y tiene que explicar los casos más difíciles: 1856, el folleto de 1864 y los textos sacados de otros libros. Tampoco ayuda decir que ella nunca se equivocaba, cuando ella misma lo negó.
+Eso pide estar dispuesto a aprender y a reaprender. Y cuando uno lo hace, aparece algo que yo no esperaba: gozo. No miedo de darse cuenta de que estaba equivocado, o de que las cosas no eran tal como las pensaba, sino gozo de ir descubriendo cosas nuevas. Se aprende de lo que se encuentra: se contrasta, se compara, se pregunta, se busca, se investiga, se consulta.
 
-## ¿Qué debería hacer quien concluye que no fue profeta?
+## ¿Y ahora qué?
 
-Tampoco simplificar. Esta investigación no probó que todo fuera un fraude ni que sus escritos no valgan nada. Convertir cada error en un engaño es el mismo defecto que se critica cuando un defensor convierte cada problema en algo que encaja. Si la explicación humana sincera es la mejor, hay que dejar que sea humana de verdad: con convicción, ambiente, memoria, lecturas, aciertos y errores.
+Ahora le toca a cada uno. Los de Berea escucharon a Pablo y después revisaron las Escrituras todos los días, para ver si las cosas eran así (Hechos 17:11). Eso es lo que propongo: sentarse, estudiar por uno mismo y decidir.
 
-## ¿Qué pasa con quienes construyeron su fe alrededor de sus escritos?
+Si este libro despertó preguntas, si dio a conocer algo que no se sabía, si respondió alguna duda o si abrió dudas nuevas, ya cumplió su propósito.
 
-Este libro no puede decidir por ellos. Sí puede ofrecer una diferencia: revisar una autoridad no obliga a negar todo lo bueno que uno vivió con ella. Si alguien encontró en esos libros consuelo o una invitación a amar mejor, eso no desaparece. Pero una experiencia buena tampoco obliga a decir que viene de Dios algo que ahora no se puede demostrar.
-
-## ¿Por qué no saber del todo no es un fracaso?
-
-Porque la meta era una conclusión a la medida de las pruebas, no una seguridad inventada. Separar lo probado, lo probable, lo posible y lo que no se sabe evita hacer como si estuviéramos seguros cuando no lo estamos. Y esta conclusión puede cambiar. Un documento de 1856, un borrador o una prueba de cuándo llegó una carta podrían moverla para un lado o para el otro. Una conclusión que no puede cambiar ya no es una investigación: es una lealtad.
-
-## ¿Con qué pregunta conviene cerrar?
-
-No con «¿estoy de acuerdo con ella?», ni con «¿me gusta lo que concluye este libro?». Una más útil es esta:
+Y queda una pregunta que no es sobre ella, sino sobre cada uno de nosotros:
 
 > **¿Estoy dispuesto a pedirles a mis propias creencias las mismas pruebas que les pido a las de los demás?**
-
-Esa pregunta va más allá de White. Alcanza a todo lo religioso que pide autoridad, también a lo nuestro. Cuando alguien dice «Dios me habló», no hace falta reírse ni creerle sin más. Se puede responder con una pregunta: **¿cómo lo sabemos?**

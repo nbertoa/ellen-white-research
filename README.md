@@ -56,7 +56,7 @@ Investigación profunda detrás de una lectura sencilla. Frases cortas, palabras
 | 13. Contradicciones | Cambió consejos; quedan cuatro choques sin resolver, pero no dos revelaciones contrarias. |
 | 14. Su vida | No hay pruebas de que se hiciera rica; el problema es cómo usó su autoridad. |
 | 15. Frutos | Salud, educación y misión reales; costaba mucho reconocer sus errores en público. |
-| 16. Conclusión | No quedó confirmado que fuera profeta; tiene más apoyo que creyó sinceramente en mensajes de origen humano. El caso más fuerte es 1864. Provisional. |
+| 16. Conclusión | En primera persona: al autor no le alcanza para creer que fue profeta; tiene más apoyo que creyó sinceramente en mensajes de origen humano. El caso más fuerte es 1864. Provisional. |
 
 ## ¿Cuál es el estado actual?
 

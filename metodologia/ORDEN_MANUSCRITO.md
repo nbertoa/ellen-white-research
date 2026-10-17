@@ -30,7 +30,7 @@ La Nota al lector explica la escala de evidencia, la regla de simetría, la jera
 
 ## ¿Qué debe aparecer después del capítulo 16?
 
-17. [Epílogo — ¿Qué hacemos con una conclusión que no es absoluta?](../capitulos/17-epilogo.md)
+17. [Epílogo — ¿Y ahora qué hago con todo esto?](../capitulos/17-epilogo.md)
 
 El Epílogo no incorpora evidencia nueva ni modifica el grado de la conclusión. Su función es distinguir utilidad, sinceridad, autenticidad profética y fraude, y explicar qué significa conservar una conclusión provisional.
 
