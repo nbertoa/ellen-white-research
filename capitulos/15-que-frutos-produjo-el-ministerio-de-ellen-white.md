@@ -1,6 +1,6 @@
 # Capítulo 15 — ¿Qué frutos produjo el ministerio de Elena G. de White?
 
-Ayudó a crear un movimiento que cuidaba la salud, educaba y hacía misiones. Trajo beneficios reales, que también fueron obra de muchas otras personas. También ayudó a formar un sistema de autoridad en el que costaba mucho reconocer en público sus errores y sus límites. Los frutos tienen valor moral. Pero sirven poco para saber si su obra vino de Dios o de una líder humana sincera.
+Ayudó a crear un movimiento que cuidaba la salud, educaba y hacía misiones. Trajo beneficios reales, que también fueron obra de muchas otras personas. También ayudó a formar un sistema de autoridad en el que costaba mucho reconocer en público sus errores y sus límites. Creo que los frutos tienen valor moral. Pero sirven poco para saber si su obra vino de Dios o de una líder humana sincera.
 
 ## 1. ¿Por qué los frutos no son lo mismo que el éxito?
 
@@ -48,7 +48,7 @@ Desde 2015, la Iglesia Adventista dice que sus escritos «hablan con autoridad p
 
 ## 8. ¿Qué frutos ayudan a decidir?
 
-Pocos. Hospitales, escuelas y una fe viva encajan tanto con un origen divino como con una líder humana sincera. Lo que más pesa para la pregunta de este libro es lo difícil que era corregir errores en público, porque eso tiene que ver con la verdad y con la conciencia. Y ni siquiera ahí se prueba que ella dirigiera un plan para engañar.
+Pocos. Hospitales, escuelas y una fe viva encajan tanto con un origen divino como con una líder humana sincera. Me parece que lo que más pesa para la pregunta de este libro es lo difícil que era corregir errores en público, porque eso tiene que ver con la verdad y con la conciencia. Y ni siquiera ahí se prueba que ella dirigiera un plan para engañar.
 
 [^1]: Mateo 7:15-23.
 [^2]: Ellen G. White, *Testimonies* 1, «The Health Reform», pp. 485–493, [transcripción](https://ellenwhiteresearch.com/works/1T/85); «A Great Fact Accomplished», [*Review and Herald*, 11 de septiembre de 1866](https://documents.adventistarchives.org/Periodicals/RH/RH18660911-V28-15.pdf).

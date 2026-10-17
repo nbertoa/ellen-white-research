@@ -60,7 +60,7 @@ Joseph Bates, otro líder, al principio pensó que podía ser debilidad física 
 
 Ellen Harmon contaba visiones en público desde febrero de 1845. Su primera visión fue probablemente en diciembre de 1844. Lo central del primer relato ya existía en 1845, pero después se borraron frases, y hay parecidos con Foy y con 2 Esdras que dejan preguntas abiertas. Hasta 1849 sus visiones se usaron para sostener la puerta cerrada, y eso choca con lo que escribió en 1874.
 
-Es creíble que fuera sincera, y estos documentos no muestran fraude. Pero ninguno dice de dónde venían las visiones. El próximo capítulo mira qué le pasaba al cuerpo mientras las tenía.
+A mí me parece creíble que fuera sincera, y estos documentos no muestran fraude. Pero ninguno dice de dónde venían las visiones. El próximo capítulo mira qué le pasaba al cuerpo mientras las tenía.
 
 [^1]: «Trial of Elder I. Dammon», *Piscataquis Farmer*, 7 de marzo de 1845, pp. 1–2, [facsímil y transcripción](https://archive.org/details/TrialOfElderI.Dammon.ReportedForThePiscataquisFarmer.-In). El juicio fue el 17 y 18 de febrero.
 [^2]: James White, *A Word to the “Little Flock”* (1847), pp. 22–23, [facsímil](https://www.aplib.org/files/ebooks/pdf/James%20White%20-%20A%20Word%20to%20the%20Little%20Flock.pdf); Ellen G. White a Joseph Bates, Lt 3, 1847, 13 de julio, [texto](https://m.egwwritings.org/en/book/711.90); *A Sketch of the Christian Experience and Views* (1851), p. 5.

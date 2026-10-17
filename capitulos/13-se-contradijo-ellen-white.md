@@ -50,7 +50,7 @@ En 1849 publicó visiones que unían la puerta cerrada con los mandamientos. Y o
 
 ## 11. ¿Cuánto pesa todo esto?
 
-No todos los cambios valen lo mismo. Un recuerdo impreciso, una corrección de historia o un consejo distinto para un enfermo pesan poco. Los remedios, lo que negó en 1897, el diezmo y la puerta cerrada pesan más. Tocan afirmaciones fuertes sobre causas de enfermedades, sobre de dónde venían sus mensajes o sobre órdenes que presentaba como de Dios.
+Creo que no todos los cambios valen lo mismo. Un recuerdo impreciso, una corrección de historia o un consejo distinto para un enfermo pesan poco. Los remedios, lo que negó en 1897, el diezmo y la puerta cerrada pesan más. Tocan afirmaciones fuertes sobre causas de enfermedades, sobre de dónde venían sus mensajes o sobre órdenes que presentaba como de Dios.
 
 Que no se encontraran dos revelaciones contrarias no prueba que todo sea coherente ni que venga de Dios. Y que sea coherente no arregla el anuncio de 1856 que no se cumplió. El capítulo siguiente pasa de los textos a su vida.
 

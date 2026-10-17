@@ -1,6 +1,6 @@
 # Capítulo 14 — ¿Qué muestra la vida de Elena G. de White sobre si fue profeta?
 
-Su vida no encaja con la de una mentirosa que se hizo rica con sus seguidores. Murió debiendo más de lo que tenía, y puso dinero en la obra de la iglesia. Pero tampoco fue una vida sin manchas. El problema mejor documentado no es el dinero. Es que usó, en peleas personales, una autoridad religiosa que nadie podía discutir. Y que, aun cuando tuvo que corregir cómo había entendido algo, siguió diciendo que venía de Dios.
+Me parece que su vida no encaja con la de una mentirosa que se hizo rica con sus seguidores. Murió debiendo más de lo que tenía, y puso dinero en la obra de la iglesia. Pero tampoco fue una vida sin manchas. El problema mejor documentado no es el dinero. Es que usó, en peleas personales, una autoridad religiosa que nadie podía discutir. Y que, aun cuando tuvo que corregir cómo había entendido algo, siguió diciendo que venía de Dios.
 
 ## 1. ¿Qué conducta importa para juzgar a un profeta?
 
@@ -44,7 +44,7 @@ No está probado. Como mostró el capítulo 13, no dejó la carne de manera cont
 
 ## 9. ¿Qué explicación encaja mejor con su conducta?
 
-Hay pocas pruebas de que fuera una mentirosa que buscaba dinero. Encaja mejor la de una persona convencida de su fe, que podía equivocarse, que defendía con dureza lo que pensaba y que tenía una autoridad que nadie podía discutir.
+Hay pocas pruebas de que fuera una mentirosa que buscaba dinero. A mí me parece que encaja mejor la de una persona convencida de su fe, que podía equivocarse, que defendía con dureza lo que pensaba y que tenía una autoridad que nadie podía discutir.
 
 Pero hay que nombrar también una posición intermedia, que el final del libro tiene que tener en cuenta: **una base sincera con momentos en que se defendió por interés propio.** Una persona puede creer de verdad que Dios le dio una tarea y, en peleas concretas, usar esa autoridad para ganar una discusión o negar más de lo que correspondía. Lo de Bolton, el diezmo y lo que negó en 1897 son el tipo de casos donde se juega esa posibilidad. Los documentos no alcanzan para confirmarla ni para descartarla.
 

@@ -74,7 +74,7 @@ En *El conflicto de los siglos* anunció una ley en Estados Unidos que obligarí
 
 ## 13. ¿Qué queda claro?
 
-El resultado es mezclado. Hay advertencias escritas antes y concretas que merecen tenerse en cuenta. Hay un anuncio que ella presentó como venido de Dios y no se cumplió. Hay un texto que dice que Dios escondió un error en el cuadro de 1843. Y hay anuncios que siguen abiertos. Ningún caso prueba que supiera cosas por un camino sobrenatural.
+A mí el resultado me parece mezclado. Hay advertencias escritas antes y concretas que merecen tenerse en cuenta. Hay un anuncio que ella presentó como venido de Dios y no se cumplió. Hay un texto que dice que Dios escondió un error en el cuadro de 1843. Y hay anuncios que siguen abiertos. Ningún caso prueba que supiera cosas por un camino sobrenatural.
 
 [^1]: J. N. Loughborough, *Rise and Progress of the Seventh-day Adventists* (1892), pp. 236–237, [facsímil](https://documents.adventistarchives.org/Books/RP1892.pdf); el [inventario de sus papeles](https://centerforadventistresearch.org/wp-content/uploads/2023/03/John-N.-Loughborough-Papers-327.pdf) no lista un diario de 1861.
 [^2]: American Historical Association, [«Chronology of Major Events Leading to Secession Crisis»](https://www.historians.org/teaching-learning/aha-historical-collections/16-months-to-sumter/chronology-of-major-events-leading-to-secession-crisis/).

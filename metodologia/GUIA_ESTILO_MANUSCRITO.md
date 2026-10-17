@@ -85,6 +85,10 @@ Desde la revisión del 17 de octubre de 2026, el manuscrito se escribe para que 
 
 Simplificar nunca puede cambiar un hecho, una fecha, un número ni el grado de certeza.
 
+## ¿Cuándo se habla en primera persona?
+
+Desde el 17 de octubre de 2026, las interpretaciones y posturas del autor van en primera persona del singular («me parece», «creo»), en especial en el comienzo y el cierre de cada capítulo, en el capítulo 16 y en el epílogo. Los hechos documentados se siguen diciendo como hechos («está probado», «no se cumplió»). La razón es la del propio autor: no es una búsqueda de tener la razón, sino de la verdad, y siempre se puede aprender y reaprender.
+
 ## ¿Qué largo debe tener cada capítulo?
 
 Desde la condensación del 17 de octubre de 2026, el manuscrito busca lo más corto que conserve los hechos, los grados de certeza y lo que juega en contra. Como referencia: entre 700 y 1.600 palabras de cuerpo por capítulo y unas 2.600 en el capítulo 16, después de la revisión de lenguaje simple. Cada capítulo responde su pregunta en el primer párrafo, presenta sólo los casos que inclinan el balance y deja el detalle documental en `hallazgos/`. Las tablas se usan sólo cuando resumen un resultado; las tablas de trabajo quedan fuera de la edición de lectura.

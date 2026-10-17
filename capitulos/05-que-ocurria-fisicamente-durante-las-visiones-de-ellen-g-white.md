@@ -56,7 +56,7 @@ No. Las señales físicas llamativas son de las primeras décadas. La última «
 
 ## 9. ¿Qué probarían esas señales aunque fueran reales?
 
-Que pasaba algo fuera de lo común, no quién lo causaba. En muchas religiones se han descrito trances en los que la persona no siente, se pone rígida y respira distinto. De dónde venían los mensajes se decide mirando los mensajes, no el cuerpo.
+Que pasaba algo fuera de lo común, no quién lo causaba. En muchas religiones se han descrito trances en los que la persona no siente, se pone rígida y respira distinto. Creo que de dónde venían los mensajes se decide mirando los mensajes, no el cuerpo.
 
 | Lo que se dice | Cómo queda |
 |---|---|
