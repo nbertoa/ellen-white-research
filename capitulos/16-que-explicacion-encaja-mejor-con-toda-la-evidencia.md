@@ -1,6 +1,6 @@
 # Capítulo 16 — ¿Qué explicación encaja mejor con toda la evidencia?
 
-Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para ser considerada una profeta verdadera. La explicación con más apoyo, aunque no total, es esta: vivió experiencias religiosas reales, de origen humano, y creyó de verdad que eran revelaciones de Dios. Que haya mentido a propósito en todo tiene todavía menos apoyo. Este capítulo explica por qué, dónde podría estar equivocada esta conclusión y qué preguntas deja sin responder.
+Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para ser considerada una profeta verdadera. La explicación con más apoyo, aunque no total, es esta: creyó de verdad que sus mensajes venían de Dios, pero, en los casos estudiados, lo que decían salió de fuentes humanas. Qué causaba las visiones mismas no se sabe. Que haya mentido a propósito en todo tiene todavía menos apoyo. Este capítulo explica por qué, dónde podría estar equivocada esta conclusión y qué preguntas deja sin responder.
 
 ## 1. ¿Qué es lo que se puso a prueba?
 
@@ -26,13 +26,19 @@ De las tres que se pueden usar sin resolver lo de 1844, pasa dos y no falla en l
 
 Esto cuenta a su favor y saca del medio algunas objeciones. Pero no prueba que fuera inspirada: cualquier cristiana podría pasar estas pruebas leyendo la Biblia.
 
-## 4. ¿Qué apoya que sus mensajes vinieran de Dios?
+## 4. ¿Pasa las pruebas que usa la propia iglesia?
+
+El White Estate, que cuida sus escritos, presenta cuatro pruebas bíblicas de un profeta verdadero y se las aplica a ella. Que esté de acuerdo con la Biblia (Isaías 8:20). Que sus anuncios se cumplan (Deuteronomio 18:21-22), salvo los que tienen condiciones, como el de Jonás. Que reconozca que Jesucristo vino en carne y hueso (1 Juan 4). Y que dé buenos frutos (Mateo 7).[^15]
+
+Son las mismas pruebas que usa este libro, así que el resultado es el mismo. Pasa la de 1 Juan 4. Los frutos son mezclados. El acuerdo con la Biblia queda abierto, porque este libro no revisó la doctrina. Y la prueba de los anuncios es la que falla en 1856: la iglesia acepta que un anuncio puede tener condiciones, pero en el de 1856 la condición no aparece en el texto. Hay además un riesgo. Si cualquier anuncio que no se cumple pasa a ser condicional, esa prueba ya no puede fallar nunca, y deja de servir como prueba.
+
+## 5. ¿Qué apoya que sus mensajes vinieran de Dios?
 
 Algunos casos pesan de verdad. En 1901 avisó que, si no había cambios, una calamidad (quizás un fuego) alcanzaría a la casa editora de la *Review and Herald*, y en 1902 se incendió. En 1902 anunció que habría propiedades para sanatorios a mucho menos de lo que habían costado, como pasó con Paradise Valley. Está el gesto masónico que reconoció Faulkhead. Está la reunión de noche en Battle Creek, en 1891, que describió al día siguiente. Y está la visión de 1855 que corrigió lo que ella misma pensaba sobre cuándo empieza el sábado.[^4]
 
 Ninguno tiene todo lo que haría falta: un escrito seguro anterior al hecho, detalles precisos, un dato que no pudiera saber de manera normal y un resultado que no dependiera de quienes recibieron el mensaje. En todos queda una explicación normal razonable. No se inventan esas explicaciones para descartar los casos. Pero tampoco se dice que los casos son imposibles de explicar sólo porque no se puede reconstruir todo.
 
-## 5. ¿Cuáles son los problemas principales?
+## 6. ¿Cuáles son los problemas principales?
 
 Dos pesan más que todos los demás.
 
@@ -42,7 +48,7 @@ Dos pesan más que todos los demás.
 
 Después vienen otros problemas, con menos seguridad. En la escena del juicio de 1879 y en el diario de 1890 aparecen, dentro de visiones, palabras sacadas de libros de Daniel March y de F. W. Krummacher. En el segundo caso, como palabras que un guía le mandaba decir.[^7] En 1850 dijo que la mano de Dios había escondido un error en el cuadro de 1843.[^8] Y sus visiones de 1849 sobre la puerta cerrada siguen chocando con lo que negó en 1874.[^9]
 
-## 6. ¿No le pasa a la Biblia lo mismo que al anuncio de 1856?
+## 7. ¿No le pasa a la Biblia lo mismo que al anuncio de 1856?
 
 Es la objeción más fuerte contra este libro, y hay que enfrentarla. En el Nuevo Testamento, Jesús dice que «no pasará esta generación» hasta que todo suceda (Marcos 13:30). Y dice que algunos de los que estaban ahí no morirían sin ver el reino de Dios venir con poder (Marcos 9:1). Pablo escribe «nosotros los que vivamos» cuando habla de la venida del Señor (1 Tesalonicenses 4:15).[^10] Si a esos textos se les aplicara la regla de 1856 con la misma dureza, ¿no darían el mismo resultado?
 
@@ -52,7 +58,7 @@ Lo que sí se puede decir es dónde está la diferencia con 1856. No está en a 
 
 Con el error médico pasa algo parecido. Los autores de la Biblia también escribieron con la ciencia de su época. El capítulo 12 explica la diferencia que hace este libro. Una cosa es describir algo con palabras comunes. Otra es presentar como mostrada por Dios una causa falsa de enfermedades, para advertir a madres que sus hijos podían morir. Y deja dicho que, si la Biblia hiciera eso, el resultado tendría que ser el mismo.
 
-## 7. ¿Preferir la explicación más sencilla no le da ventaja de entrada a la explicación humana?
+## 8. ¿Preferir la explicación más sencilla no le da ventaja de entrada a la explicación humana?
 
 En parte sí, y hay que decirlo. Toda explicación sobrenatural agrega a alguien que no se puede ver. Si sólo se contara eso, la explicación humana ganaría siempre, antes de mirar los casos.
 
@@ -60,11 +66,11 @@ Por eso la conclusión no se apoya en esa preferencia general, sino en casos con
 
 Un lector que parte de una confianza fuerte en que Dios habla hoy por medio de profetas puede darle más peso de entrada a esa explicación. Esa es una de las razones por las que la conclusión tiene una confianza moderada y no alta.
 
-## 8. ¿Cuánto pesan las visiones, los libros usados, la conducta y los frutos?
+## 9. ¿Cuánto pesan las visiones, los libros usados, la conducta y los frutos?
 
 Poco para decidir entre las dos primeras explicaciones. En las visiones, lo básico que vieron los testigos es probable, pero no dice qué las causaba (capítulos 4 a 6). Que usó libros de otros y que tuvo ayuda de editores está probado, y encaja con que fuera inspirada (capítulos 9 a 11). La mayoría de los cambios de consejo no son contradicciones, aunque quedan choques sin resolver (capítulo 13). Su conducta descarta la explicación más cínica, la de buscar dinero, pero deja el problema de cómo usaba su autoridad (capítulo 14). Los frutos tienen un valor real, y también tuvieron un costo para los que querían corregir errores (capítulo 15).
 
-## 9. ¿Cómo le va con las pruebas del capítulo 2?
+## 10. ¿Cómo le va con las pruebas del capítulo 2?
 
 | Prueba | Resultado |
 |---|---|
@@ -80,35 +86,37 @@ Poco para decidir entre las dos primeras explicaciones. En las visiones, lo bás
 
 La tabla no se suma. Muestra qué pesa y qué falta.
 
-## 10. ¿Fue sincera?
+## 11. ¿Fue sincera?
 
 Probablemente, aunque no se puede probar en cada caso. Dijo que sus experiencias venían de Dios desde sus primeros escritos, de 1845, y lo sostuvo toda su vida, muchas veces pagando un costo. Un crítico de 1847 que no creía en sus visiones tampoco la acusó de mentir. No hay una serie de documentos que muestre que inventaba a propósito.[^11]
 
 Pero no se puede descartar una posición intermedia: una base sincera con momentos en que usó su autoridad para ganar una pelea o negó más de lo que correspondía. Lo de Bolton, el diezmo y lo que negó en 1897 son casos donde eso pudo pasar. Los documentos no permiten decidirlo.
 
-## 11. ¿Qué significa la opción que ella no aceptaba?
+## 12. ¿Qué significa la opción que ella no aceptaba?
 
 White dijo que su obra venía de Dios o del diablo, sin término medio. Esta investigación no tiene por qué aceptar que sólo existan esas dos opciones. Pero la tercera no es una manera suave de darle la razón. Si la explicación humana sincera es la correcta, es falso que esos mensajes vinieran de Dios, aunque ella creyera lo contrario. Ser sincera y tener razón sobre el origen son dos preguntas distintas.[^12]
 
-## 12. ¿Qué queda afuera de esta conclusión?
+## 13. ¿Qué queda afuera de esta conclusión?
 
 El análisis completo, con la Biblia, de lo que pasó en 1844, del santuario y del juicio investigador (enseñanzas adventistas sobre lo que Cristo hace en el cielo desde 1844). Según las propias reglas del libro, estar de acuerdo con la Biblia en la doctrina es una prueba importante. Por eso la respuesta a la pregunta del título es parcial. Este libro revisa las pruebas que se pueden comparar con documentos históricos, no todas. Si esas enseñanzas chocaran claramente con la Biblia, la objeción sería más fuerte. Si encajaran bien, sumarían apoyo, aunque eso solo no probaría una revelación.
 
 También queda afuera la edad de la Tierra. Para un lector que acepta la geología actual, incluirla haría más fuerte la conclusión en contra (capítulo 12).[^13]
 
-## 13. ¿Qué podría cambiar esta conclusión?
+## 14. ¿Qué podría cambiar esta conclusión?
 
 Varias cosas harían más fuerte la explicación de que venía de Dios. Un anuncio con fecha anterior a un hecho preciso y difícil de adivinar, sin ninguna manera normal de saberlo. Un documento de 1856 que muestre que los que escucharon entendían una condición. O un texto de 1849 que diga claramente a quiénes se refería la puerta cerrada. En cambio, un borrador que muestre que ella dijo que algo venía del cielo sabiendo que no era así haría más fuerte la explicación del fraude. Por eso importan los diarios originales, los borradores y las pruebas de cuándo llegaron las cartas, que todavía faltan.[^14]
 
-## 14. ¿Qué significa esto para un adventista?
+## 15. ¿Qué significa esto para un adventista?
 
 Puede ser algo difícil de verdad, porque estos escritos suelen estar unidos a la familia, a decisiones de vida y a momentos de consuelo. Este libro no prueba que todo lo aprendido en ellos sea falso. Un error médico no anula lo que Jesús enseñó sobre amar al prójimo. Y un anuncio que no se cumplió no borra una ayuda recibida. Tampoco hace deshonesto a quien confía en ella.
 
 Quien sostenga que fue profeta tiene que explicar 1856, el folleto de 1864 y los textos de 1879 y 1890 sacados de otros libros. Y tiene que hacerlo con razones, no sólo con confianza general. Quien acepte la explicación humana sincera tiene que aceptar lo que eso significa: sus mensajes dejan de obligar como palabra de Dios, aunque se puedan seguir leyendo con provecho. Preguntar de dónde salen o pedir pruebas no es rebelarse contra Dios. Examinar los mensajes es parte de la regla de la Biblia que la propia iglesia usa.
 
-## 15. ¿Cuál es la respuesta final?
+## 16. ¿Cuál es la respuesta final?
 
-**Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para considerarla una profeta verdadera. La explicación con más apoyo, con una confianza moderada, es que tuvo experiencias religiosas de origen humano y creyó sinceramente que eran revelaciones.**
+**Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para considerarla una profeta verdadera. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que, en los casos estudiados, lo que decían salió de fuentes humanas.**
+
+Esta conclusión no dice qué causaba las visiones mismas: eso no se sabe. Dice de dónde salió lo que ella presentó como revelado en los casos que se pudieron revisar. Y es provisional: vale para lo que se puede comprobar con documentos y deja afuera la doctrina.
 
 Lo que más inclina la balanza es la promesa de 1856 que no se cumplió y el error médico de 1864 que presentó como mostrado por Dios. Los textos de 1879 y 1890 sacados de otros libros, el cuadro de 1843 y la puerta cerrada suman problemas, con menos seguridad. Los casos a su favor merecen reconocerse, pero ninguno obliga a dejar de lado las explicaciones normales. La confianza es moderada y no alta por tres razones: hay casos reales a su favor, la comparación con los anuncios de la Biblia pide usar la misma regla con cuidado, y el análisis de la doctrina quedó afuera.
 
@@ -128,3 +136,4 @@ Que sus mensajes vinieran de Dios sigue siendo posible, pero no es la explicaci�
 [^12]: Ellen G. White, [*Testimonies for the Church*, t. 4, p. 230](https://text.egwwritings.org/amp/read/114.1171).
 [^13]: Ellen G. White, *Spiritual Gifts*, t. 3 (1864), pp. 90–93; USGS, [«Geologic Time: Age of the Earth»](https://pubs.usgs.gov/gip/geotime/age.html).
 [^14]: Véanse los capítulos 5, 7, 8, 10 y 14.
+[^15]: Armando Juárez, [«Why We Can Have Confidence in the Prophetic Gift Today»](https://whiteestate.org/sop/2009/sermon.asp), sermón del Día del Espíritu de Profecía 2009, Ellen G. White Estate.

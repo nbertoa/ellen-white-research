@@ -2,7 +2,7 @@
 
 **Actualizado:** 17 de octubre de 2026.
 
-El manuscrito está completo en una edición condensada de unas 19.700 palabras de cuerpo y 202 notas: Nota al lector, Prólogo, capítulos 1–16 y Epílogo. La validación automática da 0 errores y 0 advertencias.
+El manuscrito está completo en una edición condensada y en lenguaje simple de unas 22.900 palabras de cuerpo y 204 notas: Nota al lector, Prólogo, capítulos 1–16 y Epílogo. La validación estructural automática da 0 errores y 0 advertencias (comprueba notas, enlaces y títulos, no la exactitud histórica).
 
 ## ¿Qué cambió el 17 de octubre?
 
@@ -10,11 +10,20 @@ Se reescribió todo el manuscrito para que fuera corto y claro, sin cambiar hech
 
 ## ¿Cuál es la conclusión vigente?
 
-> **Con la evidencia hoy disponible, no quedó demostrado que Elena G. de White reuniera las credenciales necesarias para considerarla una profeta auténtica. La explicación mejor apoyada es, con confianza moderada, la de experiencias religiosas de origen humano interpretadas sinceramente como revelaciones.**
+> **Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para considerarla una profeta verdadera. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que, en los casos estudiados, lo que decían salió de fuentes humanas.**
 
-El origen profético sigue siendo posible; el fraude consciente generalizado recibe menos apoyo todavía. El veredicto es parcial: no incluye el examen bíblico de 1844, el santuario y el juicio investigador, ni una evaluación completa de la edad de la Tierra.
+El origen profético sigue siendo posible; el fraude consciente generalizado recibe menos apoyo todavía. El veredicto es parcial y provisional: no incluye el examen bíblico de 1844, el santuario y el juicio investigador, ni una evaluación completa de la edad de la Tierra.
 
 ## ¿Qué queda por hacer?
+
+Para que la respuesta deje de ser provisional:
+
+- examinar con la Biblia 1844, el santuario y el juicio investigador;
+- evaluar la edad de la Tierra (lo que White presentó como mostrado frente a la geología actual);
+- armar un inventario completo de predicciones y casos de conocimiento oculto, incluidos los descartados y por qué;
+- hacer un registro de cotejo de las notas de la edición actual.
+
+Para publicar:
 
 1. Elegir el formato final de publicación.
 2. Generar la edición maquetada con `scripts/manuscrito.py`.

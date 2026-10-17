@@ -38,4 +38,4 @@ Si eso fuera lo que pasó, no la haría profeta. Querría decir que se equivocó
 
 No es una defensa adventista ni un ataque. Es una investigación con documentos, escrita para personas que no son especialistas. Detrás de cada capítulo hay fechas, ediciones, cartas y testigos. El texto intenta que todo eso aclare, no que confunda.
 
-La conclusión del último capítulo tiene que salir del camino recorrido, no de una idea decidida en la primera página. Y ese camino pide algo incómodo: **estar dispuestos a encontrar una respuesta distinta de la que esperábamos.**
+La Nota al lector adelanta la respuesta para no hacer esperar a nadie. Pero esa respuesta no vale por haberse dicho primero: tiene que sostenerse con el camino recorrido, y en cada capítulo el lector puede comprobar si se sostiene. Y ese camino pide algo incómodo: **estar dispuestos a encontrar una respuesta distinta de la que esperábamos.**

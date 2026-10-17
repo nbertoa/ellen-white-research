@@ -4,7 +4,7 @@ Este libro intenta responder una pregunta:
 
 > **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
 
-La respuesta está en el capítulo 16, pero no hace falta esperar para conocerla. No quedó demostrado que fuera profeta. Lo que mejor explica los documentos es esto: vivió experiencias religiosas reales, que tenían un origen humano, y creyó con sinceridad que venían de Dios. No es una conclusión segura del todo; es la más probable. Los capítulos 1 a 15 muestran cómo se llegó a ella y dónde podría estar equivocada.
+El libro responde esa pregunta en lo que se puede comprobar con documentos históricos. La respuesta está en el capítulo 16, pero no hace falta esperar para conocerla. No quedó demostrado que fuera profeta. Lo que mejor explica los documentos es esto: creyó con sinceridad que sus mensajes venían de Dios, pero, en los casos estudiados, lo que decían salió de fuentes humanas, como lecturas, ideas de su época y noticias que le llegaban. No es una conclusión segura del todo, y es provisional, porque falta una parte (se explica más abajo). Pero es la más probable. Los capítulos 1 a 15 muestran cómo se llegó a ella y dónde podría estar equivocada.
 
 ## ¿Qué quieren decir «probado», «probable», «posible» y «no se sabe»?
 
@@ -33,7 +33,7 @@ Pedir la misma prueba a favor y en contra. Algo no es un milagro sólo porque no
 
 ## ¿Qué deja afuera este libro?
 
-Deja afuera el examen bíblico completo de tres enseñanzas adventistas: la fecha de 1844, el santuario celestial y el juicio investigador. Según los propios criterios del libro, eso también cuenta para saber si alguien es profeta, pero necesita otra investigación. Tampoco estudia a fondo la edad de la Tierra. Por eso la respuesta es parcial, y el capítulo 16 explica qué se pierde al dejar eso afuera.
+Deja afuera el examen bíblico completo de tres enseñanzas adventistas: la fecha de 1844, el santuario celestial y el juicio investigador. Según los propios criterios del libro, eso también cuenta para saber si alguien es profeta, pero necesita otra investigación. Tampoco estudia a fondo la edad de la Tierra. Por eso la respuesta es parcial y provisional, y el capítulo 16 explica qué se pierde al dejar eso afuera.
 
 ## ¿Qué podría hacer cambiar la conclusión?
 

@@ -368,7 +368,7 @@ def main() -> int:
 
     errors = sum(f.level == "ERROR" for f in findings)
     warnings = sum(f.level == "WARN" for f in findings)
-    print(f"Validación terminada: {errors} error(es), {warnings} advertencia(s).")
+    print(f"Validación estructural terminada: {errors} error(es), {warnings} advertencia(s).")
     print(f"Informe: {REPORT.relative_to(ROOT)}")
     if not args.check_only:
         print(f"Manuscrito: {OUTPUT.relative_to(ROOT)}")

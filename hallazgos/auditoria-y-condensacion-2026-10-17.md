@@ -55,3 +55,23 @@ Se reescribió el cuerpo de los 19 archivos para que lo entienda cualquier lecto
 - los títulos de los capítulos 10 y 14 se simplificaron («¿Qué significa para su inspiración que usara libros de otros?» y «¿Qué muestra la vida de Elena G. de White sobre si fue profeta?»); los nombres de archivo no cambiaron.
 
 No se cambió ningún hecho, fecha, número ni grado de certeza. Las notas al pie quedaron idénticas: se comprobó con un script que las definiciones de notas de cada archivo coinciden línea por línea con la versión anterior. El cuerpo creció de unas 19.700 a unas 22.500 palabras, porque explicar con palabras simples a veces lleva más palabras. La validación terminó con 0 errores y 0 advertencias.
+
+## ¿Qué se tomó de la auditoría externa de ChatGPT?
+
+Se revisó una auditoría externa del repositorio (commit `00eb25c`). Se aplicó lo que mejoraba la precisión o el alcance:
+
+- **Conclusión más estrecha.** Ya no dice «experiencias de origen humano», que afirma más de lo que muestran los documentos sobre la causa de las visiones. Ahora dice que creyó sinceramente que sus mensajes venían de Dios, pero que, en los casos estudiados, lo que decían salió de fuentes humanas, y que la causa de las visiones mismas no se sabe. Cambio aplicado en la Nota, el capítulo 16, el epílogo, el README y `ESTADO_ACTUAL.md`.
+- **Alcance provisional.** La Nota, el capítulo 16 y el README dicen que la respuesta evalúa lo que se puede comprobar con documentos históricos y que es provisional mientras falte el examen doctrinal.
+- **Criterios de la propia iglesia.** Nueva sección 4 del capítulo 16: aplica las cuatro pruebas que presenta el White Estate (Isaías 8:20, Deuteronomio 18, 1 Juan 4, Mateo 7) y señala que una condicionalidad sin límite haría que la prueba de los anuncios no pudiera fallar.
+- **Veltman.** «Eran propias» pasó a «no se encontró parecido con los libros revisados», con la aclaración de que eso no prueba originalidad.
+- **Krummacher.** «Probado» queda limitado a la dependencia del texto; no hay constancia de lectura directa, como ya decía `capitulo-10-diario-1890-y-krummacher.md`.
+- **Respiración.** Se distinguió a personas sin entrenamiento (decenas de segundos) de personas entrenadas (pocos minutos).
+- **Prólogo.** Se resolvió la tensión con la Nota: la respuesta se adelanta, pero tiene que sostenerse capítulo a capítulo.
+- **Validación.** El script y el workflow la llaman «estructural»; se quitó del workflow el paso que modificaba el capítulo 7 antes de validar.
+- **Terminología.** `MATRIZ_CRITERIOS_BIBLICOS.md` usa probado, probable, posible y no se sabe; `ESTADO_ACTUAL.md` tiene el conteo de palabras actualizado.
+
+No se aplicó:
+
+- **Quitar la respuesta de la Nota al lector.** Fue una decisión editorial del autor («al grano»).
+- **Afirmar que *Elijah the Tishbite* estaba en la biblioteca de White.** No se pudo verificar.
+- **Investigar ahora la doctrina, la edad de la Tierra, el inventario completo de casos descartados y una auditoría nueva de las notas.** Quedan como trabajo pendiente para pasar de una respuesta provisional a una global.

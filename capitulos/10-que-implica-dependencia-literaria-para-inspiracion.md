@@ -32,7 +32,7 @@ Está **probado** que el texto sale de March. Hay tres posibilidades. Pudo usar 
 
 Sí. En lo que escribió el 21 de noviembre de 1890 cuenta que se durmió después de orar y que Dios le enseñó. Su guía le ordena: «habla las palabras que te doy». Dentro de ese discurso hay una explicación: Dios nunca lleva a sus hijos por otro camino que el que ellos elegirían si pudieran ver como él ve. Esa explicación sale del comentario de F. W. Krummacher en *Elijah the Tishbite* (edición en inglés de 1847).[^5]
 
-Acá no sirve decir «ella sólo decía que el mensaje general venía de Dios»: el texto habla de las palabras que tenía que decir. Está **probado** que esa parte sale de Krummacher. **No se sabe** si la agregó al escribir, si la tenía incorporada de antes o si pensó, equivocada, que venía de Dios. Es la objeción más seria de este capítulo.
+Acá no sirve decir «ella sólo decía que el mensaje general venía de Dios»: el texto habla de las palabras que tenía que decir. Está **probado** que esa parte sale del texto de Krummacher. No se sabe si ella leyó ese libro o lo tomó de otro que lo citaba, porque no hay constancia de cuándo ni dónde lo leyó. Y **no se sabe** si la agregó al escribir, si la tenía incorporada de antes o si pensó, equivocada, que venía de Dios. Es la objeción más seria de este capítulo.
 
 ## 7. ¿Qué cambia en el caso de Queensland?
 

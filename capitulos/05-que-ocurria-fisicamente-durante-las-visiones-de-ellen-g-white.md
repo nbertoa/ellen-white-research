@@ -34,7 +34,7 @@ Con los médicos pasa lo mismo. Ningún médico dejó un informe escrito. Todo l
 
 Además, los testigos no coinciden en lo principal. Butler dijo que el pulso era normal. Merritt G. Kellogg, que también vio visiones, escribió en 1906 que el pulso casi se paraba y que respiraba poco y débil, menos cuando hablaba.[^11]
 
-Y el cuerpo tiene un límite. Para hablar hay que mover aire. «Hablaba» y «no le entraba ni le salía aire» no pueden ser verdad al mismo tiempo. Lo más probable es que «no respiraba» quisiera decir «no la vimos respirar como siempre». Una persona sana puede aguantar la respiración algunas decenas de segundos, no decenas de minutos. Y mucho menos hablando y moviéndose.[^12]
+Y el cuerpo tiene un límite. Para hablar hay que mover aire. «Hablaba» y «no le entraba ni le salía aire» no pueden ser verdad al mismo tiempo. Lo más probable es que «no respiraba» quisiera decir «no la vimos respirar como siempre». Una persona sin entrenamiento aguanta la respiración algunas decenas de segundos. Con entrenamiento especial se llega a unos pocos minutos. Nada de eso alcanza para convertir estos recuerdos en una prueba de que no respiró durante largo rato, y mucho menos hablando y moviéndose.[^12]
 
 Es **probable** que no se le notara la respiración normal. Que dejara de respirar por completo (lo que los médicos llaman apnea) durante minutos u horas **no está probado**.
 

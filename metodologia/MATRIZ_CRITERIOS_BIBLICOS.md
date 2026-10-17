@@ -106,10 +106,10 @@ Una evidencia fuerte puede pesar más que muchas evidencias débiles.
 
 Cada caso se clasificará según corresponda como:
 
-- establecido;
+- probado;
 - probable;
 - posible;
-- indeterminado;
+- no se sabe;
 
 y, para predicciones o casos proféticos:
 

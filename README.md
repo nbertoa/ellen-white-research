@@ -4,14 +4,14 @@ Repositorio de investigación del libro cuya pregunta central es:
 
 > **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
 
-La respuesta del capítulo 16: no quedó demostrado que fuera profeta. La explicación con más apoyo, con una confianza moderada, es que vivió experiencias religiosas reales, de origen humano, y creyó sinceramente que eran revelaciones de Dios. Que haya mentido a propósito en todo tiene todavía menos apoyo.
+La respuesta del capítulo 16: no quedó demostrado que fuera profeta. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que, en los casos estudiados, lo que decían salió de fuentes humanas. Que haya mentido a propósito en todo tiene todavía menos apoyo. Es una respuesta provisional: evalúa lo que se puede comprobar con documentos históricos y deja afuera el examen doctrinal de 1844, el santuario y el juicio investigador.
 
 ## ¿Cómo se organiza el repositorio?
 
-- `capitulos/`: manuscrito del libro (edición condensada y en lenguaje sencillo, unas 22.500 palabras de cuerpo).
+- `capitulos/`: manuscrito del libro (edición condensada y en lenguaje sencillo, unas 22.900 palabras de cuerpo).
 - `hallazgos/`: fichas de investigación, auditorías y cotejos, con todo el detalle que el manuscrito resume.
 - `metodologia/`: criterios, orden del manuscrito y guía de estilo.
-- `scripts/manuscrito.py`: ensambla y valida la edición de lectura.
+- `scripts/manuscrito.py`: ensambla la edición de lectura y hace una validación estructural (notas, enlaces, títulos). No comprueba citas, fechas ni razonamientos: eso lo hacen los cotejos de `hallazgos/`.
 
 ## ¿Cómo se investiga?
 
@@ -56,7 +56,7 @@ Investigación profunda detrás de una lectura sencilla. Frases cortas, palabras
 | 13. Contradicciones | Cambió consejos; quedan cuatro choques sin resolver, pero no dos revelaciones contrarias. |
 | 14. Su vida | No hay pruebas de que se hiciera rica; el problema es cómo usó su autoridad. |
 | 15. Frutos | Salud, educación y misión reales; costaba mucho reconocer sus errores en público. |
-| 16. Conclusión | No quedó confirmado que fuera profeta; la explicación humana sincera tiene más apoyo, con confianza moderada. |
+| 16. Conclusión | No quedó confirmado que fuera profeta; tiene más apoyo que creyó sinceramente en mensajes cuyo contenido salió de fuentes humanas. Provisional. |
 
 ## ¿Cuál es el estado actual?
 

@@ -1,6 +1,6 @@
 # Capítulo 9 — ¿Utilizó Elena G. de White escritos de otros autores?
 
-Sí. Está **probado** por tres casos distintos. Su libro sobre Pablo sigue en varias partes a Conybeare y Howson. Un borrador escrito de su puño y letra sobre Jan Hus sigue a J. A. Wylie. Y en una muestra de *El Deseado de todas las gentes* (*The Desire of Ages*), casi un tercio del texto depende en algún grado de libros anteriores. Lo que no se sabe es cuánto hay en toda su obra ni quién agregó cada frase. Qué significa esto para su inspiración es la pregunta del capítulo siguiente.
+Sí. Está **probado** por tres casos distintos. Su libro sobre Pablo sigue en varias partes a Conybeare y Howson. Un borrador escrito de su puño y letra sobre Jan Hus sigue a J. A. Wylie. Y en una muestra de *El Deseado de todas las gentes* (*The Desire of Ages*), casi un tercio del texto depende en algún grado de libros anteriores, y en el resto no se buscaron todas las fuentes posibles. Lo que no se sabe es cuánto hay en toda su obra ni quién agregó cada frase. Qué significa esto para su inspiración es la pregunta del capítulo siguiente.
 
 ## 1. ¿Cómo se sabe que un texto sale de otro?
 
@@ -22,7 +22,7 @@ Por eso no se puede echarle toda la culpa a una secretaria. Tampoco prueba que W
 
 ## 4. ¿Qué pasó con el libro sobre Jesús?
 
-La propia Iglesia Adventista le encargó un estudio a Fred Veltman. Él eligió al azar 15 de los 87 capítulos de *El Deseado de todas las gentes* y los comparó con vidas de Cristo escritas antes. Dividió el texto en unidades. Encontró que **823 de 2.624 unidades, el 31,4 %,** dependían en algún grado de otros libros. Otras 1.612 unidades (61,4 %) eran propias, y 189 (7,2 %) eran citas de la Biblia.[^4]
+La propia Iglesia Adventista le encargó un estudio a Fred Veltman. Él eligió al azar 15 de los 87 capítulos de *El Deseado de todas las gentes* y los comparó con vidas de Cristo escritas antes. Dividió el texto en unidades. Encontró que **823 de 2.624 unidades, el 31,4 %,** dependían en algún grado de otros libros. En otras 1.612 unidades (61,4 %) no se encontró parecido con los libros revisados. Eso no prueba que sean de ella: sólo que no apareció una fuente. Las 189 restantes (7,2 %) eran citas de la Biblia.[^4]
 
 Ese número tiene límites claros. No es el porcentaje de palabras copiadas: incluye influencias débiles y frases dichas con otras palabras. No vale para todos sus libros. Y Veltman avisó que se queda corto, porque sólo buscó en vidas de Cristo de esa época. Tampoco sirven como medición los números muy altos que dan algunos críticos ni los muy bajos que dan algunos defensores.
 
