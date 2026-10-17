@@ -58,7 +58,9 @@ El anuncio habla de los que estaban en esa reunión y del regreso de Jesús, y n
 
 Los defensores adventistas dicen que el anuncio tenía una condición. White habló de eso antes de que murieran todos los que estaban en la reunión. En 1868 explicó que Jesús se demoraba porque los creyentes no estaban preparados. En 1883 escribió que lo que Dios promete y lo que Dios advierte tiene condiciones, y que Cristo habría vuelto antes si su pueblo hubiera cumplido su tarea.[^11] No es una excusa inventada al final.
 
-Pero esa explicación es general y llegó después. No muestra que los que estaban en 1856 entendieran «algunos vivirán» como «algunos vivirán si la iglesia cumple». **El anuncio de 1856 es un problema serio para decir que ese mensaje vino de Dios.** El capítulo 16 examina si esta misma forma de razonar alcanza también a anuncios del Nuevo Testamento sobre que el fin estaba cerca.
+Y la Biblia tiene anuncios sin condición escrita que igual cambiaron. Isaías le dijo a Ezequías «vas a morir», Ezequías oró y Dios le dio quince años más (2 Reyes 20; Isaías 38). Jeremías 18 dice que Dios también puede retirar algo bueno que prometió si el pueblo no responde. Por eso no alcanza con decir «no tenía condición escrita, así que falló».
+
+Pero hay una diferencia. En los casos de la Biblia, el mismo relato cuenta el cambio y su razón en ese momento: Ezequías ora y el profeta vuelve con otro mensaje. En 1856 no hay nada parecido. La explicación de White es general y llegó años después. No muestra que los que estaban en 1856 entendieran «algunos vivirán» como «algunos vivirán si la iglesia cumple». **El anuncio de 1856 es un problema serio para decir que ese mensaje vino de Dios, aunque no es una refutación cerrada.** El capítulo 16 examina si esta misma forma de razonar alcanza también a anuncios del Nuevo Testamento sobre que el fin estaba cerca.
 
 En 1888 volvió a escribir que algunos de los creyentes de ese momento vivirían para ver a Jesús volver. Esta vez no dijo que lo había visto en visión. Muestra que seguía esperándolo pronto. No es un segundo mensaje de Dios que falló.[^12]
 

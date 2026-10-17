@@ -64,7 +64,7 @@ Hoy hay pruebas de que la carne procesada (como fiambres y embutidos) aumenta el
 
 ## 11. ¿Qué se puede concluir de todo esto?
 
-Hubo errores de historia que se corrigieron, una explicación equivocada sobre la Tierra, consejos de salud útiles pero que ya se conocían en su época, y medicina equivocada. Lo que más pesa no es cuántos errores hay. Es un error importante que ella dijo claramente que Dios le había mostrado: el de la masturbación. Junto con el anuncio de 1856, es uno de los dos problemas principales de este libro.
+Hubo errores de historia que se corrigieron, una explicación equivocada sobre la Tierra, consejos de salud útiles pero que ya se conocían en su época, y medicina equivocada. Lo que más pesa no es cuántos errores hay. Es un error importante que ella dijo claramente que Dios le había mostrado: el de la masturbación. Es el problema más fuerte de este libro, más que el anuncio de 1856, porque no se puede explicar diciendo que tenía una condición.
 
 [^1]: Ellen G. White, [Ms 107, 1909](https://text.egwwritings.org/amp/read/14074.9768001); Lt 10, 1895; véase el capítulo 3.
 [^2]: *The Great Controversy* (1888 y 1911), p. 65; [Prescott a W. C. White, 26 de abril de 1910](https://whiteestate.org/about/issues1/ref-lib/add-docs/gc-prescott/); Uppsala University Library, [*The history of Codex argenteus*](https://www.uu.se/en/library/visit-and-contact/exhibitions/codex-argenteus/the-history-of-codex-argenteus).

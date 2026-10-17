@@ -22,9 +22,9 @@ Si un mensaje contradijera la Biblia con claridad, pesaría mucho. Pero una dife
 
 Deuteronomio 18:20-22 lo dice claro: si alguien anuncia algo en nombre de Dios y no pasa, Dios no habló. Esta prueba es más fuerte cuando el anuncio es concreto, se puede comprobar, se presenta como de Dios y no tiene condiciones. Muchos aciertos no tapan un anuncio de Dios que falló.[^4]
 
-Pero la Biblia también tiene anuncios con condiciones. Jeremías 18 explica que Dios puede retirar un castigo anunciado si un pueblo cambia. Jonás anuncia que Nínive será destruida en cuarenta días, sin decir «si no cambian». La ciudad cambia y la destrucción no llega.[^5]
+Pero la Biblia también tiene anuncios con condiciones. Jeremías 18 explica que Dios puede retirar un castigo anunciado si un pueblo cambia. Jonás anuncia que Nínive será destruida en cuarenta días, sin decir «si no cambian». La ciudad cambia y la destrucción no llega. Isaías le dice al rey Ezequías, de parte de Dios: «vas a morir». Tampoco agrega una condición. Ezequías ora, y Dios le da quince años más.[^5]
 
-Entonces, «no pasó» no siempre quiere decir «Dios no lo dijo». La pregunta es **si la condición formaba parte del anuncio desde el principio**. Para saberlo se busca, en este orden:
+Entonces, «no pasó» no siempre quiere decir «Dios no lo dijo». Y aun cuando un anuncio sí falla, Deuteronomio muestra que **ese mensaje** no venía de Dios. No dice por sí solo qué pasa con todo lo demás que dijo el profeta. La pregunta es **si la condición formaba parte del anuncio desde el principio**. Para saberlo se busca, en este orden:
 
 1. una condición dicha en el mismo mensaje;
 2. una condición explicada a quienes lo escucharon en ese momento;
@@ -73,7 +73,7 @@ En cada caso se fija primero el texto y la fecha, se buscan explicaciones normal
 [^2]: Deuteronomio 13:1-5; Mateo 24:24.
 [^3]: 1 Juan 4:1-6; 2 Juan 7-9.
 [^4]: Deuteronomio 18:20-22; Jeremías 28:1-17.
-[^5]: Jeremías 18:7-10; 26:17-19; Jonás 3:4-10.
+[^5]: Jeremías 18:7-10; 26:17-19; Jonás 3:4-10; 2 Reyes 20:1-6; Isaías 38:1-5.
 [^6]: 1 Reyes 13:1-32.
 [^7]: Deuteronomio 18:9-22; Jeremías 23:16-32, especialmente 23:30. El pasaje condena la falsa atribución; no prohíbe toda dependencia literaria.
 [^8]: 1 Tesalonicenses 5:19-22; 1 Corintios 14:29-33.

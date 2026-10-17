@@ -1,6 +1,6 @@
 # Capítulo 16 — ¿Qué explicación encaja mejor con toda la evidencia?
 
-Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para ser considerada una profeta verdadera. La explicación con más apoyo, aunque no total, es esta: creyó de verdad que sus mensajes venían de Dios, pero, en los casos estudiados, lo que decían salió de fuentes humanas. Qué causaba las visiones mismas no se sabe. Que haya mentido a propósito en todo tiene todavía menos apoyo. Este capítulo explica por qué, dónde podría estar equivocada esta conclusión y qué preguntas deja sin responder.
+Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para ser considerada una profeta verdadera. La explicación con más apoyo, aunque no total, es esta: creyó de verdad que sus mensajes venían de Dios. En varios casos se puede mostrar que lo que decía salió de fuentes humanas, como libros o ideas médicas de su época. En los demás, una explicación humana encaja mejor, aunque no se pueda reconstruir de dónde salió cada cosa. Qué causaba las visiones mismas no se sabe. Que haya mentido a propósito en todo tiene todavía menos apoyo. Este capítulo explica por qué, dónde podría estar equivocada esta conclusión y qué preguntas deja sin responder.
 
 ## 1. ¿Qué es lo que se puso a prueba?
 
@@ -28,9 +28,9 @@ Esto cuenta a su favor y saca del medio algunas objeciones. Pero no prueba que f
 
 ## 4. ¿Pasa las pruebas que usa la propia iglesia?
 
-El White Estate, que cuida sus escritos, presenta cuatro pruebas bíblicas de un profeta verdadero y se las aplica a ella. Que esté de acuerdo con la Biblia (Isaías 8:20). Que sus anuncios se cumplan (Deuteronomio 18:21-22), salvo los que tienen condiciones, como el de Jonás. Que reconozca que Jesucristo vino en carne y hueso (1 Juan 4). Y que dé buenos frutos (Mateo 7).[^15]
+La página oficial de la Iglesia Adventista nombra cinco pruebas del don de profecía. Que esté de acuerdo con la Biblia. Que exalte a Jesús como Hijo de Dios (1 Juan 4). Que dé buenos frutos. Que glorifique a Dios y no a sí mismo. Y que, si habla del futuro, no haya lugar para el error (Jeremías 28:9). La página dice que White cumple esas pruebas.[^16] El White Estate, que cuida sus escritos, presenta cuatro parecidas y aclara que los anuncios con condiciones, como el de Jonás, pueden no cumplirse.[^15]
 
-Son las mismas pruebas que usa este libro, así que el resultado es el mismo. Pasa la de 1 Juan 4. Los frutos son mezclados. El acuerdo con la Biblia queda abierto, porque este libro no revisó la doctrina. Y la prueba de los anuncios es la que falla en 1856: la iglesia acepta que un anuncio puede tener condiciones, pero en el de 1856 la condición no aparece en el texto. Hay además un riesgo. Si cualquier anuncio que no se cumple pasa a ser condicional, esa prueba ya no puede fallar nunca, y deja de servir como prueba.
+Son casi las mismas pruebas que usa este libro. Pasa la de Jesús. No se encontraron mensajes que la glorifiquen a ella en lugar de a Dios, aunque la autoridad que tuvo sobre otros es un tema aparte (capítulo 14). Los frutos son mezclados. El acuerdo con la Biblia queda abierto, porque este libro no revisó la doctrina. Y la prueba del futuro es la más difícil: la iglesia dice que no puede haber lugar para el error, y el anuncio de 1856 no se cumplió tal como se dijo. La única salida es que tuviera una condición que el texto no menciona. Puede ser, como en el caso de Ezequías (sección 7). Pero si cualquier anuncio que no se cumple pasa a ser condicional, esa prueba ya no puede fallar nunca, y deja de servir como prueba.
 
 ## 5. ¿Qué apoya que sus mensajes vinieran de Dios?
 
@@ -40,11 +40,11 @@ Ninguno tiene todo lo que haría falta: un escrito seguro anterior al hecho, det
 
 ## 6. ¿Cuáles son los problemas principales?
 
-Dos pesan más que todos los demás.
+Dos pesan más que todos los demás. El más fuerte es el de 1864.
 
-**El anuncio de 1856.** White dijo que un ángel le mostró que algunos de los que estaban en una reunión seguirían vivos cuando Jesús volviera, y serían llevados al cielo sin morir. Ninguno sigue vivo. El anuncio no pone ninguna condición. Los defensores dicen que tenía una condición, y esa explicación ya existía en 1868 y 1883, antes de que murieran todos. Pero no muestra que los que la escucharon en 1856 la entendieran así. Si se aplica la regla de Deuteronomio 18 al texto tal como se publicó, el anuncio no pasa la prueba.[^5]
+**El folleto de 1864 sobre la masturbación.** Le echó la culpa a esa costumbre de enfermedades graves y de muertes jóvenes, de una manera que no se sostiene. Y la parte central empieza con «me ha sido mostrado». Decir que ella no era infalible no resuelve un error importante que presentó como revelado. Tampoco se puede decir que tenía una condición: es una afirmación sobre causas de enfermedades, la misma medicina equivocada que circulaba en su época.[^6]
 
-**El folleto de 1864 sobre la masturbación.** Le echó la culpa a esa costumbre de enfermedades graves y de muertes jóvenes, de una manera que no se sostiene. Y la parte central empieza con «me ha sido mostrado». Decir que ella no era infalible no resuelve un error importante que presentó como revelado.[^6]
+**El anuncio de 1856.** White dijo que un ángel le mostró que algunos de los que estaban en una reunión seguirían vivos cuando Jesús volviera, y serían llevados al cielo sin morir. Ninguno sigue vivo. El anuncio no pone ninguna condición. Los defensores dicen que tenía una condición, y esa explicación ya existía en 1868 y 1883, antes de que murieran todos. Pero no muestra que los que la escucharon en 1856 la entendieran así. Si se aplica la regla de Deuteronomio 18 al texto tal como se publicó, el anuncio no pasa la prueba. Pero la Biblia tiene anuncios sin condición escrita que igual cambiaron, como el de Ezequías, así que este caso es un problema serio y no una refutación cerrada (sección 7).[^5]
 
 Después vienen otros problemas, con menos seguridad. En la escena del juicio de 1879 y en el diario de 1890 aparecen, dentro de visiones, palabras sacadas de libros de Daniel March y de F. W. Krummacher. En el segundo caso, como palabras que un guía le mandaba decir.[^7] En 1850 dijo que la mano de Dios había escondido un error en el cuadro de 1843.[^8] Y sus visiones de 1849 sobre la puerta cerrada siguen chocando con lo que negó en 1874.[^9]
 
@@ -55,6 +55,8 @@ Es la objeción más fuerte contra este libro, y hay que enfrentarla. En el Nuev
 El libro no puede esquivar esta pregunta, porque el capítulo 2 dijo que la regla vale para cualquier profecía. Los cristianos han dado varias respuestas sobre esos pasajes. Que «generación» puede referirse a la destrucción de Jerusalén en el año 70. Que la promesa a «algunos de los que están aquí» se refiere a la transfiguración, que el relato cuenta enseguida (cuando Jesús se mostró brillante ante tres discípulos). Y que el «nosotros» de Pablo expresa una esperanza, sin decir quiénes iban a estar vivos. Esas respuestas se discuten, y acá no se resuelven.
 
 Lo que sí se puede decir es dónde está la diferencia con 1856. No está en a quiénes se habla: Marcos 9:1 también habla de «algunos de los que están aquí». Está en lo que se anuncia. «Ver el reino de Dios venido con poder» se puede entender de maneras que no son el regreso de Jesús, como la transfiguración o la resurrección. El anuncio de 1856 no deja esa salida: algunos de los presentes serían «trasladados en la venida de Jesús». Eso deja menos lugar para otras lecturas. Pero la regla tiene que ser la misma para todos. Si un lector piensa que esos textos de la Biblia tienen el mismo problema, para ser coherente tiene que juzgar igual a los dos, o aflojar la regla para los dos. Si la afloja, 1856 pesa menos. Aun así, la conclusión no depende sólo de 1856: el error médico de 1864 la sostiene por otro lado.
+
+Hay otro caso de la Biblia que pesa a favor de White. Isaías le anunció a Ezequías, de parte de Dios, «vas a morir», sin poner ninguna condición. Ezequías oró y Dios le dio quince años más (2 Reyes 20:1-6). O sea que en la Biblia puede haber un anuncio que suena incondicional, una respuesta humana y un resultado distinto, sin que el profeta deje de ser verdadero. La diferencia con 1856 es que en el relato de Ezequías el cambio se cuenta en el mismo momento, con su razón y por boca del mismo profeta. En 1856 la explicación llegó años después y es general. Por eso 1856 sigue siendo un problema serio, pero pesa menos que el error médico de 1864.
 
 Con el error médico pasa algo parecido. Los autores de la Biblia también escribieron con la ciencia de su época. El capítulo 12 explica la diferencia que hace este libro. Una cosa es describir algo con palabras comunes. Otra es presentar como mostrada por Dios una causa falsa de enfermedades, para advertir a madres que sus hijos podían morir. Y deja dicho que, si la Biblia hiciera eso, el resultado tendría que ser el mismo.
 
@@ -76,8 +78,8 @@ Poco para decidir entre las dos primeras explicaciones. En las visiones, lo bás
 |---|---|
 | No apartar de Dios (Deuteronomio 13) | La pasa en lo que se revisó |
 | Reconocer que Cristo vino en carne y hueso (1 Juan 4) | La pasa |
-| Anuncio concreto y sin condiciones (Deuteronomio 18) | No la pasa en 1856, leído al pie de la letra |
-| Una condición verdadera en el anuncio (Jeremías 18) | No demostrada para 1856 |
+| Anuncio concreto y sin condiciones (Deuteronomio 18) | Problema serio en 1856; no es una refutación cerrada |
+| Una condición verdadera en el anuncio (Jeremías 18; caso de Ezequías) | Posible, pero no demostrada para 1856 |
 | Que el mensaje venga de donde ella dijo (Jeremías 23) | Problemas serios en casos concretos; no está probado que siempre dijera algo falso sobre el origen |
 | Mensaje que cambia por dinero (Miqueas 3) | No probado |
 | Frutos (Mateo 7) | Mezclados |
@@ -110,15 +112,15 @@ Varias cosas harían más fuerte la explicación de que venía de Dios. Un anunc
 
 Puede ser algo difícil de verdad, porque estos escritos suelen estar unidos a la familia, a decisiones de vida y a momentos de consuelo. Este libro no prueba que todo lo aprendido en ellos sea falso. Un error médico no anula lo que Jesús enseñó sobre amar al prójimo. Y un anuncio que no se cumplió no borra una ayuda recibida. Tampoco hace deshonesto a quien confía en ella.
 
-Quien sostenga que fue profeta tiene que explicar 1856, el folleto de 1864 y los textos de 1879 y 1890 sacados de otros libros. Y tiene que hacerlo con razones, no sólo con confianza general. Quien acepte la explicación humana sincera tiene que aceptar lo que eso significa: sus mensajes dejan de obligar como palabra de Dios, aunque se puedan seguir leyendo con provecho. Preguntar de dónde salen o pedir pruebas no es rebelarse contra Dios. Examinar los mensajes es parte de la regla de la Biblia que la propia iglesia usa.
+Quien sostenga que fue profeta tiene que explicar el folleto de 1864, el anuncio de 1856 y los textos de 1879 y 1890 sacados de otros libros. Y tiene que hacerlo con razones, no sólo con confianza general. Quien acepte la explicación humana sincera tiene que aceptar lo que eso significa: sus mensajes dejan de obligar como palabra de Dios, aunque se puedan seguir leyendo con provecho. Preguntar de dónde salen o pedir pruebas no es rebelarse contra Dios. Examinar los mensajes es parte de la regla de la Biblia que la propia iglesia usa.
 
 ## 16. ¿Cuál es la respuesta final?
 
-**Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para considerarla una profeta verdadera. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que, en los casos estudiados, lo que decían salió de fuentes humanas.**
+**Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para considerarla una profeta verdadera. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que eran de origen humano: en varios casos se puede mostrar que lo que decía salió de libros o de ideas de su época, y en los demás una explicación humana encaja mejor.**
 
-Esta conclusión no dice qué causaba las visiones mismas: eso no se sabe. Dice de dónde salió lo que ella presentó como revelado en los casos que se pudieron revisar. Y es provisional: vale para lo que se puede comprobar con documentos y deja afuera la doctrina.
+Esta conclusión no dice qué causaba las visiones mismas: eso no se sabe. Habla de dónde salió lo que ella presentó como revelado. Y es provisional: vale para lo que se puede comprobar con documentos y deja afuera la doctrina.
 
-Lo que más inclina la balanza es la promesa de 1856 que no se cumplió y el error médico de 1864 que presentó como mostrado por Dios. Los textos de 1879 y 1890 sacados de otros libros, el cuadro de 1843 y la puerta cerrada suman problemas, con menos seguridad. Los casos a su favor merecen reconocerse, pero ninguno obliga a dejar de lado las explicaciones normales. La confianza es moderada y no alta por tres razones: hay casos reales a su favor, la comparación con los anuncios de la Biblia pide usar la misma regla con cuidado, y el análisis de la doctrina quedó afuera.
+Lo que más inclina la balanza es el error médico de 1864 que presentó como mostrado por Dios. Le sigue la promesa de 1856 que no se cumplió, que es un problema serio aunque no cerrado, porque la Biblia tiene anuncios sin condición escrita que igual cambiaron. Los textos de 1879 y 1890 sacados de otros libros, el cuadro de 1843 y la puerta cerrada suman problemas, con menos seguridad. Los casos a su favor merecen reconocerse, pero ninguno obliga a dejar de lado las explicaciones normales. La confianza es moderada y no alta por tres razones: hay casos reales a su favor, la comparación con los anuncios de la Biblia pide usar la misma regla con cuidado, y el análisis de la doctrina quedó afuera.
 
 Que sus mensajes vinieran de Dios sigue siendo posible, pero no es la explicación con más apoyo. Que haya mentido a propósito en todo tiene todavía menos apoyo. Decir con seguridad que fue profeta va más allá de lo que muestran los documentos. Decir con seguridad que fue un fraude, también.
 
@@ -137,3 +139,4 @@ Que sus mensajes vinieran de Dios sigue siendo posible, pero no es la explicaci�
 [^13]: Ellen G. White, *Spiritual Gifts*, t. 3 (1864), pp. 90–93; USGS, [«Geologic Time: Age of the Earth»](https://pubs.usgs.gov/gip/geotime/age.html).
 [^14]: Véanse los capítulos 5, 7, 8, 10 y 14.
 [^15]: Armando Juárez, [«Why We Can Have Confidence in the Prophetic Gift Today»](https://whiteestate.org/sop/2009/sermon.asp), sermón del Día del Espíritu de Profecía 2009, Ellen G. White Estate.
+[^16]: Seventh-day Adventist Church, [«What Is the Gift of Prophecy in the Bible?»](https://www.adventist.org/gift-of-prophecy/), sección «How to test the spiritual gift of prophecy».

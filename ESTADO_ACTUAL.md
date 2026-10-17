@@ -10,7 +10,7 @@ Se reescribió todo el manuscrito para que fuera corto y claro, sin cambiar hech
 
 ## ¿Cuál es la conclusión vigente?
 
-> **Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para considerarla una profeta verdadera. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que, en los casos estudiados, lo que decían salió de fuentes humanas.**
+> **Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para considerarla una profeta verdadera. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que eran de origen humano: en varios casos se puede mostrar de qué libros o ideas salieron, y en los demás una explicación humana encaja mejor.**
 
 El origen profético sigue siendo posible; el fraude consciente generalizado recibe menos apoyo todavía. El veredicto es parcial y provisional: no incluye el examen bíblico de 1844, el santuario y el juicio investigador, ni una evaluación completa de la edad de la Tierra.
 

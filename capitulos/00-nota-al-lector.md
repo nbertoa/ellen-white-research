@@ -4,7 +4,7 @@ Este libro intenta responder una pregunta:
 
 > **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
 
-El libro responde esa pregunta en lo que se puede comprobar con documentos históricos. La respuesta está en el capítulo 16, pero no hace falta esperar para conocerla. No quedó demostrado que fuera profeta. Lo que mejor explica los documentos es esto: creyó con sinceridad que sus mensajes venían de Dios, pero, en los casos estudiados, lo que decían salió de fuentes humanas, como lecturas, ideas de su época y noticias que le llegaban. No es una conclusión segura del todo, y es provisional, porque falta una parte (se explica más abajo). Pero es la más probable. Los capítulos 1 a 15 muestran cómo se llegó a ella y dónde podría estar equivocada.
+El libro responde esa pregunta en lo que se puede comprobar con documentos históricos. La respuesta está en el capítulo 16, pero no hace falta esperar para conocerla. No quedó demostrado que fuera profeta. Lo que mejor explica los documentos es esto: creyó con sinceridad que sus mensajes venían de Dios, pero eran de origen humano. En varios casos se puede mostrar que lo que decía salió de libros, de ideas de su época o de noticias que le llegaban. En los demás, una explicación humana encaja mejor, aunque no se pueda reconstruir de dónde salió cada cosa. No es una conclusión segura del todo, y es provisional, porque falta una parte (se explica más abajo). Pero es la más probable. Los capítulos 1 a 15 muestran cómo se llegó a ella y dónde podría estar equivocada.
 
 ## ¿Qué quieren decir «probado», «probable», «posible» y «no se sabe»?
 

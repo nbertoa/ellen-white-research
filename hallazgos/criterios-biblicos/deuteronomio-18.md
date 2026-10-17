@@ -121,3 +121,9 @@ La principal cuestión abierta no es el criterio mismo, sino **cómo distinguir 
 - Qué tipos de predicción requieren un plazo para poder considerarse fallidos.
 - Si existen otros casos bíblicos donde un profeta auténtico modifica o retira una predicción por razones distintas del arrepentimiento.
 
+
+## ¿Qué cambia el caso de Ezequías? (17-X-2026)
+
+2 Reyes 20:1-6 e Isaías 38:1-5 registran un anuncio en nombre de Dios sin condición expresa («vas a morir; no vivirás») que cambia después de la oración de Ezequías, sin que Isaías quede como falso profeta. Es un caso bíblico de condicionalidad implícita distinto de Jonás, porque no hay arrepentimiento de un pueblo sino la oración de una persona.
+
+Consecuencia para 1856: la falta de condición escrita no basta para cerrar el caso con Deuteronomio 18. La diferencia que se mantiene es documental: en Ezequías el cambio se comunica de inmediato, por el mismo profeta y con su razón; en 1856 la explicación de la demora aparece en 1868 y la teoría general de la condicionalidad en 1883. Resultado: evidencia adversa seria para esa atribución revelatoria, no una refutación cerrada. El manuscrito (capítulos 2, 7 y 16) baja 1856 un escalón y deja el error médico de 1864 como el caso adverso más fuerte.

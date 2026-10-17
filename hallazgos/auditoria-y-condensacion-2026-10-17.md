@@ -75,3 +75,17 @@ No se aplicó:
 - **Quitar la respuesta de la Nota al lector.** Fue una decisión editorial del autor («al grano»).
 - **Afirmar que *Elijah the Tishbite* estaba en la biblioteca de White.** No se pudo verificar.
 - **Investigar ahora la doctrina, la edad de la Tierra, el inventario completo de casos descartados y una auditoría nueva de las notas.** Quedan como trabajo pendiente para pasar de una respuesta provisional a una global.
+
+## ¿Qué se tomó de la segunda auditoría externa?
+
+Sobre el commit `8343886`:
+
+- **1856 baja un escalón.** El caso de Ezequías (2 Reyes 20; Isaías 38) muestra que en la Biblia un anuncio sin condición escrita puede cambiar sin que el profeta quede como falso. Los capítulos 2, 7 y 16 dicen ahora que 1856 es un problema serio, pero no una refutación cerrada. La diferencia que se mantiene: en la Biblia el cambio se cuenta en el momento, con su razón, y en 1856 la explicación llegó años después.
+- **1864 pasa a ser el caso más fuerte.** No admite la salida de la condicionalidad. Cambio aplicado en los capítulos 12 y 16.
+- **La conclusión separa lo demostrado de lo que encaja mejor.** En varios casos se puede mostrar que el contenido salió de libros o de ideas de la época (March, Wylie, Krummacher, medicina de 1864). En otros, como Faulkhead, Salamanca o las primeras visiones, una explicación humana encaja mejor sin que se pueda reconstruir la fuente.
+- **Criterios oficiales.** El capítulo 16, §4, usa ahora las cinco pruebas de la página oficial de Adventist.org, además de las del White Estate. Entre ellas está «si habla del futuro, no debe haber lugar para el error» (Jeremías 28:9).
+
+No se aplicó:
+
+- **La edad de la Tierra.** Su exclusión fue una decisión previa del autor («opción B»). La auditoría la critica como una asimetría que favorece a White; queda para que el autor la reconsidere.
+- **El inventario completo de casos y el cotejo de las 204 notas.** Siguen pendientes en `ESTADO_ACTUAL.md`.
