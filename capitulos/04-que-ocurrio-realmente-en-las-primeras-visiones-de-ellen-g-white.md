@@ -26,7 +26,7 @@ Sí. Las tres primeras ediciones, de 1846 y 1847, son casi iguales. En 1851 se b
 
 Decir que la visión se inventó años después sería falso: lo central ya estaba en 1845. Decir que nunca se cambió también sería falso. Por qué se borraron esas frases no se sabe.
 
-Además hay parecidos concretos con otros textos. Foy cuenta que un ángel abre una puerta con bisagras «relucientes». En la primera versión de White, Jesús abre una puerta con bisagras «doradas», y en 1851 pasan a ser «relucientes». La imagen de siete montañas con rosas y lirios coincide con un libro antiguo llamado 2 Esdras (2:19). Los parecidos están **probados**. Si vienen de algo que leyó, de algo que escuchó o de imágenes comunes en ese ambiente, no se sabe.[^9]
+Además hay parecidos concretos con otros textos. Foy cuenta que un ángel abre una puerta con bisagras «relucientes». En la primera versión de White, Jesús abre una puerta con bisagras «doradas», y en 1851 pasan a ser «relucientes». La imagen de siete montañas con rosas y lirios coincide con un libro antiguo llamado Segundo de Esdras (capítulo 2, versículo 19). Los parecidos están **probados**. Si vienen de algo que leyó, de algo que escuchó o de imágenes comunes en ese ambiente, no se sabe.[^9]
 
 ## 5. ¿Qué tuvieron que ver estas visiones con la «puerta cerrada»?
 
@@ -58,10 +58,9 @@ Joseph Bates, otro líder, al principio pensó que podía ser debilidad física 
 
 ## 9. ¿Qué queda claro?
 
-Ellen Harmon contaba visiones en público desde febrero de 1845. Su primera visión fue probablemente en diciembre de 1844. Lo central del primer relato ya existía en 1845, pero después se borraron frases, y hay parecidos con Foy y con 2 Esdras que dejan preguntas abiertas. Hasta 1849 sus visiones se usaron para sostener la puerta cerrada, y eso choca con lo que escribió en 1874.
+Ellen Harmon contaba visiones en público desde febrero de 1845. Su primera visión fue probablemente en diciembre de 1844. Lo central del primer relato ya existía en 1845, pero después se borraron frases, y hay parecidos con Foy y con Segundo de Esdras que dejan preguntas abiertas. Hasta 1849 sus visiones se usaron para sostener la puerta cerrada, y eso choca con lo que escribió en 1874.
 
 A mí me parece creíble que fuera sincera, y estos documentos no muestran fraude. Pero ninguno dice de dónde venían las visiones. El próximo capítulo mira qué le pasaba al cuerpo mientras las tenía.
-
 [^1]: «Trial of Elder I. Dammon», *Piscataquis Farmer*, 7 de marzo de 1845, pp. 1–2, [facsímil y transcripción](https://archive.org/details/TrialOfElderI.Dammon.ReportedForThePiscataquisFarmer.-In). El juicio fue el 17 y 18 de febrero.
 [^2]: James White, *A Word to the “Little Flock”* (1847), pp. 22–23, [facsímil](https://www.aplib.org/files/ebooks/pdf/James%20White%20-%20A%20Word%20to%20the%20Little%20Flock.pdf); Ellen G. White a Joseph Bates, Lt 3, 1847, 13 de julio, [texto](https://m.egwwritings.org/en/book/711.90); *A Sketch of the Christian Experience and Views* (1851), p. 5.
 [^3]: Ellen G. White, Lt 2c, 1874, 24 de agosto, [texto](https://m.egwwritings.org/en/book/3531).

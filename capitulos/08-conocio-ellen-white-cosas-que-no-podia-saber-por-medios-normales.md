@@ -51,7 +51,6 @@ No está probado. D. M. Canright lo afirmó. Pero para probarlo haría falta un 
 ## 9. ¿Qué queda?
 
 Creo que los casos de Faulkhead y Salamanca no hay que tirarlos como inventos, pero tampoco prueban que supiera cosas de manera sobrenatural. Y hay errores que ella misma reconoció, que muestran que no todo lo que decía en un mensaje venía de una revelación. Dos cosas cambiarían el resultado: un escrito con fecha anterior al 7 de marzo de 1891 con los detalles de la reunión, o una prueba independiente sobre el gesto que reconoció Faulkhead.
-
 [^1]: Ellen G. White, [*Testimonies for the Church*, t. 3, p. 314](https://ellenwhiteresearch.com/p/3T%2B314.1).
 [^2]: Ellen G. White, *Testimony for the Church—No. 33* (1889), pp. 211–219, luego 5T 683–691.
 [^3]: W. C. White, [«Statements Regarding Mrs. White and Her Work»](https://whiteestate.org/legacy/issues-integrity-html/).

@@ -24,14 +24,14 @@ Está **probado** que sus escritos mezclan visiones, datos que le contaban, libr
 De las tres que se pueden usar sin resolver lo de 1844, pasa dos y no falla en la tercera:
 
 - **Deuteronomio 13:** no invita a seguir a otros dioses. Llama a amar al Dios de la Biblia y a buscar a Jesucristo.[^2]
-- **1 Juan 4:** reconoce que Jesucristo vino como hombre de carne y hueso. Describe a Jesús como un ser humano real.[^3]
+- **Primera de Juan 4:** reconoce que Jesucristo vino como hombre de carne y hueso. Describe a Jesús como un ser humano real.[^3]
 - **Miqueas 3:** está documentado lo que ganaba ella y lo que ganaba su familia. Pero no hay muestras de mensajes que cambiaran según le pagaran.
 
 Esto cuenta a su favor y saca del medio algunas objeciones. Pero no prueba que fuera inspirada: cualquier cristiana podría pasar estas pruebas leyendo la Biblia.
 
 ## 4. ¿Pasa las pruebas que usa la propia iglesia?
 
-La página oficial de la Iglesia Adventista nombra cinco pruebas del don de profecía. Que esté de acuerdo con la Biblia. Que exalte a Jesús como Hijo de Dios (1 Juan 4). Que dé buenos frutos. Que glorifique a Dios y no a sí mismo. Y que, si habla del futuro, no haya lugar para el error (Jeremías 28:9). La página dice que White cumple esas pruebas.[^16] Esa lista está en la página de la iglesia en internet. La declaración formal de fe, la Creencia Fundamental 18, no trae la lista: afirma que el don se manifestó en White y que sus escritos hablan con autoridad profética. El White Estate, que cuida sus escritos, presenta cuatro parecidas y aclara que los anuncios con condiciones, como el de Jonás, pueden no cumplirse.[^15]
+La página oficial de la Iglesia Adventista nombra cinco pruebas del don de profecía. Que esté de acuerdo con la Biblia. Que exalte a Jesús como Hijo de Dios (Primera de Juan 4). Que dé buenos frutos. Que glorifique a Dios y no a sí mismo. Y que, si habla del futuro, no haya lugar para el error (Jeremías capítulo 28, versículo 9). La página dice que White cumple esas pruebas.[^16] Esa lista está en la página de la iglesia en internet. La declaración formal de fe, la Creencia Fundamental 18, no trae la lista: afirma que el don se manifestó en White y que sus escritos hablan con autoridad profética. El White Estate, que cuida sus escritos, presenta cuatro parecidas y aclara que los anuncios con condiciones, como el de Jonás, pueden no cumplirse.[^15]
 
 Son casi las mismas pruebas que usa este libro. Pasa la de Jesús. No se encontraron mensajes que la glorifiquen a ella en lugar de a Dios, aunque la autoridad que tuvo sobre otros es un tema aparte (capítulo 14). Los frutos son mezclados. El acuerdo con la Biblia queda abierto, porque este libro no revisó la doctrina. Y la prueba del futuro es la más difícil: la iglesia dice que no puede haber lugar para el error, y el anuncio de 1856 no se cumplió tal como se dijo. La única salida es que tuviera una condición que el texto no menciona. Puede ser, como en el caso de Ezequías (sección 7). Pero si cualquier anuncio que no se cumple pasa a ser condicional, esa prueba ya no puede fallar nunca, y deja de servir como prueba.
 
@@ -47,19 +47,19 @@ Dos pesan más que todos los demás. El más fuerte es el de 1864.
 
 **El folleto de 1864 sobre la masturbación.** Le echó la culpa a esa costumbre de enfermedades graves y de muertes jóvenes, de una manera que no se sostiene. Y la parte central empieza con «me ha sido mostrado». Decir que ella no era infalible no resuelve un error importante que presentó como revelado. Lo que se puede probar como mostrado es lo central (que esa costumbre dañaba gravemente el cuerpo y podía llevar a la muerte), no cada enfermedad de la lista. Pero lo central ya es falso. Tampoco se puede decir que tenía una condición: es una afirmación sobre causas de enfermedades, la misma medicina equivocada que circulaba en su época.[^6]
 
-**El anuncio de 1856.** White dijo que un ángel le mostró que algunos de los que estaban en una reunión seguirían vivos cuando Jesús volviera, y serían llevados al cielo sin morir. Ninguno sigue vivo. El anuncio no pone ninguna condición. Los defensores dicen que tenía una condición, y esa explicación ya existía en 1868 y 1883, antes de que murieran todos. Pero no muestra que los que la escucharon en 1856 la entendieran así. Si se aplica la regla de Deuteronomio 18 al texto tal como se publicó, el anuncio no pasa la prueba. Pero la Biblia tiene anuncios sin condición escrita que igual cambiaron, como el de Ezequías, así que este caso es un problema serio y no una refutación cerrada (sección 7). Eso sí: si se probara que falló, no sería un detalle, porque Deuteronomio 18:20 lo carga sobre el profeta y no sólo sobre esa frase.[^5]
+**El anuncio de 1856.** White dijo que un ángel le mostró que algunos de los que estaban en una reunión seguirían vivos cuando Jesús volviera, y serían llevados al cielo sin morir. Ninguno sigue vivo. El anuncio no pone ninguna condición. Los defensores dicen que tenía una condición, y esa explicación ya existía en 1868 y 1883, antes de que murieran todos. Pero no muestra que los que la escucharon en 1856 la entendieran así. Si se aplica la regla de Deuteronomio 18 al texto tal como se publicó, el anuncio no pasa la prueba. Pero la Biblia tiene anuncios sin condición escrita que igual cambiaron, como el de Ezequías, así que este caso es un problema serio y no una refutación cerrada (sección 7). Eso sí: si se probara que falló, no sería un detalle, porque Deuteronomio capítulo 18, versículo 20 lo carga sobre el profeta y no sólo sobre esa frase.[^5]
 
 Después vienen otros problemas, con menos seguridad. En la escena del juicio de 1879 y en el diario de 1890 aparecen, dentro de visiones, palabras sacadas de libros de Daniel March y de F. W. Krummacher. En el segundo caso, como palabras que un guía le mandaba decir.[^7] En 1850 dijo que la mano de Dios había escondido un error en el cuadro de 1843.[^8] Y sus visiones de 1849 sobre la puerta cerrada siguen chocando con lo que negó en 1874.[^9]
 
 ## 7. ¿No le pasa a la Biblia lo mismo que al anuncio de 1856?
 
-Es la objeción más fuerte contra este libro, y hay que enfrentarla. En el Nuevo Testamento, Jesús dice que «no pasará esta generación» hasta que todo suceda (Marcos 13:30). Y dice que algunos de los que estaban ahí no morirían sin ver el reino de Dios venir con poder (Marcos 9:1). Pablo escribe «nosotros los que vivamos» cuando habla de la venida del Señor (1 Tesalonicenses 4:15).[^10] Si a esos textos se les aplicara la regla de 1856 con la misma dureza, ¿no darían el mismo resultado?
+Es la objeción más fuerte contra este libro, y hay que enfrentarla. En el Nuevo Testamento, Jesús dice que «no pasará esta generación» hasta que todo suceda (Marcos capítulo 13, versículo 30). Y dice que algunos de los que estaban ahí no morirían sin ver el reino de Dios venir con poder (Marcos capítulo 9, versículo 1). Pablo escribe «nosotros los que vivamos» cuando habla de la venida del Señor (Primera de Tesalonicenses capítulo 4, versículo 15).[^10] Si a esos textos se les aplicara la regla de 1856 con la misma dureza, ¿no darían el mismo resultado?
 
 El libro no puede esquivar esta pregunta, porque el capítulo 2 dijo que la regla vale para cualquier profecía. Los cristianos han dado varias respuestas sobre esos pasajes. Que «generación» puede referirse a la destrucción de Jerusalén en el año 70. Que la promesa a «algunos de los que están aquí» se refiere a la transfiguración, que el relato cuenta enseguida (cuando Jesús se mostró brillante ante tres discípulos). Y que el «nosotros» de Pablo expresa una esperanza, sin decir quiénes iban a estar vivos. Esas respuestas se discuten, y acá no se resuelven.
 
-Lo que sí se puede decir es dónde está la diferencia con 1856. No está en a quiénes se habla: Marcos 9:1 también habla de «algunos de los que están aquí». Está en lo que se anuncia. «Ver el reino de Dios venido con poder» se puede entender de maneras que no son el regreso de Jesús, como la transfiguración o la resurrección. El anuncio de 1856 no deja esa salida: algunos de los presentes serían «trasladados en la venida de Jesús». Eso deja menos lugar para otras lecturas. Pero la regla tiene que ser la misma para todos. Si un lector piensa que esos textos de la Biblia tienen el mismo problema, para ser coherente tiene que juzgar igual a los dos, o aflojar la regla para los dos. Si la afloja, 1856 pesa menos. Aun así, la conclusión no depende sólo de 1856: el error médico de 1864 la sostiene por otro lado.
+Lo que sí se puede decir es dónde está la diferencia con 1856. No está en a quiénes se habla: Marcos capítulo 9, versículo 1 también habla de «algunos de los que están aquí». Está en lo que se anuncia. «Ver el reino de Dios venido con poder» se puede entender de maneras que no son el regreso de Jesús, como la transfiguración o la resurrección. El anuncio de 1856 no deja esa salida: algunos de los presentes serían «trasladados en la venida de Jesús». Eso deja menos lugar para otras lecturas. Pero la regla tiene que ser la misma para todos. Si un lector piensa que esos textos de la Biblia tienen el mismo problema, para ser coherente tiene que juzgar igual a los dos, o aflojar la regla para los dos. Si la afloja, 1856 pesa menos. Aun así, la conclusión no depende sólo de 1856: el error médico de 1864 la sostiene por otro lado.
 
-Hay otro caso de la Biblia que pesa a favor de White. Isaías le anunció a Ezequías, de parte de Dios, «vas a morir», sin poner ninguna condición. Ezequías oró y Dios le dio quince años más (2 Reyes 20:1-6). O sea que en la Biblia puede haber un anuncio que suena incondicional, una respuesta humana y un resultado distinto, sin que el profeta deje de ser verdadero. La diferencia con 1856 es que en el relato de Ezequías el cambio se cuenta en el mismo momento, con su razón y por boca del mismo profeta. En 1856 la explicación llegó años después y es general. Por eso 1856 sigue siendo un problema serio, pero pesa menos que el error médico de 1864.
+Hay otro caso de la Biblia que pesa a favor de White. Isaías le anunció a Ezequías, de parte de Dios, «vas a morir», sin poner ninguna condición. Ezequías oró y Dios le dio quince años más (Segundo de Reyes capítulo 20, versículos 1 al 6). O sea que en la Biblia puede haber un anuncio que suena incondicional, una respuesta humana y un resultado distinto, sin que el profeta deje de ser verdadero. La diferencia con 1856 es que en el relato de Ezequías el cambio se cuenta en el mismo momento, con su razón y por boca del mismo profeta. En 1856 la explicación llegó años después y es general. Por eso 1856 sigue siendo un problema serio, pero pesa menos que el error médico de 1864.
 
 Con el error médico pasa algo parecido. Los autores de la Biblia también escribieron con la ciencia de su época. El capítulo 12 explica la diferencia que hace este libro. Una cosa es describir algo con palabras comunes. Otra es presentar como mostrada por Dios una causa falsa de enfermedades, para advertir a madres que sus hijos podían morir. Y deja dicho que, si la Biblia hiciera eso, el resultado tendría que ser el mismo.
 
@@ -77,7 +77,7 @@ Es la cuarta explicación: que algunos mensajes vinieran de verdad de Dios y que
 
 Primero, le falta la parte a favor. Para sostener que algunos mensajes venían de Dios hace falta al menos un caso que no se explique de manera normal, y no se encontró (sección 5). Sin eso, la mezcla explica lo mismo que la explicación humana, pero con una suposición más.
 
-Segundo, choca con la Biblia. Deuteronomio 18:20 y Jeremías 23 no tratan como un detalle decir en nombre de Dios lo que Dios no dijo. Natán dio una opinión propia sobre el templo, pero no dijo que venía de Dios, y cuando Dios le habló se corrigió (2 Samuel 7). White, en cambio, presentó el folleto de 1864 como mostrado, y no consta que lo haya corregido.
+Segundo, choca con la Biblia. Deuteronomio capítulo 18, versículo 20 y Jeremías 23 no tratan como un detalle decir en nombre de Dios lo que Dios no dijo. Natán dio una opinión propia sobre el templo, pero no dijo que venía de Dios, y cuando Dios le habló se corrigió (Segundo de Samuel 7). White, en cambio, presentó el folleto de 1864 como mostrado, y no consta que lo haya corregido.
 
 Tercero, choca con lo que ella misma decía. Para ella, su obra era de Dios o del diablo, sin término medio (capítulo 3). La mezcla le daría la razón en una parte y la contradiría en lo que más le importaba.
 
@@ -89,19 +89,19 @@ Poco para decidir entre las dos primeras explicaciones. En las visiones, lo bás
 
 ## 11. ¿Cómo le va con las pruebas del capítulo 2?
 
-| Prueba | Resultado |
-|---|---|
-| No apartar de Dios (Deuteronomio 13) | La pasa en lo que se revisó |
-| Reconocer que Cristo vino en carne y hueso (1 Juan 4) | La pasa |
-| Anuncio concreto y sin condiciones (Deuteronomio 18) | Problema serio en 1856; no es una refutación cerrada |
-| Una condición verdadera en el anuncio (Jeremías 18; caso de Ezequías) | Posible, pero no demostrada para 1856 |
-| Que el mensaje venga de donde ella dijo (Jeremías 23) | Problemas serios en casos concretos; no está probado que siempre dijera algo falso sobre el origen |
-| Mensaje que cambia por dinero (Miqueas 3) | No probado |
-| Frutos (Mateo 7) | Mezclados |
-| Predicciones o datos que no podía saber | Poco apoyo; nada definitivo |
-| Coherencia con la Biblia sobre 1844, el santuario y el juicio | No revisado |
+Así queda cada prueba:
 
-La tabla no se suma. Muestra qué pesa y qué falta.
+- No apartar de Dios (Deuteronomio 13): la pasa en lo que se revisó.
+- Reconocer que Cristo vino en carne y hueso (Primera de Juan 4): la pasa.
+- Anuncio concreto y sin condiciones (Deuteronomio 18): problema serio en 1856; no es una refutación cerrada.
+- Una condición verdadera en el anuncio (Jeremías 18; caso de Ezequías): posible, pero no demostrada para 1856.
+- Que el mensaje venga de donde ella dijo (Jeremías 23): problemas serios en casos concretos; no está probado que siempre dijera algo falso sobre el origen.
+- Mensaje que cambia por dinero (Miqueas 3): no probado.
+- Frutos (Mateo 7): mezclados.
+- Predicciones o datos que no podía saber: poco apoyo; nada definitivo.
+- Coherencia con la Biblia sobre 1844, el santuario y el juicio: no revisado.
+
+Esta lista no se suma como si fueran puntos. Muestra qué pesa y qué falta.
 
 ## 12. ¿Fue sincera?
 
@@ -140,7 +140,6 @@ No quiero esconder lo que juega a favor. El incendio de la *Review and Herald*, 
 Por eso no lo digo con seguridad. Hay casos reales a su favor. La comparación con los anuncios de la Biblia pide usar la misma regla con mucho cuidado. Y la doctrina quedó afuera de este libro. Que sus mensajes vinieran de Dios sigue siendo posible. Que algunos vinieran de Dios y otros no, también, aunque me parece menos probable. Lo que no creo es que haya mentido a propósito: eso es lo que tiene menos apoyo de todo.
 
 Esto es lo que me parece hoy, no una sentencia. Las pruebas están en estas páginas. Alguien puede pesarlas distinto que yo, y tiene todo el derecho de hacerlo.
-
 [^1]: Ellen G. White, *Testimony for the Battle Creek Church* (1882), pp. 47–49; Lt 206, 1906; Ms 107, 1909. Véase el capítulo 3.
 [^2]: Deuteronomio 13:1-5; Ellen G. White, [*Steps to Christ* (1892), cap. 1](https://text.egwwritings.org/amp/read/108.21).
 [^3]: 1 Juan 4:1-6; Ellen G. White, [*The Desire of Ages* (1898), cap. 4, pp. 48–49](https://text.egwwritings.org/amp/read/130.120).

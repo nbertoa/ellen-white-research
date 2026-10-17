@@ -53,7 +53,6 @@ En 1849 publicó visiones que unían la puerta cerrada con los mandamientos. Y o
 Creo que no todos los cambios valen lo mismo. Un recuerdo impreciso, una corrección de historia o un consejo distinto para un enfermo pesan poco. Los remedios, lo que negó en 1897, el diezmo y la puerta cerrada pesan más. Tocan afirmaciones fuertes sobre causas de enfermedades, sobre de dónde venían sus mensajes o sobre órdenes que presentaba como de Dios.
 
 Que no se encontraran dos revelaciones contrarias no prueba que todo sea coherente ni que venga de Dios. Y que sea coherente no arregla el anuncio de 1856 que no se cumplió. El capítulo siguiente pasa de los textos a su vida.
-
 [^1]: Ellen G. White, testimonio del 21 de octubre de 1858, [1T 206–207](https://ellenwhiteresearch.com/works/1T/38); [*Spiritual Gifts* 4a (1864), p. 124](https://ellenwhiteresearch.com/works/4aSG/39).
 [^2]: Ellen G. White, [discurso del 6 de marzo de 1869](https://text.egwwritings.org/amp/read/13786.6), luego 2T 371–372; Ms 12, 1873, en [reproducción del White Estate](https://text.egwwritings.org/read/776.1331); Lt 76, 1895.
 [^3]: Ellen G. White, [Lt 128, 1896, a Mary Clough Watson, 9 de julio](https://text.egwwritings.org/read/14061.5546001).

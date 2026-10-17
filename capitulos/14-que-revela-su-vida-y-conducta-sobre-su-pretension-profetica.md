@@ -49,7 +49,6 @@ Hay pocas pruebas de que fuera una mentirosa que buscaba dinero. A mí me parece
 Pero hay que nombrar también una posición intermedia, que el final del libro tiene que tener en cuenta: **una base sincera con momentos en que se defendió por interés propio.** Una persona puede creer de verdad que Dios le dio una tarea y, en peleas concretas, usar esa autoridad para ganar una discusión o negar más de lo que correspondía. Lo de Bolton, el diezmo y lo que negó en 1897 son el tipo de casos donde se juega esa posibilidad. Los documentos no alcanzan para confirmarla ni para descartarla.
 
 Su conducta no prueba que fuera sincera ni que fuera inspirada. Ayuda a descartar la explicación más cínica y deja planteado el problema de la autoridad. El capítulo siguiente sigue ese problema en sus efectos sobre otras personas.
-
 [^1]: W. C. White y D. E. Robinson, [*Mrs. White's Indebtedness*](https://whiteestate.org/legacy/issues-indebtedness-html/); *Understanding Ellen White* (2015), cap. 15, [«Estate debt resolution»](https://text.egwwritings.org/read/13959.1177). Son reconstrucciones institucionales con criterios distintos.
 [^2]: Ellen G. White, [«Last Will and Testament», 9 de febrero de 1912](https://text.egwwritings.org/read/656.5212).
 [^3]: Ellen G. White, [Lt 267, 1905](https://text.egwwritings.org/read/14070.10694001).

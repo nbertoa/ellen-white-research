@@ -59,7 +59,6 @@ No. Una oración de joven en la que se puso rígida, un trance en público en 18
 ## 10. ¿Hay pruebas de que vinieran de Dios?
 
 No en estos datos. Que ella y sus testigos dijeran que venían de Dios muestra lo que creían, no la causa. Que el cuerpo hiciera cosas raras tampoco dice quién mandaba el mensaje. Para saber si venían de Dios hay que mirar lo que decían: anuncios escritos antes de hechos difíciles de adivinar, o datos que ella no podía conocer y que después se confirmaron. Eso es lo que revisan los capítulos 7 y 8.
-
 [^1]: James White, *Life Incidents* (1868), pp. 272–273, [edición digital](https://www.gutenberg.org/files/61394/61394-h/61394-h.htm); W. C. White, 17 de diciembre de 1905, [transcripción](https://whiteestate.org/legacy/issues-visionsofegw-html/).
 [^2]: Ellen G. White, *Spiritual Gifts*, vol. 2 (1860), pp. 7–9, [texto](https://ellenwhiteresearch.com/works/2SG).
 [^3]: Christensen et al., «Long-term risk of epilepsy after traumatic brain injury in children and young adults», *Lancet* 373 (2009), pp. 1105–1110, [PubMed](https://pubmed.ncbi.nlm.nih.gov/19233461/); Ellen G. White, *A Sketch of the Christian Experience and Views* (1851), pp. 3–4, [texto](https://ellenwhiteresearch.com/works/ExV/1).

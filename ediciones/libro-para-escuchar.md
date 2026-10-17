@@ -186,6 +186,8 @@ No. Ezequiel 13 habla de personas que decían «Dios dijo» sin que Dios las hub
 
 ## 9. ¿Qué pruebas se van a usar?
 
+Las pruebas se ordenan en tres grupos:
+
 - Pesan mucho en contra: apartar de Dios en su nombre; anuncio concreto y sin condiciones que no se cumplió; contradicción clara con la Biblia; decir que algo viene de Dios cuando vino de otro lado; métodos prohibidos; mensaje que cambia por dinero; frutos que corrompen.
 - Ayudan a favor, sin alcanzar solas: anuncio preciso y difícil de adivinar, escrito antes; datos que no podía conocer; coherencia con la Biblia; vida coherente; aceptar ser examinado; buenos frutos.
 - No alcanzan por sí solas: visiones, trances, señales, un acierto suelto, sinceridad, piedad, fama, crecimiento.
@@ -379,6 +381,8 @@ No. Las señales físicas llamativas son de las primeras décadas. La última «
 ## 9. ¿Qué probarían esas señales aunque fueran reales?
 
 Que pasaba algo fuera de lo común, no quién lo causaba. En muchas religiones se han descrito trances en los que la persona no siente, se pone rígida y respira distinto. Creo que de dónde venían los mensajes se decide mirando los mensajes, no el cuerpo.
+
+Así queda cada cosa:
 
 - Ojos abiertos y fijos en algunas visiones: probable.
 - Casi no reaccionaba, aunque hablaba y hacía gestos: probable.
@@ -1050,6 +1054,8 @@ Poco para decidir entre las dos primeras explicaciones. En las visiones, lo bás
 
 ## 11. ¿Cómo le va con las pruebas del capítulo 2?
 
+Así queda cada prueba:
+
 - No apartar de Dios (Deuteronomio 13): la pasa en lo que se revisó.
 - Reconocer que Cristo vino en carne y hueso (Primera de Juan 4): la pasa.
 - Anuncio concreto y sin condiciones (Deuteronomio 18): problema serio en 1856; no es una refutación cerrada.
@@ -1060,7 +1066,7 @@ Poco para decidir entre las dos primeras explicaciones. En las visiones, lo bás
 - Predicciones o datos que no podía saber: poco apoyo; nada definitivo.
 - Coherencia con la Biblia sobre 1844, el santuario y el juicio: no revisado.
 
-La tabla no se suma. Muestra qué pesa y qué falta.
+Esta lista no se suma como si fueran puntos. Muestra qué pesa y qué falta.
 
 ## 12. ¿Fue sincera?
 

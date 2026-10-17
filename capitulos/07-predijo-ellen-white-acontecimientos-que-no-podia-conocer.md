@@ -58,7 +58,7 @@ El anuncio habla de los que estaban en esa reunión y del regreso de Jesús, y n
 
 Los defensores adventistas dicen que el anuncio tenía una condición. White habló de eso antes de que murieran todos los que estaban en la reunión. En 1868 explicó que Jesús se demoraba porque los creyentes no estaban preparados. En 1883 escribió que lo que Dios promete y lo que Dios advierte tiene condiciones, y que Cristo habría vuelto antes si su pueblo hubiera cumplido su tarea.[^11] No es una excusa inventada al final.
 
-Y la Biblia tiene anuncios sin condición escrita que igual cambiaron. Isaías le dijo a Ezequías «vas a morir», Ezequías oró y Dios le dio quince años más (2 Reyes 20; Isaías 38). Jeremías 18 dice que Dios también puede retirar algo bueno que prometió si el pueblo no responde. Por eso no alcanza con decir «no tenía condición escrita, así que falló».
+Y la Biblia tiene anuncios sin condición escrita que igual cambiaron. Isaías le dijo a Ezequías «vas a morir», Ezequías oró y Dios le dio quince años más (Segundo de Reyes 20; Isaías 38). Jeremías 18 dice que Dios también puede retirar algo bueno que prometió si el pueblo no responde. Por eso no alcanza con decir «no tenía condición escrita, así que falló».
 
 Pero hay una diferencia. En los casos de la Biblia, el mismo relato cuenta el cambio y su razón en ese momento: Ezequías ora y el profeta vuelve con otro mensaje. En 1856 no hay nada parecido. La explicación de White es general y llegó años después. No muestra que los que estaban en 1856 entendieran «algunos vivirán» como «algunos vivirán si la iglesia cumple». **El anuncio de 1856 es un problema serio para decir que ese mensaje vino de Dios, aunque no es una refutación cerrada.** El capítulo 16 examina si esta misma forma de razonar alcanza también a anuncios del Nuevo Testamento sobre que el fin estaba cerca.
 
@@ -75,7 +75,6 @@ En *El conflicto de los siglos* anunció una ley en Estados Unidos que obligarí
 ## 13. ¿Qué queda claro?
 
 A mí el resultado me parece mezclado. Hay advertencias escritas antes y concretas que merecen tenerse en cuenta. Hay un anuncio que ella presentó como venido de Dios y no se cumplió. Hay un texto que dice que Dios escondió un error en el cuadro de 1843. Y hay anuncios que siguen abiertos. Ningún caso prueba que supiera cosas por un camino sobrenatural.
-
 [^1]: J. N. Loughborough, *Rise and Progress of the Seventh-day Adventists* (1892), pp. 236–237, [facsímil](https://documents.adventistarchives.org/Books/RP1892.pdf); el [inventario de sus papeles](https://centerforadventistresearch.org/wp-content/uploads/2023/03/John-N.-Loughborough-Papers-327.pdf) no lista un diario de 1861.
 [^2]: American Historical Association, [«Chronology of Major Events Leading to Secession Crisis»](https://www.historians.org/teaching-learning/aha-historical-collections/16-months-to-sumter/chronology-of-major-events-leading-to-secession-crisis/).
 [^3]: Ellen G. White, [«Slavery and the War», *Review and Herald*, 27 de agosto de 1861](https://text.egwwritings.org/amp/read/821.325); [Library of Congress, primera batalla de Bull Run](https://www.loc.gov/item/today-in-history/july-21).

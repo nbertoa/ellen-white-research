@@ -35,7 +35,6 @@ Después de su muerte, los encargados de sus escritos publicaron libros armados 
 ## 6. ¿Qué se puede decir que es de ella?
 
 Los textos de base, la dirección general y la aprobación de las ediciones que salieron en vida. No cada palabra final, ni los libros de extractos armados después de su muerte. Creo que los críticos muestran bien que un solo nombre en la tapa esconde mucho trabajo en equipo. Pero todavía no prueban que las ayudantes inventaran mensajes y los hicieran pasar por suyos.
-
 [^1]: W. C. White a G. A. Irwin, 7 de mayo de 1900, [exhibición 81 de «How *The Desire of Ages* Was Written»](https://whiteestate.org/legacy/issues-da-how-da-how-html/).
 [^2]: Marian Davis a W. C. White, 29 de marzo de 1893; Ellen G. White a W. C. White, 15 de junio de 1893; Davis a W. C. White, 11 de abril de 1897; Davis a Ellen G. White, 10 de agosto de 1895; Ellen G. White a Irwin, 23 de abril de 1900; exhibiciones 45–81 de la [misma colección](https://whiteestate.org/legacy/issues-da-how-da-how-html/).
 [^3]: Davis a J. E. White, 22 de diciembre de 1895, exhibición 61, [misma colección](https://whiteestate.org/legacy/issues-da-how-da-how-html/).

@@ -2,7 +2,7 @@
 
 Voy a seguir leyendo a Elena G. de White. Me gusta. Me voy a seguir emocionando con los mismos capítulos de *El Deseado de todas las gentes*, como siempre.
 
-Y voy a hacer con ella lo mismo que hago con todo lo que leo: quedarme con lo bueno y dejar lo que no me parezca bueno. «Examinadlo todo; retened lo bueno» (1 Tesalonicenses 5:21).
+Y voy a hacer con ella lo mismo que hago con todo lo que leo: quedarme con lo bueno y dejar lo que no me parezca bueno. «Examinadlo todo; retened lo bueno» (Primera de Tesalonicenses capítulo 5, versículo 21).
 
 ## ¿Qué lugar tiene la Biblia?
 
@@ -20,7 +20,7 @@ Eso pide estar dispuesto a aprender y a reaprender. Y cuando uno lo hace, aparec
 
 ## ¿Y ahora qué?
 
-Ahora le toca a cada uno. Los de Berea escucharon a Pablo y después revisaron las Escrituras todos los días, para ver si las cosas eran así (Hechos 17:11). Eso es lo que propongo: sentarse, estudiar por uno mismo y decidir.
+Ahora le toca a cada uno. Los de Berea escucharon a Pablo y después revisaron las Escrituras todos los días, para ver si las cosas eran así (Hechos capítulo 17, versículo 11). Eso es lo que propongo: sentarse, estudiar por uno mismo y decidir.
 
 Si este libro despertó preguntas, si dio a conocer algo que no se sabía, si respondió alguna duda o si abrió dudas nuevas, ya cumplió su propósito.
 

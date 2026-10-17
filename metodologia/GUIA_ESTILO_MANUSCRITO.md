@@ -92,3 +92,15 @@ Desde el 17 de octubre de 2026, las interpretaciones y posturas del autor van en
 ## ¿Qué largo debe tener cada capítulo?
 
 Desde la condensación del 17 de octubre de 2026, el manuscrito busca lo más corto que conserve los hechos, los grados de certeza y lo que juega en contra. Como referencia: entre 700 y 1.600 palabras de cuerpo por capítulo y unas 2.600 en el capítulo 16, después de la revisión de lenguaje simple. Cada capítulo responde su pregunta en el primer párrafo, presenta sólo los casos que inclinan el balance y deja el detalle documental en `hallazgos/`. Las tablas se usan sólo cuando resumen un resultado; las tablas de trabajo quedan fuera de la edición de lectura.
+
+## ¿Cómo se escribe para que se pueda leer en voz alta?
+
+Desde el 17 de octubre de 2026, el manuscrito se escribe para lectura en voz alta, lectura pública y audiolibro (ElevenReader):
+
+- las citas bíblicas en el cuerpo se escriben como se dicen: «Deuteronomio capítulo 18, versículos 20 al 22», no «Deuteronomio 18:20-22»;
+- los libros con número se nombran en palabras: «Primera de Juan», «Segundo de Reyes»;
+- no hay tablas en el cuerpo: los resultados van en listas de frases («Ojos abiertos y fijos: probable»);
+- las notas se quedan en el archivo fuente como notas al pie, pero no se leen: la edición `ediciones/libro-para-escuchar.md`, que genera `scripts/edicion_audio.py`, las convierte en números volados y las junta al final, sin direcciones web.
+
+Las notas al pie pueden seguir usando la forma abreviada de las referencias (por ejemplo, «Hechos 17:11»).
+

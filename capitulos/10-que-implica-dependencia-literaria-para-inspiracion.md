@@ -8,7 +8,7 @@ Tres cosas juntas. Que un texto salga de un libro humano. Que White diga de dón
 
 ## 2. ¿Puede un escrito inspirado usar libros de otros?
 
-Sí, si se parte de la fe cristiana, como hace este libro. Lucas dice que investigó. Reyes y Crónicas mandan a leer registros anteriores. Mateo, Marcos y Lucas comparten relatos y frases. Judas cita una tradición que aparece en un libro antiguo llamado 1 Enoc.[^1] Pero en ninguno de esos casos se presenta como voz o visión algo que se supo de otra manera.
+Sí, si se parte de la fe cristiana, como hace este libro. Lucas dice que investigó. Reyes y Crónicas mandan a leer registros anteriores. Mateo, Marcos y Lucas comparten relatos y frases. Judas cita una tradición que aparece en un libro antiguo llamado Primero de Enoc.[^1] Pero en ninguno de esos casos se presenta como voz o visión algo que se supo de otra manera.
 
 ## 3. ¿Cómo describía White su propio trabajo?
 
@@ -57,7 +57,6 @@ Los defensores adventistas explican bien lo que tomó para sus libros de histori
 Creo que los críticos tienen razón en que los casos de 1879 y 1890 son más graves que cualquier cantidad de datos de historia tomados de otros libros. Su límite es que un texto anterior parecido no muestra cómo fue la experiencia ni prueba que ella quisiera engañar.
 
 Harían falta borradores que mostraran cómo algo leído se convirtió en el relato de una revelación. O una nota, escrita antes de leer ese libro, que ya tuviera el contenido. Mientras no aparezcan, me parece que hay más pruebas de que las palabras vinieron de libros humanos que de cualquier explicación concreta de lo que ella vivió.
-
 [^1]: Lucas 1:1-4; 1 Reyes 11:41; 2 Crónicas 9:29; Marcos 2:1-12; Mateo 9:1-8; Lucas 5:17-26; Judas 14-15; [1 Enoc 1:9](https://sacred-texts.com/book/the-book-of-enoch/read/chapter-i).
 [^2]: Ellen G. White, [*Review and Herald*, 8 de octubre de 1867, p. 260](https://m.egwwritings.org/en/book/821.726); [*Spiritual Gifts* 2 (1860), pp. 292–293](https://m.egwwritings.org/en/book/105.1115); [Lt 38, 1885, párr. 30](https://m.egwwritings.org/en/book/14054.3943001); [*The Great Controversy* (1888), prólogo, pp. g–h](https://m.egwwritings.org/en/book/133.18).
 [^3]: Daniel March, [*Night Scenes in the Bible*](https://archive.org/details/nightscenesinbib00marc), pp. 201–202; Ellen G. White, 5T 68; Walter Rea, *The White Lie* (1982), pp. 52–54.

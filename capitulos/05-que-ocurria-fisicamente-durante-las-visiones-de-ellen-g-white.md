@@ -58,18 +58,18 @@ No. Las señales físicas llamativas son de las primeras décadas. La última «
 
 Que pasaba algo fuera de lo común, no quién lo causaba. En muchas religiones se han descrito trances en los que la persona no siente, se pone rígida y respira distinto. Creo que de dónde venían los mensajes se decide mirando los mensajes, no el cuerpo.
 
-| Lo que se dice | Cómo queda |
-|---|---|
-| Ojos abiertos y fijos en algunas visiones | Probable |
-| Casi no reaccionaba, aunque hablaba y hacía gestos | Probable |
-| Rigidez que sorprendía a los presentes | Probable |
-| Fuerza de verdad sobrehumana | No se sabe |
-| No se le notaba la respiración normal | Probable |
-| Nada de aire durante minutos u horas | No probado |
-| Prueba con una Biblia abierta en Randolph | Probable |
-| Biblia Harmon sostenida media hora | No se sabe |
-| Una enfermedad concreta como causa | No se sabe |
-| Las señales prueban que Dios era la causa | No probado |
+Así queda cada cosa:
+
+- Ojos abiertos y fijos en algunas visiones: probable.
+- Casi no reaccionaba, aunque hablaba y hacía gestos: probable.
+- Rigidez que sorprendía a los presentes: probable.
+- Fuerza de verdad sobrehumana: no se sabe.
+- No se le notaba la respiración normal: probable.
+- Nada de aire durante minutos u horas: no probado.
+- Prueba con una Biblia abierta en Randolph: probable.
+- Biblia Harmon sostenida media hora: no se sabe.
+- Una enfermedad concreta como causa: no se sabe.
+- Las señales prueban que Dios era la causa: no probado.
 
 [^1]: James White, *Life Incidents* (Battle Creek, 1868), pp. 272–273, [edición digital](https://www.gutenberg.org/files/61394/61394-h/61394-h.htm).
 [^2]: George I. Butler, «Visions and Prophecy», *Review and Herald*, 9 de junio de 1874, pp. 201–202, [facsímil](https://documents.adventistarchives.org/Periodicals/RH/RH18740609-V43-26.pdf).

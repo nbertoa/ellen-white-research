@@ -43,7 +43,6 @@ Bastante. Marian Davis eligió y ordenó material para *El Deseado de todas las 
 ## 8. ¿Era normal escribir así en el siglo XIX?
 
 Las reglas para citar eran menos estrictas que hoy. Pero en 1864 el mismo periódico adventista se quejó porque otra publicación había sacado un himno de Annie R. Smith con el nombre de otra persona. O sea que en su ambiente sí importaba decir de quién era cada texto. A mí me parece que llamarlo «plagio» o no llamarlo así no resuelve nada. Lo que importa acá es otra cosa: qué dijo White sobre de dónde salía lo que escribía.[^9]
-
 [^1]: Ellen G. White, [*Sketches from the Life of Paul* (1883), cap. 13](https://www.ellenwhite.info/books/bk-slp-13.htm); comparación de Denis Fortin, [«EGW and Conybeare»](https://www.andrews.edu/~fortind/EGWWhite-Conybeare.htm); recomendación en [*Signs of the Times*, 22 de febrero de 1883, p. 96](https://m.egwwritings.org/en/book/820.21687).
 [^2]: Correspondencia de C. E. Holmes y Thomas Y. Crowell Company, enero de 1924, reproducida por Francis D. Nichol, *Ellen G. White and Her Critics*, pp. 455–457; [White Estate, «Ellen G. White and Sources»](https://whiteestate.org/about/issues/egw-sources/).
 [^3]: Donald R. McAdams, [«Ellen G. White and the Protestant Historians»](https://whiteestate.org/issues/EGWPH77.pdf) (1974, revisado en 1977); Herbert E. Douglass, *Messenger of the Lord* (1998), capítulo sobre *The Great Controversy*.
