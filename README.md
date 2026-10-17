@@ -11,6 +11,7 @@ La respuesta del capítulo 16: no quedó demostrado que fuera profeta. La explic
 - `capitulos/`: manuscrito del libro (edición condensada y en lenguaje sencillo, unas 24.000 palabras de cuerpo).
 - `hallazgos/`: fichas de investigación, auditorías y cotejos, con todo el detalle que el manuscrito resume.
 - `metodologia/`: criterios, orden del manuscrito y guía de estilo.
+- `ediciones/libro-para-escuchar.md`: edición para escuchar en ElevenReader, con las notas numeradas al final, sin direcciones web y con las tablas y citas bíblicas pasadas a frases. Se regenera con `python3 scripts/edicion_audio.py`.
 - `scripts/manuscrito.py`: ensambla la edición de lectura y hace una validación estructural (notas, enlaces, títulos). No comprueba citas, fechas ni razonamientos: eso lo hacen los cotejos de `hallazgos/`.
 
 ## ¿Cómo se investiga?
