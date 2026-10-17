@@ -1,316 +1,69 @@
-# Capítulo 15 — ¿Qué frutos produjo el ministerio de Ellen White?
+# Capítulo 15 — ¿Qué frutos produjo el ministerio de Elena G. de White?
 
-## ¿Qué debemos mirar después de examinar sus mensajes y su conducta?
+Ayudó a producir un movimiento de servicio sanitario, educación y misión, con beneficios reales y compartidos con muchos otros. También ayudó a formar un sistema de autoridad que volvía costoso reconocer en público sus errores y límites. Los frutos tienen valor moral, pero distinguen poco entre un origen divino y un liderazgo humano sincero.
 
-Debemos mirar lo que su ministerio ayudó a producir en otras personas. Una afirmación puede ser discutible y, aun así, impulsar una obra útil. Una intención puede ser buena y terminar imponiendo una carga. Un libro puede acercar a un lector a Cristo y convertirse, en otro contexto, en una autoridad que dificulta hacer preguntas.
+## 1. ¿Por qué los frutos no son lo mismo que el éxito?
 
-Por eso este capítulo no pregunta solamente si Ellen White hizo cosas buenas. Pregunta qué efectos espirituales, morales, prácticos e institucionales pueden relacionarse razonablemente con su influencia, y cuánto ayudan a evaluar el origen que reclamaba.
+Porque una organización grande puede ayudar o dañar, y la cantidad de seguidores no dice cuál. Jesús habló de conocer a los falsos profetas por sus frutos (Mateo 7), no por su prestigio.[^1] Además, los resultados de una denominación no son todos obra de una persona. Para atribuirle un efecto hace falta una recomendación suya identificable, decisiones que la adopten y evidencia de lo que pasó.
 
-Los capítulos anteriores encontraron recomendaciones valiosas, errores, cambios, colaboración editorial, conflictos y límites documentales. Ahora no corresponde sumar hospitales para compensar errores médicos, ni sumar lectores heridos para cancelar todo servicio. Debemos reconstruir resultados y responsabilidades.
+## 2. ¿Convirtió la salud en una obra de servicio?
 
-Para evaluar esos frutos necesitamos saber qué produjo cada resultado y qué otras causas intervinieron.[^criterio]
+Sí, con otros. A partir de una visión que fechó en diciembre de 1865, propuso en 1866 un lugar donde los enfermos recibieran atención y aprendieran hábitos sanos; el Western Health Reform Institute abrió en Battle Creek ese mismo año.[^2] James White, donantes, médicos y, más tarde, John Harvey Kellogg pusieron recursos y decisiones propias. Le corresponde un impulso importante, no la fundación en solitario.
 
-## ¿Por qué los frutos no son lo mismo que el éxito?
+Un estudio de 2001 siguió a 34.192 adventistas de California entre 1976 y 1988 y encontró que vivían varios años más que otros californianos blancos.[^3] Es compatible con beneficios del estilo de vida que ella promovió, como dejar el tabaco y el alcohol. Pero el estudio no midió la lectura de sus escritos, y entre ella y esa población intervinieron generaciones de médicos y familias. Esos beneficios tampoco vuelven correctas sus afirmaciones médicas equivocadas.
 
-Porque una organización grande puede ayudar o dañar. Puede educar, cuidar enfermos y sostener comunidades; también puede concentrar poder o proteger errores. La cantidad de seguidores no decide cuál de esas cosas ocurre. Tampoco lo decide la supervivencia de la organización.
+## 3. ¿Qué dejó en educación?
 
-En el criterio bíblico establecido en el capítulo 2, Mateo 7 invita a examinar el patrón real del ministerio, no su prestigio. Jeremías 23 distingue entre fortalecer el mal y apartar de él. La fidelidad, la verdad y el trato a las personas importan más que una demostración de poder. Aplicar ese criterio a efectos históricos exige cuidado: los resultados de una denominación no son todos actos de una sola persona.
+Una orientación que unía Biblia, trabajo práctico, salud y misión. En Australia impulsó la escuela de Avondale, abierta en 1897, que tuvo docentes, junta y donantes propios.[^4] El modelo tuvo que corregirse desde el principio: ya durante la preparación, en 1896, se abandonó el plan industrial previsto, aunque se conservó el trabajo manual. Y tuvo una disciplina estricta, con medidas firmes contra los noviazgos entre alumnos. Para unos significó orden y oficio; para otros, menos autonomía.[^5]
 
-Un fruto favorable sería promover cuidado efectivo, formación, honestidad o una vida religiosa que sostenga a las personas. Un fruto problemático sería contribuir de manera persistente al engaño, al daño evitable o a la subordinación de la conciencia. Esos criterios valen tanto para los casos que favorecen a White como para los que presentan dificultades.
+Hay un resultado concreto: donó los derechos de *Palabras de vida del gran Maestro* para ayudar a escuelas endeudadas. En 1901 se informaron más de 10.000 dólares en efectivo aplicados a la deuda de Union College.[^6]
 
-Una idea humana también puede producir bienestar y un mensaje valioso puede ser deformado por seguidores. ¿Cuánto de cada efecto corresponde a White?
+## 4. ¿Acercaron sus escritos a la Biblia y a Cristo?
 
-## ¿Cómo podemos distinguir su influencia de la del adventismo?
+Hay datos favorables. Una encuesta de 1980 en 193 iglesias norteamericanas encontró que el 82 % de los lectores habituales de White estudiaba la Biblia a diario, frente al 47 % de los demás, y que el 82 % se sentía seguro de estar bien con Dios, frente al 59 %.[^7] No prueba causa: los más comprometidos pueden leer ambas cosas, y la encuesta dejó fuera a quienes ya no iban a la iglesia.
 
-Buscando cómo una intervención suya condujo a un resultado. Primero, una recomendación identificable. Después, decisiones o prácticas que la adopten. Finalmente, evidencia de lo que ocurrió. Cuando faltan eslabones, la atribución pierde fuerza.
+Al mismo tiempo, en 1919 el docente C. L. Benson describió ministros que armaban sermones con los escritos de White más que con la Biblia.[^8] Ella había dicho que sus escritos debían llevar a la Biblia, no reemplazarla. Las dos cosas pudieron convivir.
 
-No basta con que ella defendiera escuelas y más tarde existieran escuelas. Es más informativo encontrar correspondencia sobre un proyecto, decisiones de una junta y resultados de esa institución. Tampoco basta con que alguien haya sufrido dentro del adventismo: necesitamos conocer qué enseñanza recibió, cómo se aplicó y qué papel tuvo en su experiencia.
+Sobre el miedo, la culpa y el perfeccionismo hay críticas y testimonios que merecen escucharse, pero no estudios que permitan atribuirle a ella un daño psicológico medido.[^9]
 
-Hay además cosas diferentes que clasificar. Podemos saber que algo ocurrió sin saber cuánto tuvo que ver White. Su participación puede ser importante aunque compartida. Y el valor puede ser mixto: una institución ofrece oportunidades reales mientras impone restricciones discutibles.
+## 5. ¿Repartió el poder dentro de la iglesia?
 
-Examinaremos salud, educación, experiencia religiosa, organización misionera y autoridad. Las preguntas sobre familia e igualdad nos ayudarán a ver a quiénes alcanzaron los beneficios y dónde quedaron límites.[^inventario]
+Ayudó. En 1901 criticó que pocos hombres manejaran toda la obra y pidió una reorganización, que se hizo entre 1901 y 1903 con la participación de A. G. Daniells y muchos otros.[^10] Repartir tareas no garantizó libertad para cuestionar un mensaje considerado divino.
 
-## ¿Ayudó White a convertir la salud en una obra de servicio?
+## 6. ¿A quiénes alcanzó el servicio?
 
-Sí. Su intervención en la creación de una institución sanitaria propia ofrece un vínculo histórico concreto, anterior al resultado. En la instrucción que situó el 25 de diciembre de 1865, comunicada a la conferencia de mayo de 1866, propuso un lugar donde enfermos recibieran atención y aprendieran hábitos saludables dentro de un ambiente religioso. No era sólo un consejo individual sobre comida.[^instituto]
+En 1891 llamó a su iglesia a servir a las personas negras del sur de Estados Unidos, aunque líderes negros como Charles Kinny ya trabajaban antes. Pero en textos publicados en 1909 recomendó lugares de culto separados en el sur, para evitar oposición en un contexto de violencia racial. El servicio convivió con la aceptación de una separación racial.[^11]
 
-El Western Health Reform Institute abrió en Battle Creek el 5 de septiembre de 1866. La revista denominacional anunció su funcionamiento días después. Es evidencia contemporánea de que el proyecto llegó a existir, aunque el entusiasmo del anuncio no constituye una auditoría de curaciones.[^apertura]
+En 1895 defendió que mujeres fueran apartadas para el servicio con imposición de manos, y en 1898 reclamó que se pagara a las trabajadoras cuyos maridos ya cobraban.[^12] Si eso cambió los pagos reales, no consta.
 
-La relación entre propuesta e institución permite atribuirle un impulso importante. No permite llamarla fundadora solitaria. James White, donantes, organizadores y profesionales aportaron recursos y trabajo. El desarrollo posterior, asociado especialmente con John Harvey Kellogg, tuvo sus propias decisiones y conflictos.
+## 7. ¿Qué costo tenía reconocer sus errores?
 
-El fruto más seguro es haber ayudado a convertir una preocupación sanitaria en servicio organizado. Saber que el sanatorio existió no permite juzgar todos sus tratamientos ni cuánto acceso tuvieron los pacientes. Para eso hacen falta registros de su atención y sus resultados.
+Este es el problema mejor documentado. En 1915 W. W. Prescott escribió a W. C. White que había errores en libros autorizados y que se priorizaba evitar el escándalo sobre informar con verdad. Admitió que eso podía no ser intencional; no es una acusación de fraude contra ella.[^13] En la Conferencia Bíblica de 1919, docentes y dirigentes discutieron si podían decir a sus alumnos que esos libros no eran autoridad final en historia. J. N. Anderson planteó que callar comprometía la honestidad; Daniells recordó que años antes ni siquiera habría sido seguro conversarlo.[^14]
 
-## ¿Qué permiten afirmar los estudios de salud de adventistas?
+El costo siguió después de su muerte. En 1980 Walter Rea perdió su puesto pastoral y sus credenciales mientras acusaba públicamente a White de plagio; un dirigente dijo que su actuación lo volvía incapaz de servir como ministro.[^15] El mismo año Desmond Ford perdió las suyas, aunque por discutir el juicio investigador, no a White directamente.[^16]
 
-Permiten reconocer asociaciones favorables en poblaciones determinadas. No permiten calcular cuántos años añadió Ellen White a la vida de sus lectores.
+¿Cuánto de esto es responsabilidad de ella? Una parte compartida. Su afirmación de recibir instrucción divina daba peso a sus reprensiones y volvía costoso disentir. Pero también negó la inspiración de cada palabra y aprobó correcciones de sus libros. Promotores y administradores ampliaron su autoridad más allá de lo que ella reclamaba.
 
-Un estudio de Fraser y Shavlik, publicado en 2001, analizó a 34.192 adventistas blancos no hispanos de California, de treinta años o más, con datos iniciados en 1976 y seguimiento hasta 1988. Comparó su supervivencia con datos estatales y examinó diferencias entre hábitos dentro del grupo seguido por el estudio.[^cohorte]
+Desde 2015 la Iglesia Adventista dice que sus escritos «hablan con autoridad profética» y ya no los llama «una fuente continua y autorizada de verdad».[^17]
 
-El estudio observó lo que ocurría, sin asignar hábitos a los participantes. Dieta, actividad física, masa corporal y otros factores se tuvieron en cuenta en sus cálculos; muy pocas personas de esa población fumaban. El trabajo no midió lectura ni adhesión a White y no creó grupos iguales en educación, selección, religión y redes sociales que difirieran únicamente en su influencia.
+## 8. ¿Qué frutos distinguen mejor las explicaciones?
 
-El resultado es compatible con beneficios de un estilo de vida que ella promovió. Pero entre sus consejos del siglo XIX y aquella población intervinieron médicos, familias, normas comunitarias y varias generaciones. El título del artículo, *Ten Years of Life*, tampoco significa que todo adventista viviera diez años más por obedecerla.
+Pocos. Hospitales, escuelas y devoción son compatibles con un origen divino y con un liderazgo humano sincero. Lo que más pesa para la pregunta de este libro es la dificultad de corregir en público, porque toca la verdad y la conciencia. Y tampoco ahí se demuestra una política de engaño dirigida por ella.
 
-Podemos conservar la contribución histórica probable a una cultura de hábitos saludables. Sigue indeterminado cuánto de esas diferencias de supervivencia se debía a ella. El estudio no fue diseñado para resolver una pretensión profética.
-
-## ¿Qué papel tiene la temperancia en ese resultado?
-
-Tiene un papel plausible, pero compartido. White promovió con fuerza el abandono del tabaco y el alcohol. Sus consejos adquirieron una autoridad religiosa capaz de sostener normas de comunidad. Esa persistencia puede importar tanto como la novedad de una recomendación.
-
-Los capítulos sobre salud ya mostraron antecedentes humanos. Otros adventistas y movimientos de temperancia defendían esas ideas. No necesitamos atribuirle descubrimiento sobrenatural para reconocer que pudo reforzar su adopción.[^temperancia]
-
-La escasez de fumadores al comenzar el estudio citado es compatible con esa cultura. No identifica qué parte de la abstinencia vino de ella, de otros dirigentes, de la familia o de convicciones más amplias. Tampoco mide por sí sola todas las adicciones ni el efecto independiente del alcohol.
-
-Una conclusión favorable razonable es que ayudó a consolidar hábitos que podían proteger la salud. No permite atribuirle toda la longevidad adventista.
-
-## ¿Los beneficios sanitarios hacen desaparecer los errores anteriores?
-
-No. Un movimiento puede producir beneficios y conservar recomendaciones incorrectas. El capítulo 12 evaluó afirmaciones médicas particulares; aquí examinamos efectos de una orientación más amplia. Son preguntas relacionadas, pero distintas.
-
-Que ciertas prácticas alimentarias o la abstención del tabaco sean favorables no vuelve correctas las explicaciones sobre enfermedades atribuidas al «vicio secreto». Tampoco justifica automáticamente tratamientos o restricciones. Para identificar un daño concreto debemos mostrar adopción de la pauta y consecuencias en personas o instituciones.[^limites-salud]
-
-La integración de religión y salud podía motivar cuidado y disciplina. También podía hacer que una enfermedad se leyera como falta moral, o que disentir de una pauta pareciera desobediencia a Dios. Ese mecanismo merece examen. Su posibilidad no cuantifica malnutrición, mortalidad evitable ni daño psicológico.
-
-El balance conserva un fruto favorable de servicio y hábitos, con atribución importante pero compartida. Conserva también errores y posibilidades de daño cuyo alcance entre sus seguidores no está establecido. No corresponde convertir una parte del expediente en explicación de todo.
-
-## ¿Qué puede atribuirse a su influencia educativa?
-
-Puede atribuirse una intervención importante en una orientación que unía formación religiosa, trabajo práctico, salud y preparación misionera. Avondale permite observar esa influencia en un proyecto concreto, fuera de Estados Unidos.
-
-Sus cartas y manuscritos sobre la escuela australiana insistían en estudiar la Biblia, combinar trabajo y aprendizaje y enseñar conocimientos útiles. Fisiología, escritura y contabilidad aparecen junto a los fines religiosos. No se trataba únicamente de repetir sus propios libros.[^avondale]
-
-La escuela abierta en 1897 tuvo docentes, junta, donantes y administradores. Ellos tomaron decisiones que no pueden reducirse a ejecución de sus palabras. El papel de White fue importante en las prioridades y el respaldo; el funcionamiento perteneció a un esfuerzo colectivo.
-
-El resultado ofrece evidencia de oportunidades educativas y formación con fines prácticos. No demuestra que sus alumnos aprendieran más que otros comparables. Tampoco permite adjudicarle toda transformación de la universidad posterior.
-
-La pregunta más útil es qué ocurrió al aplicar el modelo, especialmente cuando sus ideales encontraron dificultades.
-
-## ¿La educación mediante trabajo funcionó sin correcciones?
-
-No. Durante la preparación de la escuela, una resolución publicada a comienzos de 1896 dispuso abandonar el plan industrial entonces vigente en Avondale y preparar otra organización escolar. Al mismo tiempo conservó trabajo manual como sostén y educación, subordinado a la formación de trabajadores para la misión.[^industrial]
-
-Esto distingue principio y aplicación. Se podía defender trabajo práctico y revisar una forma concreta de organizarlo. La resolución no demuestra que toda educación manual fuera un fracaso, ni que White hubiera diseñado personalmente el plan descartado. Sí impide presentar el proceso como un modelo terminado que sólo necesitaba obediencia.
-
-La orientación tenía restricciones. White describió medidas firmes contra el noviazgo entre estudiantes y prefirió trabajo útil frente a ciertas diversiones. La formación del carácter estaba profundamente ligada a un propósito religioso.[^disciplina]
-
-Para algunos alumnos eso podía ofrecer orden, oficio y sentido de misión. Para otros podía limitar elección y autonomía. Las instrucciones documentan esa tensión; no equivalen a una encuesta de cómo vivió cada estudiante. Una escuela puede ampliar oportunidades materiales y regular intensamente la vida de quienes estudian.
-
-La valoración es favorable en oportunidades y mixta en disciplina; necesita completarse con resultados de los alumnos. Hay, sin embargo, un beneficio material más directamente documentado.
-
-## ¿Existe un resultado educativo más concreto que la admiración por sus principios?
-
-Sí: la campaña que utilizó *Christ’s Object Lessons* para ayudar a escuelas endeudadas. White aportó el uso de su libro; editoriales, un comité y comunidades colaboraron en producción y venta. El aporte de unos no vuelve innecesario el de otros.
-
-En una reunión del 12 de abril de 1901, publicada dos días después, Percy Magan informó fondos recibidos y cantidades pendientes. Para Union College declaró 10.363,37 dólares en efectivo, que entendía aplicados a deuda. Es un informe contemporáneo de un resultado material, aunque no inspeccionamos los libros mayores.[^fondos]
-
-Para no inflar el resultado hay que distinguir el dinero recibido de las ventas, los créditos y las promesas de pago. Tampoco una entrada demuestra que desapareciera toda deuda. Lo que sí muestra el informe es que un recurso suyo, movilizado por otros, produjo ayuda para escuelas.
-
-Ese fruto conserva valor aunque no demuestre el relato de instrucción angélica asociado a la donación. Una decisión generosa y eficaz puede tener explicación humana. A la vez, cooperación y recursos destinados a educación dificultan una descripción en la que toda influencia de White fuera improductiva o únicamente extracción para beneficio personal.
-
-## ¿Sus escritos acercaron a lectores a la Biblia y a Cristo?
-
-Hay evidencia favorable más allá de testimonios individuales, aunque no demuestra causalidad. Una encuesta realizada en 1980 entre asistentes de 193 iglesias norteamericanas permitió comparar lectores habituales de White con otros miembros. El análisis se publicó en 1982.[^lectores]
-
-Los lectores habituales declararon con mayor frecuencia estudio bíblico diario y seguridad de estar bien con Dios. Esto importa: no encaja con afirmar que leerla necesariamente apartaba de la Biblia o producía inseguridad religiosa.
-
-Pero los grupos no fueron asignados al azar. Los miembros más comprometidos podían leer tanto a White como la Biblia. La encuesta se hizo durante el culto y dejó fuera a quienes ya no asistían. No permite atribuir el contraste a un libro concreto ni describir a todos los exmiembros.
-
-La relación favorable entre lectura y devoción está documentada en ese grupo. Su causa específica permanece indeterminada. Es una razón para conservar experiencias de esperanza y devoción, no para prometer que todo lector recibirá el mismo efecto.
-
-Queda otra dimensión: estudiar más la Biblia no dice por sí solo qué autoridad decide cómo interpretarla.
-
-## ¿Puede haber más lectura bíblica y dependencia de White al mismo tiempo?
-
-Sí. Una persona puede estudiar la Biblia y sentir que sólo debe aceptar interpretaciones compatibles con otro texto. Lectura, autoridad y libertad de examen necesitan preguntas diferentes.
-
-En julio de 1919, el docente C. L. Benson describió ministros que construían sermones con los escritos de White y un ambiente en que el énfasis sobre ellos superaba al dado a la Biblia. Su intervención documenta una preocupación concreta dentro del movimiento.[^benson]
-
-Benson no midió cuántos sermones eran así ni habló por todas las iglesias. Tampoco anula la encuesta de 1980: fechas, poblaciones e indicadores son distintos. Los dos resultados pueden coexistir. Unos lectores encontraban impulso para estudiar; ciertos usos institucionales sustituían la investigación o trasladaban el centro de autoridad.
-
-White había dicho que sus testimonios debían llevar a la Palabra, no reemplazarla. En su discurso de 1901 colocó esa afirmación junto a críticas sobre gobierno denominacional.[^organizacion]
-
-La intención merece conservarse y el uso distinto merece investigarse. No podemos elegir uno para hacer desaparecer el otro. Importa si la desviación se produjo contra límites claros, con su participación o dentro de un sistema de autoridad que ella ayudó a formar.
-
-## ¿Qué sabemos del miedo, la culpa y el perfeccionismo?
-
-Sabemos que hay experiencias de sufrimiento y críticas que deben escucharse. No sabemos, con las fuentes examinadas, cuántas personas las vivieron en el mundo ni cuánto puede atribuirse específicamente a White.
-
-Walter Rea interpreta su influencia en términos de temor, presión religiosa y subordinación. Su crítica permite localizar problemas, pero sus generalizaciones no constituyen investigación comparativa de salud mental. Douglass recoge experiencias favorables; tampoco puede convertirlas en bienestar universal.[^mapas]
-
-Un estudio publicado online en 2020, aparecido en revista en 2021, examinó sequedad espiritual, exigencias percibidas y agotamiento entre 626 adventistas europeos que participaron voluntariamente por internet. Encontró asociaciones entre dificultades religiosas y bienestar. No midió exposición a los escritos de White ni representó todo adventismo.[^sequedad]
-
-No permite atribuirle esas experiencias ni afirmar que toda una denominación sufre una preocupación religiosa patológica. Tampoco puede combinarse con la encuesta de 1980 como si mostrara deterioro de las mismas personas.
-
-Debemos separar enseñanza, interpretación, uso pastoral y resultado. Un lenguaje exigente recibe aplicaciones distintas; una experiencia de esperanza no invalida la de quien sufrió. Para atribuirle daño psicológico falta demostrar esa relación. La documentación institucional permite examinar, en cambio, una clase de miedo más delimitada: el costo de decir públicamente lo que se sabía.
-
-## ¿Ayudó White a repartir responsabilidad dentro de la organización?
-
-Su intervención favoreció reformas que ampliaron la participación administrativa. En 1901 criticó que pocos hombres pretendieran gestionar una obra extensa y reclamó mayor fuerza en dirección. También dijo que no podía especificar cómo realizar el cambio.[^organizacion]
-
-La reorganización de 1901–1903 dio un lugar importante a uniones territoriales, organismos que agrupaban asociaciones de iglesias, y redistribuyó decisiones. Tenía antecedentes en Australia, Europa y experiencias anteriores. Daniells, delegados y otros organizadores aportaron diseño; necesidades financieras y misioneras también presionaban hacia reforma.[^uniones]
-
-No corresponde adjudicar a White cada pieza del sistema. Puede atribuírsele un respaldo importante al cambio. El efecto probable fue ayudar a desbloquear una concentración que denunciaba, dentro de un proceso colectivo.
-
-Eso es distinto de afirmar que quedó eliminado el abuso. Una estructura puede trasladar decisiones hacia regiones y concentrar funciones en departamentos. Mayor responsabilidad local no garantiza libertad para cuestionar un mensaje considerado divino.
-
-La redistribución de tareas fue favorable, pero el balance de poder siguió siendo mixto. Queda por preguntar qué servicio permitió y a quiénes alcanzó.
-
-## ¿Qué muestra su influencia fuera del núcleo norteamericano?
-
-Muestra que su horizonte práctico no se agotó en sostener instituciones cercanas a ella. Su trabajo australiano apoyó formación y misión; Avondale ofrece un resultado concreto. La educación preparaba personas para servir en otros lugares.[^avondale]
-
-La misión internacional no comenzó ni continuó por una sola voluntad. Misioneros, maestros, dirigentes locales, editores y comunidades tuvieron iniciativa. Instituciones posteriores modificaron programas y criterios. Su influencia es parte de esa historia, no explicación suficiente de cada expansión.
-
-Contar países o conversiones no establece valor. Debemos preguntar si la obra ofreció educación y cuidado, qué costos impuso y cómo trató a quienes recibieron servicio. Esa pregunta obliga a mirar resultados que una historia de éxito suele dejar fuera.
-
-## ¿La misión entre afroamericanos produjo un fruto simplemente favorable?
-
-Produjo un fruto mixto. White reclamó atención hacia personas negras marginadas y denunció falta de compromiso de su iglesia. Su llamado de 1891 apoyó educación y servicio; Edson y colaboradores desde el *Morning Star* dieron expresión a esa orientación. Pero líderes negros como Charles Kinny ya habían desarrollado iniciativa antes de aquel llamado.[^sur]
-
-Conservar su apoyo no exige presentar a esas comunidades como creación de ella. Tampoco permite ignorar límites. En textos publicados en 1909 recomendó lugares de culto separados, especialmente en el sur, dentro de una estrategia para evitar oposición y sostener misión. También desaconsejó promover mezcla en igualdad social.[^raza]
-
-La violencia racial da contexto a la preocupación por seguridad. No convierte toda separación en un resultado moralmente neutro. La orientación podía proteger una obra educativa y justificar, al mismo tiempo, una separación racial dentro de la comunidad. Los intereses y prejuicios blancos seguían influyendo en lo considerado practicable.
-
-No fue un mandato perpetuo de separación para todos los países. No está reconstruida aquí la cadena hasta cada decisión posterior. Sí existe una dificultad relevante: el servicio promovido convivió con aceptación de restricciones que limitaban la igualdad en la práctica. Hay que evaluar tanto la intención de proteger como el posible efecto de justificar la separación.
-
-## ¿Su propia autoridad amplió las oportunidades de otras mujeres?
-
-Sus intervenciones ofrecen evidencia favorable, pero no muestran hasta dónde se abrieron oportunidades para todas. En 1895 defendió que mujeres participaran en visita a enfermos, atención de jóvenes y pobres, y fueran apartadas para ese trabajo con oración e imposición de manos.[^mujeres]
-
-En una carta de 1898 a dirigentes denunció que trabajadoras dedicadas al evangelio no recibieran remuneración porque sus maridos ya cobraban. Las mujeres estaban trabajando: intervino para reconocer su labor, no creó su capacidad de servicio.[^salarios]
-
-Su intervención fue directa y favorable. Para comprobar cambios en salarios o nombramientos necesitamos actas y listas de pagos; la recomendación no demuestra aplicación uniforme.
-
-No hace falta importar cada discusión contemporánea sobre ordenación. El respaldo a participación y pago está documentado; su alcance institucional permanece abierto. Algo parecido ocurre con la familia: los consejos y las declaraciones sobre culto doméstico no demuestran estabilidad matrimonial ni ausencia de control o violencia.
-
-## ¿Qué evidencia existe sobre los efectos de su autoridad?
-
-Los documentos de colaboradores y docentes muestran dificultades para corregir publicaciones y explicar libremente los límites de inspiración. Sus autores seguían comprometidos con el movimiento.
-
-En abril de 1915, W. W. Prescott escribió a W. C. White sobre errores en libros autorizados, impresiones equivocadas acerca de escritos de su madre y escaso esfuerzo por corregirlas. Le preocupaba que evitar conmoción tuviera prioridad sobre información fiable. Describió el costo personal de esa situación.[^prescott]
-
-La carta es su testimonio, no una comprobación de cada acusación. «Libros autorizados» no significa automáticamente que toda referencia sea a un libro de Ellen. Prescott admitió que lo que consideraba engaño podía no ser intencional; no debemos convertirlo en confesión de fraude deliberado de ella.
-
-La defensa contextual recuerda controversias, cansancio y correcciones. Debemos considerarlos. Pero no eliminan la pregunta: qué sucede cuando quienes conocen límites o errores temen que reconocerlos debilite confianza religiosa.
-
-Esa pregunta vuelve a aparecer entre responsables de enseñanza.
-
-## ¿Qué revelaron las conversaciones de 1919?
-
-Revelaron tensión entre lo que docentes y dirigentes discutían entre sí y lo que se sentían capaces de explicar al público. No era sólo diferencia privada de interpretación.
-
-El 30 de julio, H. C. Lacey propuso un folleto claro para estudiantes. Una voz no identificada objetó que adversarios lo divulgarían. Prescott recordó un pedido a quienes manejaban manuscritos. Cuando Bollman aclaró que no se había hecho a Ellen misma, aceptó la precisión.[^docentes]
-
-Ese detalle limita lo que podemos atribuirle: no podemos contar el episodio como negativa personal de White. Sí muestra dificultades en el circuito de sus escritos. Benson añadió que promotores transmitían inspiración prácticamente universal y dejaban a docentes y ministros en posición difícil.
-
-El 1 de agosto, J. N. Anderson preguntó si era seguro explicar a alumnos que sus libros no eran autoridad final para ciertos datos históricos. Callar lo que entendían verdadero comprometía honestidad y preparaba crisis. G. B. Thompson sostuvo que se había reclamado más de lo que ella reclamaba.[^anderson]
-
-La conversación demuestra capacidad de examen y desacuerdo, junto con preocupación sobre las consecuencias públicas. Daniells defendió trato cristiano al discrepante y recordó que años antes no habría sido seguro discutir así.[^daniells]
-
-El problema mejor documentado es ese costo de reconocer públicamente los límites de su autoridad. Afectaba la enseñanza y la circulación de información, aunque no sabemos cuánto se extendía por toda la denominación.
-
-## ¿Persistieron costos institucionales para el desacuerdo después de la muerte de White?
-
-Sí. Dos episodios de 1980 muestran que las disputas doctrinales y sobre la autoridad de White podían tener consecuencias laborales y ministeriales reales, aunque no sean casos idénticos.
-
-Desmond Ford fue convocado a Glacier View después de cuestionar la base bíblica tradicional del juicio investigador y la interpretación adventista de Daniel 8:14. Tras el proceso perdió sus credenciales como docente adventista y su empleo denominacional. Este caso documenta un costo por disentir de una doctrina central ligada a 1844. **No demuestra que Ford fuera sancionado simplemente por cuestionar a Ellen White**: la controversia inmediata era el santuario y el juicio investigador, aunque la interpretación histórica de White formaba parte del sistema doctrinal discutido.[^ford]
-
-Walter Rea ofrece una conexión más directa. En noviembre de 1980, mientras hacía públicas acusaciones de dependencia literaria y llamaba «plagiaria» a White, perdió su puesto pastoral y sus credenciales. La cobertura contemporánea citó al presidente de la División Norteamericana diciendo que su actuación respecto de una pionera altamente respetada lo había vuelto incapaz de servir como ministro adventista.[^rea]
-
-Estos casos no prueban que Ford o Rea tuvieran razón. Tampoco demuestran que toda investigación crítica fuera reprimida: la propia denominación encargó estudios sobre las fuentes de White y publicó discusiones internas. Sí establecen algo más limitado: **ciertos desacuerdos públicos sobre doctrinas centrales o sobre la autoridad profética podían tener costos institucionales serios**.
-
-Eso importa al evaluar el fruto de un sistema de autoridad. Una cultura puede alentar estudio y, al mismo tiempo, fijar fronteras de pertenencia profesional. Para saber si esas fronteras protegían legítimamente una identidad doctrinal o inhibían correcciones necesarias, no basta contar sanciones; hay que examinar qué afirmaciones estaban en juego, qué evidencia tenían y qué opciones reales poseían quienes disentían.
-
-## ¿Cómo formula hoy la Iglesia Adventista la autoridad de Ellen White?
-
-La formulación institucional cambió. Desde 1980 la Creencia Fundamental 18 describía sus escritos como «a continuing and authoritative source of truth». En la sesión de la Asociación General de **2015** esa frase fue reemplazada por «Her writings speak with prophetic authority and provide comfort, guidance, instruction, and correction to the church». La oración siguiente conservó a la Biblia como norma por la cual deben probarse toda enseñanza y experiencia.[^creencia18]
-
-El cambio debe describirse sin decidir su significado por anticipado. La nueva frase evita llamar a los escritos de White una «fuente de verdad» y conserva explícitamente «autoridad profética». Por eso sería incorrecto citar hoy la redacción anterior como si siguiera vigente; también sería incorrecto decir que en 2015 la iglesia dejó de atribuir autoridad profética a White.
-
-Esta historia institucional no demuestra qué quiso decir White en cada escrito: eso fue objeto del capítulo 3. Sí muestra cómo la denominación siguió definiendo públicamente su papel un siglo después de su muerte. La autoridad de White no quedó sólo como recuerdo histórico; permanece incorporada a una creencia oficial, con una formulación que ha cambiado.[^creencia18]
-
-## ¿Cuánto de ese problema puede atribuirse a White?
-
-Una parte razonable, compartida con promotores, editores y dirigentes. Su afirmación de que recibía instrucción divina ayudaba a dar autoridad a consejos y reprensiones. Podía hacer costoso disentir: la objeción dejaba de parecer sólo desacuerdo con una persona.
-
-Pero no toda ampliación de autoridad fue instrucción suya. Su respuesta a Paulson en 1906 negó que cada palabra privada y carta tuviera inspiración equivalente a los diez mandamientos. Las revisiones autorizadas de 1911 tampoco encajan con infalibilidad textual que impida toda corrección.[^limites-autoridad]
-
-No podemos reducirla a consejera cuya autoridad religiosa fue inventada enteramente después. Los capítulos 3 y 10 documentaron declaraciones fuertes de origen divino para mensajes específicos. Ese núcleo y sus ampliaciones posteriores están relacionados, sin ser idénticos.
-
-El sistema de autoridad vinculado a su ministerio contribuyó probablemente a problemas de corrección y libertad de enseñanza. Su papel fue importante y compartido. No está establecida responsabilidad consciente por cada silencio ni prohibición uniforme de disentir.
-
-La dificultad afecta verdad y conciencia. Su peso aumentaría si una cadena documental mostrara ocultación consciente de errores por orden suya; disminuiría si mostrara información oportuna y restricciones surgidas exclusivamente contra instrucciones conocidas. Ninguna explicación está probada en alcance total.
-
-## ¿Hubo cargas reconocidas y posibilidad de retirarlas?
-
-Sí. La reforma del vestido ofrece un caso en que White reconoció resultados problemáticos y dejó de promover una aplicación anterior. Sus explicaciones posteriores describen discordia, dificultades y propuesta beneficiosa convertida en carga.[^vestido]
-
-Es evidencia de recepción adversa, en parte retrospectiva. Ella había impulsado la propuesta; confeccionarla, imponerla y resistirla también contribuyó. No corresponde atribuir cada conflicto a una orden idéntica y universal.
-
-El abandono importa como capacidad de corregir. No demuestra que todos los problemas fueran corregidos. Tampoco permite negar la carga porque el propósito fuera saludable.
-
-Junto a revisiones editoriales y cambios escolares, impide afirmar incapacidad absoluta de modificar prácticas. Frente a 1915 y 1919, impide afirmar transparencia constante. El patrón contiene ambas cosas: capacidad real de revisar y barreras reales para discutir.
-
-## ¿Qué frutos distinguen mejor las explicaciones?
-
-Los que permiten atribución clara y afectan verdad, cuidado y conciencia. Un hospital útil favorece valor práctico; es compatible con varias explicaciones de origen. Una práctica dañina presenta una dificultad; importa si fue ordenada, consentida o producida contra instrucciones.
-
-Crear servicio y colaborar para ayudar escuelas dificulta una descripción puramente cínica en que toda influencia carezca de valor para otros. No prueba motivos interiores ni excluye explicación humana de beneficios. Una persona con motivaciones interesadas también puede producir bienes; estos resultados no descartan por sí solos esa posibilidad.
-
-La dificultad para reconocer límites se relaciona más directamente con autoridad. Resulta seria cuando proteger prestigio pesa más que informar con verdad. Pero los testimonios examinados establecen tensiones y costos, no una política universal de engaño conscientemente dirigida por ella.
-
-La aceptación de restricciones raciales tiene importancia moral: éxito misionero no basta si su forma limita igualdad. Deben considerarse seguridad, alternativas y voces de afectados. Ese examen permanece aunque la intención declarada sea servir.
-
-No hay una suma en que instituciones positivas cancelen dificultades de autoridad o éstas borren educación. Son pruebas sobre dimensiones diferentes del mismo ministerio.
-
-## ¿Qué evidencia podría cambiar este balance?
-
-En salud, necesitamos saber quiénes siguieron sus consejos y comparar grupos semejantes para separar su contribución de otras causas. Para educación, resultados de alumnos, horas de trabajo y experiencias de bienestar o control superarían la mera existencia de escuelas.
-
-En devoción, habría que seguir a lectores desde antes de empezar a leerla e incluir a miembros inactivos y a quienes dejaron la iglesia. Así podríamos distinguir el efecto de sus libros de las diferencias que ya existían entre los grupos. Para estudiar la autoridad, necesitamos correspondencia sobre correcciones y difusión, además de testimonios sobre el trato al discrepante. Para evaluar la igualdad, las actas, los salarios y la voz de los beneficiarios dirían más que un principio declarado.
-
-Las pruebas pueden favorecer o perjudicar estas conclusiones. Si los beneficios fueran principalmente independientes de White, le atribuiríamos una contribución menor. Si restricciones y daños hubieran sido adoptados directamente por instrucción suya, le atribuiríamos una responsabilidad mayor. No debemos exigir pruebas sólo cuando el resultado incomoda.
-
-## ¿Qué tipo de movimiento ayudó a producir su ministerio?
-
-Ayudó a producir un movimiento de disciplina religiosa, servicio sanitario, educación y misión, con cultura intensa de publicaciones y cooperación. Su influencia fue importante en proyectos concretos; muchas realizaciones pertenecieron también a dirigentes, profesionales y comunidades.
-
-Ese movimiento ofreció beneficios reales y experiencias religiosas favorables. Tuvo restricciones y tensiones: autoridad especial podía sostener compromiso y dificultar corrección; formación podía ampliar oportunidades y limitar autonomía; misión hacia personas marginadas podía coexistir con aceptación de desigualdades.
-
-Ese balance no permite adjudicarle toda la longevidad, el bienestar o el sufrimiento de sus seguidores. Su valor para distinguir entre origen divino y humano depende de cuánto podamos atribuirle en cada caso.
-
-## ¿Qué pregunta queda para el capítulo final?
-
-Queda reunir estos resultados con sus experiencias, predicciones, escritos y conducta. El capítulo final deberá responder: **¿Qué explicación encaja mejor con toda la evidencia?**
-
-## ¿Dónde pueden comprobarse las fuentes y sus límites?
-
-[^criterio]: Capítulo 2 y [matriz bíblica](../metodologia/MATRIZ_CRITERIOS_BIBLICOS.md), especialmente Mateo 7:15–23, Jeremías 23:14,22 y Deuteronomio 13. El efecto colectivo exige atribución adicional al examen de conducta.
-[^inventario]: [Inventario y matriz](../hallazgos/capitulo-15-inventario-y-matriz-de-frutos.md), [auditoría](../hallazgos/capitulo-15-auditoria-y-registro-documental.md) y [registro de fuentes](../hallazgos/capitulo-15-registro-de-fuentes.json): existencia, papel, certeza causal, valor y falsación.
-[^instituto]: White, *Testimonies* 1, «The Health Reform», pp. 485–493, [transcripción](https://ellenwhiteresearch.com/works/1T/85). Distinguir experiencia, comunicación y edición. [Ficha sanitaria](../hallazgos/capitulo-15-salud-temperancia-y-longevidad.md).
-[^apertura]: «A Great Fact Accomplished», RH, 11-IX-1866, [PDF archivado](https://documents.adventistarchives.org/Periodicals/RH/RH18660911-V28-15.pdf), extracción textual y [historia institucional](https://encyclopedia.adventist.org/article?id=6JG6). OCR del encabezado presenta 1860, incompatible con ejemplar/volumen y cronología: no se reproduce como fecha histórica. Sin colación visual íntegra.
-[^cohorte]: Gary E. Fraser y David J. Shavlik, «Ten Years of Life: Is It a Matter of Choice?», *Archives of Internal Medicine* 161 (2001), 1645–1652, [texto](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/648593), [DOI](https://doi.org/10.1001/archinte.161.13.1645). Métodos y discusión. La ficha identifica comparación, variables y selección; terapia hormonal es variable histórica, no consejo actual.
-[^temperancia]: [C12, contexto y casos favorables](../hallazgos/capitulo-12-salud-contexto-y-casos-favorables.md). Antecedentes humanos no niegan recepción; ésta no demuestra originalidad.
-[^limites-salud]: [C12, afirmaciones médicas](../hallazgos/capitulo-12-masturbacion-y-afirmaciones-medicas.md) y [autoridad y límites](../hallazgos/capitulo-12-autoridad-y-limites.md). Error y daño colectivo son proposiciones diferentes.
-[^avondale]: White, [MR 595, *Manuscript Releases* 8, pp. 249–265](https://text.egwwritings.org/read/52.1244), extractos fechados; Milton Hook, [«Avondale University, Australia»](https://encyclopedia.adventist.org/article?id=A7SW), reconstrucción. [Ficha educativa](../hallazgos/capitulo-15-educacion-y-financiacion.md) distingue cartas de historia y aprendizaje no medido.
-[^industrial]: [«Report of Committee on Education»](https://text.egwwritings.org/read/1673.11629), GCB, publicación 1-I-1896, pp. 655–656. Fecha de publicación, no día de votación establecido aquí.
-[^disciplina]: Lt 145 a W. C. White, 15-VIII-1897, 8MR 256.1; Ms 41a, 20-XII-1896, 8MR 250.5, en MR 595. Lt 58 sobre separación educativa coexiste con alumnos externos mencionados en Lt 84, 5-X-1898. No afirmar matrícula exclusivamente adventista.
-[^fondos]: GCB, 14-IV-1901, pp. 209–211, [acta de reunión 12-IV](https://text.egwwritings.org/read/1670.3754), P. T. Magan, p. 211.3: aplicación a deuda formulada con «I understand». La ficha registra inconsistencia aritmética en otra valuación y evita sumar dinero cobrado/prometido. [Seguimiento 1903](https://text.egwwritings.org/read/1669.3297), sin atribuir montos brutos exclusivamente a White.
-[^lectores]: Roger L. Dudley y Des Cummings Jr., [«Who reads Ellen White?»](https://www.ministrymagazine.org/archive/1982/10/who-reads-ellen-white), *Ministry*, X-1982, encuesta 1980. 8.223 respuestas; 2.848 habituales, 5.375 ocasionales/no lectores. Estudio bíblico 82%/47%; seguridad 82%/59%. Correlación y autorreporte. [Ficha de recepción](../hallazgos/capitulo-15-biblia-cristo-y-experiencia-religiosa.md).
-[^benson]: C. L. Benson, reunión 30-VII-1919, «The Use of the Spirit of Prophecy in Our Teaching of Bible and History», [transcripción archivada](https://documents.adventistarchives.org/Resources/1919BC/RBC19190730.pdf). Extracción textual; [reproducción cotejada](https://www.bible.ca/7-1919-sda-conference) es acceso al mismo registro.
-[^organizacion]: Discurso 2-IV-1901, publicado [GCB 3-IV-1901](https://text.egwwritings.org/read/448.662), párrs. 27–31: gestión y prioridad bíblica. [Ficha organizativa](../hallazgos/capitulo-15-mision-organizacion-y-correccion.md).
-[^mapas]: Rea, *The White Lie* (1982), C2 pp. 39–43, PDF aportado; Douglass, *Messenger of the Lord* (1998/EPUB 2013), recepción y C38 sobre 1919. Mapas críticos/favorables; no encuestas independientes. No inventar paginación del EPUB.
-[^sequedad]: Arndt Büssing, Lorethy Starck y Klaus van Treeck, [«Experience of Spiritual Dryness and Acedia Symptoms in Seventh-Day Adventists»](https://pmc.ncbi.nlm.nih.gov/articles/PMC7997817/), *Journal of Religion and Health* 60 (2021), 1261–1280, [DOI](https://doi.org/10.1007/s10943-020-01092-7), online 2-XI-2020. Sin medición causal de White ni representatividad general.
-[^uniones]: Barry Oliver, [«The Principles and Process of Denominational Reorganization, 1901–1903»](https://encyclopedia.adventist.org/article?id=DC19). Historia con fuentes primarias localizadas; no cotejo de toda su serie original.
-[^sur]: White, discurso 21-III-1891, [«Our Duty to the Colored People»](https://text.egwwritings.org/read/139.34), *The Southern Work*. [Introducción editorial](https://text.egwwritings.org/read/139.11) distingue compilaciones/reimpresión. [Kinny](https://encyclopedia.adventist.org/article?id=CJFR), documentos 1889 y actividad previa; original de «Statement» no inspeccionado. [Ficha social](../hallazgos/capitulo-15-raza-mujeres-y-familia.md).
-[^raza]: White, 9T (1909), pp. 204–213, [capítulo completo](https://ellenwhiteresearch.com/works/9T/23), fechado 19-X-1908, especialmente 205.3, 206.2–4, 208.2. No atribuir directamente todas las decisiones póstumas.
-[^mujeres]: White, «The Duty of the Minister and the People», [RH 9-VII-1895](https://text.egwwritings.org/read/821.14323), párr. 8. Servicio descrito, no resolución de todos los debates de cargos.
-[^salarios]: White, [Lt 137, 21-IV-1898](https://text.egwwritings.org/read/14063.6363001), a G. A. Irwin, I. H. Evans, U. Smith y A. T. Jones; carta íntegra transcrita, también 21MR 355–363. Reclamo, no nómina.
-[^prescott]: Prescott a W. C. White, 6-IV-1915, apéndice A, pp. 37–38 del [dossier Arthur L. White](https://whiteestate.org/legacy/issues-prescott-lt-html/); antecedente y respuesta en mismo recurso. Documentos primarios reproducidos separados de defensa posterior; no autógrafos inspeccionados. [Ficha de autoridad](../hallazgos/capitulo-15-autoridad-dependencia-y-miedo.md).
-[^docentes]: 30-VII-1919, Lacey, voz no identificada, Prescott/Bollman, Benson, PDF citado. Bollman limita atribución personal a Ellen. No colación visual completa ni edición diplomática.
-[^anderson]: 1-VIII-1919, J. N. Anderson y G. B. Thompson, [PDF archivado](https://documents.adventistarchives.org/Resources/1919BC/RBC19190801.pdf), «Inspiration of the Spirit of Prophecy As Related to the Inspiration of the Bible». No diagnóstico psicológico.
-[^daniells]: Daniells, reuniones citadas 30-VII y 1-VIII-1919: trato al discrepante y recuerdo de conversación quince años antes. Testimonio, no posición votada por toda iglesia.
-[^ford]: Gerhard Pfandl, [«Remembering Desmond Ford»](https://new.adventistreview.org/commentary/remembering-desmond-ford/), *Adventist Review*, revisión retrospectiva de la controversia de Glacier View: el comité examinó su documento sobre Daniel 8:14, el santuario y el juicio investigador y después fueron retiradas sus credenciales como docente adventista. Es una fuente denominacional retrospectiva; el expediente laboral completo permitiría precisar cada decisión y autoridad interviniente.
-[^rea]: David E. Anderson, [«Church removes Seventh-day minister»](https://www.upi.com/Archives/1980/11/20/Church-removes-Seventh-day-minister/4381343544400/), UPI, 20-XI-1980. Cobertura contemporánea: informa retiro de puesto y credenciales de Walter Rea tras sus acusaciones de plagio y reproduce la explicación pública de C. E. Bradford. Una noticia contemporánea documenta la medida y la razón declarada; no decide la exactitud de las acusaciones literarias.
-[^creencia18]: Asociación General, actas de la sesión mundial, 6-VII-2015, [enmienda a la Creencia Fundamental 18](https://documents.adventistarchives.org/Minutes/GCC/GCC2015-07GCS.pdf), donde se ve la sustitución de «a continuing and authoritative source of truth» por «Her writings speak with prophetic authority»; formulación oficial vigente en [Adventist.org, «What We Believe», creencia 18](https://adventist.org/en/beliefs). La modificación institucional es posterior a White y no debe retroproyectarse como formulación suya.
-[^limites-autoridad]: [C13, inspiración y asistentes](../hallazgos/capitulo-13-inspiracion-fuentes-y-asistentes.md), Lt 206 a Paulson, 14-VI-1906; [C11, revisiones](../hallazgos/capitulo-11-conflicto-de-los-siglos-y-revisiones.md), aprobaciones 1911. No renuncia a origen divino de mensajes específicos.
-[^vestido]: 4T 636–640 y Ms 167, 1897, [dossier Robinson](https://whiteestate.org/legacy/issues-dressref-html/); [ficha C13](../hallazgos/capitulo-13-vestimenta-y-edad-escolar.md). Conflicto recordado y retiro; no censo ni daño clínico.
+[^1]: Mateo 7:15-23.
+[^2]: Ellen G. White, *Testimonies* 1, «The Health Reform», pp. 485–493, [transcripción](https://ellenwhiteresearch.com/works/1T/85); «A Great Fact Accomplished», [*Review and Herald*, 11 de septiembre de 1866](https://documents.adventistarchives.org/Periodicals/RH/RH18660911-V28-15.pdf).
+[^3]: Gary E. Fraser y David J. Shavlik, «Ten Years of Life: Is It a Matter of Choice?», *Archives of Internal Medicine* 161 (2001): 1645–1652, [texto](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/648593).
+[^4]: Ellen G. White, [*Manuscript Releases* 8, pp. 249–265](https://text.egwwritings.org/read/52.1244); Milton Hook, [«Avondale University, Australia»](https://encyclopedia.adventist.org/article?id=A7SW).
+[^5]: [«Report of Committee on Education»](https://text.egwwritings.org/read/1673.11629), *General Conference Bulletin*, 1 de enero de 1896, pp. 655–656; Lt 145, 1897, en 8MR 256.
+[^6]: *General Conference Bulletin*, 14 de abril de 1901, pp. 209–211, [informe de P. T. Magan](https://text.egwwritings.org/read/1670.3754).
+[^7]: Roger L. Dudley y Des Cummings Jr., [«Who reads Ellen White?»](https://www.ministrymagazine.org/archive/1982/10/who-reads-ellen-white), *Ministry*, octubre de 1982.
+[^8]: C. L. Benson, 30 de julio de 1919, [transcripción](https://documents.adventistarchives.org/Resources/1919BC/RBC19190730.pdf).
+[^9]: Walter T. Rea, *The White Lie* (1982), cap. 2; Büssing et al., [«Experience of Spiritual Dryness and Acedia Symptoms in Seventh-Day Adventists»](https://pmc.ncbi.nlm.nih.gov/articles/PMC7997817/), *Journal of Religion and Health* 60 (2021).
+[^10]: Ellen G. White, discurso del 2 de abril de 1901, [*General Conference Bulletin*, 3 de abril de 1901](https://text.egwwritings.org/read/448.662); Barry Oliver, [«The Principles and Process of Denominational Reorganization, 1901–1903»](https://encyclopedia.adventist.org/article?id=DC19).
+[^11]: Ellen G. White, [«Our Duty to the Colored People», 21 de marzo de 1891](https://text.egwwritings.org/read/139.34); [9T 204–213](https://ellenwhiteresearch.com/works/9T/23); sobre Kinny, [biografía documental](https://encyclopedia.adventist.org/article?id=CJFR).
+[^12]: Ellen G. White, [*Review and Herald*, 9 de julio de 1895](https://text.egwwritings.org/read/821.14323); [Lt 137, 1898](https://text.egwwritings.org/read/14063.6363001).
+[^13]: W. W. Prescott a W. C. White, 6 de abril de 1915, en el [dossier de Arthur L. White](https://whiteestate.org/legacy/issues-prescott-lt-html/).
+[^14]: Actas del 30 de julio y 1 de agosto de 1919, [transcripción](https://documents.adventistarchives.org/Resources/1919BC/RBC19190801.pdf).
+[^15]: David E. Anderson, [«Church removes Seventh-day minister»](https://www.upi.com/Archives/1980/11/20/Church-removes-Seventh-day-minister/4381343544400/), UPI, 20 de noviembre de 1980.
+[^16]: Gerhard Pfandl, [«Remembering Desmond Ford»](https://new.adventistreview.org/commentary/remembering-desmond-ford/), *Adventist Review*.
+[^17]: [Actas de la sesión de la Asociación General, 6 de julio de 2015](https://documents.adventistarchives.org/Minutes/GCC/GCC2015-07GCS.pdf); [Adventist.org, creencia 18](https://adventist.org/en/beliefs).
