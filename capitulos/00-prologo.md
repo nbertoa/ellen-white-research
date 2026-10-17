@@ -1,41 +1,31 @@
-# Prólogo — ¿Qué hacemos cuando alguien dice que Dios le habló?
+# Prólogo — ¿Por qué escribí este libro?
 
-Algunas frases religiosas no nos piden mucho. Si alguien dice que un libro lo ayudó o que una oración le dio paz, podemos creerle sin preguntar más.
+No escribí este libro para convencer a nadie. Lo escribí porque tenía preguntas y quería responderlas con todo lo que se pudiera encontrar.
 
-Pero hay una frase que pide más: **«Dios me mostró esto».**
+Quiero decir algo de entrada: a mí Elena G. de White me gusta. Mi libro favorito probablemente sea *El Deseado de todas las gentes*, que es de ella. También me encantaron *Palabras de vida del gran Maestro* y *El discurso maestro de Jesucristo*. En una época, cuando alguien me preguntaba qué leer para aprender a tener una relación con Jesús, yo recomendaba *El camino a Cristo*.
 
-Quien dice eso está hablando de dónde viene un mensaje. Y si después ese mensaje corrige a otros, da consejos o pide obediencia, preguntar de dónde viene se vuelve importante.
+Pero que alguien me guste no quiere decir que esté de acuerdo con todo lo que dijo, ni que tome cada cosa que escribió como si estuviera escrita en piedra.
 
-Elena G. de White dijo esa frase durante setenta años. Millones de personas creen que fue profeta. Otras piensan que fue una líder religiosa sincera pero equivocada. Otras, que fue una impostora. Este libro busca, con documentos, cuál de esas tres ideas se sostiene mejor.
+El 8 de octubre de 2026 cumplí nueve años con Jesús. En este tiempo hubo autores que me nutrieron mucho. Morris Venden es uno. Timothy Jennings es otro. Y con ninguno estoy de acuerdo en el cien por ciento. Hay cosas que me encantaron y me hicieron bien. Hay cosas con las que estoy de acuerdo en parte. Y hay cosas en las que estoy en la vereda de enfrente. Con Elena G. de White pasa lo mismo.
 
-## ¿Por qué no alcanza con decir «yo creo» o «yo no creo»?
+## ¿A quién le debía este estudio?
 
-Porque mucho de lo que ella dijo se puede comprobar.
+A nadie más que a mí. No se lo debía a la iglesia ni a un amigo. Me lo debía a mí mismo, para estar seguro de por qué creo lo que creo. O de por qué lo creo con matices, o con reservas.
 
-Si anunció algo del futuro, podemos ver qué dijo, cuándo lo dijo y qué pasó después. Si dijo saber algo que no podía saber, podemos buscar quién pudo contárselo. Si dijo que Dios le mostró una enseñanza, podemos ver si era correcta y de dónde pudo sacarla. Si contó sus visiones de distintas maneras con los años, podemos comparar los relatos. Si usó libros de otros autores, podemos ver cuánto.
+## ¿Qué no se va a encontrar acá?
 
-Para todo eso no hace falta decidir antes si existen los milagros. Primero se puede averiguar qué pasó.
+Si buscan argumentos para destrozar a una persona, no los van a encontrar. Elena G. de White fue una persona real, y se la trata como tal.
 
-## ¿Por qué cuesta tanto estudiar a alguien tan querido o tan rechazado?
+Si piensan que acá sólo se va a buscar lo que la favorece, tampoco. Cada caso se mira entero, con lo que juega a favor y con lo que juega en contra.
 
-Porque los documentos vienen mezclados con recuerdos de familia, experiencias de fe, instituciones y años de discusiones. Eso nos empuja a dos reacciones. Una es defender: ante un documento incómodo, buscar enseguida una lectura que salve lo que ya creíamos. La otra es atacar: ante un error o un texto copiado, ver enseguida un engaño.
+## ¿Por qué hacerse estas preguntas?
 
-Las dos se entienden. Ninguna sirve para investigar.
+Porque me gusta hacerme preguntas. Y porque quiero creer lo que creo mirando todo lo que hay, no eligiendo los argumentos que me gustan y dejando de lado los que no.
 
-## ¿Qué haría falta para concluir a favor o en contra?
+Además, ella misma dijo una frase que obliga a preguntar: «Dios me mostró esto». Quien dice eso está hablando de dónde viene un mensaje. Y si ese mensaje corrige a otros o pide obediencia, preguntar de dónde viene importa.
 
-Para concluir a favor harían falta casos que no se puedan explicar de manera normal. Por ejemplo, anuncios escritos antes de un hecho, precisos y difíciles de adivinar. O datos que ella no tenía cómo conocer. También harían falta buenas respuestas a los casos en contra. No haría falta que nunca se equivocara ni que Dios le dictara cada palabra: ella misma nunca dijo eso.
+## ¿Qué es, entonces, este libro?
 
-Para concluir en contra harían falta pruebas concretas. Por ejemplo, un anuncio presentado como de Dios que no se cumplió. O una afirmación falsa que ella dijo, con claridad, que Dios le había mostrado. O pruebas de que inventaba a propósito. Un error no prueba que mintió. Usar un libro ajeno no prueba un engaño. Y algo difícil de explicar tampoco prueba que lo hizo Dios.
+Es lo que encontré hasta hoy, después de buscar todo lo que pude sobre este tema. Puedo haberme equivocado. Puede faltar algo que todavía no apareció. Seguro hay cosas para revisar. No creo que este libro sea infalible ni que no se pueda refutar. Sí creo que es honesto y sincero.
 
-## ¿Por qué importa separar ser sincera de ser profeta?
-
-Porque una persona puede estar totalmente convencida y aun así equivocarse sobre de dónde viene lo que vive. Muchas discusiones saltan de «profeta de Dios» a «mentirosa». En el medio hay una posibilidad muy humana: **creer de verdad que Dios habló cuando la experiencia tuvo otro origen.**
-
-Si eso fuera lo que pasó, no la haría profeta. Querría decir que se equivocó sobre el origen de sus mensajes, pero sin mentir.
-
-## ¿Qué clase de libro es éste?
-
-No es una defensa adventista ni un ataque. Es una investigación con documentos, escrita para personas que no son especialistas. Detrás de cada capítulo hay fechas, ediciones, cartas y testigos. El texto intenta que todo eso aclare, no que confunda.
-
-La conclusión del último capítulo tiene que salir del camino recorrido, no de una idea decidida en la primera página. Y ese camino pide algo incómodo: **estar dispuestos a encontrar una respuesta distinta de la que esperábamos.**
+Y eso pide algo incómodo, también a mí: estar dispuesto a encontrar una respuesta distinta de la que esperaba.

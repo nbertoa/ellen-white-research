@@ -5,9 +5,9 @@ Este archivo fija el orden editorial del libro después de la revisión P0–P3 
 ## ¿Qué debe aparecer antes del capítulo 1?
 
 1. [Nota al lector — ¿Cómo debe leerse esta investigación?](../capitulos/00-nota-al-lector.md)
-2. [Prólogo — ¿Qué hacemos cuando alguien dice que Dios le habló?](../capitulos/00-prologo.md)
+2. [Prólogo — ¿Por qué escribí este libro?](../capitulos/00-prologo.md)
 
-La Nota al lector explica la escala de evidencia, la regla de simetría, la jerarquía de fuentes y los límites del libro. El Prólogo plantea la pregunta humana e histórica sin anticipar el veredicto.
+La Nota al lector explica la escala de evidencia, la regla de simetría, la jerarquía de fuentes y los límites del libro. El Prólogo, en primera persona, explica por qué el autor escribió el libro y desde dónde lo hace, sin anticipar el veredicto.
 
 ## ¿En qué orden deben leerse los capítulos?
 
