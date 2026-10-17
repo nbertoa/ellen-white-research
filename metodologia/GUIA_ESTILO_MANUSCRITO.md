@@ -100,7 +100,7 @@ Desde el 17 de octubre de 2026, el manuscrito se escribe para lectura en voz alt
 - las citas bíblicas en el cuerpo se escriben como se dicen: «Deuteronomio capítulo 18, versículos 20 al 22», no «Deuteronomio 18:20-22»;
 - los libros con número se nombran en palabras: «Primera de Juan», «Segundo de Reyes»;
 - no hay tablas en el cuerpo: los resultados van en listas de frases («Ojos abiertos y fijos: probable»);
-- las notas se quedan en el archivo fuente como notas al pie, pero no se leen: la edición `ediciones/libro-para-escuchar.md`, que genera `scripts/edicion_audio.py`, las convierte en números volados y las junta al final, sin direcciones web.
+- las notas y sus enlaces permanecen en el manuscrito fuente, pero no pasan a la edición exclusivamente para escucha: `ediciones/libro-para-escuchar.md`, generada por `scripts/edicion_audio.py`, contiene el texto completo de nota al lector, prólogo, capítulos y epílogo sin llamadas a notas ni bibliografía. Existe además una copia `.txt` para importar en ElevenReader.
 
 Las notas al pie pueden seguir usando la forma abreviada de las referencias (por ejemplo, «Hechos 17:11»).
 
