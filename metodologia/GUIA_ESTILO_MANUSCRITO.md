@@ -72,3 +72,7 @@ Se prefieren frases completas y directas:
 - «Este caso favorece la hipótesis, aunque no la distingue con fuerza de una explicación ordinaria».
 
 Se evitará encadenar etiquetas como si fueran notas de laboratorio cuando una oración natural puede comunicar el mismo grado de certeza.
+
+## ¿Qué largo debe tener cada capítulo?
+
+Desde la condensación del 17 de octubre de 2026, el manuscrito busca lo más corto que conserve los hechos, los grados de certeza y lo que juega en contra. Como referencia: entre 650 y 1.400 palabras de cuerpo por capítulo y unas 2.200 en el capítulo 16. Cada capítulo responde su pregunta en el primer párrafo, presenta sólo los casos que inclinan el balance y deja el detalle documental en `hallazgos/`. Las tablas se usan sólo cuando resumen un resultado; las tablas de trabajo quedan fuera de la edición de lectura.
