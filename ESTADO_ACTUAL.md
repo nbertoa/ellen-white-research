@@ -2,7 +2,7 @@
 
 **Actualizado:** 17 de octubre de 2026.
 
-El manuscrito está completo en una edición condensada y en lenguaje simple de unas 22.900 palabras de cuerpo y 204 notas: Nota al lector, Prólogo, capítulos 1–16 y Epílogo. La validación estructural automática da 0 errores y 0 advertencias (comprueba notas, enlaces y títulos, no la exactitud histórica).
+El manuscrito está completo en una edición condensada y en lenguaje simple de unas 24.000 palabras de cuerpo y 205 notas: Nota al lector, Prólogo, capítulos 1–16 y Epílogo. La validación estructural automática da 0 errores y 0 advertencias (comprueba notas, enlaces y títulos, no la exactitud histórica).
 
 ## ¿Qué cambió el 17 de octubre?
 
@@ -10,7 +10,7 @@ Se reescribió todo el manuscrito para que fuera corto y claro, sin cambiar hech
 
 ## ¿Cuál es la conclusión vigente?
 
-> **Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para considerarla una profeta verdadera. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que eran de origen humano: en varios casos se puede mostrar de qué libros o ideas salieron, y en los demás una explicación humana encaja mejor.**
+> **Con las pruebas que hay hoy, no quedó demostrado que Elena G. de White tuviera lo necesario para considerarla una profeta verdadera. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que eran de origen humano: a veces se puede mostrar el libro del que salieron, a veces sólo que coinciden con ideas de su época, y otras veces una explicación humana encaja mejor sin que se pueda reconstruir.**
 
 El origen profético sigue siendo posible; el fraude consciente generalizado recibe menos apoyo todavía. El veredicto es parcial y provisional: no incluye el examen bíblico de 1844, el santuario y el juicio investigador, ni una evaluación completa de la edad de la Tierra.
 

@@ -1,5 +1,18 @@
 # ¿Qué explica mejor el conjunto de la evidencia?
 
+## ¿Qué cambió en esta síntesis el 17 de octubre de 2026?
+
+**Base vigente:** rama `main` después de las tres auditorías externas del 17-X-2026; el detalle está en [`auditoria-y-condensacion-2026-10-17.md`](auditoria-y-condensacion-2026-10-17.md). Lo que sigue en esta ficha, desde «¿Qué estado del repositorio fija esta síntesis?», es la síntesis original del 1-X-2026 y se conserva como registro. Donde contradice esta sección, vale esta sección.
+
+- **Hipótesis.** Se comparan cuatro explicaciones causales: A, origen profético; B, experiencia humana sincera; E, mezcla de mensajes divinos genuinos y contenidos humanos atribuidos sinceramente a Dios; y D, fraude general. Los episodios conscientes aislados de exageración o de uso de la autoridad se tratan aparte de D. La categoría C sigue siendo descriptiva.
+- **Evaluación de E.** Es posible, pero tiene menos apoyo que B por tres razones. Le falta un caso favorable que no se explique de manera ordinaria. Choca con Deuteronomio 18:20 y con Jeremías 23 cuando la atribución errónea es seria (Natán, en 2 Samuel 7, no atribuyó su opinión a Dios). Y contradice la disyuntiva que la propia White formuló en 4T 230. Un caso favorable fuerte la haría subir.
+- **Orden de la evidencia adversa.** Primero, el folleto de 1864: el marco causal se presenta como mostrado, aunque no cada enfermedad de la lista, y no admite la salida de la condicionalidad. Segundo, 1856: problema serio pero no refutación cerrada, por el caso de Ezequías (2 Reyes 20; Isaías 38). Si se probara una falsa atribución, Deuteronomio 18:20 la carga sobre el profeta.
+- **Procedencia.** Se separan tres grados. Fuente literaria demostrada: March, Wylie y Krummacher, este último por dependencia textual y con vía de acceso desconocida. Coincidencia con ideas disponibles en su ambiente, sin una cadena de transmisión identificada: 1864. Explicación ordinaria que encaja mejor sin fuente reconstruida: Faulkhead, Salamanca y las primeras visiones.
+- **Evidencia favorable.** Los controles del capítulo 7 son graduales, no conjuntivos: cumplir algunos da peso parcial.
+- **Criterios institucionales.** Se distinguen las cinco pruebas de la página de Adventist.org, las cuatro del White Estate (2009) y la Creencia Fundamental 18, que no contiene una lista de pruebas.
+- **Alcance.** La respuesta es provisional: faltan 1844, el santuario y el juicio investigador, la edad de la Tierra, el inventario completo de casos y el cotejo de las notas actuales.
+
+
 ## ¿Qué estado del repositorio fija esta síntesis?
 
 **Base documental:** rama `main`, commit `a12dd75760f73ab36893a72e32c9a39d57c60381` (capítulo 15 integrado el 1-X-2026). Se revisaron README, instrucciones, índice maestro, matriz bíblica, capítulos 1–15 y las fichas, auditorías, remediaciones y registros de fuentes presentes en el árbol de 107 archivos. El capítulo final adopta el título del índice: [capítulo 16](../capitulos/16-que-explicacion-encaja-mejor-con-toda-la-evidencia.md).

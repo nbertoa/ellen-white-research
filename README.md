@@ -4,11 +4,11 @@ Repositorio de investigación del libro cuya pregunta central es:
 
 > **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
 
-La respuesta del capítulo 16: no quedó demostrado que fuera profeta. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que eran de origen humano: en varios casos se puede mostrar de qué libros o ideas salieron, y en los demás una explicación humana encaja mejor. Que haya mentido a propósito en todo tiene todavía menos apoyo. Es una respuesta provisional: evalúa lo que se puede comprobar con documentos históricos y deja afuera el examen doctrinal de 1844, el santuario y el juicio investigador.
+La respuesta del capítulo 16: no quedó demostrado que fuera profeta. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que eran de origen humano: a veces se puede mostrar el libro del que salieron, a veces sólo que coinciden con ideas de su época, y otras veces una explicación humana encaja mejor sin que se pueda reconstruir. Que haya mentido a propósito en todo tiene todavía menos apoyo. Es una respuesta provisional: evalúa lo que se puede comprobar con documentos históricos y deja afuera el examen doctrinal de 1844, el santuario y el juicio investigador.
 
 ## ¿Cómo se organiza el repositorio?
 
-- `capitulos/`: manuscrito del libro (edición condensada y en lenguaje sencillo, unas 22.900 palabras de cuerpo).
+- `capitulos/`: manuscrito del libro (edición condensada y en lenguaje sencillo, unas 24.000 palabras de cuerpo).
 - `hallazgos/`: fichas de investigación, auditorías y cotejos, con todo el detalle que el manuscrito resume.
 - `metodologia/`: criterios, orden del manuscrito y guía de estilo.
 - `scripts/manuscrito.py`: ensambla la edición de lectura y hace una validación estructural (notas, enlaces, títulos). No comprueba citas, fechas ni razonamientos: eso lo hacen los cotejos de `hallazgos/`.

@@ -1,10 +1,10 @@
 # Capítulo 7 — ¿Predijo Elena G. de White acontecimientos que no podía conocer?
 
-No se encontró ningún caso que tenga todo lo que haría falta: un anuncio escrito antes, preciso, difícil de adivinar y que ella no pudiera saber por las noticias o por otras personas. Hay dos advertencias a su favor que pesan de verdad: el incendio de la casa editora de la *Review and Herald* y las propiedades baratas para sanatorios en California. Y hay un problema serio: en 1856 anunció que algunos de los presentes vivirían hasta que volviera Jesús, y eso no pasó.
+No se encontró ningún caso que reúna lo suficiente para dejar de lado las explicaciones normales: un anuncio escrito antes, preciso, difícil de adivinar y que ella no pudiera saber por las noticias o por otras personas. Algunos cumplen parte de eso, y por eso pesan algo. Hay dos advertencias a su favor que pesan de verdad: el incendio de la casa editora de la *Review and Herald* y las propiedades baratas para sanatorios en California. Y hay un problema serio: en 1856 anunció que algunos de los presentes vivirían hasta que volviera Jesús, y eso no pasó.
 
 ## 1. ¿Qué tendría que tener una predicción?
 
-Una carta con fecha, que llegó antes del hecho. Que diga el lugar, lo que va a pasar y cuándo. Que se cumpla tal como se anunció. Que nadie pudiera deducirlo de las noticias. Y que quienes la recibieron no pudieran hacer que se cumpliera. Cuantas más de esas cosas falten, menos prueba. También hay que separar tres fechas: la de la visión, la del escrito y la del hecho.
+Una carta con fecha, que llegó antes del hecho. Que diga el lugar, lo que va a pasar y cuándo. Que se cumpla tal como se anunció. Que nadie pudiera deducirlo de las noticias. Y que quienes la recibieron no pudieran hacer que se cumpliera. Cuantas más de esas cosas cumpla un caso, más pesa. Si le falta una, no se descarta: sólo prueba menos. Por ejemplo, varios testigos de la época que no dependan unos de otros podrían pesar bastante aunque no haya una carta con fecha. También hay que separar tres fechas: la de la visión, la del escrito y la del hecho.
 
 ## 2. ¿Anunció la Guerra Civil de Estados Unidos?
 

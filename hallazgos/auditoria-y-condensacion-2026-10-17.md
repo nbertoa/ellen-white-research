@@ -89,3 +89,19 @@ No se aplicó:
 
 - **La edad de la Tierra.** Su exclusión fue una decisión previa del autor («opción B»). La auditoría la critica como una asimetría que favorece a White; queda para que el autor la reconsidere.
 - **El inventario completo de casos y el cotejo de las 204 notas.** Siguen pendientes en `ESTADO_ACTUAL.md`.
+
+## ¿Qué se tomó de la tercera auditoría externa?
+
+Sobre el commit `a292b1f`:
+
+- **Hipótesis mixta.** El capítulo 16 suma una cuarta explicación (sección 9): algunos mensajes de Dios y otros humanos atribuidos sinceramente a Dios. Se la evalúa como posible, pero con menos apoyo que la explicación humana: falta un caso favorable fuerte, choca con Deuteronomio 18:20 y Jeremías 23, y contradice la disyuntiva de la propia White.
+- **Deuteronomio 18:20.** El capítulo 2 y el capítulo 16, §6, precisan que primero hay que probar que el anuncio falló y no fue revocado. Si se prueba, pesa sobre el profeta y no sólo sobre la frase.
+- **1864 más exacto.** Lo probado como mostrado es el marco causal, no cada enfermedad de la lista. Tampoco se conoce el libro concreto: las ideas coinciden con la medicina y la reforma sanitaria de su época (capítulos 12 y 16).
+- **Grados de procedencia.** La conclusión distingue tres casos: libro demostrado, coincidencia con ideas de la época y explicación humana que encaja mejor. Se aplicó en el capítulo 16, el epílogo, el README y `ESTADO_ACTUAL.md`.
+- **Controles graduales.** El capítulo 7 y el capítulo 16, §5, dicen que cumplir parte de los controles da peso parcial.
+- **Fraude.** Se separa el fraude general de los posibles episodios conscientes aislados.
+- **Creencia Fundamental 18.** Se la distingue de la lista de pruebas de la página de Adventist.org.
+- **La Nota al lector ya no adelanta el veredicto.** `ORDEN_MANUSCRITO.md` establecía no anticiparlo, y la condensación del 17 de octubre lo había incumplido. El prólogo vuelve a su frase original.
+- **Trazabilidad.** La ficha `capitulo-16-sintesis-y-comparacion-de-hipotesis.md` y `INDICE_MAESTRO.md` quedan actualizados al estado vigente.
+
+Siguen pendientes la doctrina, la edad de la Tierra (por decisión del autor), el inventario completo de casos y el cotejo de las notas.

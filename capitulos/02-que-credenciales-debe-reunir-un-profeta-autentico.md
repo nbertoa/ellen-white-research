@@ -24,7 +24,7 @@ Deuteronomio 18:20-22 lo dice claro: si alguien anuncia algo en nombre de Dios y
 
 Pero la Biblia también tiene anuncios con condiciones. Jeremías 18 explica que Dios puede retirar un castigo anunciado si un pueblo cambia. Jonás anuncia que Nínive será destruida en cuarenta días, sin decir «si no cambian». La ciudad cambia y la destrucción no llega. Isaías le dice al rey Ezequías, de parte de Dios: «vas a morir». Tampoco agrega una condición. Ezequías ora, y Dios le da quince años más.[^5]
 
-Entonces, «no pasó» no siempre quiere decir «Dios no lo dijo». Y aun cuando un anuncio sí falla, Deuteronomio muestra que **ese mensaje** no venía de Dios. No dice por sí solo qué pasa con todo lo demás que dijo el profeta. La pregunta es **si la condición formaba parte del anuncio desde el principio**. Para saberlo se busca, en este orden:
+Entonces, «no pasó» no siempre quiere decir «Dios no lo dijo». Primero hay que probar que el anuncio de verdad falló y que no fue cambiado, como el de Ezequías. Pero si se prueba que falló, no es un detalle. El versículo 20 habla del profeta que se atreve a decir en nombre de Dios algo que Dios no mandó, y lo trata con mucha dureza. O sea que pesa sobre el profeta, no sólo sobre esa frase. La pregunta es **si la condición formaba parte del anuncio desde el principio**. Para saberlo se busca, en este orden:
 
 1. una condición dicha en el mismo mensaje;
 2. una condición explicada a quienes lo escucharon en ese momento;

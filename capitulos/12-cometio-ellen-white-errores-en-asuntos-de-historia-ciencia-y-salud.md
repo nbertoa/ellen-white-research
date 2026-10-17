@@ -46,7 +46,9 @@ Hay que leerla con justicia. Hablaba de una costumbre repetida, no de una sola v
 
 Herbert E. Douglass la defiende de dos maneras: habla de la conducta compulsiva (cuando la persona no puede parar) y de la pérdida de zinc. Ninguna de las dos confirma esa lista de enfermedades. Y lo del semen no explica lo que dijo de las mujeres.[^13]
 
-Lo que decide el caso es a quién le atribuye el contenido. La parte central empieza con «me ha sido mostrado», en el folleto original de 1864, no en un libro armado después. No se encontraron pruebas de que una ayudante agregara la lista. Es **una afirmación sobre las causas de enfermedades, en lo principal falsa, presentada como algo que Dios le mostró.** Decir que ella no era infalible no lo resuelve.
+Lo que decide el caso es a quién le atribuye el contenido. La parte central empieza con «me ha sido mostrado», en el folleto original de 1864, no en un libro armado después. No se encontraron pruebas de que una ayudante agregara la lista. Está **probado** que presentó como mostrado por Dios lo central: que esa costumbre causaba graves daños al cuerpo y podía llevar a la enfermedad y a la muerte. No se puede probar que cada enfermedad de la lista le haya sido mostrada una por una. Pero lo central ya es **una afirmación sobre las causas de enfermedades, falsa, presentada como algo que Dios le mostró.** Decir que ella no era infalible no lo resuelve.
+
+Tampoco se conoce el libro concreto del que lo sacó. Lo que se sabe es que esas ideas eran comunes en la medicina de su época y en los reformadores de la salud que ella conocía.
 
 ## 8. ¿Los autores de la Biblia no escribieron también con la ciencia de su época?
 

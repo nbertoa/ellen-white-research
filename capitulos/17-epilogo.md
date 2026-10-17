@@ -1,6 +1,6 @@
 # Epílogo — ¿Qué hacemos con una conclusión que no es absoluta?
 
-Muchos preferirían una respuesta más limpia: «sí, fue profeta» o «no, fue una impostora». Las pruebas no dan ninguna de las dos. Dan esto: no quedó confirmado que Elena G. de White fuera profeta. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que eran de origen humano: en varios casos se puede mostrar de qué libros o ideas salieron, y en los demás una explicación humana encaja mejor. Y es una respuesta provisional, porque la doctrina quedó afuera. Y no se probó que mintiera a propósito en todo. Esa conclusión nos obliga a sostener juntas cosas que quisiéramos separar.
+Muchos preferirían una respuesta más limpia: «sí, fue profeta» o «no, fue una impostora». Las pruebas no dan ninguna de las dos. Dan esto: no quedó confirmado que Elena G. de White fuera profeta. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que eran de origen humano: a veces se puede mostrar el libro del que salieron, a veces sólo que coinciden con ideas de su época, y otras veces una explicación humana encaja mejor sin que se pueda reconstruir. Es una respuesta provisional, porque la doctrina quedó afuera. Y no se probó que mintiera a propósito en todo. Esa conclusión nos obliga a sostener juntas cosas que quisiéramos separar.
 
 ## ¿Puede alguien estar equivocado y haber hecho mucho bien?
 
