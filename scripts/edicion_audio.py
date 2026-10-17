@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-"""Genera una edición en Markdown pensada para escucharse (ElevenReader).
+"""Genera una edición completa en Markdown para escuchar en ElevenReader.
 
-- Las llamadas a notas quedan como números volados (¹, ², ³) y las notas
-  van todas juntas al final del libro, sin direcciones web.
-- Las tablas se convierten en frases.
-- Las citas bíblicas se escriben como se leen en voz alta.
-
+Incluye nota al lector, prólogo, capítulos 1–16 y epílogo.
+No incluye marcas de notas ni bibliografía: ambas permanecen en el
+manuscrito fuente, preparado para la futura edición de lectura.
+Convierte citas bíblicas a una forma que suena natural al leerlas.
 Uso: python3 scripts/edicion_audio.py
 Salida: ediciones/libro-para-escuchar.md
 """
@@ -21,41 +20,27 @@ SALIDA = RAIZ / "ediciones" / "libro-para-escuchar.md"
 TITULO = "¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?"
 AUTOR = "Nicolás Bertoa"
 
-VOLADOS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
-
 LIBROS_NUMERADOS = {
-    "1 Juan": "Primera de Juan",
-    "2 Juan": "Segunda de Juan",
-    "1 Corintios": "Primera de Corintios",
-    "2 Corintios": "Segunda de Corintios",
+    "1 Juan": "Primera de Juan", "2 Juan": "Segunda de Juan",
+    "1 Corintios": "Primera de Corintios", "2 Corintios": "Segunda de Corintios",
     "1 Tesalonicenses": "Primera de Tesalonicenses",
     "2 Tesalonicenses": "Segunda de Tesalonicenses",
-    "1 Timoteo": "Primera de Timoteo",
-    "2 Timoteo": "Segunda de Timoteo",
-    "1 Pedro": "Primera de Pedro",
-    "2 Pedro": "Segunda de Pedro",
-    "1 Samuel": "Primero de Samuel",
-    "2 Samuel": "Segundo de Samuel",
-    "1 Reyes": "Primero de Reyes",
-    "2 Reyes": "Segundo de Reyes",
-    "1 Crónicas": "Primero de Crónicas",
-    "2 Crónicas": "Segundo de Crónicas",
-    "2 Esdras": "Segundo de Esdras",
-    "1 Enoc": "Primero de Enoc",
+    "1 Timoteo": "Primera de Timoteo", "2 Timoteo": "Segunda de Timoteo",
+    "1 Pedro": "Primera de Pedro", "2 Pedro": "Segunda de Pedro",
+    "1 Samuel": "Primero de Samuel", "2 Samuel": "Segundo de Samuel",
+    "1 Reyes": "Primero de Reyes", "2 Reyes": "Segundo de Reyes",
+    "1 Crónicas": "Primero de Crónicas", "2 Crónicas": "Segundo de Crónicas",
+    "2 Esdras": "Segundo de Esdras", "1 Enoc": "Primero de Enoc",
 }
 
 
-def separar(texto: str) -> tuple[str, dict[str, str]]:
-    """Devuelve el cuerpo sin definiciones de notas y un diccionario de notas."""
-    notas: dict[str, str] = {}
-    cuerpo: list[str] = []
-    for linea in texto.splitlines():
-        m = re.match(r"\[\^(\d+)\]:\s*(.*)", linea)
-        if m:
-            notas[m.group(1)] = m.group(2)
-        else:
-            cuerpo.append(linea)
-    return "\n".join(cuerpo).rstrip() + "\n", notas
+def limpiar_notas(texto: str) -> str:
+    """Saca las definiciones de notas y sus llamadas del cuerpo de escucha."""
+    sin_definiciones = [
+        linea for linea in texto.splitlines()
+        if not re.match(r"^\[\^\d+\]:", linea)
+    ]
+    return re.sub(r"\[\^\d+\]", "", "\n".join(sin_definiciones))
 
 
 def quitar_enlaces(texto: str) -> str:
@@ -80,10 +65,12 @@ def tablas_a_frases(texto: str) -> str:
     lineas = texto.splitlines()
     i = 0
     while i < len(lineas):
-        if lineas[i].startswith("|") and i + 1 < len(lineas) and re.match(r"^\|[-| :]+\|$", lineas[i + 1]):
-            i += 2  # se omiten encabezado y separador
+        if (lineas[i].startswith("|") and i + 1 < len(lineas)
+                and re.match(r"^\|[-| :]+\|$", lineas[i + 1])):
+            i += 2
             while i < len(lineas) and lineas[i].startswith("|"):
-                celdas = [c.strip().replace("**", "") for c in lineas[i].strip("|").split("|")]
+                celdas = [c.strip().replace("**", "")
+                          for c in lineas[i].strip("|").split("|")]
                 if len(celdas) >= 2:
                     valor = celdas[1].rstrip(".")
                     salida.append(f"- {celdas[0]}: {valor[:1].lower() + valor[1:]}.")
@@ -94,33 +81,21 @@ def tablas_a_frases(texto: str) -> str:
     return "\n".join(salida)
 
 
-def llamadas(texto: str) -> str:
-    return re.sub(r"\[\^(\d+)\]", lambda m: m.group(1).translate(VOLADOS), texto)
-
-
-def titulo_capitulo(cuerpo: str) -> str:
-    primera = cuerpo.splitlines()[0]
-    return primera.lstrip("# ").strip()
-
-
 def main() -> None:
     archivos = sorted(CAPITULOS.glob("*.md"))
-    partes = [f"# {TITULO}\n\n{AUTOR}\n"]
-    bloque_notas = ["# Notas", "Estas son las referencias de cada capítulo, para quien quiera consultar las fuentes. No hace falta escucharlas para seguir el libro."]
+    assert len(archivos) == 19, f"Se esperaban 19 archivos: {len(archivos)}"
+    partes = [f"# {TITULO}\n\n{AUTOR}"]
     for archivo in archivos:
-        cuerpo, notas = separar(archivo.read_text(encoding="utf-8"))
+        cuerpo = limpiar_notas(archivo.read_text(encoding="utf-8"))
         cuerpo = quitar_enlaces(cuerpo)
         cuerpo = tablas_a_frases(cuerpo)
         cuerpo = versiculos(cuerpo)
-        cuerpo = llamadas(cuerpo)
-        partes.append(cuerpo)
-        if notas:
-            bloque_notas.append(f"## {titulo_capitulo(cuerpo)}")
-            for numero in sorted(notas, key=int):
-                bloque_notas.append(f"{numero}. {quitar_enlaces(notas[numero])}")
-            bloque_notas.append("")
-    texto = "\n\n".join(p.strip() for p in partes) + "\n\n" + "\n\n".join(bloque_notas).strip() + "\n"
+        partes.append(cuerpo.strip())
+    texto = "\n\n".join(partes).rstrip() + "\n"
     texto = re.sub(r"\n{3,}", "\n\n", texto)
+    assert "[^" not in texto, "Quedaron referencias a notas en la edición de audio"
+    assert "# Notas" not in texto, "Quedó la bibliografía en la edición de audio"
+    assert "Esta es mi conclusión hasta ahora." in texto, "Falta el cierre aprobado"
     SALIDA.parent.mkdir(exist_ok=True)
     SALIDA.write_text(texto, encoding="utf-8")
     print(f"Edición para escuchar: {SALIDA.relative_to(RAIZ)} ({len(texto.split())} palabras)")
