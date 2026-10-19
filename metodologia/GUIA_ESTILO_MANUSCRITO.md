@@ -104,3 +104,6 @@ Desde el 17 de octubre de 2026, el manuscrito se escribe para lectura en voz alt
 
 Las notas al pie pueden seguir usando la forma abreviada de las referencias (por ejemplo, «Hechos 17:11»).
 
+## ¿Qué asunto se excluye por decisión editorial?
+
+Por indicación del autor (19 de octubre de 2026), la edición de lectura y sus versiones de audio no deben mencionar ni analizar la edad de la Tierra. Se retiró la sección del capítulo 12 y las referencias del material dirigido al lector. La investigación previa se conserva únicamente en las fichas de `hallazgos/`; no debe reincorporarse al cuerpo del libro, prólogo, nota al lector, conclusión ni audiolibro sin una nueva indicación expresa del autor.
