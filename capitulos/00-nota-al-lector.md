@@ -33,7 +33,7 @@ Pedir la misma prueba a favor y en contra. Algo no es un milagro sólo porque no
 
 ## ¿Qué deja afuera este libro?
 
-Deja afuera el examen bíblico completo de tres enseñanzas adventistas: la fecha de 1844, el santuario celestial y el juicio investigador. Según los propios criterios del libro, eso también cuenta para saber si alguien es profeta, pero necesita otra investigación. Tampoco estudia a fondo la edad de la Tierra. Por eso la respuesta es parcial y provisional, y el capítulo 16 explica qué se pierde al dejar eso afuera.
+Deja afuera el examen bíblico completo de tres enseñanzas adventistas: la fecha de 1844, el santuario celestial y el juicio investigador. Según los propios criterios del libro, eso también cuenta para saber si alguien es profeta, pero necesita otra investigación. Por eso la respuesta es parcial y provisional, y el capítulo 16 explica qué se pierde al dejar eso afuera.
 
 ## ¿Qué podría hacer cambiar la conclusión?
 
