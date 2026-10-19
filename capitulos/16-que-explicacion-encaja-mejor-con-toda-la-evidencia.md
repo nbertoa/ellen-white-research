@@ -31,7 +31,7 @@ Esto cuenta a su favor y saca del medio algunas objeciones. Pero no prueba que f
 
 ## 4. ¿Pasa las pruebas que usa la propia iglesia?
 
-La página oficial de la Iglesia Adventista nombra cinco pruebas del don de profecía. Que esté de acuerdo con la Biblia. Que exalte a Jesús como Hijo de Dios (Primera de Juan 4). Que dé buenos frutos. Que glorifique a Dios y no a sí mismo. Y que, si habla del futuro, no haya lugar para el error (Jeremías capítulo 28, versículo 9). La página dice que White cumple esas pruebas.[^16] Esa lista está en la página de la iglesia en internet. La declaración formal de fe, la Creencia Fundamental 18, no trae la lista: afirma que el don se manifestó en White y que sus escritos hablan con autoridad profética. El White Estate, que cuida sus escritos, presenta cuatro parecidas y aclara que los anuncios con condiciones, como el de Jonás, pueden no cumplirse.[^15]
+La página oficial de la Iglesia Adventista nombra cinco pruebas del don de profecía. Que esté de acuerdo con la Biblia. Que exalte a Jesús como Hijo de Dios (Primera de Juan 4). Que dé buenos frutos. Que glorifique a Dios y no a sí mismo. Y que, si habla del futuro, no haya lugar para el error (Jeremías capítulo 28, versículo 9). La página dice que White cumple esas pruebas.[^15] Esa lista está en la página de la iglesia en internet. La declaración formal de fe, la Creencia Fundamental 18, no trae la lista: afirma que el don se manifestó en White y que sus escritos hablan con autoridad profética. El White Estate, que cuida sus escritos, presenta cuatro parecidas y aclara que los anuncios con condiciones, como el de Jonás, pueden no cumplirse.[^14]
 
 Son casi las mismas pruebas que usa este libro. Pasa la de Jesús. No se encontraron mensajes que la glorifiquen a ella en lugar de a Dios, aunque la autoridad que tuvo sobre otros es un tema aparte (capítulo 14). Los frutos son mezclados. El acuerdo con la Biblia queda abierto, porque este libro no revisó la doctrina. Y la prueba del futuro es la más difícil: la iglesia dice que no puede haber lugar para el error, y el anuncio de 1856 no se cumplió tal como se dijo. La única salida es que tuviera una condición que el texto no menciona. Puede ser, como en el caso de Ezequías (sección 7). Pero si cualquier anuncio que no se cumple pasa a ser condicional, esa prueba ya no puede fallar nunca, y deja de servir como prueba.
 
@@ -117,11 +117,9 @@ White dijo que su obra venía de Dios o del diablo, sin término medio. Esta inv
 
 El análisis completo, con la Biblia, de lo que pasó en 1844, del santuario y del juicio investigador (enseñanzas adventistas sobre lo que Cristo hace en el cielo desde 1844). Según las propias reglas del libro, estar de acuerdo con la Biblia en la doctrina es una prueba importante. Por eso la respuesta a la pregunta del título es parcial. Este libro revisa las pruebas que se pueden comparar con documentos históricos, no todas. Si esas enseñanzas chocaran claramente con la Biblia, la objeción sería más fuerte. Si encajaran bien, sumarían apoyo, aunque eso solo no probaría una revelación.
 
-También queda afuera la edad de la Tierra. Para un lector que acepta la geología actual, incluirla haría más fuerte la conclusión en contra (capítulo 12).[^13]
-
 ## 15. ¿Qué podría cambiar esta conclusión?
 
-Varias cosas harían más fuerte la explicación de que venía de Dios. Un anuncio con fecha anterior a un hecho preciso y difícil de adivinar, sin ninguna manera normal de saberlo. Un documento de 1856 que muestre que los que escucharon entendían una condición. O un texto de 1849 que diga claramente a quiénes se refería la puerta cerrada. En cambio, un borrador que muestre que ella dijo que algo venía del cielo sabiendo que no era así haría más fuerte la explicación del fraude. Por eso importan los diarios originales, los borradores y las pruebas de cuándo llegaron las cartas, que todavía faltan.[^14]
+Varias cosas harían más fuerte la explicación de que venía de Dios. Un anuncio con fecha anterior a un hecho preciso y difícil de adivinar, sin ninguna manera normal de saberlo. Un documento de 1856 que muestre que los que escucharon entendían una condición. O un texto de 1849 que diga claramente a quiénes se refería la puerta cerrada. En cambio, un borrador que muestre que ella dijo que algo venía del cielo sabiendo que no era así haría más fuerte la explicación del fraude. Por eso importan los diarios originales, los borradores y las pruebas de cuándo llegaron las cartas, que todavía faltan.[^13]
 
 ## 16. ¿Qué significa esto para un adventista?
 
@@ -152,7 +150,6 @@ Esta es mi conclusión hasta ahora. No es una sentencia definitiva. Puedo estar 
 [^10]: Marcos 9:1; 13:30; Mateo 16:28; 24:34; 1 Tesalonicenses 4:15-17.
 [^11]: James White, *A Word to the “Little Flock”* (1847), pp. 22–23. Véanse los capítulos 6 y 14.
 [^12]: Ellen G. White, [*Testimonies for the Church*, t. 4, p. 230](https://text.egwwritings.org/amp/read/114.1171).
-[^13]: Ellen G. White, *Spiritual Gifts*, t. 3 (1864), pp. 90–93; USGS, [«Geologic Time: Age of the Earth»](https://pubs.usgs.gov/gip/geotime/age.html).
-[^14]: Véanse los capítulos 5, 7, 8, 10 y 14.
-[^15]: Armando Juárez, [«Why We Can Have Confidence in the Prophetic Gift Today»](https://whiteestate.org/sop/2009/sermon.asp), sermón del Día del Espíritu de Profecía 2009, Ellen G. White Estate.
-[^16]: Seventh-day Adventist Church, [«What Is the Gift of Prophecy in the Bible?»](https://www.adventist.org/gift-of-prophecy/), sección «How to test the spiritual gift of prophecy».
+[^13]: Véanse los capítulos 5, 7, 8, 10 y 14.
+[^14]: Armando Juárez, [«Why We Can Have Confidence in the Prophetic Gift Today»](https://whiteestate.org/sop/2009/sermon.asp), sermón del Día del Espíritu de Profecía 2009, Ellen G. White Estate.
+[^15]: Seventh-day Adventist Church, [«What Is the Gift of Prophecy in the Bible?»](https://www.adventist.org/gift-of-prophecy/), sección «How to test the spiritual gift of prophecy».
