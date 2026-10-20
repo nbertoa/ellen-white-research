@@ -1,4 +1,4 @@
-# Capítulo 7 — ¿Predijo Elena G. de White acontecimientos que no podía conocer?
+# Capítulo 7 — ¿Predijo Ellen G. White acontecimientos que no podía conocer?
 
 No se encontró ningún caso que reúna lo suficiente para dejar de lado las explicaciones normales: un anuncio escrito antes, preciso, difícil de adivinar y que ella no pudiera saber por las noticias o por otras personas. Algunos cumplen parte de eso, y por eso pesan algo. Hay dos advertencias a su favor que pesan de verdad: el incendio de la casa editora de la *Review and Herald* y las propiedades baratas para sanatorios en California. Y hay un problema serio: en 1856 anunció que algunos de los presentes vivirían hasta que volviera Jesús, y eso no pasó.
 

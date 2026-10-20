@@ -8,6 +8,7 @@ En [`../ESTADO_ACTUAL.md`](../ESTADO_ACTUAL.md) y en el manuscrito de [`../capit
 
 ## ¿Qué hay que tener en cuenta al leer las fichas?
 
+- **Nombre.** Hasta el 19 de octubre de 2026 el libro decía «Elena G. de White»; desde entonces dice «Ellen G. White». Las fichas viejas reflejan la regla anterior.
 - **Numeración.** Las fichas anteriores al 17 de octubre de 2026 citan secciones y notas de la versión extensa (commit `4217d00`). La numeración actual es otra.
 - **Etiquetas.** Las fichas viejas usan «establecido» e «indeterminado». Hoy se dice «probado» y «no se sabe».
 - **Conclusión.** Las fichas anteriores al 19 de octubre resumen conclusiones previas, más firmes que la actual. La vigente está en el capítulo 16 y en `ESTADO_ACTUAL.md`.

@@ -1,6 +1,6 @@
 # Epílogo — ¿Y ahora qué hago con todo esto?
 
-Voy a seguir leyendo a Elena G. de White. Me gusta. Me voy a seguir emocionando con los mismos capítulos de *El Deseado de todas las gentes*, como siempre.
+Voy a seguir leyendo a Ellen G. White. Me gusta. Me voy a seguir emocionando con los mismos capítulos de *El Deseado de todas las gentes*, como siempre.
 
 Y voy a hacer con ella lo mismo que hago con todo lo que leo: quedarme con lo bueno y dejar lo que no me parezca bueno. «Examinadlo todo; retened lo bueno» (Primera de Tesalonicenses capítulo 5, versículo 21).
 

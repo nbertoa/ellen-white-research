@@ -2,7 +2,7 @@
 
 Investigar y escribir un libro que responda con la mayor objetividad posible:
 
-> **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
+> **¿Reúne Ellen G. White las credenciales necesarias para ser considerada una profeta auténtica?**
 
 No partir de que fue profeta ni de que fue falsa profetisa. La conclusión debe surgir de la evidencia y puede resultar favorable, desfavorable, mixta o indeterminada.
 

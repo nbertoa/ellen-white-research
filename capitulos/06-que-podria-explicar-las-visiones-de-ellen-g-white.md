@@ -1,4 +1,4 @@
-# Capítulo 6 — ¿Qué podría explicar las visiones de Elena G. de White?
+# Capítulo 6 — ¿Qué podría explicar las visiones de Ellen G. White?
 
 Me parece que lo que mejor encaja con lo que vieron los testigos es un trance: un estado de concentración religiosa muy intensa, vivido en un ambiente que conocía esas experiencias y les daba un sentido. Eso explica cómo se veían las visiones. No explica qué las causaba ni de dónde salía lo que ella veía. La epilepsia es posible, pero tiene poco apoyo. No hay pruebas de fraude. Y estos datos tampoco dan una prueba aparte de que vinieran de Dios.
 

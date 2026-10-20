@@ -1,4 +1,4 @@
-# Capítulo 4 — ¿Qué ocurrió realmente en las primeras visiones de Elena G. de White?
+# Capítulo 4 — ¿Qué ocurrió realmente en las primeras visiones de Ellen G. White?
 
 En febrero de 1845, Ellen Harmon ya contaba visiones en público, delante de gente que le creía y de gente que no. Su primera visión fue probablemente en diciembre de 1844. Respondía a la pregunta que tenía dividido a su grupo: ¿había guiado Dios el movimiento que esperaba a Cristo en 1844? Lo central de ese primer relato aparece temprano y se mantuvo, pero el texto se cambió después. Y entre 1845 y 1849 sus visiones se usaron para sostener que la salvación ya estaba cerrada para muchos. De dónde venían esas visiones no se sabe.
 

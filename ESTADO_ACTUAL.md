@@ -20,7 +20,7 @@ Por decisión del autor:
 
 ## ¿Cuál es la conclusión vigente?
 
-> **Después de examinar las pruebas disponibles, no encuentro fundamentos suficientes para afirmar con seguridad que Elena G. de White haya sido una profeta auténtica. Pero tampoco creo que pueda afirmarse que definitivamente no lo fue.**
+> **Después de examinar las pruebas disponibles, no encuentro fundamentos suficientes para afirmar con seguridad que Ellen G. White haya sido una profeta auténtica. Pero tampoco creo que pueda afirmarse que definitivamente no lo fue.**
 
 La explicación que hoy parece más probable es que creyera sinceramente recibir mensajes de Dios, aunque al menos algunos de ellos parecen haber tenido origen humano. La conclusión es provisional y se limita a los casos documentados en el libro.
 

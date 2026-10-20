@@ -1,4 +1,4 @@
-# Capítulo 9 — ¿Utilizó Elena G. de White escritos de otros autores?
+# Capítulo 9 — ¿Utilizó Ellen G. White escritos de otros autores?
 
 Sí. Está **probado** por tres casos distintos. Su libro sobre Pablo sigue en varias partes a Conybeare y Howson. Un borrador escrito de su puño y letra sobre Jan Hus sigue a J. A. Wylie. Y en una muestra de *El Deseado de todas las gentes* (*The Desire of Ages*), casi un tercio del texto depende en algún grado de libros anteriores, y en el resto no se buscaron todas las fuentes posibles. Lo que no se sabe es cuánto hay en toda su obra ni quién agregó cada frase. Qué significa esto para su inspiración es la pregunta del capítulo siguiente.
 

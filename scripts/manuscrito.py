@@ -221,13 +221,13 @@ def validate_file(path: Path, findings: list[Finding]) -> None:
             )
         )
 
-    # Normalización editorial pendiente en la edición de investigación.
-    for match in re.finditer(r"(?m)^#{1,6} .*\bEllen(?: G\.)? White\b", text):
+    # Decisión del autor (19-X-2026): se usa «Ellen G. White», no «Elena».
+    for match in re.finditer(r"\bElena(?: G\.)?(?: de)? White\b", text):
         findings.append(
             Finding(
                 "WARN",
                 name,
-                f"grafía inglesa en encabezado, revisar para edición castellana (línea {line_number(text, match.start())})",
+                f"forma «Elena» en lugar de «Ellen» (línea {line_number(text, match.start())})",
             )
         )
 
@@ -254,11 +254,9 @@ def strip_internal_md_links(text: str) -> str:
 
 def normalize_reading_copy(text: str) -> str:
     """Aplica sólo a la edición generada las decisiones editoriales P2–P3."""
-    # En encabezados, usar la forma castellana sin tocar citas o bibliografía.
+    # Los encabezados se dejan como están (se usa «Ellen G. White»).
     def normalize_heading(match: re.Match[str]) -> str:
         hashes, heading = match.groups()
-        heading = re.sub(r"\bEllen G\. White\b", "Elena G. de White", heading)
-        heading = re.sub(r"\bEllen White\b", "Elena G. de White", heading)
         return f"{hashes} {heading}"
 
     text = HEADING_RE.sub(normalize_heading, text)
@@ -294,12 +292,12 @@ def validate_reading_copy(text: str, findings: list[Finding]) -> None:
                 )
             )
 
-    for match in re.finditer(r"(?m)^#{1,6} .*\bEllen(?: G\.)? White\b", text):
+    for match in re.finditer(r"\bElena(?: G\.)?(?: de)? White\b", text):
         findings.append(
             Finding(
                 "ERROR",
                 "build/manuscrito-completo.md",
-                f"grafía inglesa sobrevivió en encabezado: línea {line_number(text, match.start())}",
+                f"forma «Elena» en la edición de lectura: línea {line_number(text, match.start())}",
             )
         )
 

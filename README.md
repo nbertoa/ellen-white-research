@@ -1,10 +1,10 @@
-# ¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?
+# ¿Reúne Ellen G. White las credenciales necesarias para ser considerada una profeta auténtica?
 
 Repositorio de investigación del libro cuya pregunta central es:
 
-> **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
+> **¿Reúne Ellen G. White las credenciales necesarias para ser considerada una profeta auténtica?**
 
-La respuesta del capítulo 16 es personal y provisional: el autor no encuentra fundamentos suficientes para afirmar con seguridad que Elena G. de White haya sido una profeta auténtica, pero tampoco considera demostrado que definitivamente no lo fuera. La explicación que hoy le parece más probable es que ella creyera sinceramente recibir mensajes de Dios, aunque al menos algunos parecen haber tenido origen humano. La investigación se limita a los casos y documentos efectivamente examinados.
+La respuesta del capítulo 16 es personal y provisional: el autor no encuentra fundamentos suficientes para afirmar con seguridad que Ellen G. White haya sido una profeta auténtica, pero tampoco considera demostrado que definitivamente no lo fuera. La explicación que hoy le parece más probable es que ella creyera sinceramente recibir mensajes de Dios, aunque al menos algunos parecen haber tenido origen humano. La investigación se limita a los casos y documentos efectivamente examinados.
 
 ## ¿Cómo se organiza el repositorio?
 

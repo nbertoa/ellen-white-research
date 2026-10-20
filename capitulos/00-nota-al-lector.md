@@ -2,7 +2,7 @@
 
 Este libro intenta responder una pregunta:
 
-> **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
+> **¿Reúne Ellen G. White las credenciales necesarias para ser considerada una profeta auténtica?**
 
 El libro responde esa pregunta en lo que se puede comprobar con documentos históricos. La respuesta está en el capítulo 16, y no se adelanta acá: la idea es recorrer el camino y que cada lector pueda juzgar si la conclusión se sostiene. Sí conviene saber desde ahora que será una respuesta provisional, limitada a las pruebas examinadas en estas páginas.
 

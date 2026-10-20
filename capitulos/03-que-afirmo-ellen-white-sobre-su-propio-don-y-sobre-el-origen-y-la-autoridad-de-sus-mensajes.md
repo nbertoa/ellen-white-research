@@ -1,6 +1,6 @@
-# Capítulo 3 — ¿Qué afirmó Elena G. de White sobre su propio don y sobre el origen y la autoridad de sus mensajes?
+# Capítulo 3 — ¿Qué afirmó Ellen G. White sobre su propio don y sobre el origen y la autoridad de sus mensajes?
 
-Elena G. de White decía que Dios le daba visiones y mensajes. Decía que los contaba con sus propias palabras y que, cuando ella presentaba un mensaje como enviado por Dios, había que obedecerlo. También decía que no todo lo que escribía venía de Dios y que la Biblia estaba por encima de sus escritos. Antes de juzgarla hay que entender bien qué decía. No sería justo juzgarla por algo más fuerte que lo que dijo, ni rebajar lo que dijo para defenderla.
+Ellen G. White decía que Dios le daba visiones y mensajes. Decía que los contaba con sus propias palabras y que, cuando ella presentaba un mensaje como enviado por Dios, había que obedecerlo. También decía que no todo lo que escribía venía de Dios y que la Biblia estaba por encima de sus escritos. Antes de juzgarla hay que entender bien qué decía. No sería justo juzgarla por algo más fuerte que lo que dijo, ni rebajar lo que dijo para defenderla.
 
 ## 1. ¿Dijo desde el principio que sus visiones venían de Dios?
 
@@ -58,7 +58,7 @@ Pero poner a la Biblia primero no volvía optativos sus mensajes. Para ella hab�
 
 ## 10. ¿Qué es, entonces, lo que hay que poner a prueba?
 
-> **Elena G. de White decía que Dios le había dado una tarea que incluía la de profeta. Decía que recibía visiones y mensajes de Dios, que los contaba con palabras humanas y que podía aplicar lo que Dios ya le había mostrado a casos nuevos, a veces con datos que le daban otras personas. Separaba esos mensajes de las cosas comunes, pedía obediencia para los mensajes que presentaba como de Dios y ponía a la Biblia por encima.**
+> **Ellen G. White decía que Dios le había dado una tarea que incluía la de profeta. Decía que recibía visiones y mensajes de Dios, que los contaba con palabras humanas y que podía aplicar lo que Dios ya le había mostrado a casos nuevos, a veces con datos que le daban otras personas. Separaba esos mensajes de las cosas comunes, pedía obediencia para los mensajes que presentaba como de Dios y ponía a la Biblia por encima.**
 
 Eso es menos que «Dios le dictó todo», pero mucho más que «era una escritora cristiana que daba consejos». Justamente por ser concreto se puede investigar. La pregunta clave va a ser esta: **¿hay cosas que salieron de una fuente humana y que ella presentó como mostradas por Dios?**
 [^1]: Ellen G. Harmon, carta a Enoch Jacobs, Portland, 20 de diciembre de 1845, publicada en *The Day-Star*, 24 de enero de 1846, pp. 31–32; [reproducción del Heritage Research Center, Loma Linda University](https://library.llu.edu/day-star-letter-written-december-20-1845-portland-maine-by-sister-harmon-bro-jacobs-account-of-first-vision).

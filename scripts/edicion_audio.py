@@ -18,7 +18,7 @@ CAPITULOS = RAIZ / "capitulos"
 SALIDA = RAIZ / "ediciones" / "libro-para-escuchar.md"
 SALIDA_TXT = SALIDA.with_suffix(".txt")
 
-TITULO = "¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?"
+TITULO = "¿Reúne Ellen G. White las credenciales necesarias para ser considerada una profeta auténtica?"
 AUTOR = "Nicolás Bertoa"
 
 LIBROS_NUMERADOS = {

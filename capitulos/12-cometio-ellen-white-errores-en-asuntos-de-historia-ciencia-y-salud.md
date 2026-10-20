@@ -1,4 +1,4 @@
-# Capítulo 12 — ¿Cometió Elena G. de White errores en asuntos de historia, ciencia y salud?
+# Capítulo 12 — ¿Cometió Ellen G. White errores en asuntos de historia, ciencia y salud?
 
 Sí. Hay errores de historia que se corrigieron en 1911, una explicación de los volcanes que no se sostiene y afirmaciones médicas equivocadas. También hay consejos de salud acertados. El caso más serio es el folleto de 1864 sobre la masturbación. Le echa la culpa de enfermedades graves a una causa equivocada, y presenta parte de eso como algo que Dios le mostró.
 

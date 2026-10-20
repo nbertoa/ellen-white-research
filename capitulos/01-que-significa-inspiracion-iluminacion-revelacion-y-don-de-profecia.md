@@ -1,6 +1,6 @@
 # Capítulo 1 — ¿Qué significan inspiración, iluminación, revelación, impresión del Espíritu, guía del Espíritu, profecía y don de profecía?
 
-En febrero de 1845, en un pueblo de Maine llamado Atkinson, varios testigos vieron a una joven de diecisiete años acostada en el suelo, como en trance. Era **Elena G. de White**, que entonces se llamaba Ellen Harmon. Algunos creían que Dios le mostraba cómo estaban espiritualmente otras personas. Otros pensaban que era fanatismo. El juez que escuchó a esos testigos no tenía que decidir si ella era profeta. Este libro sí.[^1]
+En febrero de 1845, en un pueblo de Maine llamado Atkinson, varios testigos vieron a una joven de diecisiete años acostada en el suelo, como en trance. Era **Ellen G. White**, que entonces se llamaba Ellen Harmon. Algunos creían que Dios le mostraba cómo estaban espiritualmente otras personas. Otros pensaban que era fanatismo. El juez que escuchó a esos testigos no tenía que decidir si ella era profeta. Este libro sí.[^1]
 
 Primero hay que aclarar las palabras. «Tuvo una visión», «fue inspirada», «recibió una revelación» y «tenía el don de profecía» no significan lo mismo. Si las usamos como si fueran iguales, la respuesta queda decidida por las palabras que elegimos.
 
@@ -42,7 +42,7 @@ No. Agabo, las hijas de Felipe y los profetas de Antioquía profetizaron sin esc
 
 ## 7. ¿Qué pregunta queda?
 
-Con estas diferencias claras, la pregunta del libro queda así: **¿hay pruebas suficientes de que Dios le dio mensajes a Elena G. de White y ella los comunicó?** El capítulo siguiente explica qué pruebas harían falta.
+Con estas diferencias claras, la pregunta del libro queda así: **¿hay pruebas suficientes de que Dios le dio mensajes a Ellen G. White y ella los comunicó?** El capítulo siguiente explica qué pruebas harían falta.
 [^1]: «Trial of Elder I. Dammon: Reported for the *Piscataquis Farmer*», *Piscataquis Farmer* (Dover, Maine), 7 de marzo de 1845, pp. 1–2. El proceso juzgó a Israel Dammon, no las visiones de Ellen Harmon; el capítulo 4 reconstruye el informe y sus límites.
 [^2]: Ezequiel 13:1-16, especialmente 13:2-7. El texto muestra que la convicción del mensajero no prueba el origen del mensaje.
 [^3]: Romanos 8:5-17; Gálatas 5:13-25; Efesios 1:17-18; Lucas 24:45. «Iluminación» se usa como herramienta de trabajo, no como categoría que esos textos definan de manera uniforme.

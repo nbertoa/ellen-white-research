@@ -4,9 +4,9 @@ Esta guía fija las decisiones editoriales adoptadas en la pasada P2 de octubre 
 
 ## ¿Cómo se nombrará a Ellen G. White en el cuerpo del libro?
 
-En la narración en castellano se usará **Elena G. de White** en la primera mención relevante de un capítulo y **White** en las menciones posteriores cuando no exista ambigüedad.
+Por decisión del autor (19 de octubre de 2026), en todo el libro, los títulos, los documentos y las ediciones para escuchar se usa **Ellen G. White**, nunca «Elena G. de White». Se escribe **Ellen G. White** en la primera mención relevante de un capítulo, y **White** o **Ellen** después, cuando no hay ambigüedad. Antes de su casamiento se la llama **Ellen Harmon**.
 
-Se conservarán las formas históricas **Ellen Harmon**, **Ellen White** o **Ellen G. White** cuando sean necesarias para identificar una etapa de su vida, reproducir el nombre de una fuente, citar un título bibliográfico o evitar alterar una cita histórica.
+La forma «Elena» se conserva sólo dentro de títulos bibliográficos publicados así (por ejemplo, un libro en castellano con «Elena» en el título).
 
 Los nombres de archivos del repositorio no necesitan modificarse para cumplir esta regla editorial.
 

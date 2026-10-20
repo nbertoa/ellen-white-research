@@ -1,4 +1,4 @@
-# Capítulo 13 — ¿Se contradijo Elena G. de White?
+# Capítulo 13 — ¿Se contradijo Ellen G. White?
 
 Cambió consejos y costumbres importantes. Y varias acusaciones de contradicción desaparecen cuando se lee el documento completo. Pero quedan cuatro choques sin resolver. Uno: los remedios que «nunca curan» frente a otros «tan eficaces». Dos: lo que negó en 1897 sobre el uso de libros. Tres: la regla pública del diezmo frente a sus excepciones. Cuatro: la puerta cerrada de 1849 frente a lo que negó en 1874. No se encontró un caso claro de dos revelaciones que ordenen lo contrario en la misma situación.
 

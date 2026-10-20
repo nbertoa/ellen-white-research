@@ -1,4 +1,4 @@
-# Capítulo 15 — ¿Qué frutos produjo el ministerio de Elena G. de White?
+# Capítulo 15 — ¿Qué frutos produjo el ministerio de Ellen G. White?
 
 Ayudó a crear un movimiento que cuidaba la salud, educaba y hacía misiones. Trajo beneficios reales, que también fueron obra de muchas otras personas. También ayudó a formar un sistema de autoridad en el que costaba mucho reconocer en público sus errores y sus límites. Creo que los frutos tienen valor moral. Pero sirven poco para saber si su obra vino de Dios o de una líder humana sincera.
 

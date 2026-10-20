@@ -1,6 +1,6 @@
-# Capítulo 5 — ¿Qué ocurría físicamente durante las visiones de Elena G. de White?
+# Capítulo 5 — ¿Qué ocurría físicamente durante las visiones de Ellen G. White?
 
-Quienes vieron a Elena G. de White en visión describieron algo poco común. Tenía los ojos abiertos y fijos y casi no reaccionaba a lo que pasaba alrededor. Hacía gestos, tenía los músculos rígidos y no se le notaba la respiración. Esa parte básica es probable. Lo extraordinario no está probado: horas sin respirar, una fuerza sobrehumana o una Biblia de ocho kilos sostenida media hora. Y casi todos los detalles famosos se escribieron décadas después.
+Quienes vieron a Ellen G. White en visión describieron algo poco común. Tenía los ojos abiertos y fijos y casi no reaccionaba a lo que pasaba alrededor. Hacía gestos, tenía los músculos rígidos y no se le notaba la respiración. Esa parte básica es probable. Lo extraordinario no está probado: horas sin respirar, una fuerza sobrehumana o una Biblia de ocho kilos sostenida media hora. Y casi todos los detalles famosos se escribieron décadas después.
 
 ## 1. ¿Qué se decía que pasaba?
 

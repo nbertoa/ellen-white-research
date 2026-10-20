@@ -127,3 +127,7 @@ Se leyó entero, desde cero, el manuscrito ensamblado: cuerpo y 201 notas. Tambi
 - **Documentos.** Se actualizaron el título del README, la mención de la última revisión, los títulos de los capítulos 3 a 15 en el índice (algunos eran los viejos), la descripción del capítulo 16 y la del epílogo en el orden del manuscrito. La guía de estilo ya no admite tablas.
 
 Las fichas de `hallazgos/` (105 archivos) son el archivo de investigación y no se releyeron enteras. Se revisaron las que tocan los cambios del 19 de octubre.
+
+## ¿Qué cambió en el nombre el 19 de octubre?
+
+Por decisión del autor, en todo el libro, los títulos, los documentos y las ediciones para escuchar se usa «Ellen G. White» en lugar de «Elena G. de White»: 59 reemplazos. El validador ahora avisa si aparece «Elena G. de White» y ya no convierte los encabezados a la forma castellana. Las menciones anteriores de esta carpeta a «Elena G. de White» describen la regla que regía antes y se conservan como registro. Lo mismo vale para el título del libro en castellano de Douglass que lleva ese nombre.

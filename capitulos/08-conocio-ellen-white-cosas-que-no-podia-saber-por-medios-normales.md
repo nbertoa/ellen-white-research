@@ -1,4 +1,4 @@
-# Capítulo 8 — ¿Conoció Elena G. de White cosas que no podía saber por medios normales?
+# Capítulo 8 — ¿Conoció Ellen G. White cosas que no podía saber por medios normales?
 
 Los documentos no alcanzan para probarlo. Hay dos casos que siguen siendo interesantes a su favor: un gesto de los masones que reconoció Nathaniel Faulkhead, y la descripción de una reunión privada en Battle Creek. En ninguno de los dos se pudo descartar que alguien le hubiera contado. Y hay casos en contra: un reto que le llegó a la persona equivocada porque ella se basó en lo que le había contado alguien.
 

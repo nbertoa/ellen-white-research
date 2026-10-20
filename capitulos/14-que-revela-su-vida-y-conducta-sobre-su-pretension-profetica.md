@@ -1,4 +1,4 @@
-# Capítulo 14 — ¿Qué muestra la vida de Elena G. de White sobre si fue profeta?
+# Capítulo 14 — ¿Qué muestra la vida de Ellen G. White sobre si fue profeta?
 
 Me parece que su vida no encaja con la de una mentirosa que se hizo rica con sus seguidores. Murió debiendo más de lo que tenía, y puso dinero en la obra de la iglesia. Pero tampoco fue una vida sin manchas. El problema mejor documentado no es el dinero. Es que usó, en peleas personales, una autoridad religiosa que nadie podía discutir. Y que, aun cuando tuvo que corregir cómo había entendido algo, siguió diciendo que venía de Dios.
 

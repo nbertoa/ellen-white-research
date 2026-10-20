@@ -8,7 +8,7 @@ No se van a sumar puntos. Una sola prueba fuerte puede pesar más que muchas his
 
 Según la Biblia, es posible. El Nuevo Testamento habla de profetas que no eran apóstoles ni escribieron libros: Agabo, las hijas de Felipe, los profetas de Antioquía. Los adventistas agregan otros textos. Joel 2 dice que «sus hijos y sus hijas profetizarán». Y Apocalipsis capítulo 12, versículo 17 y capítulo 19, versículo 10 relacionan «el testimonio de Jesús» con «el espíritu de profecía».[^1]
 
-Eso alcanza para investigar a alguien que dice ser profeta después de los apóstoles, sin descartarlo por la fecha. Pero no prueba que Apocalipsis hable de una iglesia del siglo XIX ni de **Elena G. de White**. La Iglesia Adventista dice que sí en su Creencia Fundamental 18. Eso muestra cómo la iglesia entiende los textos, no que los entienda bien.
+Eso alcanza para investigar a alguien que dice ser profeta después de los apóstoles, sin descartarlo por la fecha. Pero no prueba que Apocalipsis hable de una iglesia del siglo XIX ni de **Ellen G. White**. La Iglesia Adventista dice que sí en su Creencia Fundamental 18. Eso muestra cómo la iglesia entiende los textos, no que los entienda bien.
 
 ## 2. ¿Puede alguien acertar y no venir de Dios?
 

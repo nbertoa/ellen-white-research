@@ -1,6 +1,6 @@
-# Capítulo 11 — ¿Hasta qué punto podemos atribuir a Elena G. de White los libros publicados bajo su nombre?
+# Capítulo 11 — ¿Hasta qué punto podemos atribuir a Ellen G. White los libros publicados bajo su nombre?
 
-Gran parte del material es de ella. Pero la forma, el orden y algunos datos de sus libros salieron de un trabajo en equipo que está documentado. Ella escribió los textos de base, agregó páginas y aprobó las ediciones que salieron en vida. Sus ayudantes eligieron, ordenaron, corrigieron e investigaron. Y los libros armados con extractos después de 1915 no los aprobó ella. «Escrito por Elena G. de White» no quiere decir lo mismo en todos sus libros.
+Gran parte del material es de ella. Pero la forma, el orden y algunos datos de sus libros salieron de un trabajo en equipo que está documentado. Ella escribió los textos de base, agregó páginas y aprobó las ediciones que salieron en vida. Sus ayudantes eligieron, ordenaron, corrigieron e investigaron. Y los libros armados con extractos después de 1915 no los aprobó ella. «Escrito por Ellen G. White» no quiere decir lo mismo en todos sus libros.
 
 ## 1. ¿Qué podían hacer sus ayudantes?
 
