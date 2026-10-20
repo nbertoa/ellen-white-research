@@ -105,3 +105,12 @@ Sobre el commit `a292b1f`:
 - **Trazabilidad.** La ficha `capitulo-16-sintesis-y-comparacion-de-hipotesis.md` y `INDICE_MAESTRO.md` quedan actualizados al estado vigente.
 
 Siguen pendientes la doctrina, la edad de la Tierra (por decisión del autor), el inventario completo de casos y el cotejo de las notas.
+
+## ¿Qué encontró la auditoría del 19 de octubre?
+
+Se auditaron los 21 commits del 19 de octubre (de `eb61a8e` a `65ea283`) y el manuscrito completo.
+
+- **Manuscrito.** Coherente con las decisiones del autor: no quedan menciones a la edad de la Tierra ni a 1844, el santuario o el juicio investigador como temas pendientes. El capítulo 12 quedó bien renumerado (secciones y notas). El capítulo 16 sostiene la nueva conclusión desde el comienzo hasta el cierre. Se cambió «evidencias» por «pruebas» en el §17, según la guía de estilo.
+- **Ediciones para escuchar.** La `.md` estaba al día. La `.txt` se mantenía a mano: ahora la genera `scripts/edicion_audio.py`, y el workflow comprueba que las dos ediciones coincidan con el manuscrito.
+- **Documentos.** `ESTADO_ACTUAL.md`, el README y el índice maestro tenían conteos viejos (24.000 palabras y 204 notas); el conteo real es de unas 23.200 palabras y 201 notas. `ESTADO_ACTUAL.md` pedía volver a validar: la validación da 0 errores y 0 advertencias. Se agregó un resumen de los cambios del 19 de octubre. La ficha de síntesis del capítulo 16 todavía listaba como pendientes temas que el autor excluyó; quedó actualizada.
+- **Sin cambiar.** `INSTRUCCIONES_PROYECTO.md` y `MATRIZ_CRITERIOS_BIBLICOS.md` mantienen el protocolo amplio de investigación, que incluye la doctrina. Es el método general del proyecto, no una promesa al lector, y el índice maestro ya explica el alcance del libro.

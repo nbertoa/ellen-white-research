@@ -10,7 +10,8 @@
 - **Procedencia.** Se separan tres grados. Fuente literaria demostrada: March, Wylie y Krummacher, este último por dependencia textual y con vía de acceso desconocida. Coincidencia con ideas disponibles en su ambiente, sin una cadena de transmisión identificada: 1864. Explicación ordinaria que encaja mejor sin fuente reconstruida: Faulkhead, Salamanca y las primeras visiones.
 - **Evidencia favorable.** Los controles del capítulo 7 son graduales, no conjuntivos: cumplir algunos da peso parcial.
 - **Criterios institucionales.** Se distinguen las cinco pruebas de la página de Adventist.org, las cuatro del White Estate (2009) y la Creencia Fundamental 18, que no contiene una lista de pruebas.
-- **Alcance.** La respuesta es provisional: faltan 1844, el santuario y el juicio investigador, la edad de la Tierra, el inventario completo de casos y el cotejo de las notas actuales.
+- **Alcance (actualizado el 19-X-2026).** La respuesta es provisional y se limita a los casos y documentos examinados. Por decisión del autor, el material para el lector no menciona la edad de la Tierra ni presenta 1844, el santuario o el juicio investigador como temas pendientes. Siguen pendientes el inventario completo de casos y el cotejo de las notas actuales.
+- **Conclusión vigente (19-X-2026).** No hay fundamentos suficientes para afirmar con seguridad que fue profeta, pero tampoco para afirmar que definitivamente no lo fue. Lo que hoy parece más probable es que creyó sinceramente recibir mensajes de Dios, aunque al menos algunos parecen haber tenido origen humano.
 
 
 ## ¿Qué estado del repositorio fija esta síntesis?

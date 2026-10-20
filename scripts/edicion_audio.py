@@ -6,7 +6,7 @@ No incluye marcas de notas ni bibliografía: ambas permanecen en el
 manuscrito fuente, preparado para la futura edición de lectura.
 Convierte citas bíblicas a una forma que suena natural al leerlas.
 Uso: python3 scripts/edicion_audio.py
-Salida: ediciones/libro-para-escuchar.md
+Salida: ediciones/libro-para-escuchar.md y su copia .txt
 """
 from __future__ import annotations
 
@@ -16,6 +16,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 CAPITULOS = RAIZ / "capitulos"
 SALIDA = RAIZ / "ediciones" / "libro-para-escuchar.md"
+SALIDA_TXT = SALIDA.with_suffix(".txt")
 
 TITULO = "¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?"
 AUTOR = "Nicolás Bertoa"
@@ -81,6 +82,13 @@ def tablas_a_frases(texto: str) -> str:
     return "\n".join(salida)
 
 
+def a_texto_plano(texto: str) -> str:
+    """Quita la marca de Markdown para la copia .txt que importa ElevenReader."""
+    texto = re.sub(r"^#+ ", "", texto, flags=re.M)
+    texto = re.sub(r"^> ", "", texto, flags=re.M)
+    return texto.replace("**", "").replace("*", "")
+
+
 def main() -> None:
     archivos = sorted(CAPITULOS.glob("*.md"))
     assert len(archivos) == 19, f"Se esperaban 19 archivos: {len(archivos)}"
@@ -98,6 +106,7 @@ def main() -> None:
     assert "Esta es mi conclusión hasta ahora." in texto, "Falta el cierre aprobado"
     SALIDA.parent.mkdir(exist_ok=True)
     SALIDA.write_text(texto, encoding="utf-8")
+    SALIDA_TXT.write_text(a_texto_plano(texto), encoding="utf-8")
     print(f"Edición para escuchar: {SALIDA.relative_to(RAIZ)} ({len(texto.split())} palabras)")
 
 

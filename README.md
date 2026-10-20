@@ -8,7 +8,7 @@ La respuesta del capítulo 16 es personal y provisional: el autor no encuentra f
 
 ## ¿Cómo se organiza el repositorio?
 
-- `capitulos/`: manuscrito del libro (edición condensada y en lenguaje sencillo, unas 24.000 palabras de cuerpo).
+- `capitulos/`: manuscrito del libro (edición condensada y en lenguaje sencillo, unas 23.200 palabras de cuerpo).
 - `hallazgos/`: fichas de investigación, auditorías y cotejos, con todo el detalle que el manuscrito resume.
 - `metodologia/`: criterios, orden del manuscrito y guía de estilo.
 - `ediciones/libro-para-escuchar.md`: libro completo para escuchar, sin llamadas a notas ni bibliografía final, con citas bíblicas pronunciables. Se regenera con `python3 scripts/edicion_audio.py`. Para importarlo directamente en ElevenReader está también `ediciones/libro-para-escuchar.txt`.

@@ -134,7 +134,7 @@ No quiero esconder lo que juega a favor. El incendio de la *Review and Herald*, 
 
 Después de examinar las pruebas disponibles, no encuentro fundamentos suficientes para afirmar con seguridad que Elena G. de White haya sido una profeta auténtica. Pero tampoco creo que pueda afirmarse que definitivamente no lo fue.
 
-Hay evidencias que juegan a su favor y otras que presentan dificultades importantes. Después de considerar ambas, la explicación que hoy me parece más probable es que ella haya creído sinceramente que recibía mensajes de Dios, aunque al menos algunos de esos mensajes parecen haber tenido un origen humano.
+Hay pruebas que juegan a su favor y otras que presentan dificultades importantes. Después de considerar ambas, la explicación que hoy me parece más probable es que ella haya creído sinceramente que recibía mensajes de Dios, aunque al menos algunos de esos mensajes parecen haber tenido un origen humano.
 
 Esta es mi conclusión hasta ahora. No es una sentencia definitiva. Puedo estar equivocado, y estoy dispuesto a cambiar de opinión si aparecen pruebas que justifiquen hacerlo.
 [^1]: Ellen G. White, *Testimony for the Battle Creek Church* (1882), pp. 47–49; Lt 206, 1906; Ms 107, 1909. Véase el capítulo 3.

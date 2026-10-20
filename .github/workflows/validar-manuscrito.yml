@@ -21,6 +21,11 @@ jobs:
       - name: Validación estructural y ensamblado
         run: python scripts/manuscrito.py
 
+      - name: Comprobar que las ediciones para escuchar están al día
+        run: |
+          python scripts/edicion_audio.py
+          git diff --exit-code ediciones/
+
       - name: Publicar manuscrito e informe
         if: always()
         uses: actions/upload-artifact@v4
