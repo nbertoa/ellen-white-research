@@ -2,7 +2,7 @@
 
 Investigar y escribir un libro que responda con la mayor objetividad posible:
 
-> **¿Reúne Ellen G. White las credenciales necesarias para ser considerada una profeta auténtica?**
+> **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
 
 No partir de que fue profeta ni de que fue falsa profetisa. La conclusión debe surgir de la evidencia y puede resultar favorable, desfavorable, mixta o indeterminada.
 
@@ -61,6 +61,8 @@ No considerar que algo es sobrenatural sólo porque no tenga explicación inmedi
 No considerar refutada una experiencia sobrenatural sólo porque exista una explicación natural posible.
 
 # ¿Qué temas deben investigarse?
+
+Esta lista es el protocolo general de investigación. Qué entra en el libro lo fija [`INDICE_MAESTRO.md`](INDICE_MAESTRO.md), y qué se excluye por decisión del autor lo fija [`GUIA_ESTILO_MANUSCRITO.md`](GUIA_ESTILO_MANUSCRITO.md).
 
 Entre otros:
 
