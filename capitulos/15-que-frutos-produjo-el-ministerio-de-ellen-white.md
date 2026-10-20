@@ -40,11 +40,11 @@ En 1895 defendió que las mujeres fueran apartadas para servir con la imposició
 
 Este es el problema mejor documentado. En 1915, W. W. Prescott le escribió a W. C. White que había errores en libros aprobados, y que se prefería evitar el escándalo antes que decir la verdad. Admitió que eso podía no ser a propósito. No es una acusación de fraude contra ella.[^13] En una reunión de estudio bíblico de 1919, profesores y dirigentes discutieron si podían decirles a sus alumnos que esos libros no eran la última palabra en historia. J. N. Anderson dijo que callarse afectaba la honestidad. Daniells recordó que años antes ni siquiera hubiera sido seguro hablarlo.[^14]
 
-El costo siguió después de que ella murió. En 1980, Walter Rea perdió su cargo de pastor y su permiso para ejercer mientras acusaba en público a White de copiar. Un dirigente dijo que lo que había hecho lo dejaba sin condiciones para ser pastor.[^15] Ese mismo año Desmond Ford también perdió su permiso, aunque por discutir una enseñanza adventista sobre el juicio (el «juicio investigador»), no directamente por White.[^16]
+El costo siguió después de que ella murió. En 1980, Walter Rea perdió su cargo de pastor y su permiso para ejercer mientras acusaba en público a White de copiar. Un dirigente dijo que lo que había hecho lo dejaba sin condiciones para ser pastor.[^15]
 
 ¿Cuánto de esto es culpa de ella? Una parte, compartida. Que dijera que recibía instrucciones de Dios les daba peso a sus retos y hacía costoso no estar de acuerdo. Pero también negó que cada palabra suya fuera inspirada y aprobó que se corrigieran sus libros. Los que la promovían y los que dirigían la iglesia le dieron más autoridad de la que ella reclamaba.
 
-Desde 2015, la Iglesia Adventista dice que sus escritos «hablan con autoridad profética». Ya no los llama «una fuente continua y autorizada de verdad».[^17]
+Desde 2015, la Iglesia Adventista dice que sus escritos «hablan con autoridad profética». Ya no los llama «una fuente continua y autorizada de verdad».[^16]
 
 ## 8. ¿Qué frutos ayudan a decidir?
 
@@ -64,5 +64,4 @@ Pocos. Hospitales, escuelas y una fe viva encajan tanto con un origen divino com
 [^13]: W. W. Prescott a W. C. White, 6 de abril de 1915, en el [dossier de Arthur L. White](https://whiteestate.org/legacy/issues-prescott-lt-html/).
 [^14]: Actas del 30 de julio y 1 de agosto de 1919, [transcripción](https://documents.adventistarchives.org/Resources/1919BC/RBC19190801.pdf).
 [^15]: David E. Anderson, [«Church removes Seventh-day minister»](https://www.upi.com/Archives/1980/11/20/Church-removes-Seventh-day-minister/4381343544400/), UPI, 20 de noviembre de 1980.
-[^16]: Gerhard Pfandl, [«Remembering Desmond Ford»](https://new.adventistreview.org/commentary/remembering-desmond-ford/), *Adventist Review*.
-[^17]: [Actas de la sesión de la Asociación General, 6 de julio de 2015](https://documents.adventistarchives.org/Minutes/GCC/GCC2015-07GCS.pdf); [Adventist.org, creencia 18](https://adventist.org/en/beliefs).
+[^16]: [Actas de la sesión de la Asociación General, 6 de julio de 2015](https://documents.adventistarchives.org/Minutes/GCC/GCC2015-07GCS.pdf); [Adventist.org, creencia 18](https://adventist.org/en/beliefs).
