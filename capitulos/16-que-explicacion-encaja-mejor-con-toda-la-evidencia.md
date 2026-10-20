@@ -19,9 +19,9 @@ Otra cosa, más chica, es que, siendo sincera en lo básico, en algunos momentos
 
 Está **probado** que sus escritos mezclan visiones, datos que le contaban, libros de otros y correcciones de editores. Eso describe **cómo** se armaron, y encaja con las tres primeras explicaciones. No decide de dónde venían.
 
-## 3. ¿Pasa las pruebas básicas de doctrina?
+## 3. ¿Qué muestran tres criterios bíblicos directos?
 
-De las tres que se pueden usar sin resolver lo de 1844, pasa dos y no falla en la tercera:
+Al aplicar tres criterios bíblicos a los documentos examinados, pasa dos y no falla en el tercero:
 
 - **Deuteronomio 13:** no invita a seguir a otros dioses. Llama a amar al Dios de la Biblia y a buscar a Jesucristo.[^2]
 - **Primera de Juan 4:** reconoce que Jesucristo vino como hombre de carne y hueso. Describe a Jesús como un ser humano real.[^3]
@@ -33,7 +33,7 @@ Esto cuenta a su favor y saca del medio algunas objeciones. Pero no prueba que f
 
 La página oficial de la Iglesia Adventista nombra cinco pruebas del don de profecía. Que esté de acuerdo con la Biblia. Que exalte a Jesús como Hijo de Dios (Primera de Juan 4). Que dé buenos frutos. Que glorifique a Dios y no a sí mismo. Y que, si habla del futuro, no haya lugar para el error (Jeremías capítulo 28, versículo 9). La página dice que White cumple esas pruebas.[^15] Esa lista está en la página de la iglesia en internet. La declaración formal de fe, la Creencia Fundamental 18, no trae la lista: afirma que el don se manifestó en White y que sus escritos hablan con autoridad profética. El White Estate, que cuida sus escritos, presenta cuatro parecidas y aclara que los anuncios con condiciones, como el de Jonás, pueden no cumplirse.[^14]
 
-Son casi las mismas pruebas que usa este libro. Pasa la de Jesús. No se encontraron mensajes que la glorifiquen a ella en lugar de a Dios, aunque la autoridad que tuvo sobre otros es un tema aparte (capítulo 14). Los frutos son mezclados. El acuerdo con la Biblia queda abierto, porque este libro no revisó la doctrina. Y la prueba del futuro es la más difícil: la iglesia dice que no puede haber lugar para el error, y el anuncio de 1856 no se cumplió tal como se dijo. La única salida es que tuviera una condición que el texto no menciona. Puede ser, como en el caso de Ezequías (sección 7). Pero si cualquier anuncio que no se cumple pasa a ser condicional, esa prueba ya no puede fallar nunca, y deja de servir como prueba.
+Son casi las mismas pruebas que usa este libro. Pasa la de Jesús. No se encontraron mensajes que la glorifiquen a ella en lugar de a Dios, aunque la autoridad que tuvo sobre otros es un tema aparte (capítulo 14). Los frutos son mezclados. La armonía general de sus enseñanzas con la Biblia no puede determinarse sólo con estas pruebas. Y la prueba del futuro es la más difícil: la iglesia dice que no puede haber lugar para el error, y el anuncio de 1856 no se cumplió tal como se dijo. La única salida es que tuviera una condición que el texto no menciona. Puede ser, como en el caso de Ezequías (sección 7). Pero si cualquier anuncio que no se cumple pasa a ser condicional, esa prueba ya no puede fallar nunca, y deja de servir como prueba.
 
 ## 5. ¿Qué apoya que sus mensajes vinieran de Dios?
 
@@ -99,9 +99,8 @@ Así queda cada prueba:
 - Mensaje que cambia por dinero (Miqueas 3): no probado.
 - Frutos (Mateo 7): mezclados.
 - Predicciones o datos que no podía saber: poco apoyo; nada definitivo.
-- Coherencia con la Biblia sobre 1844, el santuario y el juicio: no revisado.
 
-Esta lista no se suma como si fueran puntos. Muestra qué pesa y qué falta.
+Esta lista no se suma como si fueran puntos. Muestra el peso y los límites de las pruebas examinadas.
 
 ## 12. ¿Fue sincera?
 
@@ -113,9 +112,9 @@ Pero no se puede descartar una posición intermedia: una base sincera con moment
 
 White dijo que su obra venía de Dios o del diablo, sin término medio. Esta investigación no tiene por qué aceptar que sólo existan esas dos opciones. Pero la tercera no es una manera suave de darle la razón. Si la explicación humana sincera es la correcta, es falso que esos mensajes vinieran de Dios, aunque ella creyera lo contrario. Ser sincera y tener razón sobre el origen son dos preguntas distintas.[^12]
 
-## 14. ¿Qué queda afuera de esta conclusión?
+## 14. ¿Hasta dónde llega esta conclusión?
 
-El análisis completo, con la Biblia, de lo que pasó en 1844, del santuario y del juicio investigador (enseñanzas adventistas sobre lo que Cristo hace en el cielo desde 1844). Según las propias reglas del libro, estar de acuerdo con la Biblia en la doctrina es una prueba importante. Por eso la respuesta a la pregunta del título es parcial. Este libro revisa las pruebas que se pueden comparar con documentos históricos, no todas. Si esas enseñanzas chocaran claramente con la Biblia, la objeción sería más fuerte. Si encajaran bien, sumarían apoyo, aunque eso solo no probaría una revelación.
+Esta conclusión se apoya en los casos concretos y los documentos examinados aquí. No equivale a haber estudiado cada mensaje o escrito de White. Por eso es provisional: otros documentos, o nuevos casos revisados con el mismo cuidado, podrían modificarla.
 
 ## 15. ¿Qué podría cambiar esta conclusión?
 
@@ -131,7 +130,7 @@ Quien sostenga que fue profeta tiene que explicar el folleto de 1864, el anuncio
 
 Lo que más pesó para mí fue el folleto de 1864: una afirmación médica equivocada que White presentó como algo mostrado por Dios. Después, el anuncio de 1856, que no se cumplió literalmente. Me parece un problema serio, aunque no cerrado, porque la Biblia también contiene anuncios sin una condición escrita que luego cambiaron, como el de Ezequías. Los textos de 1879 y 1890 procedentes de otros autores, el cuadro de 1843 y la puerta cerrada añaden dificultades, aunque con distintos grados de certeza.
 
-No quiero esconder lo que juega a favor. El incendio de la *Review and Herald*, Paradise Valley, Faulkhead y Salamanca son casos que me hicieron pensar. Ninguno me obligó a dejar de lado las explicaciones ordinarias, pero tampoco los descarto. Además, este libro no completó el examen bíblico de ciertas doctrinas, y la comparación con los anuncios bíblicos exige usar la misma regla para todos.
+No quiero esconder lo que juega a favor. El incendio de la *Review and Herald*, Paradise Valley, Faulkhead y Salamanca son casos que me hicieron pensar. Ninguno me obligó a dejar de lado las explicaciones ordinarias, pero tampoco los descarto. La comparación con los anuncios bíblicos exige usar la misma regla para todos.
 
 Después de examinar las pruebas disponibles, no encuentro fundamentos suficientes para afirmar con seguridad que Elena G. de White haya sido una profeta auténtica. Pero tampoco creo que pueda afirmarse que definitivamente no lo fue.
 
