@@ -14,7 +14,7 @@ No exactamente. En 1858 retó a una pareja porque convertían el no comer cerdo 
 
 No. En 1869 dijo que no había cambiado su manera de comer «ni una partícula» desde que empezó la reforma de salud. Pero un diario de 1873 cuenta que comió carne durante un viaje en el que no tenían otra comida. Y en 1894 dejó de usarla en su casa de manera más estricta.[^2] En una carta de 1896 dijo que hacía dos años que no comía carne y, en el mismo párrafo, que comía pescado cuando conseguía. Para ella, «carne» y «pescado» eran cosas distintas, y no escondía nada.[^3]
 
-No dejó la carne de manera continua desde 1863. Si alguna vez contó su pasado de una manera demasiado general, lo examina el capítulo 14.
+No dejó la carne de manera continua desde 1863. El capítulo 14 vuelve sobre esto al preguntar si les pedía a otros algo que ella no cumplía.
 
 ## 4. ¿Prohibió y permitió a la vez la manteca y los huevos?
 
@@ -22,7 +22,7 @@ Sí, para casos distintos, y lo explicó. En 1901 le escribió a Daniel Kress, q
 
 ## 5. ¿Qué pasa con los remedios que «nunca curan»?
 
-Acá hay un choque real. En 1864 escribió: «Las drogas nunca curan la enfermedad». En 1890 aconsejó usarlas cada vez menos, porque casi nunca hacían falta. Y en 1899 volvió a decir que nunca curan.[^5] Un escrito ordenado en 1903 dice que el agua, el aire y las hierbas sencillas serían «tan eficaces» como los remedios de la ciencia.[^6]
+Acá hay un choque real. En 1864 escribió: «Las drogas nunca curan la enfermedad». En 1890 aconsejó usarlas cada vez menos, porque casi nunca hacían falta. Y en 1899 volvió a decir que nunca curan.[^5] Un escrito de septiembre de 1902, archivado en 1903, dice que el agua, el aire y las hierbas sencillas serían «tan eficaces» como los remedios de la ciencia.[^6]
 
 Si «tan eficaces» reconoce que los remedios curan, choca con «nunca curan». Los defensores pueden leerlo como una comparación de resultados, sin decir que el remedio es el que cura. Pero esa diferencia no está en el texto. **Posible contradicción.** En 1935 su hijo recordó que ella aceptó darle quinina a un chico con malaria. Eso muestra una excepción en la práctica, pero es un recuerdo de él, no un escrito de ella.[^7]
 

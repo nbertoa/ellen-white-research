@@ -114,3 +114,16 @@ Se auditaron los 21 commits del 19 de octubre (de `eb61a8e` a `65ea283`) y el ma
 - **Ediciones para escuchar.** La `.md` estaba al día. La `.txt` se mantenía a mano: ahora la genera `scripts/edicion_audio.py`, y el workflow comprueba que las dos ediciones coincidan con el manuscrito.
 - **Documentos.** `ESTADO_ACTUAL.md`, el README y el índice maestro tenían conteos viejos (24.000 palabras y 204 notas); el conteo real es de unas 23.200 palabras y 201 notas. `ESTADO_ACTUAL.md` pedía volver a validar: la validación da 0 errores y 0 advertencias. Se agregó un resumen de los cambios del 19 de octubre. La ficha de síntesis del capítulo 16 todavía listaba como pendientes temas que el autor excluyó; quedó actualizada.
 - **Sin cambiar.** `INSTRUCCIONES_PROYECTO.md` y `MATRIZ_CRITERIOS_BIBLICOS.md` mantienen el protocolo amplio de investigación, que incluye la doctrina. Es el método general del proyecto, no una promesa al lector, y el índice maestro ya explica el alcance del libro.
+
+## ¿Qué encontró la lectura completa del 19 de octubre?
+
+Se leyó entero, desde cero, el manuscrito ensamblado: cuerpo y 201 notas. También se leyeron los documentos que lo gobiernan: README, `ESTADO_ACTUAL.md`, índice, orden, guía de estilo, instrucciones y scripts. Se corrigió:
+
+- **Capítulo 3, §9.** La frase de la «luz menor» se escribió a fines de 1902 y se publicó en 1903; el texto decía «en 1903 escribió».
+- **Capítulo 13.** La remisión al capítulo 14 sobre su dieta prometía más de lo que ese capítulo trata. El escrito «tan eficaces» quedó fechado como de septiembre de 1902, archivado en 1903.
+- **Capítulo 16, comienzo.** Ponía a Wylie entre los casos de mensajes de origen humano, pero el capítulo 10 trata el uso de Wylie en libros de historia como compatible con lo que ella reconoció. Quedaron sólo March y Krummacher, que aparecen dentro de visiones.
+- **Capítulo 16, §9 y §13.** El §9 llamaba «cuarta» a la explicación mixta, que es la tercera de la lista del §2. El §13 llamaba «la tercera» a la explicación humana sincera, que en la lista es la segunda. Las dos referencias quedaron sin ambigüedad.
+- **Capítulo 16, §8.** Seguía hablando de «confianza moderada», que la conclusión nueva ya no usa. Ahora dice que por eso el autor no saca una conclusión segura.
+- **Documentos.** Se actualizaron el título del README, la mención de la última revisión, los títulos de los capítulos 3 a 15 en el índice (algunos eran los viejos), la descripción del capítulo 16 y la del epílogo en el orden del manuscrito. La guía de estilo ya no admite tablas.
+
+Las fichas de `hallazgos/` (105 archivos) son el archivo de investigación y no se releyeron enteras. Se revisaron las que tocan los cambios del 19 de octubre.

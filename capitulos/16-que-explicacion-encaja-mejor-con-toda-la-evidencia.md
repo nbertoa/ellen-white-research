@@ -1,6 +1,6 @@
 # Capítulo 16 — ¿Qué explicación encaja mejor con toda la evidencia?
 
-Voy a decir de entrada lo que me parece y después explicar por qué. Después de examinar las pruebas disponibles, no encuentro fundamentos suficientes para afirmar con seguridad que Elena G. de White haya sido una profeta auténtica. Pero tampoco creo que pueda afirmarse que definitivamente no lo fue. La explicación que hoy me parece más probable es que haya creído sinceramente que recibía mensajes de Dios, aunque al menos algunos parecen haber tenido un origen humano. En unos casos se demuestra el uso de textos anteriores, como los de March, Wylie y Krummacher. En otros, como el folleto de 1864, sus afirmaciones coinciden con ideas de su época, sin que sepamos cómo llegaron a ella. Y casos como Faulkhead y Salamanca siguen abiertos: tampoco ahí se ha reconstruido el origen exacto de los detalles. No sé qué causaba las visiones mismas. Es posible que algunos mensajes vinieran de Dios y otros no, aunque esa explicación hoy me parece menos probable. La hipótesis de que haya mentido deliberadamente sobre el conjunto de su ministerio tiene menos apoyo todavía. Este capítulo explica por qué pienso así, dónde podría estar equivocado y qué preguntas siguen abiertas.
+Voy a decir de entrada lo que me parece y después explicar por qué. Después de examinar las pruebas disponibles, no encuentro fundamentos suficientes para afirmar con seguridad que Elena G. de White haya sido una profeta auténtica. Pero tampoco creo que pueda afirmarse que definitivamente no lo fue. La explicación que hoy me parece más probable es que haya creído sinceramente que recibía mensajes de Dios, aunque al menos algunos parecen haber tenido un origen humano. En unos casos se demuestra que palabras de libros anteriores, como los de March y Krummacher, aparecen dentro de escenas que ella presentó como visiones. En otros, como el folleto de 1864, sus afirmaciones coinciden con ideas de su época, sin que sepamos cómo llegaron a ella. Y casos como Faulkhead y Salamanca siguen abiertos: tampoco ahí se ha reconstruido el origen exacto de los detalles. No sé qué causaba las visiones mismas. Es posible que algunos mensajes vinieran de Dios y otros no, aunque esa explicación hoy me parece menos probable. La hipótesis de que haya mentido deliberadamente sobre el conjunto de su ministerio tiene menos apoyo todavía. Este capítulo explica por qué pienso así, dónde podría estar equivocado y qué preguntas siguen abiertas.
 
 ## 1. ¿Qué es lo que se puso a prueba?
 
@@ -69,11 +69,11 @@ En parte sí, y hay que decirlo. Toda explicación sobrenatural agrega a alguien
 
 Por eso la conclusión no se apoya en esa preferencia general, sino en casos concretos. En 1856, la explicación de que venía de Dios necesita agregar una condición que no está en el anuncio. En 1864 necesita explicar por qué Dios mostraría una causa falsa de enfermedades. En 1879 y en 1890 necesita explicar por qué las palabras de una visión salen de un libro. En cada caso necesita sumar una suposición más. La explicación humana no la necesita.
 
-Un lector que parte de una confianza fuerte en que Dios habla hoy por medio de profetas puede darle más peso de entrada a esa explicación. Esa es una de las razones por las que la conclusión tiene una confianza moderada y no alta.
+Un lector que parte de una confianza fuerte en que Dios habla hoy por medio de profetas puede darle más peso de entrada a esa explicación. Esa es una de las razones por las que no saco una conclusión segura.
 
 ## 9. ¿Y si algunos mensajes vinieron de Dios y otros no?
 
-Es la cuarta explicación: que algunos mensajes vinieran de verdad de Dios y que otros, de origen humano, ella los presentara sinceramente como de Dios. No se puede descartar de entrada. Pero tiene tres problemas.
+Es la tercera explicación de la lista: que algunos mensajes vinieran de verdad de Dios y que otros, de origen humano, ella los presentara sinceramente como de Dios. No se puede descartar de entrada. Pero tiene tres problemas.
 
 Primero, le falta la parte a favor. Para sostener que algunos mensajes venían de Dios hace falta al menos un caso que no se explique de manera normal, y no se encontró (sección 5). Sin eso, la mezcla explica lo mismo que la explicación humana, pero con una suposición más.
 
@@ -110,7 +110,7 @@ Pero no se puede descartar una posición intermedia: una base sincera con moment
 
 ## 13. ¿Qué significa la opción que ella no aceptaba?
 
-White dijo que su obra venía de Dios o del diablo, sin término medio. Esta investigación no tiene por qué aceptar que sólo existan esas dos opciones. Pero la tercera no es una manera suave de darle la razón. Si la explicación humana sincera es la correcta, es falso que esos mensajes vinieran de Dios, aunque ella creyera lo contrario. Ser sincera y tener razón sobre el origen son dos preguntas distintas.[^12]
+White dijo que su obra venía de Dios o del diablo, sin término medio. Esta investigación no tiene por qué aceptar que sólo existan esas dos opciones. Pero la explicación de una experiencia humana sincera no es una manera suave de darle la razón. Si la explicación humana sincera es la correcta, es falso que esos mensajes vinieran de Dios, aunque ella creyera lo contrario. Ser sincera y tener razón sobre el origen son dos preguntas distintas.[^12]
 
 ## 14. ¿Hasta dónde llega esta conclusión?
 

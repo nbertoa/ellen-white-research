@@ -1,4 +1,4 @@
-# ¿Reúne Ellen G. White las credenciales necesarias para ser considerada una profeta auténtica?
+# ¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?
 
 Repositorio de investigación del libro cuya pregunta central es:
 
@@ -61,7 +61,7 @@ Investigación profunda detrás de una lectura sencilla. Frases cortas, palabras
 
 ## ¿Cuál es el estado actual?
 
-Véase [`ESTADO_ACTUAL.md`](ESTADO_ACTUAL.md). La última revisión, del 17 de octubre de 2026, condensó el manuscrito, cotejó 25 citas clave e incorporó cinco objeciones de fondo: [`hallazgos/auditoria-y-condensacion-2026-10-17.md`](hallazgos/auditoria-y-condensacion-2026-10-17.md). La versión extensa anterior se conserva en el commit `4217d00`.
+Véase [`ESTADO_ACTUAL.md`](ESTADO_ACTUAL.md). El 17 de octubre de 2026 se condensó el manuscrito, se cotejaron 25 citas clave y se incorporaron cinco objeciones de fondo; el 19 de octubre se aplicaron las decisiones editoriales del autor y se auditó el repositorio completo. Detalle en [`hallazgos/auditoria-y-condensacion-2026-10-17.md`](hallazgos/auditoria-y-condensacion-2026-10-17.md). La versión extensa anterior se conserva en el commit `4217d00`.
 
 ## ¿Cuál es la regla maestra?
 

@@ -52,7 +52,7 @@ No. En 1895 escribió: «En cuanto a la infalibilidad, nunca la he reclamado; s�
 
 ## 9. ¿Qué lugar le daba a la Biblia?
 
-El primero. En 1888 escribió que la Biblia es la regla para examinar toda enseñanza y toda experiencia, y que el Espíritu no vino a reemplazarla. En 1889 dijo que sus mensajes no traían reglas nuevas, sino que aplicaban la Biblia. En 1903 escribió que Dios había dado «una luz menor para guiar a hombres y mujeres a la luz mayor». Por lo que dice alrededor de esa frase, la luz mayor es probablemente la Biblia y la menor, sus libros.[^11]
+El primero. En 1888 escribió que la Biblia es la regla para examinar toda enseñanza y toda experiencia, y que el Espíritu no vino a reemplazarla. En 1889 dijo que sus mensajes no traían reglas nuevas, sino que aplicaban la Biblia. En una carta de fines de 1902, publicada en 1903, escribió que Dios había dado «una luz menor para guiar a hombres y mujeres a la luz mayor». Por lo que dice alrededor de esa frase, la luz mayor es probablemente la Biblia y la menor, sus libros.[^11]
 
 Pero poner a la Biblia primero no volvía optativos sus mensajes. Para ella había un orden: la Biblia como regla, y sus mensajes como avisos y correcciones que también venían de Dios.
 
