@@ -4,7 +4,7 @@ Repositorio de investigación del libro cuya pregunta central es:
 
 > **¿Reúne Elena G. de White las credenciales necesarias para ser considerada una profeta auténtica?**
 
-La respuesta del capítulo 16: no quedó demostrado que fuera profeta. La explicación con más apoyo, con una confianza moderada, es que creyó sinceramente que sus mensajes venían de Dios, pero que eran de origen humano: a veces se puede mostrar el libro del que salieron, a veces sólo que coinciden con ideas de su época, y otras veces una explicación humana encaja mejor sin que se pueda reconstruir. Que haya mentido a propósito en todo tiene todavía menos apoyo. Es una respuesta provisional: evalúa lo que se puede comprobar con documentos históricos y deja afuera el examen doctrinal de 1844, el santuario y el juicio investigador.
+La respuesta del capítulo 16 es personal y provisional: el autor no encuentra fundamentos suficientes para afirmar con seguridad que Elena G. de White haya sido una profeta auténtica, pero tampoco considera demostrado que definitivamente no lo fuera. La explicación que hoy le parece más probable es que ella creyera sinceramente recibir mensajes de Dios, aunque al menos algunos parecen haber tenido origen humano. La investigación se limita a los casos y documentos efectivamente examinados.
 
 ## ¿Cómo se organiza el repositorio?
 
@@ -57,7 +57,7 @@ Investigación profunda detrás de una lectura sencilla. Frases cortas, palabras
 | 13. Contradicciones | Cambió consejos; quedan cuatro choques sin resolver, pero no dos revelaciones contrarias. |
 | 14. Su vida | No hay pruebas de que se hiciera rica; el problema es cómo usó su autoridad. |
 | 15. Frutos | Salud, educación y misión reales; costaba mucho reconocer sus errores en público. |
-| 16. Conclusión | En primera persona: al autor no le alcanza para creer que fue profeta; tiene más apoyo que creyó sinceramente en mensajes de origen humano. El caso más fuerte es 1864. Provisional. |
+| 16. Conclusión | En primera persona: la evidencia no permite afirmar con seguridad que fuera profeta, pero tampoco descarta definitivamente esa posibilidad. La explicación humana sincera tiene más apoyo y la conclusión sigue abierta a revisión. |
 
 ## ¿Cuál es el estado actual?
 
