@@ -23,13 +23,11 @@ La estructura puede cambiar si nueva evidencia demuestra que falta una cuestión
 15. **¿Qué frutos produjo el ministerio de Ellen White?** — escrito: [manuscrito](../capitulos/15-que-frutos-produjo-el-ministerio-de-ellen-white.md). Evalúa efectos espirituales, morales, prácticos e institucionales: salud, educación, recepción devocional, misión/organización y autoridad; distingue existencia, participación y causalidad. Conserva frutos favorables, problemáticos y mixtos, con límites sociales y documentales, sin confundir crecimiento con autenticidad ni anticipar el balance final. [Inventario y matriz](../hallazgos/capitulo-15-inventario-y-matriz-de-frutos.md), [auditoría](../hallazgos/capitulo-15-auditoria-y-registro-documental.md).
 16. **¿Qué explicación encaja mejor con toda la evidencia?** — escrito: [manuscrito](../capitulos/16-que-explicacion-encaja-mejor-con-toda-la-evidencia.md). Compara cuatro explicaciones (origen profético, experiencia humana sincera, mezcla de mensajes divinos y humanos, fraude general), aplica los criterios de Adventist.org y del White Estate, y pondera los casos más discriminantes, con el folleto de 1864 como el más fuerte y 1856 como problema serio pero no cerrado (Ezequías). La pretensión profética queda sin confirmar; la explicación humana sincera tiene más apoyo, con confianza moderada. Respuesta provisional. [Matriz y auditoría de síntesis](../hallazgos/capitulo-16-sintesis-y-comparacion-de-hipotesis.md).
 
-## ¿Por qué se retiró del libro la comparación doctrinal exhaustiva con la Biblia?
+## ¿Cómo se determina el alcance de lo que entra en el libro?
 
-El criterio bíblico fijado en los capítulos metodológicos permanece vigente: una enseñanza presentada como revelación que contradiga una enseñanza bíblica suficientemente clara constituiría evidencia seria contra ese mensaje.
+El libro examina los mensajes, hechos y testimonios para los que se desarrollaron expedientes documentales suficientes. Aplica criterios bíblicos concretos sin pretender resolver cada controversia interpretativa.
 
-Sin embargo, el capítulo provisional **«¿Sus enseñanzas contradicen la Biblia?»** fue retirado del manuscrito activo. La auditoría mostró que los casos potencialmente decisivos —1844 y santuario, sábado, estado de los muertos, castigo final, Azazel y otros— requieren resolver controversias exegéticas extensas que no pueden tratarse responsablemente como apartados breves dentro de este libro. Resolverlas exigiría una investigación doctrinal independiente.
-
-La retirada **no declara correctas ni incorrectas** esas doctrinas y no elimina el criterio bíblico. La investigación ya realizada se conserva en `hallazgos/capitulo-14-*` como antecedente para un proyecto doctrinal separado. Si apareciera una contradicción bíblica simple, inequívoca y suficientemente documentada que no requiriera resolver una controversia exegética mayor, podría incorporarse como evidencia donde corresponda.
+No corresponde anunciar al lector una lista de cuestiones que el manuscrito no estudia. La conclusión debe declararse provisional por los límites de la evidencia y el alcance de los casos efectivamente examinados. Las investigaciones preliminares retiradas del manuscrito se conservan en `hallazgos/` y en el historial de Git para permitir verificaciones posteriores.
 
 ## ¿Por qué se separan la dependencia literaria y su significado?
 
@@ -61,11 +59,11 @@ Una evidencia decisiva puede pesar más que numerosos casos ambiguos. La conclus
 
 La [auditoría final de octubre de 2026](../hallazgos/auditoria-final-libro-2026-10.md) registra dos lecturas completas, correcciones y límites documentales. La [cobertura de las 407 notas de la versión extensa](../hallazgos/auditoria-final-libro-2026-10-cobertura.md) distingue contenido cotejado, bibliografía y pendientes; no certifica la inspección de todos los originales.
 
-La [revisión editorial del 3 de octubre](../hallazgos/auditoria-editorial-final-lenguaje-y-repeticion.md) mantiene los dieciséis capítulos y sus preguntas principales, simplifica la lectura y concentra el capítulo 16 en un solo cierre. Su [registro de controles y adendas](../hallazgos/auditoria-editorial-final-controles.json) documenta extensión, notas y cambios de secciones. No altera la exclusión del antiguo capítulo doctrinal ni el grado de la conclusión.
+La [revisión editorial del 3 de octubre](../hallazgos/auditoria-editorial-final-lenguaje-y-repeticion.md) mantiene los dieciséis capítulos y sus preguntas principales, simplifica la lectura y concentra el capítulo 16 en un solo cierre. Su [registro de controles y adendas](../hallazgos/auditoria-editorial-final-controles.json) documenta extensión, notas y cambios de secciones. No altera el alcance editorial del manuscrito ni el grado de la conclusión.
 
-## ¿Qué límite aclara la revisión P0 del 6 de octubre?
+## ¿Qué se conserva de las auditorías anteriores?
 
-La retirada de la comparación doctrinal exhaustiva no excluye controles básicos. El capítulo 16 aplica lealtad al Dios bíblico, confesión de encarnación y condicionamiento económico del mensaje, e identifica por separado las controversias no examinadas. También explicita el costo de excluir la geocronología y las consecuencias de preferir un origen humano sincero. La [revisión P0](../hallazgos/revision-p0-auditoria-externa-2026-10-06.md) registra alcance y acceso documental. No completa todavía los puntos P1–P3 de la auditoría externa.
+Las revisiones de octubre documentan las opciones investigadas, las fuentes consultadas y los límites de acceso. La [revisión P0](../hallazgos/revision-p0-auditoria-externa-2026-10-06.md) sigue disponible como expediente histórico, pero sus recomendaciones anteriores no sustituyen las decisiones editoriales que rigen ahora el manuscrito.
 
 ## ¿Qué cambió con la condensación del 17 de octubre?
 
